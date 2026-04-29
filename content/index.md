@@ -20,39 +20,37 @@ AnatomyLink organizes the human body into 11 major physiological systems. Choose
 
 ### 🦴 Structural Support Systems
 
-- **[[Skeletal System]]** — Bones, vertebrae, joints, and skeletal architecture
-  - Lower Limb, Skull Region, Spine, Thorax, Upper Limb
-- **[[Muscular System]]** — Muscles, tendons, and the fascial system  
-  - Head and Neck, Lower Limb, Trunk, Upper Limb
-- **[[Ligament System]]** — Ligaments and connective tissue structures
-  - Head and Neck, Lower Limb, Spine, Upper Limb
+- **[Skeletal System](./anatomyLink/Skeletal-System/)** — Bones, vertebrae, joints, and skeletal architecture
+  - [Lower Limb](./anatomyLink/Skeletal-System/Lower-Limb/), [Skull Region](./anatomyLink/Skeletal-System/Skull-Region/), [Spine](./anatomyLink/Skeletal-System/Spine/), [Thorax](./anatomyLink/Skeletal-System/Thorax/), [Upper Limb](./anatomyLink/Skeletal-System/Upper-Limb/)
+- **[Muscular System](./anatomyLink/Muscular-System/)** — Muscles, tendons, and the fascial system  
+  - [Head and Neck](./anatomyLink/Muscular-System/Head-and-Neck/), [Lower Limb](./anatomyLink/Muscular-System/Lower-Limb/), [Trunk](./anatomyLink/Muscular-System/Trunk/), [Upper Limb](./anatomyLink/Muscular-System/Upper-Limb/)
+- **[Ligament System](./anatomyLink/Ligament-System/)** — Ligaments and connective tissue structures
+  - [Head and Neck](./anatomyLink/Ligament-System/Head-and-Neck/), [Lower Limb](./anatomyLink/Ligament-System/Lower-Limb/), [Spine](./anatomyLink/Ligament-System/Spine/), [Upper Limb](./anatomyLink/Ligament-System/Upper-Limb/)
 
 ### 🧠 Control & Sensory Systems
 
-- **[[Nervous System]]** — Brain, spinal cord, nerves, and neural pathways
-  - Central Nervous System, Peripheral Nervous System, Autonomic Nervous System
-  - Detailed regional sections: Head/Neck, Upper Limb, Lower Limb Nerves
-  - Specialized content: Pathways, Neuro System (Lippincott)
-- **[[Endocrine System]]** — Hormone-secreting glands and endocrine organs
-  - Pituitary, Thyroid, Parathyroid, Adrenal, Pineal Glands
+- **[Nervous System](./anatomyLink/Nervous-System/)** — Brain, spinal cord, nerves, and neural pathways
+  - [Central Nervous System](./anatomyLink/Nervous-System/Central-Nervous-System/), [Peripheral Nervous System](./anatomyLink/Nervous-System/Peripheral-Nervous-System/), [Autonomic Nervous System](./anatomyLink/Nervous-System/Autonomic-Nervous-System/), [Upper Limb Nerves](./anatomyLink/Nervous-System/Upper-Limb-Nerves/), [Lower Limb Nerves](./anatomyLink/Nervous-System/Lower-Limb-Nerves/), [Pathways](./anatomyLink/Nervous-System/Pathways/)
+- **[Endocrine System](./anatomyLink/Endocrine-System/)** — Hormone-secreting glands and endocrine organs
+  - [Pituitary Gland](./anatomyLink/Endocrine-System/Pituitary-Gland/), [Thyroid Gland](./anatomyLink/Endocrine-System/Thyroid-Gland/), [Parathyroid Glands](./anatomyLink/Endocrine-System/Parathyroid-Glands/), [Adrenal Glands](./anatomyLink/Endocrine-System/Adrenal-Glands/), [Pineal Gland](./anatomyLink/Endocrine-System/Pineal-Gland/)
 
 ### 🫀 Circulation & Gas Exchange Systems
 
-- **[[Circulatory System]]** — Heart, blood vessels, and blood flow
-  - Arteries, Veins, Heart, Pulmonary Circulation, Systemic Circulation
-- **[[Respiratory System]]** — Lungs, airways, and gas exchange
-  - Trachea, Bronchi, Lungs, Pleura, Diaphragm
-- **[[Lymphatic System]]** — Lymph circulation and immune defense
-  - Lymph Nodes, Spleen, Thymus, Tonsils
+- **[Circulatory System](./anatomyLink/Circulatory-System/)** — Heart, blood vessels, and blood flow
+  - [Arteries](./anatomyLink/Circulatory-System/Arteries/), [Veins](./anatomyLink/Circulatory-System/Veins/), [Heart](./anatomyLink/Circulatory-System/Heart/), [Pulmonary Circulation](./anatomyLink/Circulatory-System/Pulmonary-Circulation/)
+- **[Respiratory System](./anatomyLink/Respiratory-System/)** — Lungs, airways, and gas exchange
+  - [Trachea](./anatomyLink/Respiratory-System/Trachea/), [Bronchi](./anatomyLink/Respiratory-System/Bronchi/), [Lungs](./anatomyLink/Respiratory-System/Lungs/), [Pleura](./anatomyLink/Respiratory-System/Pleura/), [Diaphragm](./anatomyLink/Respiratory-System/Diaphragm/)
+- **[Lymphatic System](./anatomyLink/Lymphatic-System/)** — Lymph circulation and immune defense
+  - [Lymph Nodes](./anatomyLink/Lymphatic-System/Lymph-Nodes/), [Spleen](./anatomyLink/Lymphatic-System/Spleen/), [Thymus](./anatomyLink/Lymphatic-System/Thymus/), [Tonsils](./anatomyLink/Lymphatic-System/Tonsils/)
 
 ### 🔄 Processing & Elimination Systems
 
-- **[[Digestive System]]** — Entire alimentary tract from mouth to anus
-  - Upper GI, Lower GI, Accessory Organs, Peritoneum
-- **[[Urinary System]]** — Kidneys, bladder, and waste elimination
-  - Kidney, Ureter, Urinary Bladder, Urethra
-- **[[Reproductive System]]** — Reproductive organs and hormone regulation
-  - Female, Male reproductive structures
+- **[Digestive System](./anatomyLink/Digestive-System/)** — Entire alimentary tract from mouth to anus
+  - [Upper GI](./anatomyLink/Digestive-System/Upper-GI/), [Lower GI](./anatomyLink/Digestive-System/Lower-GI/), [Accessory Organs](./anatomyLink/Digestive-System/Accessory-Organs/), [Peritoneum](./anatomyLink/Digestive-System/Peritoneum/)
+- **[Urinary System](./anatomyLink/Urinary-System/)** — Kidneys, bladder, and waste elimination
+  - [Kidney](./anatomyLink/Urinary-System/Kidney/), [Ureter](./anatomyLink/Urinary-System/Ureter/), [Urinary Bladder](./anatomyLink/Urinary-System/Urinary-Bladder/), [Urethra](./anatomyLink/Urinary-System/Urethra/)
+- **[Reproductive System](./anatomyLink/Reproductive-System/)** — Reproductive organs and hormone regulation
+  - [Female](./anatomyLink/Reproductive-System/Female/), [Male](./anatomyLink/Reproductive-System/Male/)
 
 ---
 
@@ -70,12 +68,12 @@ Every anatomical structure in AnatomyLink includes:
 
 ### 🎬 3D Interactive Models
 Key structures include embedded 3D models for hands-on learning:
-- **[[Kidney]]** — Complete human kidney model (UBC.MEDVID)
-- **[[Larynx]]** — Human voice box in 3D
-- **[[Ribs]]** — Individual rib structure
-- **[[Cervical Vertebrae]]** — C1, C2, C4 vertebrae models
-- **[[Thoracic Vertebrae]]** — T5 and thoracic vertebrae with ribs
-- **[[Lumbar Vertebrae]]** — L3 lumbar vertebra model
+- [Kidney](./anatomyLink/Urinary-System/Kidney/) — Complete human kidney model (UBC.MEDVID)
+- [Larynx](./anatomyLink/Respiratory-System/Larynx/) — Human voice box in 3D
+- [Ribs](./anatomyLink/Skeletal-System/Thorax/) — Individual rib structure
+- [Cervical Vertebrae](./anatomyLink/Skeletal-System/Spine/) — C1, C2, C4 vertebrae models
+- [Thoracic Vertebrae](./anatomyLink/Skeletal-System/Spine/) — T5 and thoracic vertebrae with ribs
+- [Lumbar Vertebrae](./anatomyLink/Skeletal-System/Spine/) — L3 lumbar vertebra model
 
 ### 📊 Knowledge Graph Visualization
 Open this vault in **Obsidian** to access the powerful **Graph View**:
@@ -217,13 +215,13 @@ Embedded or linked 3D models for visualization
 ## 🌐 Access AnatomyLink
 
 **📱 Online Version**  
-Visit the web interface to browse and learn directly in your browser.
+Visit the web interface to browse and learn directly in your browser (you are here).
 
 **💻 Obsidian Vault**  
 Download and open locally in Obsidian for the full interactive experience with graph visualization and bidirectional linking.
 
-**🔗 GitHub Repository**  
-Source files available on GitHub for reference and contribution.
+**🔗 Graph View**  
+Explore the [complete knowledge graph](./graph/) showing all anatomical connections at once.
 
 ---
 
