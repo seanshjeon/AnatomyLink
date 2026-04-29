@@ -1,0 +1,51 @@
+---
+tags: [anatomy, endocrine-system, neck, gland]
+aliases: [thyroid, glandula thyroidea]
+---
+
+# Thyroid Gland
+
+> The thyroid gland is the **largest purely endocrine gland** (~25 g), lying in the anterior neck at C5–T1. It secretes **thyroxine (T4)** and **triiodothyronine (T3)** to regulate basal metabolic rate, and **calcitonin** to lower serum calcium.
+
+## 🔗 Key Connections
+- [[Endocrine System]]
+- Controlled by: [[Pituitary Gland]] TSH → [[Hypothalamus]] TRH
+- Location: Anterior to [[Trachea]] (C5–T1 level); overlaps [[Larynx]] (cricoid level)
+- Posterior relations: Parathyroid glands on posterior surface; [[Parathyroid Glands]]
+- Medial: [[Trachea]], [[Esophagus]]
+- Blood supply: **Superior thyroid artery** (1st branch of external carotid); **Inferior thyroid artery** (from thyrocervical trunk of subclavian); occasionally thyroidea ima (from arch of aorta)
+- Venous drainage: Superior + middle thyroid veins → IJV; Inferior thyroid veins → brachiocephalic veins
+- Lymphatics: Prelaryngeal, pretracheal, paratracheal, cervical nodes
+- Innervation: Sympathetic (superior + middle cervical ganglia); parasympathetic (vagus/recurrent laryngeal)
+- Key relation: **Recurrent laryngeal nerve (RLN)** passes in tracheo-oesophageal groove — at risk in thyroid surgery
+
+## 🔬 Structure
+
+| Part | Description |
+|------|-------------|
+| Right lobe | Larger; ~5 cm × 3 cm |
+| Left lobe | Slightly smaller |
+| **Isthmus** | Bridge across trachea at rings 2–4; overlies in thyroidectomy approach |
+| Pyramidal lobe | Present in 50%; remnant of thyroglossal duct; ascends from isthmus |
+| Fibrous capsule | Sends septa dividing gland into lobules |
+| Berry's ligament | Posterior condensation; anchors thyroid to trachea; close to RLN |
+
+**Follicles** — spherical units; follicular cells (thyrocytes) produce T3/T4 and secrete into colloid (thyroglobulin); parafollicular C cells (calcitonin)
+
+## ⚙️ Thyroid Hormones
+- **T4 (thyroxine)** — pro-hormone; converted peripherally to **T3** (active) by deiodinase
+- T3/T4: ↑ BMR, ↑ HR, ↑ O₂ consumption, ↑ protein synthesis, essential for growth + brain development
+- **Calcitonin** — from C cells; ↓ osteoclast activity → ↓ Ca²⁺ (clinical role minor in adults)
+
+## 🏥 Clinical Significance
+| Condition | Key Points |
+|-----------|-----------|
+| **Hypothyroidism** | ↑TSH, ↓FT4; fatigue, weight gain, cold intolerance, bradycardia; Rx: levothyroxine |
+| **Hyperthyroidism** | ↓TSH, ↑FT4; Graves' (TSH-R Ab, exophthalmos), toxic multinodular goitre, thyroiditis |
+| **Thyroid cancer** | Papillary (most common, RET/PTC, good prognosis), follicular, medullary (calcitonin, MEN2), anaplastic (worst) |
+| **Thyroid nodule** | FNAC for assessment; ultrasound Bethesda criteria |
+| **Thyroid surgery risk** | RLN injury → hoarseness; bilateral → stridor, airway emergency; hypoparathyroidism → hypocalcaemia |
+| **Thyroid storm** | Life-threatening hyperthyroidism; fever, tachycardia, AF, confusion; Rx: PTU, β-blockers, steroids |
+
+## 📍 Location
+[[00 - AnatomyLink Home]] → [[Endocrine System]] → Thyroid Gland

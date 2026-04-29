@@ -1,0 +1,59 @@
+---
+tags: [anatomy, bone, skeletal-system, vertebral-column, thoracic]
+aliases: [thoracic spine, dorsal vertebrae, T1-T12]
+---
+# Thoracic Vertebrae
+
+> There are **12 thoracic vertebrae (T1–T12)** forming the chest region of the spine. Their defining feature is **articulation with the ribs**, making them key components of the thoracic cage.
+
+## 🔗 Connected Structures
+- [[Cervical Vertebrae]] — T1 connects to C7 at the cervicothoracic junction
+- [[Lumbar Vertebrae]] — T12 connects to L1 at the thoracolumbar junction
+- [[Ribs]] — Articulate via **costovertebral joints** (all 12 pairs)
+- [[Vertebral Column]] — Middle component of the spinal column
+
+## 🔗 Associated Muscles
+- [[Erector Spinae]] — Runs alongside thoracic spinous processes
+- [[Trapezius]] — Attaches to T1–T12 spinous processes
+- [[Latissimus Dorsi]] — Originates from lower thoracic spinous processes (T7–T12)
+
+## 🗂️ Features
+
+| Feature | Description |
+|---------|-------------|
+| Vertebral body | Heart-shaped; has **costal facets** for rib articulation |
+| [[Transverse Process]] | Long and strong; has **transverse costal facets** (T1–T10) |
+| [[Spinous Process]] | Long, downward-sloping (especially mid-thoracic) |
+| Intervertebral foramen | Transmits spinal nerves |
+
+## 🦴 Rib Articulation Pattern
+| Vertebra | Rib Connection |
+|----------|---------------|
+| T1 | Full facet for rib 1; demi-facet for rib 2 |
+| T2–T8 | Share costal facets between adjacent vertebrae |
+| T9 | Full facet for rib 9 only |
+| T10–T12 | Full facet for corresponding rib only |
+
+## 📏 Range of Motion
+- Thoracic spine has the **greatest rotational freedom** of any spinal region
+- Flexion/extension is limited by the thoracic cage
+
+## 🏥 Clinical Significance
+- **Increased thoracic kyphosis** — Aging, osteoporotic compression fractures
+- **Osteoporotic compression fractures** — Common in elderly women; T12 and L1 most frequent
+- **Scoliosis** — Thoracic region most commonly involved
+- **Herpes zoster (Shingles)** — Vesicular rash follows thoracic dermatomes
+
+
+## 📍 Location in Skeletal System
+[[Skeletal System]] → [[Vertebral Column]] → Thoracic Vertebrae
+
+## 🌐 Interactive Modules (UBC Clinical Anatomy)
+- [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral column, curvatures, vertebrae, joints & ligaments
+
+
+
+
+## 3D Interactive Models
+
+- [Human Rib](https://sketchfab.com/3d-models/human-rib-e810755adf544b5397236aa7dcab51a4)

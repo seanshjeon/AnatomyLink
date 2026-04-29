@@ -1,0 +1,55 @@
+---
+tags: [anatomy, reproductive-system, female, gonad]
+aliases: [ovary, oophor-]
+---
+
+# Ovaries
+
+> The ovaries are **paired female gonads** located in the **ovarian fossa** on the lateral pelvic wall. They are responsible for **oogenesis** and secretion of **oestrogen** and **progesterone** under hypothalamic–pituitary control.
+
+## 🔗 Key Connections
+- [[Reproductive System]]
+- Attached to: [[Broad Ligament]] (mesovarium); [[Uterus]] via ovarian ligament; pelvic wall via suspensory ligament of ovary
+- Leads to: [[Uterine Tubes]] (infundibulum captures released oocyte)
+- Blood supply: **Ovarian artery** (from abdominal aorta at L2); anastomoses with uterine artery
+- Venous drainage: Right ovarian vein → IVC; Left ovarian vein → **left renal vein**
+- Lymphatics: **Para-aortic nodes** (L1–L2)
+- Innervation: Ovarian plexus (T10–T11) — referred pain to periumbilical region
+- Embryological origin: Urogenital ridge (intermediate mesoderm) + primordial germ cells from yolk sac
+
+## 🔬 Structure
+
+| Component | Description |
+|-----------|-------------|
+| Germinal epithelium | Simple cuboidal; misleading name (not true germinal in adults) |
+| Tunica albuginea | Dense connective tissue capsule |
+| Cortex | Contains follicles at various stages |
+| Medulla | Vascular loose connective tissue; hilum |
+
+## Follicular Development
+
+| Stage | Description |
+|-------|-------------|
+| Primordial follicle | Primary oocyte arrested in prophase I; present from birth (~1–2 million) |
+| Primary follicle | Granulosa cells proliferate |
+| Secondary follicle | Theca interna + externa develop; antrum begins |
+| Graafian (tertiary) follicle | Large antrum; ready for ovulation |
+| Corpus luteum | Post-ovulation; secretes progesterone; regresses → corpus albicans if no fertilisation |
+
+## ⚙️ Function
+- **Oogenesis** — releases one mature oocyte per cycle at ovulation (LH surge)
+- **Oestrogen** — from granulosa cells (FSH-stimulated); drives follicular phase
+- **Progesterone** — from corpus luteum (LH-stimulated); drives luteal phase; maintains pregnancy
+- **Inhibin** — negative feedback on FSH
+
+## 🏥 Clinical Significance
+- **Ovarian torsion** — sudden severe pelvic pain; surgical emergency; enlarged ovary (cyst/tumour) predisposes
+- **Ovarian cysts** — functional (follicular, corpus luteum), benign neoplastic (serous/mucinous cystadenoma, dermoid/teratoma), malignant
+- **Ovarian cancer** — poor prognosis (often diagnosed late); serous carcinoma most common; CA-125 marker; risk ↑ with BRCA1/2 mutations
+- **Polycystic ovarian syndrome (PCOS)** — multiple small follicles, anovulation, hyperandrogenaemia, insulin resistance
+- **Premature ovarian insufficiency** — menopause <40 years
+
+## 📍 Location
+[[00 - AnatomyLink Home]] → [[Reproductive System]] → Female → Ovaries
+
+

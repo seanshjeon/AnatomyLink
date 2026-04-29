@@ -1,0 +1,57 @@
+---
+tags: [anatomy, bone, skeletal-system, upper-limb, pectoral-girdle, scapula]
+aliases: [shoulder blade, shoulder bone]
+---
+# Scapula
+
+> The scapula is a triangular flat bone on the posterolateral thorax (overlying ribs 2–7). The **glenoid cavity** articulates with the humeral head to form the shoulder joint.
+
+## 🔗 Connected Structures
+- [[Clavicle]] — **Acromioclavicular joint (ACJ)**
+- [[Humerus]] — **Glenohumeral joint (shoulder joint)**
+- [[Ribs]] — Rests on the posterior thorax (no bony joint; connected by muscles)
+
+## 🔗 Associated Muscles
+- [[Rotator Cuff]] — Supraspinatus, infraspinatus, and subscapularis originate from the scapular fossae
+- [[Trapezius]] — Attaches to the scapular spine and acromion
+- [[Deltoid]] — Originates from the acromion and scapular spine
+- [[Latissimus Dorsi]] — Occasionally originates from the inferior angle
+- [[Biceps Brachii]] — Short head originates from the coracoid process; long head from supraglenoid tubercle
+- [[Triceps Brachii]] — Long head originates from the infraglenoid tubercle
+
+## 🗂️ Key Structures
+
+| Structure | Description |
+|-----------|-------------|
+| [[Glenoid Cavity]] | Articulates with humeral head; shallow → inherently unstable |
+| [[Acromion]] | Articulates with clavicle; forms the roof of the shoulder |
+| [[Coracoid Process]] | Ligament & muscle attachment; palpable anteriorly |
+| Spine of scapula | Posterior ridge; separates supra- and infraspinous fossae |
+| Inferior angle | At T7 level — useful surface landmark |
+
+### Scapular Fossae
+- **Supraspinous fossa** — Supraspinatus muscle
+- **Infraspinous fossa** — Infraspinatus muscle
+- **Subscapular fossa** — Subscapularis muscle
+
+## 🏥 Clinical Significance
+- **Rotator cuff tear** — Subacromial impingement, degenerative changes
+- **Winged scapula** — Serratus anterior paralysis (long thoracic nerve injury)
+- **Glenohumeral dislocation** — Anteroinferior dislocation most common
+- **Subacromial impingement syndrome** — Narrowing between acromion and rotator cuff
+
+
+## 📍 Location in Skeletal System
+[[Skeletal System]] → Pectoral Girdle → Scapula
+
+## 🌐 Interactive Modules (UBC Clinical Anatomy)
+- [Shoulder Joint Anatomy](https://www.clinicalanatomy.ca/upperlimb/ShoulderAnatomy/story.html) — UBC — Shoulder girdle bony anatomy
+- [Shoulder Girdle Muscles](https://www.clinicalanatomy.ca/upperlimb/ShoulderScapula/story.html) — UBC — Muscles acting on the scapula
+- [Shoulder Joint](https://www.clinicalanatomy.ca/upperlimb/ShoulderJoint/story.html) — UBC — Glenohumeral joint anatomy
+
+
+
+
+## 3D Interactive Models
+
+- [Pectoral Girdle](https://skfb.ly/6Uv7W)

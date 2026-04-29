@@ -1,0 +1,34 @@
+---
+tags: [anatomy, bone, skeletal-system, scapula, landmark]
+aliases: [coracoid]
+---
+
+# Coracoid Process
+
+> The **coracoid process** is a hook-shaped bony projection from the superior surface of the [[Scapula]], serving as an attachment for multiple muscles and the coracoclavicular ligament.
+
+## 🔗 Key Connections
+- [[Scapula]] — projects anteriorly from the superior scapula
+- [[Clavicle]] — connected via coracoclavicular ligament (trapezoid + conoid)
+- [[Pectoralis Minor]] — inserts on the coracoid process
+- [[Coracobrachialis]] — originates from the coracoid process
+- [[Biceps Brachii]] — short head originates from the coracoid process
+
+## 🗂️ Key Facts
+| Property | Detail |
+|----------|--------|
+| Shape | Hook-shaped, projects anteriorly and laterally |
+| Palpation | 2.5 cm inferior to the clavicle; deep to the deltopectoral triangle |
+| Ligaments | Coracoacromial, coracohumeral, coracoclavicular (trapezoid + conoid) |
+
+## 🏥 Clinical Significance
+- **Coracoid impingement** — Subcoracoid stenosis compresses subscapularis tendon
+- **Coracoid fracture** — Uncommon; usually with AC joint dislocation or direct blow
+- **Coracoclavicular ligament injury** — Disrupted in AC joint separations (Grade III+)
+
+## 📍 Location
+[[Skeletal System]] → [[Scapula]] → Coracoid Process
+
+## 🌐 Interactive Modules (UBC Clinical Anatomy)
+- [Shoulder Joint Anatomy](https://www.clinicalanatomy.ca/upperlimb/ShoulderAnatomy/story.html) — UBC — Coracoid process & muscle attachments
+

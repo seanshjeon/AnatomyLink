@@ -1,0 +1,299 @@
+/* AnatomyLink Stylesheet */
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #e74c3c;
+    --accent-color: #3498db;
+    --light-bg: #ecf0f1;
+    --border-color: #bdc3c7;
+    --text-color: #2c3e50;
+    --link-color: #e74c3c;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Navigation */
+.navbar {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-home {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s;
+}
+
+.nav-home:hover {
+    opacity: 0.8;
+}
+
+.nav-search input {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    min-width: 250px;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+    background-color: white;
+    padding: 1rem 2rem;
+    border-bottom: 1px solid var(--border-color);
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0.9rem;
+}
+
+.breadcrumbs a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+    text-decoration: underline;
+}
+
+/* Container Layout */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 2rem;
+}
+
+/* Main Content */
+.content {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.content h1 {
+    color: var(--primary-color);
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 3px solid var(--secondary-color);
+    padding-bottom: 1rem;
+}
+
+.content h2 {
+    color: var(--secondary-color);
+    font-size: 1.8rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.content h3 {
+    color: var(--accent-color);
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.content p {
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
+.content blockquote {
+    border-left: 4px solid var(--secondary-color);
+    padding-left: 1rem;
+    margin: 1rem 0;
+    color: #555;
+    font-style: italic;
+}
+
+/* Tables */
+.anatomy-table {
+    width: 100%;
+    margin: 1rem 0;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.anatomy-table th,
+.anatomy-table td {
+    border: 1px solid var(--border-color);
+    padding: 0.75rem;
+    text-align: left;
+}
+
+.anatomy-table th {
+    background-color: var(--light-bg);
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.anatomy-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.anatomy-table tr:hover {
+    background-color: #f0f0f0;
+}
+
+/* Links */
+.wiki-link {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s;
+    border-bottom: 2px solid transparent;
+}
+
+.wiki-link:hover {
+    border-bottom-color: var(--secondary-color);
+    background-color: rgba(231, 76, 60, 0.1);
+    padding: 0.1rem 0.2rem;
+    border-radius: 2px;
+}
+
+.dead-link {
+    color: #999;
+    text-decoration: line-through;
+    cursor: not-allowed;
+}
+
+code {
+    background-color: #f4f4f4;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+}
+
+/* Sidebar */
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.sidebar-section {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.sidebar-section h3 {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.sidebar-section ul {
+    list-style: none;
+}
+
+.sidebar-section li {
+    margin-bottom: 0.5rem;
+}
+
+.sidebar-section a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.sidebar-section a:hover {
+    color: var(--primary-color);
+    margin-left: 0.3rem;
+}
+
+.sidebar-section p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Index Page */
+.index-page {
+    text-align: center;
+}
+
+.index-page h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.index-page blockquote {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 2rem 0;
+}
+
+/* Footer */
+footer {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+    }
+
+    .nav-container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav-search input {
+        min-width: 100%;
+    }
+
+    .content {
+        padding: 1rem;
+    }
+
+    .content h1 {
+        font-size: 1.8rem;
+    }
+
+    .content h2 {
+        font-size: 1.4rem;
+    }
+
+    .anatomy-table {
+        font-size: 0.9rem;
+    }
+
+    .anatomy-table th,
+    .anatomy-table td {
+        padding: 0.5rem;
+    }
+}

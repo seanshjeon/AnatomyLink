@@ -1,0 +1,226 @@
+---
+tags: [anatomy, visual-system, neuroscience, special-senses, retina, optic-pathway, visual-cortex, ophthalmology]
+aliases: [Vision, Visual Pathway, Eye Anatomy, Phototransduction, Retina, Visual Field Defects]
+---
+
+# 👁️ Visual System
+
+> The visual system is the **most elaborate sensory system in the human brain, with ~30% of the cerebral cortex devoted to visual processing**. It transforms photon energy into neural signals via phototransduction in retinal photoreceptors, integrates and processes visual information through parallel retinogeniculocortical pathways, and ultimately constructs conscious perception of color, motion, depth, and form via segregated dorsal and ventral cortical streams.
+
+## 🔗 Key Connections
+- [[Visual Pathway]] — detailed optic tract to cortex routing
+- [[Thalamus]] — lateral geniculate nucleus as visual relay
+- [[Cerebral Cortex]] — primary and higher visual cortices
+- [[Cranial Nerves]] — CN II (optic nerve), CN III/IV/VI (eye movement)
+- [[Autonomic Nervous System]] — pupillary reflexes, ciliary muscle innervation
+- [[Brain]] — occipital lobe, parietal stream, temporal stream
+
+## 🗂️ Key Information
+| Property | Detail |
+|----------|--------|
+| Sensory modality | Vision (electromagnetic radiation, ~400–700 nm visible spectrum) |
+| Primary receptor cells | Rods (~120 million) and cones (~6 million) in retina |
+| Cranial nerve | CN II (optic nerve) — actually a CNS tract, not a true peripheral nerve |
+| Thalamic relay | Lateral geniculate nucleus (LGN) of thalamus |
+| Primary cortex | V1 (striate cortex), Brodmann area 17, calcarine fissure, occipital lobe |
+| Decussation site | Optic chiasm (nasal retinal fibers cross; temporal fibers remain ipsilateral) |
+| Blood supply to V1 | Posterior cerebral artery (PCA); macula receives dual supply from PCA + MCA |
+
+---
+
+## 🔑 The Eye: Optics and Gross Anatomy
+
+### Refractive Media (anterior → posterior)
+
+| Structure | Refractive Power | Notes |
+|-----------|-----------------|-------|
+| **Cornea** | ~44 diopters (fixed) | Accounts for ~2/3 total refraction; avascular, nourished by aqueous humor |
+| **Aqueous humor** | Minor | Produced by ciliary body epithelium, drains via trabecular meshwork → Canal of Schlemm → episcleral veins |
+| **Lens** | ~16–24 diopters (variable) | Crystalline, avascular; accommodation changes curvature via ciliary muscle |
+| **Vitreous humor** | Minor | Gel-like, maintains globe shape; ~99% water with collagen/hyaluronic acid |
+
+### Accommodation (Near-Focus Reflex Triad)
+1. **Ciliary muscle contracts** (parasympathetic, CN III — Edinger-Westphal nucleus) → zonular fibers relax → lens rounds up → ↑refractive power
+2. **Convergence** — medial rectus contraction bilaterally
+3. **Pupillary constriction (miosis)** — increases depth of field
+
+> Far vision: ciliary muscle relaxes → zonular fibers taut → lens flattens. Presbyopia = loss of accommodation with age due to lens hardening.
+
+---
+
+## 🔑 Retinal Layers and Organization
+
+### Retinal Layers (Inner to Outer — vitreous to choroid)
+
+| Layer | Cell Types / Content | Function |
+|-------|---------------------|---------|
+| 1. Nerve fiber layer | RGC axons | Converge to optic disc |
+| 2. Ganglion cell layer | **Retinal ganglion cells (RGCs)** | Final retinal output neuron |
+| 3. Inner plexiform layer | RGC dendrites ↔ bipolar/amacrine synapses | Signal integration |
+| 4. Inner nuclear layer | Bipolar cells, amacrine cells, horizontal cells, Müller glia | Intermediate processing |
+| 5. Outer plexiform layer | Photoreceptor terminals ↔ bipolar/horizontal synapses | First synapse of visual pathway |
+| 6. Outer nuclear layer | Photoreceptor cell bodies | Rod and cone nuclei |
+| 7. Photoreceptor layer | Outer segments of rods and cones | Phototransduction |
+| 8. Retinal pigment epithelium (RPE) | Pigmented epithelium | Phagocytosis of shed outer segments, vitamin A recycling, blood-retina barrier |
+| 9. Choroid | Vascular layer | Blood supply to outer retina (photoreceptors) |
+
+> **Clinical**: Retinal detachment = separation of photoreceptor layer from RPE → photoreceptors lose O₂/nutrients → irreversible damage if untreated.
+
+### Fovea and Optic Disc
+
+| Feature | Detail |
+|---------|--------|
+| **Fovea centralis** | Highest cone density (~200,000/mm²); no rods; all layers except photoreceptors displaced laterally → minimizes light scatter |
+| **Macula lutea** | ~5 mm region surrounding fovea; yellow due to xanthophyll pigments |
+| **Optic disc (blind spot)** | ~15° nasal to fovea; no photoreceptors; site of RGC axon exit; central retinal artery/vein enter here |
+
+---
+
+## 🔑 Photoreceptors
+
+### Rods vs. Cones
+
+| Property | Rods | Cones |
+|----------|------|-------|
+| Number | ~120 million | ~6 million |
+| Distribution | Peripheral retina; absent from fovea | Concentrated in fovea/macula |
+| Function | Scotopic (dim light) vision | Photopic (bright light) + color vision |
+| Photopigment | Rhodopsin (single type, λmax ~498 nm) | S-opsins (419 nm, ~blue), M-opsins (531 nm, ~green), L-opsins (559 nm, ~red) |
+| Convergence | High (many rods → 1 RGC) | Low (1:1 at fovea) |
+| Sensitivity | Very high | Low |
+| Acuity | Low | High |
+| Dark adaptation | Slow (20–30 min complete) | Fast (5–7 min) |
+
+### Phototransduction Cascade (rods)
+
+1. **Dark state**: cGMP-gated Na⁺ (+ some Ca²⁺) channels open → steady "dark current" → relative depolarization → tonic glutamate release from photoreceptor terminal
+2. **Light**: photon absorbed → **11-cis-retinal → all-trans-retinal** → conformational change in opsin → **activated rhodopsin (R\*)**
+3. R\* activates **transducin (Gαt)** → activates **phosphodiesterase (PDE)**
+4. PDE hydrolyzes **cGMP → 5'-GMP** → ↓[cGMP]
+5. cGMP-gated channels **close** → Na⁺ influx stops → **hyperpolarization**
+6. Hyperpolarization → ↓glutamate release from photoreceptor terminal → downstream bipolar cell activation
+7. **Recovery**: rhodopsin kinase phosphorylates R\* → arrestin binding; guanylyl cyclase (activated by ↓Ca²⁺ via recoverin) resynthesizes cGMP
+
+> Photoreceptors are unique: they **hyperpolarize** in response to stimulation — unlike all other sensory receptors.
+
+---
+
+## 🔑 Retinal Processing
+
+### Cell Types and Functions
+
+| Cell | Location | Function |
+|------|----------|---------|
+| **Photoreceptors** | Outer nuclear layer | Phototransduction |
+| **Bipolar cells** | Inner nuclear layer | Vertical signal transmission; ON-bipolar (sign-inverting → depolarize to light) vs. OFF-bipolar (sign-conserving → hyperpolarize to light) |
+| **Horizontal cells** | Inner nuclear layer | Lateral connections between photoreceptors and bipolar cells → **lateral inhibition** → center-surround receptive fields |
+| **Amacrine cells** | Inner nuclear layer | Lateral connections between bipolar cells and RGCs; diverse subtypes; modulate gain, direction selectivity |
+| **Retinal ganglion cells** | Ganglion cell layer | Output neurons; fire APs; axons form CN II |
+
+### Center-Surround Receptive Fields
+
+| Receptive Field Type | Stimulus Preference | Mechanism |
+|---------------------|--------------------|-|
+| **ON-center / OFF-surround** | Bright spot in center | Center light → ON bipolar → RGC depolarizes; surround light → horizontal cell → inhibits center |
+| **OFF-center / ON-surround** | Dark spot in center (or bright annulus) | Center light → OFF bipolar → RGC hyperpolarizes |
+
+> Center-surround organization enhances contrast detection and edge detection via lateral inhibition. It is computationally analogous to a spatial bandpass filter.
+
+### Retinal Ganglion Cell Classes
+
+| Type | Layer | Morphology | Function | LGN Destination |
+|------|-------|------------|---------|-----------------|
+| **Midget (P-type / parvocellular)** | Small receptive fields | Small soma, sustained | Color, fine detail, high spatial frequency | LGN layers 3–6 |
+| **Parasol (M-type / magnocellular)** | Large receptive fields | Large soma, transient | Motion, depth, coarse form, low contrast | LGN layers 1–2 |
+| **Bistratified (K-type / koniocellular)** | Variable | Medium | Blue-yellow color | LGN koniocellular layers |
+| **Intrinsically photosensitive RGCs (ipRGCs)** | Melanopsin | Non-image forming | Circadian rhythm, pupillary light reflex | Suprachiasmatic nucleus, olivary pretectal nucleus |
+
+---
+
+## 🔑 Visual Pathway
+
+### Routing from Retina to Cortex
+
+| Structure | Key Features |
+|-----------|-------------|
+| **Optic nerve (CN II)** | ~1.2 million axons; exits posterior globe; passes through optic canal; surrounded by meningeal sheaths (subarachnoid space continuous with brain → papilledema with ↑ICP) |
+| **Optic chiasm** | Nasal retinal fibers (carrying temporal visual field) **cross** to contralateral optic tract; temporal retinal fibers remain ipsilateral; sits above pituitary gland |
+| **Optic tract** | Carries contralateral visual field; wraps around midbrain peduncles; terminates in LGN (and small branches to pretectal area for pupillary reflex, superior colliculus for saccades) |
+| **Lateral geniculate nucleus (LGN)** | 6 laminated layers; layers 1–2 = magnocellular (M); layers 3–6 = parvocellular (P); each layer = monocular input; entire LGN = contralateral visual field representation |
+| **Optic radiations (geniculocalcarine tract)** | 3 portions: inferior (Meyer's loop) → temporal lobe → lower visual field; middle → parietal lobe → central visual field; superior → parietal lobe → upper visual field |
+| **Primary visual cortex (V1)** | Striate cortex; Brodmann area 17; calcarine fissure; organized retinotopically with magnification of macula; receives input in layer IV (4Cα from M, 4Cβ from P) |
+
+### Meyer's Loop — Key Clinical Point
+- Meyer's loop = inferior optic radiation sweeping through anterior temporal lobe
+- Lesion (e.g., temporal lobectomy, MCA territory infarct) → **contralateral superior quadrantanopia** ("pie in the sky")
+
+---
+
+## 🔑 Visual Field Defects
+
+| Lesion Site | Visual Field Defect | Common Cause |
+|-------------|--------------------|-|
+| Optic nerve (anterior to chiasm) | **Monocular blindness** (ipsilateral eye) | Optic neuritis, CRAO, trauma |
+| Optic chiasm (center) | **Bitemporal hemianopia** (lose both temporal fields) | Pituitary adenoma, craniopharyngioma |
+| Optic chiasm (lateral) | Nasal hemianopia (monocular) | Carotid aneurysm compressing lateral chiasm |
+| Optic tract | **Contralateral homonymous hemianopia** (incongruent) | Trauma, tumor; pupillary reflex may be impaired (ipRGC fibers) |
+| LGN | Contralateral homonymous hemianopia | Thalamic infarct |
+| Temporal optic radiation / Meyer's loop | **Contralateral superior quadrantanopia** ("pie in the sky") | Temporal lobe tumor/surgery, MCA infarct |
+| Parietal optic radiation | **Contralateral inferior quadrantanopia** ("pie on the floor") | Parietal lobe lesion |
+| V1 (occipital cortex) | **Contralateral homonymous hemianopia with macular sparing** | PCA territory stroke (macula has dual PCA + MCA supply) |
+| Entire V1 | **Cortical blindness** (Anton syndrome: denial of blindness) | Bilateral PCA infarcts |
+
+---
+
+## 🔑 Higher Visual Processing: Cortical Streams
+
+### Two-Stream Hypothesis
+
+| Stream | Pathway | Function | Lesion Effects |
+|--------|---------|---------|----------------|
+| **Dorsal ("where/how")** | V1 → V2 → V3 → V5/MT → posterior parietal cortex | Spatial location, motion perception, visually guided action, visuospatial processing | Optic ataxia (misreaching), hemispatial neglect, akinetopsia (motion blindness — bilateral MT lesion) |
+| **Ventral ("what")** | V1 → V2 → V4 → inferior temporal cortex (IT, fusiform gyrus) | Object recognition, shape, color, face recognition | Prosopagnosia (fusiform face area — bilateral lesion), visual object agnosia, achromatopsia (V4 lesion, loss of color perception) |
+
+### Key Extrastriate Visual Areas
+
+| Area | Location | Specialization |
+|------|----------|---------------|
+| V2 | Peristriate cortex (area 18) | Second-level processing, both streams |
+| V4/V4v | Occipitotemporal | Color processing; lesion → cerebral achromatopsia |
+| V5/MT (middle temporal) | STS, Brodmann 37/19 | Motion; lesion → akinetopsia |
+| Fusiform face area (FFA) | Fusiform gyrus, right > left | Face recognition; lesion → prosopagnosia |
+| Parahippocampal place area (PPA) | Parahippocampal gyrus | Scene/place recognition |
+
+---
+
+## 🔑 Color Vision
+
+- **Trichromatic theory (Young-Helmholtz)**: color coded at photoreceptor level by relative activation of S, M, and L cones
+- **Opponent-process theory (Hering)**: at retinal and LGN level, cone signals are combined into opponent channels: red-green (L−M), blue-yellow (S−(L+M)), black-white (luminance)
+- **Red-green color blindness**: X-linked (genes for M and L opsins on X chromosome); affects ~8% males; L-cone loss = deuteranopia; M-cone loss = protanopia
+- **Blue-yellow color blindness (tritanopia)**: rare, autosomal dominant, chromosome 7 (S-opsin gene)
+
+---
+
+## 🏥 Clinical Significance
+
+| Condition | Mechanism | Key Features |
+|-----------|-----------|-------------|
+| **Glaucoma** | ↑IOP (or normal tension) → RGC axon compression at optic disc → cupping | Painless peripheral visual loss starting with superior arcuate scotoma; open-angle (most common) vs. closed-angle (acute, painful, red eye, mid-dilated pupil) |
+| **Age-related macular degeneration (AMD)** | Dry (drusen, RPE atrophy) or Wet (choroidal neovascularization) | Loss of central vision (scotoma); spares peripheral vision; leading cause of blindness in >50 y/o |
+| **Diabetic retinopathy** | Chronic hyperglycemia → pericyte loss → microaneurysms → exudates/hemorrhage; neovascularization (VEGF) | Non-proliferative → proliferative; vitreous hemorrhage, traction detachment; treat with laser/anti-VEGF |
+| **Papilledema** | ↑ICP transmitted along optic nerve sheath → axoplasmic flow stasis → disc swelling | Bilateral (vs. unilateral disc swelling = papillitis/optic neuritis); loss of venous pulsations; enlarged blind spot |
+| **Optic neuritis** | Demyelination of optic nerve (MS most common) | Painful monocular vision loss; color desaturation; RAPD (relative afferent pupillary defect — Marcus Gunn pupil); responds to IV steroids; risk of MS |
+| **Horner's syndrome** | Sympathetic chain lesion (hypothalamus → ciliospinal of Budge C8-T2 → superior cervical ganglion → eye) | Ptosis (superior tarsal/Müller's muscle), miosis (pupil fails to dilate), anhidrosis (if pre-ganglionic); pharmacological testing with cocaine/hydroxyamphetamine |
+| **Homonymous hemianopia** | Retrochiasmal lesion | Contralateral field loss; macular sparing with PCA stroke |
+| **Central retinal artery occlusion (CRAO)** | Embolic — sudden painless monocular blindness | Cherry-red spot on fundus (macula receives choroidal supply); retina pale/edematous |
+
+---
+
+## 📍 Location
+
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 03 - Special Senses → Visual System
+
+
+## 🎬 3D Interactive Models
+- [Optic Radiations](https://sketchfab.com/3d-models/optic-radiations-a3a9b017235c413aaaecbfa85ce087ab) — UBC.MEDVID

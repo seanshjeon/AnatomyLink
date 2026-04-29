@@ -1,0 +1,61 @@
+---
+tags: [anatomy, bone, skeletal-system, lower-limb, tibia, leg]
+aliases: [shin bone, tibial bone]
+---
+
+# Tibia
+
+> The tibia is the **medial, primary weight-bearing bone of the lower leg**. Its entire anterior surface is subcutaneous and palpable.
+
+## 🔗 Connected Structures
+- [[Femur]] — **Knee joint** — articulates with medial & lateral femoral condyles
+- [[Patella]] — Patellar tendon attaches to the tibial tuberosity
+- [[Fibula]] — **Proximal & distal tibiofibular joints** + interosseous membrane
+- [[Tarsals]] — **Ankle joint (Talocrural joint)** — distal tibia articulates with the talus
+
+## 🔗 Associated Muscles
+- [[Quadriceps Femoris]] — Inserts on the tibial tuberosity via patellar tendon
+- [[Tibialis Anterior]] — Originates from the lateral tibial shaft; dorsiflexion
+- [[Hamstrings]] — Semitendinosus inserts medially on the tibia (pes anserinus)
+- [[Gastrocnemius]] — Crosses the knee but does not attach to the tibia directly
+
+## 🗂️ Key Structures
+
+### Proximal
+| Structure | Description |
+|-----------|-------------|
+| Medial condyle | Articulates with medial femoral condyle |
+| Lateral condyle | Articulates with lateral femoral condyle |
+| [[Tibial Tuberosity]] | Patellar tendon insertion |
+
+### Shaft
+| Structure | Description |
+|-----------|-------------|
+| Anterior border | Sharp ridge — the "shin"; subcutaneous |
+| Interosseous border | Interosseous membrane attachment |
+
+### Distal
+| Structure | Description |
+|-----------|-------------|
+| [[Medial Malleolus]] | Medial ankle prominence |
+| Fibular notch | Articulates with distal fibula |
+| Inferior articular surface | Articulates with the talus |
+
+## 🏥 Clinical Significance
+- **Tibial stress fracture** — Distance runners, military recruits
+- **Tibial plateau fracture** — Valgus knee trauma
+- **Tibial shaft fracture** — High open fracture risk (subcutaneous location)
+- **Osgood-Schlatter disease** — Tibial tuberosity apophysitis in adolescents
+
+
+## 📍 Location in Skeletal System
+[[Skeletal System]] → Lower Limb → Tibia
+
+## 🌐 Interactive Modules (UBC Clinical Anatomy)
+- [The Knee](https://www.clinicalanatomy.ca/lowerlimb/Knee/story.html) — UBC — Knee joint & proximal tibia
+- [The Leg](https://www.clinicalanatomy.ca/lowerlimb/Leg/story.html) — UBC — Leg compartments & neurovascular supply
+
+
+## 3D Interactive Models
+
+- [Human Tibia](https://sketchfab.com/3d-models/human-tibia-41a8db0aa49d458b8fd2f5d9e55d6f91)

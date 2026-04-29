@@ -1,0 +1,160 @@
+---
+tags: [anatomy, cerebral-cortex, neocortex, Brodmann-areas, cortical-layers, cytoarchitecture, neuroscience, brain-regions, cortical-columns, corpus-callosum]
+aliases: [Neocortex, Cortical Layers, Cortical Architecture, Cerebral Hemispheres]
+---
+
+# 🧠 Cerebral Cortex
+
+> The cerebral cortex is the **outermost 2–4 mm mantle of the cerebrum**, comprising ~16 billion neurons organized into six distinct horizontal layers (neocortex) and functional vertical columns, forming the anatomical substrate for perception, movement, language, cognition, and consciousness.
+
+## 🔗 Key Connections
+- [[Brain]] — outermost structure of the cerebrum; gray matter surface
+- [[Motor Pathway]] — layer V Betz cells → corticospinal tract; area 4 primary motor cortex
+- [[Somatosensory System]] — areas 3a/3b/1/2 postcentral gyrus; thalamic VPL/VPM input to layer IV
+- [[Visual System]] — area 17 (V1), striate cortex; optic radiation → layer IV
+- [[Language and Speech]] — Broca's area (44/45), Wernicke's area (22); dominant hemisphere
+- [[Prefrontal Cortex]] — areas 9/10/11/46 anterior frontal lobe; executive function
+- [[Thalamus]] — specific relay nuclei → layer IV; corticothalamic feedback from layer VI
+- [[Basal Ganglia]] — receives cortical input (layer V/VI → striatum); motor loop output back via thalamus
+- [[Cerebellum]] — cortico-ponto-cerebellar pathway; receives processed motor cortex output
+
+## 🗂️ Key Information
+| Property | Detail |
+|----------|--------|
+| Thickness | 2–4 mm (varies by region: primary sensory cortex thinner, motor cortex thicker) |
+| Total surface area | ~2,500 cm² (most folded into sulci); ~1/3 exposed on gyral crowns |
+| Neuron number | ~16–20 billion cortical neurons |
+| Gray matter | Cortex = gray matter (cell bodies, dendrites, axons, synapses, glia) |
+| White matter | Subcortical myelinated axons (association, commissural, projection fibers) |
+| Cortical types | Neocortex (6 layers, 90% of cortex); allocortex (3 layers: paleocortex/piriform, archicortex/hippocampus) |
+| Specialization | Primary cortices (sensory/motor); unimodal association; heteromodal association (polymodal) |
+| Hemispheric dominance | Left: language (95% right-handers, 70% left-handers); Right: visuospatial, prosody, attention |
+| Blood supply | MCA (lateral surface); ACA (medial/parasagittal); PCA (occipital, inferior temporal) |
+
+---
+
+## 🔑 Cortical Layers (Neocortex) — Layer-by-Layer
+
+| Layer | Name | Thickness | Main Cell Types | Inputs | Outputs | Special Features |
+|-------|------|-----------|-----------------|--------|---------|-----------------|
+| **I** | Molecular (plexiform) | Thin | Sparse: Cajal-Retzius cells (fetal); mainly dendrites + horizontal axons | Nonspecific thalamic (diffuse) | None (no projection neurons) | Site of apical dendritic tufts of deeper pyramidal cells; inhibitory interneurons |
+| **II** | External granular | Thin | Small stellate (granule) cells; small pyramidal cells | Corticocortical (ipsilateral + contralateral) | Short corticocortical output | Receives ipsilateral association fibers |
+| **III** | External pyramidal | Moderate | Medium pyramidal cells; increasing size toward III base | Corticocortical (layer II/III of other areas) | **Corticocortical output** (association to ipsilateral cortex + commissural via corpus callosum) | Dominant layer for long-range cortical communication |
+| **IV** | Internal granular | Variable | **Stellate (spiny granule) cells**; small pyramidal | **Specific thalamic relay nuclei** (main thalamic input layer) | Short corticocortical to layers II/III/V | **Thickest in primary sensory cortex (koniocortex)**; **absent in primary motor cortex (agranular)** |
+| **V** | Internal pyramidal | Thick | **Large pyramidal cells** (Betz cells in M1); varied sizes | Corticocortical; nonspecific thalamic | **Subcortical projection output**: corticospinal, corticobulbar, corticopontine, corticostriatal, cortical to superior colliculus | **Thickest layer in primary motor cortex**; Betz cells largest neurons in CNS (~100 μm) |
+| **VI** | Multiform (fusiform) | Thick | Polymorphic/fusiform cells; mixed | Corticocortical (layers II–V) | **Corticothalamic feedback** (layer VI → thalamic relay nucleus); some subcortical | Modulates thalamic gain; feedback control |
+
+### Key Layer Rules
+- **Inputs arrive mainly at layer IV** (specific thalamic) and layer I (nonspecific)
+- **Outputs leave mainly from layer III** (to cortex) and **layer V** (to brainstem/spinal cord) and **layer VI** (back to thalamus)
+- **Koniocortex** (dust cortex) = thick layer IV = primary sensory areas (V1, A1, S1)
+- **Agranular cortex** = absent or thin layer IV = primary motor cortex (M1, area 4)
+
+---
+
+## 🔑 Cortical Columns (Mountcastle Units)
+
+| Property | Detail |
+|----------|--------|
+| Discoverer | Vernon Mountcastle (1957) — cat somatosensory cortex |
+| Size | ~300–500 μm diameter; 6 layers deep |
+| Definition | **Vertical functional unit**: all neurons in a column respond to the same peripheral stimulus (same modality, same receptive field location) |
+| Organization | Neurons arranged in minicolumns (~80 neurons, 40–50 μm wide) → macrocolumns (~300–500 μm) → modules (e.g., V1 ocular dominance columns, orientation columns, blobs) |
+| Examples | V1: **orientation columns** (neurons prefer same stimulus orientation); **ocular dominance columns** (L vs R eye input); **blob regions** (cytochrome oxidase blobs, color-selective); S1: digit-specific columns; M1: muscle-specific columns |
+| Significance | Functional unit of cortical computation; information processing is columnar, not just laminar |
+
+---
+
+## 🔑 Brodmann Areas — Key Regions
+
+| Brodmann Area(s) | Location | Primary Function |
+|-----------------|----------|-----------------|
+| **4** | Precentral gyrus | **Primary motor cortex (M1)**; voluntary movement; corticospinal origin; somatotopic (motor homunculus) |
+| **6** | Premotor cortex + SMA (mesial surface) | Motor planning, preparation, and sequencing; mirror neurons (premotor); SMA: internally generated movement, bimanual coordination |
+| **3a / 3b / 1 / 2** | Postcentral gyrus | **Primary somatosensory cortex (S1)**; 3a: proprioception; 3b: cutaneous; 1: texture; 2: size/shape |
+| **5** | Superior parietal lobule | Somatosensory association; limb position; sensorimotor integration |
+| **7** | Superior/inferior parietal lobule | Visuospatial integration; multimodal; spatial attention; contralateral neglect if damaged |
+| **17** | Calcarine sulcus banks | **Primary visual cortex (V1/striate cortex)**; retinotopic; lower field → upper bank; macula represented posteriorly; V1 input to layers IVCα/β |
+| **18 / 19** | Occipital association cortex | V2, V3, V4 (color), V5/MT (motion) — ventral and dorsal visual streams |
+| **41 / 42** | Superior temporal gyrus (Heschl's gyri) | **Primary auditory cortex (A1)**; tonotopic; bilateral; within lateral sulcus |
+| **22** | Superior temporal gyrus (posterior) | **Wernicke's area** (dominant hemisphere); auditory language comprehension |
+| **44 / 45** | Inferior frontal gyrus (pars opercularis/triangularis) | **Broca's area** (dominant hemisphere); speech production; syntactic processing |
+| **39** | Angular gyrus (inferior parietal) | Reading, writing, arithmetic; cross-modal integration; dominant: Gerstmann's syndrome if damaged |
+| **40** | Supramarginal gyrus (inferior parietal) | Phonological processing; tactile discrimination; conduction aphasia (arcuate fasciculus) |
+| **9 / 46** | Dorsolateral prefrontal cortex (DLPFC) | Working memory, executive function, cognitive flexibility, planning |
+| **10** | Frontopolar cortex | Prospective memory; multitasking; rostral PFC functions |
+| **11 / 13** | Orbitofrontal cortex (OFC) | Reward valuation; impulse control; emotional regulation |
+| **24 / 32 / 25** | Anterior cingulate cortex (ACC) | Error monitoring; conflict detection (dorsal); mood/autonomic (ventral); area 25 = subgenual ACC (depression target) |
+| **23 / 31** | Posterior cingulate cortex (PCC) | Autobiographical memory; default mode network; self-referential processing |
+
+---
+
+## 🔑 Cortical Fiber Systems
+
+### Intrahemispheric (Association) Fibers
+| Fiber Bundle | Connects | Function |
+|-------------|----------|----------|
+| **Arcuate fasciculus / SLF-III** | Broca's area (44/45) ↔ Wernicke's area (22) | Language (phonological loop); lesion → conduction aphasia |
+| **Uncinate fasciculus** | Orbital frontal cortex ↔ anterior temporal lobe | Emotional-behavioral regulation; damaged in temporal lobe lesions |
+| **Cingulum** | Cingulate cortex ↔ parahippocampal gyrus | Limbic circuit; memory; emotional processing |
+| **Superior longitudinal fasciculus (SLF)** | Frontal ↔ parietal ↔ temporal ↔ occipital | Multimodal integration; spatial attention |
+| **Inferior longitudinal fasciculus (ILF)** | Occipital ↔ temporal (fusiform) | Object recognition; face processing |
+| **Superior fronto-occipital fasciculus** | Frontal ↔ occipital | Visual attention; neglect |
+
+### Commissural Fibers (Interhemispheric)
+| Structure | Connects | Function/Clinical |
+|-----------|----------|-------------------|
+| **Corpus callosum — genu** | Prefrontal cortex (bilateral) | Executive coordination; alien hand syndrome (anterior CC lesion) |
+| **Corpus callosum — body** | Parietal cortex (bilateral); somatosensory | Interhemispheric somatosensory transfer |
+| **Corpus callosum — splenium** | Occipital + posterior temporal (bilateral) | Visual information sharing; splenium lesion → alexia without agraphia (left visual cortex + splenium disconnection) |
+| **Anterior commissure** | Temporal poles (bilateral) + olfactory tracts | Olfactory and temporal lobe connections; small; crosses in lamina terminalis |
+| **Fornix** | Hippocampus (bilateral) → mammillary bodies | Memory circuit; not strictly commissural but interhemispheric hippocampal |
+
+### Split-Brain Studies (Sperry, Nobel 1981)
+- Complete corpus callosotomy for intractable epilepsy → two cerebral hemispheres operating independently
+- Left hemisphere: **dominant for language** (verbal report, reading, writing, arithmetic)
+- Right hemisphere: **dominant for visuospatial** processing, holistic face recognition, drawing, music
+- Right hemisphere: **mute** but can point, draw, and demonstrate understanding nonverbally
+- **Clinical test**: flash image to left visual field (right hemisphere only) → patient cannot verbally name it but can point to or pick up object with left hand
+
+---
+
+## 🔑 Cortical Development and Plasticity
+
+### Corticogenesis (Inside-Out Pattern)
+| Feature | Detail |
+|---------|--------|
+| **Inside-out pattern** | Deep cortical layers (VI, V) born first; superficial layers (II, III) born last |
+| **Progenitor cells** | Ventricular zone (VZ) → neuroepithelial cells → radial glia; subventricular zone (SVZ) → basal progenitors |
+| **Radial migration** | Postmitotic neurons migrate along radial glial fibers from VZ to cortical plate (Reelin signaling essential) |
+| **Critical periods** | Windows of heightened plasticity when sensory experience shapes cortical circuits; V1 ocular dominance critical period: 4–8 years human |
+| **Cortical malformations** | Lissencephaly (failed migration → smooth brain); pachygyria (broad gyri); polymicrogyria (many small gyri); focal cortical dysplasia (local abnormality → epilepsy) |
+
+### Adult Cortical Plasticity
+| Phenomenon | Example | Mechanism |
+|-----------|---------|-----------|
+| **Use-dependent expansion** | Violin players: enlarged right-hand digit cortex; Braille readers: enlarged fingertip cortex | LTP-like changes; axonal sprouting |
+| **Post-injury reorganization** | After limb amputation → phantom limb; adjacent cortex expands into denervated territory | Unmasking of latent horizontal connections; LTP |
+| **Hebbian plasticity** | Frequently used synapses strengthen; unused synapses weaken | LTP/LTD; spine morphology changes |
+
+---
+
+## 🏥 Clinical Significance
+
+| Lesion/Condition | Location | Deficits | Key Features |
+|-----------------|----------|----------|--------------|
+| **Broca's aphasia** | Area 44/45 + surrounding frontal operculum (dominant) | Non-fluent, effortful speech; agrammatism; **comprehension relatively preserved** | "Telegraphic" speech; frustration; lesion usually includes white matter + Broca's area |
+| **Wernicke's aphasia** | Area 22, posterior STG (dominant) | Fluent but **paraphasic** speech; **comprehension impaired**; unaware of errors; neologisms | Jargon aphasia; pure word deafness if primary auditory cortex spared |
+| **Conduction aphasia** | Arcuate fasciculus / supramarginal gyrus (area 40) | Fluent speech; good comprehension; **poor repetition** | Phonemic paraphasias; can understand and initiate but cannot repeat |
+| **Gerstmann's syndrome** | Angular gyrus (area 39), dominant left hemisphere | Tetrad: **acalculia + agraphia + finger agnosia + left-right disorientation** | Dominant parietal lobe; often with alexia |
+| **Contralateral neglect** | Right parietal lobe (area 7, inferior parietal lobule) | Ignores contralateral (left) hemispace; doesn't dress left side; line bisection error | Right hemisphere dominant for attention; left neglect >> right neglect |
+| **Alien hand syndrome** | Anterior corpus callosum + medial frontal (SMA) | One hand acts involuntarily, "alien" to the patient | Callosal: hands work at cross-purposes; frontal: involuntary grasping/utilization |
+| **Agenesis of corpus callosum** | CC absent or partial (developmental) | Often **asymptomatic** (if isolated, congenital); split-brain syndrome only if acquired in adult | May have high-riding 3rd ventricle on MRI; associated with other malformations (e.g., Dandy-Walker) |
+| **Focal cortical dysplasia** | Focal area of disorganized cortex | **Focal onset epilepsy** (often drug-resistant) | Type IIb: balloon cells + dysmorphic neurons; often MRI-negative; stereoEEG + surgical resection |
+| **Cortical spreading depression** | Migraine cortex | Slow wave of depolarization + suppression spreading at 3–5 mm/min | Underlies migraine aura; visual aura (V1) most common; may also underlie stroke penumbra injury |
+| **Hemispherectomy** | Entire hemisphere (usually pediatric) | Contralateral hemiplegia, hemianopia | Done for Rasmussen's encephalitis, large hemisphere malformations; excellent seizure outcomes; remarkable behavioral recovery in young children |
+
+---
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note

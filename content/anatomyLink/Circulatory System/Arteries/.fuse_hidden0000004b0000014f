@@ -1,0 +1,41 @@
+---
+tags: [anatomy, iliac-arteries, artery, circulatory-system, lower-limb]
+aliases: [iliac artery, common iliac, internal iliac, external iliac]
+---
+
+# Iliac Arteries
+
+> The iliac arteries are the **terminal branches of the abdominal [[Aorta]]**, bifurcating at L4 in front of the [[Lumbar Vertebrae]] / sacral promontory. Each common iliac divides into internal (pelvic supply) and external (lower limb supply) iliac arteries.
+
+## 🔗 Key Connections
+- Arise from: [[Aorta]] bifurcation (L4)
+- External iliac continues as: [[Femoral Artery]] (at inguinal ligament)
+- Supply: pelvis ([[Hip Bone]]), lower limb via [[Femoral Artery]]
+- Relation to: [[Sacrum]] (bifurcation in front of sacral promontory)
+
+## 🗂️ Three Segments
+
+| Artery | Course | Key Supply |
+|--------|--------|------------|
+| **Common iliac artery** | L4 → pelvic brim; 4–5 cm long | No branches |
+| **Internal iliac artery (hypogastric)** | Into pelvis | Pelvic organs (bladder, rectum, uterus/vagina or prostate), gluteal muscles, perineum |
+| **External iliac artery** | Along pelvic brim → under inguinal ligament | Inferior epigastric + deep circumflex iliac; becomes [[Femoral Artery]] |
+
+## 🔑 Internal Iliac Branches (Key)
+- **Superior gluteal artery** — exits greater sciatic foramen above piriformis → [[Gluteus Maximus]], [[Gluteus Medius]]
+- **Inferior gluteal artery** — exits below piriformis → [[Gluteus Maximus]]
+- **Internal pudendal artery** — perineum, external genitalia, anal canal
+- **Obturator artery** — medial thigh; anastomoses with medial circumflex femoral → supplies femoral head
+
+## 🏥 Clinical Significance
+- **Aortoiliac occlusive disease (Leriche syndrome)** — bilateral iliac occlusion → bilateral claudication, absent femoral pulses, erectile dysfunction (classic triad)
+- **Iliac artery aneurysm** — often extends from AAA; may cause ureteric obstruction or DVT
+- **Internal iliac ligation** — used in obstetric haemorrhage (PPH) or pelvic trauma to reduce pelvic blood flow
+- **Endovascular aortic repair (EVAR)** — iliac arteries used as landing zone for stent-graft limbs; internal iliac preservation important for pelvic perfusion
+
+
+## 📍 Location in Circulatory System
+[[Circulatory System]] → Arteries → Iliac Arteries
+
+## 🌐 Interactive Modules (UBC Clinical Anatomy)
+- [Posterior Abdominal Wall](https://www.clinicalanatomy.ca/abdomen/PosteriorAbdominalWall/story.html) — UBC — Iliac vessels & posterior abdominal wall

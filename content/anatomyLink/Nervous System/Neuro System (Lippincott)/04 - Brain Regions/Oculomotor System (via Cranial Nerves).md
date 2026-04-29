@@ -1,0 +1,152 @@
+---
+tags: [anatomy, neuroscience, oculomotor, cranial-nerves, eye-movement, lippincott]
+aliases: [Oculomotor System, Eye Movements, Gaze Control, CN III CN IV CN VI]
+---
+
+# 👁️ Oculomotor System
+
+> **The oculomotor system coordinates all voluntary and reflexive eye movements through three cranial nerves (CN III, IV, VI), the paramedian pontine reticular formation, and the medial longitudinal fasciculus — enabling conjugate gaze, fixation, vergence, and the vestibulo-ocular reflex.**
+
+## 🔗 Key Connections
+- [[Cranial Nerves]] — CN III (oculomotor), CN IV (trochlear), CN VI (abducens): the three motor cranial nerves for eye movement
+- [[Brainstem]] — PPRF (horizontal gaze centre in pons), riMLF (vertical gaze in midbrain), CN nuclei
+- [[Vestibular System]] — VOR: semicircular canals → vestibular nuclei → MLF → CN III/IV/VI
+- [[Cerebellum]] — gaze-holding (flocculus), smooth pursuit (dorsal vermis), saccade accuracy
+- [[Visual System]] — visual feedback for fixation, smooth pursuit, optokinetic reflex
+- [[Autonomic Nervous System]] — Edinger-Westphal nucleus (CN III): pupillary constriction + accommodation
+- [[Stroke Syndromes]] — gaze palsy patterns localise brainstem lesions precisely
+- [[Neurodegenerative Diseases]] — PSP (vertical gaze palsy), PD (hypometric saccades), MSA
+
+## 🗂️ Key Information
+
+| Property | Detail |
+|----------|--------|
+| Extraocular muscles | 6 per eye: 4 recti (MR, LR, SR, IR) + 2 obliques (SO, IO) |
+| CN III (oculomotor) | All EOMs except LR (CN VI) and SO (CN IV); also levator palpebrae + pupil/lens |
+| CN IV (trochlear) | Superior oblique only; ONLY CN that decussates completely and exits dorsally |
+| CN VI (abducens) | Lateral rectus only; longest intracranial course → vulnerable to raised ICP |
+| Horizontal gaze centre | PPRF (paramedian pontine reticular formation) in pons |
+| Vertical gaze centre | riMLF (rostral interstitial nucleus MLF) in midbrain |
+| MLF | Medial longitudinal fasciculus: connects CN VI nucleus ↔ contralateral CN III nucleus |
+
+---
+
+## 🔑 Extraocular Muscles and Actions
+
+| Muscle | CN | Primary Action | Secondary | Tertiary |
+|--------|-----|---------------|-----------|---------|
+| Medial rectus | III | Adduction | — | — |
+| Lateral rectus | VI | Abduction | — | — |
+| Superior rectus | III | Elevation | Intorsion | Adduction |
+| Inferior rectus | III | Depression | Extorsion | Adduction |
+| Superior oblique | IV | Intorsion | Depression | Abduction |
+| Inferior oblique | III | Extorsion | Elevation | Abduction |
+
+> **Mnemonic**: LR₆SO₄ (Lateral Rectus = CN VI; Superior Oblique = CN IV; all others = CN III)
+
+### Testing in Clinical Practice
+- CN III palsy: test adduction, elevation, depression; check pupil (mydriasis = posterior communicating artery aneurysm)
+- CN IV palsy: best seen with contralateral head tilt (Bielschowsky); patient tilts head to opposite shoulder to compensate
+- CN VI palsy: test abduction; false localising sign in raised ICP (long intracranial course)
+
+---
+
+## 🔑 Types of Eye Movements
+
+| Type | Description | Neural Circuit |
+|------|-------------|---------------|
+| **Saccades** | Rapid, conjugate, voluntary or reflexive | FEF (frontal eye fields, Brodmann 8) → superior colliculus → PPRF (horizontal) or riMLF (vertical) |
+| **Smooth pursuit** | Slow, tracking a moving target | MT/V5 area → dorsal vermis → flocculus → brainstem |
+| **Vergence** | Eyes move in opposite directions (converge/diverge) | Midbrain near CN III nucleus; periaqueductal grey |
+| **VOR** | Eyes counterrotate to maintain gaze during head movement | Semicircular canals → vestibular nuclei → MLF → CN III/IV/VI |
+| **Optokinetic reflex** | Slow phase follows moving visual field; fast phase resets | Visual cortex + brainstem |
+| **Fixation** | Holding gaze on a stationary target | FEF, parietal cortex, flocculus |
+
+---
+
+## 🔑 Horizontal Gaze Circuit
+
+```
+Voluntary gaze LEFT:
+Right frontal eye field (FEF, Brodmann 8)
+    ↓ (crosses at pons level)
+Left PPRF (paramedian pontine reticular formation)
+    ↓
+Left CN VI nucleus
+    ├── Left CN VI nerve → Left lateral rectus (abducts left eye)
+    └── Internuclear neuron → Left MLF → Right CN III nucleus
+                                              ↓
+                              Right medial rectus (adducts right eye)
+Result: conjugate LEFT gaze
+```
+
+### MLF and Internuclear Ophthalmoplegia (INO)
+- MLF connects CN VI nucleus ↔ contralateral CN III nucleus
+- **INO** = MLF lesion → **impaired adduction ipsilateral** to lesion + **nystagmus in abducting eye**
+- Most common cause in young adults: **multiple sclerosis** (bilateral INO highly suggestive of MS)
+- Most common cause overall: **brainstem stroke** (unilateral INO)
+- **WEBINO**: Wall-Eyed Bilateral INO (bilateral MLF lesion)
+- **One-and-a-half syndrome**: PPRF + MLF lesion on same side → ipsilateral gaze palsy (PPRF) + ipsilateral INO (MLF) → only movement is contralateral eye abduction
+
+---
+
+## 🔑 Vertical Gaze Circuit
+
+```
+Upgaze: riMLF (bilateral) + INC → CN III (SR + IO)
+Downgaze: riMLF → CN III (IR) + CN IV (SO)
+Pretectal area (posterior commissure): upgaze pathway
+```
+
+| Lesion | Effect |
+|--------|--------|
+| Parinaud syndrome (dorsal midbrain) | Loss of upgaze + convergence-retraction nystagmus + lid retraction (Collier sign) + light-near dissociation; caused by pineal tumour, hydrocephalus, MS |
+| PSP | Supranuclear vertical gaze palsy (downgaze first) + falls + tau pathology |
+| Rostral basilar artery syndrome | Bilateral upgaze + downgaze palsy |
+
+---
+
+## 🔑 CN III Palsy — Pupil-Involving vs Pupil-Sparing
+
+| Feature | Pupil-Involving CN III Palsy | Pupil-Sparing CN III Palsy |
+|---------|------------------------------|---------------------------|
+| Pupil | Dilated (mydriasis), unreactive | Normal size, reactive |
+| Cause | **Surgical**: posterior communicating artery aneurysm (external compression of parasympathetic fibres on CN III surface) | **Medical**: diabetic/ischaemic mononeuropathy (central ischaemia spares superficial parasympathetic fibres) |
+| Urgency | **Emergency** — aneurysm rupture risk; CTA/MRA immediately | Urgent but less emergent; monitor |
+| Eye position | "Down and out" (LR + SO unopposed) | "Down and out" |
+| Ptosis | Complete | Complete |
+
+---
+
+## 🔑 Nystagmus
+
+| Type | Direction | Significance |
+|------|-----------|-------------|
+| Physiological end-gaze nystagmus | Horizontal at extremes | Normal |
+| Jerk nystagmus (peripheral vestibular) | Horizontal-torsional; fixed direction | Horizontal canal BPPV; vestibular neuritis |
+| Direction-changing (gaze-evoked) | Fast phase toward gaze direction | Cerebellar disease, alcohol |
+| Downbeat nystagmus | Fast phase downward | Craniocervical junction (Chiari, MS, Wernicke) |
+| Upbeat nystagmus | Fast phase upward | Medulla/pons lesion; Wernicke |
+| See-saw nystagmus | One eye rises/intorts, other falls/extorts | Parasellar lesion; bitemporal hemianopia |
+| Pendular nystagmus | No fast phase; equal velocity | Congenital nystagmus; visual loss |
+
+---
+
+## 🏥 Clinical Significance
+
+| Condition | Lesion Site | Eye Movement Finding |
+|-----------|------------|---------------------|
+| CN III palsy (aneurysm) | PComm artery compresses CN III | "Down-and-out" + complete ptosis + **mydriasis** |
+| CN III palsy (diabetic) | Microvascular ischaemia of CN III | "Down-and-out" + complete ptosis + **pupil spared** |
+| CN IV palsy | Dorsal midbrain / CN IV nucleus | Vertical diplopia; worse looking down/contralateral; head tilt |
+| CN VI palsy / raised ICP | Long intracranial course | Lateral gaze deficit; false localising sign |
+| INO (MS, stroke) | MLF | Ipsilateral adduction failure + contralateral abduction nystagmus |
+| One-and-a-half syndrome | PPRF + MLF (same side) | Ipsilateral gaze palsy + INO → only contralateral abduction preserved |
+| Parinaud syndrome | Dorsal midbrain (pineal region) | Upgaze palsy + convergence-retraction nystagmus + Collier sign |
+| PSP | Midbrain (supranuclear) | Downgaze palsy first → global vertical gaze palsy |
+| Horner syndrome | Sympathetic chain | Ptosis (partial) + miosis + anhidrosis; NOT a CN III palsy |
+| Wernicke's encephalopathy | Periaqueductal grey / CN VI nuclei | Horizontal gaze palsy + nystagmus (with ataxia + encephalopathy) |
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → Oculomotor System
+

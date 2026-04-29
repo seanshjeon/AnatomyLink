@@ -1,0 +1,43 @@
+---
+tags: [anatomy, circulatory-system, artery, head-and-neck]
+aliases: [vertebral arteries, VA]
+---
+
+# Vertebral Artery
+
+> The vertebral arteries are **paired arteries** arising from the first part of the [[Subclavian Artery]], ascending through the transverse foramina of [[Cervical Vertebrae]] C6–C1, entering the skull via the foramen magnum, and uniting to form the **basilar artery**. They supply the posterior fossa, brainstem, and cerebellum.
+
+## 🔗 Key Connections
+- [[Circulatory System]]
+- Origin: 1st part of [[Subclavian Artery]] (bilateral)
+- Unites with contralateral VA → **basilar artery** (at pontomedullary junction)
+- Contributes to: **Circle of Willis** (posterior circulation)
+- Supplies: [[Brainstem]], [[Cerebellum]], posterior [[Brain]] (occipital lobe, thalamus via PCA)
+- Skeletal: Passes through transverse foramina of [[Cervical Vertebrae]] C6–C1
+
+## 🔬 Four Segments (V1–V4)
+
+| Segment | Course |
+|---------|--------|
+| **V1 (Pre-foraminal)** | Subclavian artery → enters transverse foramen of C6 |
+| **V2 (Foraminal)** | Ascends through C6–C2 transverse foramina |
+| **V3 (Atlantic / suboccipital)** | C1 → curves posteriorly around C1 lateral mass → enters skull |
+| **V4 (Intradural / intracranial)** | Enters skull via foramen magnum → gives anterior + posterior spinal arteries → unites to form basilar artery |
+
+## ⚙️ Key Branches
+- Posterior spinal artery
+- Anterior spinal artery (bilateral → unite → single ASA)
+- Posterior inferior cerebellar artery (PICA)
+
+## 🏥 Clinical Significance
+- **Vertebrobasilar insufficiency** — symptoms with head turning (compresses VA in foramina); vertigo, diplopia, ataxia
+- **PICA stroke (Wallenberg syndrome / lateral medullary syndrome)** — dysphagia, hoarseness, ipsilateral Horner's, facial pain + contralateral body pain loss, ipsilateral ataxia
+- **Vertebral artery dissection** — after chiropractic manipulation or neck trauma; posterior circulation stroke in young adults
+- **Basilar artery occlusion** — "locked-in syndrome"; pupillary changes; bilateral weakness; medical emergency
+
+## 📍 Location
+[[00 - AnatomyLink Home]] → [[Circulatory System]] → Arteries → Vertebral Artery
+
+## 🎬 3D Interactive Models
+- [Brainstem](https://skfb.ly/6XPPM)
+- [Brainstem with Circle of Willis](https://sketchfab.com/3d-models/brainstem-with-circle-of-willis-6ae262548bfd459cbfd1ec1e137a1bd6) — UBC.MEDVID

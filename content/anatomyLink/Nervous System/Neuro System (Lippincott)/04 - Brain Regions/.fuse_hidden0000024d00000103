@@ -1,0 +1,136 @@
+---
+tags: [anatomy, hypothalamus, diencephalon, autonomic, endocrine, homeostasis, circadian, neuroscience, brain-regions, pituitary, HPA-axis]
+aliases: [Hypothalamic Nuclei, Diencephalon Hypothalamus, Homeostasis Center]
+
+# 🧠 Hypothalamus
+
+> The hypothalamus is a **small (~4 g) but extraordinarily powerful diencephalic structure forming the floor and walls of the third ventricle**, governing homeostasis through integrated control of autonomic function, endocrine output, circadian rhythmicity, feeding, thermoregulation, reproduction, and behavioral drives.
+
+## 🔗 Key Connections
+- [[Brain]] — diencephalon; immediately below thalamus, above brainstem
+- [[Limbic System]] — amygdala → medial hypothalamus (stria terminalis); hippocampus projections; emotion-visceral interface
+- [[Autonomic Nervous System]] — lateral hypothalamus → sympathetic; anterior → parasympathetic
+- [[Thalamus]] — reciprocal connections; functional neighbor sharing the diencephalon
+- [[Hippocampus]] — fornix projects to mammillary bodies; memory circuit
+- [[Amygdala]] — stria terminalis and ventral amygdalofugal pathway to hypothalamus
+- [[Sleep and Wakefulness]] — lateral hypothalamus (orexin neurons) critical for arousal/narcolepsy
+
+## 🗂️ Key Information
+| Property | Detail |
+|----------|--------|
+| Location | Diencephalon; floor and lateral walls of 3rd ventricle; below the thalamic sulcus |
+| Weight | ~4 g (0.3% of brain weight) |
+| Boundaries | Anterior: lamina terminalis; posterior: mammillary bodies; superior: thalamus/hypothalamic sulcus; inferior: pituitary stalk (infundibulum) |
+| Zones | Medial zone (periventricular + medial nuclei — endocrine/neuroendocrine); Lateral zone (feeding, arousal, cortical activation) |
+| Anterior-posterior regions | Preoptic/anterior region; tuberal (middle/tuberoinfundibular) region; posterior region |
+| Pituitary connection | Anterior pituitary: portal blood system (hypothalamic releasing/inhibiting hormones); Posterior pituitary: direct axons from SON and PVN |
+| Key sensory inputs | Retinohypothalamic tract (SCN — light/dark); blood osmolality (OVLT, SFO); temperature (warm-sensitive neurons); leptin/ghrelin (arcuate); visceral (NTS, vagus) |
+| Blood supply | Branches of posterior communicating artery, anterior choroidal artery, posterior cerebral artery |
+
+
+## 🔑 Anatomical Organization
+
+### Medial vs. Lateral Zones
+| Zone | Location | Key Nuclei/Structures | Main Functions |
+|------|----------|-----------------------|----------------|
+| **Periventricular** | Adjacent to 3rd ventricle wall | Periventricular nucleus; arcuate nucleus; SCN | Neuroendocrine (releasing hormones → portal blood); circadian clock |
+| **Medial** | Medial hypothalamus | PVN, SON, VMN, DMN, mammillary bodies | ADH, oxytocin, satiety, reproduction, memory relay |
+| **Lateral** | Lateral hypothalamic area | Lateral hypothalamic area; perifornical area | Feeding, arousal, orexin neurons |
+
+### Anterior–Posterior Regions
+| Region | Location | Key Nuclei |
+|--------|----------|------------|
+| **Preoptic/Anterior** | Anterior (in front of optic chiasm) | Preoptic area (MPOA), anterior hypothalamic nucleus, SCN, SON |
+| **Tuberal (Middle)** | Infundibular region | PVN, VMN, DMN, arcuate nucleus, lateral hypothalamic area |
+| **Posterior** | Behind mammillary bodies | Posterior hypothalamic nucleus, mammillary bodies |
+
+
+## 🔑 Hypothalamic Nuclei — Detailed Table
+
+| Nucleus | Abbreviation | Location | Key Products/Connections | Function |
+|---------|-------------|----------|--------------------------|----------|
+| **Suprachiasmatic nucleus** | SCN | Anterior, above optic chiasm | Receives retinohypothalamic tract (melanopsin-containing ipRGCs); projects to paraventricular, DMN, pineal | **Master circadian clock**; generates ~24h rhythms; entrains to light/dark cycle; governs melatonin secretion |
+| **Supraoptic nucleus** | SON | Anterior, above optic tract | Synthesizes **ADH (vasopressin)** and oxytocin; axons travel in hypothalamo-hypophyseal tract → posterior pituitary | ADH release in response to ↑plasma osmolality or ↓blood volume; oxytocin (parturition, lactation) |
+| **Paraventricular nucleus** | PVN | Anterior-medial, beside 3rd ventricle | Synthesizes **ADH, oxytocin, CRH, TRH, somatostatin**; autonomic projections to brainstem (NTS, DMV) and spinal cord (IML) | Stress (HPA axis via CRH → anterior pituitary); autonomic control; posterior pituitary hormone output |
+| **Arcuate nucleus** | ARC | Tuberoinfundibular; floor of 3rd ventricle | GHRH (→ somatotrophs); dopamine (→ portal blood, inhibits prolactin); leptin receptor (ObR); NPY/AgRP neurons; POMC/CART neurons | Appetite/energy balance (NPY/AgRP = orexigenic; POMC/CART = anorexigenic); pulsatile GnRH; prolactin inhibition |
+| **Ventromedial nucleus** | VMN | Tuberal, medial | Receives leptin; projects to lateral hypothalamus; brainstem; output via VRF | **Satiety center**; lesion → **hyperphagia and obesity**; also implicated in sexual behavior |
+| **Dorsomedial nucleus** | DMN | Tuberal, dorsal to VMN | Receives SCN (circadian); projects to PVN, lateral hypothalamus | Circadian feeding rhythms; stress response; thermogenesis |
+| **Lateral hypothalamic area** | LHA | Throughout lateral hypothalamus | **Orexin (hypocretin) neurons** → widespread cortex, LC, brainstem; MCH neurons | **Hunger/feeding center** (lesion → aphagia); **arousal and wakefulness** (orexin deficiency → narcolepsy) |
+| **Medial preoptic area** | MPOA | Preoptic region | Sexually dimorphic nucleus (SDN-POA); temperature-sensitive neurons; GnRH neurons | **Thermoregulation** (warm-sensitive neurons → heat dissipation); sexual behavior; LH surge (female) |
+| **Anterior hypothalamic nucleus** | AHN | Anterior | Warm-sensitive neurons | **Heat dissipation** (sweating, vasodilation); lesion → hyperthermia |
+| **Posterior hypothalamic nucleus** | PHN | Posterior | Projects to sympathetic preganglionic | **Heat conservation** (shivering, vasoconstriction); **wakefulness** (histaminergic tuberomammillary nucleus nearby); lesion → poikilothermia |
+| **Mammillary bodies** | MB | Posterior; visible on ventral surface | Receives hippocampus via fornix; projects via mammillothalamic tract → anterior thalamic nucleus | **Papez circuit**; memory relay; degeneration in Wernicke-Korsakoff |
+| **Tuberomammillary nucleus** | TMN | Posterior hypothalamus | Histaminergic neurons; projects widely to cortex | **Arousal and wakefulness** (antihistamines cause sedation) |
+
+
+## 🔑 Pituitary Connections
+
+### Anterior Pituitary (Adenohypophysis)
+- Hypothalamus does NOT directly innervate anterior pituitary
+- **Portal blood system**: releasing/inhibiting hormones secreted into **median eminence capillaries** → travel via **hypophyseal portal veins** → anterior pituitary
+- Hypothalamic control of anterior pituitary:
+
+| Hypothalamic Hormone | Source Nucleus | Effect on Anterior Pituitary |
+|---------------------|----------------|------------------------------|
+| CRH (corticotropin-releasing hormone) | PVN | ↑ ACTH → ↑ cortisol |
+| TRH (thyrotropin-releasing hormone) | PVN, periventricular | ↑ TSH + prolactin |
+| GnRH (gonadotropin-releasing hormone) | Arcuate, MPOA | ↑ LH + FSH (pulsatile essential) |
+| GHRH (growth hormone-releasing hormone) | Arcuate | ↑ GH |
+| Somatostatin (GHIH) | Periventricular, PVN | ↓ GH and TSH |
+| Dopamine (PIH) | Arcuate (tuberoinfundibular) | ↓ Prolactin (tonic inhibition) |
+
+### Posterior Pituitary (Neurohypophysis)
+- Direct axonal projections from **SON and PVN** through infundibular stalk → posterior pituitary (Herring bodies = axon terminals storing hormone)
+- **ADH (vasopressin)**: ↑plasma osmolality (detected by SON neurons + OVLT/SFO circumventricular organs) or ↓blood volume → ADH release → renal water reabsorption (V2 receptors, aquaporin-2)
+- **Oxytocin**: parturition (Ferguson reflex), lactation (let-down reflex), social bonding
+
+
+## 🔑 Hypothalamic Control of Key Homeostatic Functions
+
+### Thermoregulation
+| Temperature Challenge | Anterior Hypothalamus | Posterior Hypothalamus |
+|----------------------|----------------------|------------------------|
+| Heat stress | Warm-sensitive neurons activate → ↑heat dissipation (sweating, cutaneous vasodilation, behavioral cooling) | Inhibited |
+| Cold stress | Inhibited | Cold-sensitive neurons activate → ↑heat production (shivering, non-shivering thermogenesis via brown fat, vasoconstriction) |
+| Fever | Pyrogens (IL-1, IL-6, TNF, PGE2) reset "thermostat" upward at OVLT/preoptic area | — |
+
+### Energy Balance and Feeding
+| Pathway | Nucleus | Signal | Effect |
+|---------|---------|--------|--------|
+| **Orexigenic** | ARC → NPY/AgRP neurons | Ghrelin (hunger hormone), low leptin | ↑ feeding, ↓ energy expenditure |
+| **Anorexigenic** | ARC → POMC/CART neurons | Leptin (adipokine, proportional to fat mass), insulin | ↓ feeding, ↑ energy expenditure |
+| **Satiety center** | VMN | Leptin, cholecystokinin | ↓ food intake; VMN lesion → hyperphagia |
+| **Hunger center** | LHA | Orexin, MCH; ghrelin | ↑ food intake; LHA lesion → aphagia |
+
+### HPA Axis (Stress Response)
+**Stressor → PVN (CRH) → anterior pituitary (ACTH) → adrenal cortex (cortisol)**
+- Cortisol feeds back to PVN, anterior pituitary, and hippocampus to suppress CRH/ACTH
+- Chronic stress → hippocampal damage (glucocorticoid toxicity), impaired negative feedback
+
+### Autonomic Integration
+- **Anterior/medial hypothalamus** → predominantly parasympathetic (↓HR, ↓BP, ↑GI motility)
+- **Posterior/lateral hypothalamus** → predominantly sympathetic (↑HR, ↑BP, pupil dilation, "defense reaction")
+- PVN sends direct descending projections to **nucleus tractus solitarius (NTS)**, **dorsal motor nucleus of vagus**, and **intermediolateral cell column (IML)** of spinal cord
+
+
+## 🏥 Clinical Significance
+
+| Lesion/Condition | Location | Deficits | Key Features |
+|-----------------|----------|----------|--------------|
+| **Craniopharyngioma** | Suprasellar, compresses hypothalamus + pituitary stalk + optic chiasm | Panhypopituitarism, diabetes insipidus, **bitemporal hemianopia**, obesity, behavioral changes | Most common suprasellar tumor in children; calcifications on imaging; treated with surgery ± radiation |
+| **Diabetes insipidus (central)** | SON/PVN damage or stalk section | **Polyuria, polydipsia**; urine not concentrated despite ↑plasma osmolality | ADH deficiency; urine specific gravity <1.005; responds to desmopressin (DDAVP) |
+| **SIADH** | Ectopic ADH (lung cancer, head injury, drugs) or hypothalamic dysregulation | Hyponatremia, concentrated urine despite low plasma osmolality | Euvolemic hyponatremia; restrict fluid; treat underlying cause |
+| **Wernicke's encephalopathy** | Mammillary bodies + thalamus (thiamine deficiency) | Triad: **encephalopathy + ophthalmoplegia + ataxia** | Seen in alcoholics, malnutrition; treat urgently with IV thiamine before glucose; Korsakoff amnesia if untreated |
+| **Hypothalamic hamartoma** | Tuber cinereum | **Gelastic (laughing) seizures**, precocious puberty | Hamartoma contains ectopic GnRH neurons; non-neoplastic; can be treated with stereotactic radiosurgery |
+| **Narcolepsy (type 1)** | Lateral hypothalamus (LHA) | Excessive daytime sleepiness, cataplexy, sleep paralysis, hypnagogic hallucinations | **Orexin (hypocretin) deficiency** (autoimmune destruction of ~70,000 orexin neurons); CSF hypocretin-1 <110 pg/mL |
+| **Kleine-Levin syndrome** | Hypothalamic dysfunction (unclear) | Episodes of **hypersomnia + hyperphagia + hypersexuality** | Rare; young males; self-limiting episodes lasting days-weeks; diagnosis of exclusion |
+| **Prader-Willi syndrome** | Hypothalamic dysfunction (genetic — del 15q11-13 paternal) | Hyperphagia, obesity, hypogonadism, intellectual disability, short stature | Arcuate/VMN dysfunction; insatiable hunger; often OCD-like food-seeking |
+| **Central pontine myelinolysis** | Not hypothalamic per se — consequence of too-rapid correction of hyponatremia | Quadriplegia, pseudobulbar palsy, "locked-in" state | Related to hypothalamic regulation of Na⁺; correct Na⁺ no faster than 8–10 mEq/L/day |
+| **Hypothalamic obesity** | VMN or wide hypothalamic damage | Refractory obesity, hyperphagia, hyperinsulinemia | Seen after craniopharyngioma resection, radiation; very difficult to treat |
+
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note
+
+## 🎬 3D Interactive Models
+

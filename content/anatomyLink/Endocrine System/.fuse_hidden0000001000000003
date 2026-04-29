@@ -1,0 +1,43 @@
+---
+tags: [anatomy, endocrine-system, retroperitoneal, gland]
+aliases: [suprarenal glands, adrenals, adrenal cortex, adrenal medulla]
+---
+
+# Adrenal Glands
+
+> The adrenal (suprarenal) glands are **paired pyramidal glands** (~4–6 g each) sitting on the anteromedial surface of the upper pole of each [[Kidney]] within Gerota's fascia. They have two functionally distinct regions: the **cortex** (steroid hormones) and the **medulla** (catecholamines).
+
+## 🔗 Key Connections
+- [[Endocrine System]]
+- Sit on: Upper pole of [[Kidney]] (within Gerota's fascia)
+- Controlled by: [[Pituitary Gland]] ACTH (cortex); [[Nervous System]] preganglionic sympathetic fibres (medulla — a modified sympathetic ganglion)
+- Blood supply: Superior suprarenal arteries (inferior phrenic), Middle suprarenal artery (aorta), Inferior suprarenal artery (renal artery)
+- Venous drainage: **Right adrenal vein** → IVC directly; **Left adrenal vein** → left renal vein (clinically important!)
+- Lymphatics: Para-aortic nodes
+
+## 🔬 Cortex (Outer 90%) — Mnemonic: **GFR** / **"Salt, Sugar, Sex"**
+
+| Zone | Hormone | Regulation |
+|------|---------|-----------|
+| **Zona Glomerulosa** (outer) | **Aldosterone** (mineralocorticoid) | RAAS (angiotensin II + K⁺); Na⁺ retention, K⁺/H⁺ excretion |
+| **Zona Fasciculata** (middle) | **Cortisol** (glucocorticoid) | ACTH; stress response, anti-inflammatory, ↑ gluconeogenesis |
+| **Zona Reticularis** (inner) | **DHEA, androgens** (sex steroids) | ACTH; pubic/axillary hair, libido |
+
+## 🔬 Medulla (Inner 10%)
+- Modified postganglionic sympathetic neurons; innervated by preganglionic fibres (no synapse)
+- Produces **adrenaline (80%)** + **noradrenaline (20%)** — fight-or-flight response
+- ↑ HR, ↑ BP, bronchodilation, glucogenolysis, ↓ gut motility
+
+## 🏥 Clinical Significance
+| Condition | Key Points |
+|-----------|-----------|
+| **Cushing's syndrome** | Cortisol excess; central obesity, purple striae, HTN, diabetes, osteoporosis, moon face, buffalo hump |
+| **Addison's disease** | Primary adrenal insufficiency; autoimmune (most common); ↓cortisol + ↓aldosterone; hyperpigmentation (↑ACTH/MSH), hypotension, hyperkalaemia; Addisonian crisis life-threatening |
+| **Primary hyperaldosteronism (Conn's)** | Zona glomerulosa adenoma; HTN + hypokalaemia + metabolic alkalosis; low renin |
+| **Phaeochromocytoma** | Adrenal medulla tumour; catecholamine excess; paroxysmal HTN, headache, sweating, palpitations; "10% rule": 10% bilateral, 10% extra-adrenal, 10% malignant; rule out before surgery |
+| **Neuroblastoma** | Commonest extracranial solid tumour of childhood; adrenal medulla origin; ↑ urine catecholamines |
+| **Adrenal incidentaloma** | Found on imaging; assess for hormone excess + malignancy |
+| **Waterhouse-Friderichsen** | Bilateral adrenal haemorrhage; meningococcal sepsis → Addisonian crisis |
+
+## 📍 Location
+[[00 - AnatomyLink Home]] → [[Endocrine System]] → Adrenal Glands

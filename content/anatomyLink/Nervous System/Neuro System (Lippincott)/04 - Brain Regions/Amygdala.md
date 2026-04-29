@@ -1,0 +1,160 @@
+---
+tags: [anatomy, amygdala, limbic, fear, emotion, medial-temporal-lobe, neuroscience, brain-regions, PTSD, Kluver-Bucy, fear-conditioning]
+aliases: [Amygdaloid Complex, Basolateral Amygdala, Central Amygdala, Fear Center]
+---
+
+# 🧠 Amygdala
+
+> The amygdala is an **almond-shaped nuclear complex in the medial temporal lobe** that serves as the brain's principal **integrator of emotionally significant stimuli**, orchestrating fear learning, emotional memory consolidation, autonomic fear responses, and reward processing through its extensive connections with sensory cortices, hippocampus, hypothalamus, and brainstem.
+
+## 🔗 Key Connections
+- [[Limbic System]] — core limbic structure; amygdala–hippocampus–hypothalamus triangle
+- [[Hippocampus]] — anatomical neighbor; amygdala enhances hippocampal consolidation of emotional memories
+- [[Hypothalamus]] — central amygdala → lateral hypothalamus → autonomic stress response
+- [[Prefrontal Cortex]] — medial PFC/vmPFC inhibits amygdala; OFC → BLA for stimulus-reinforcement learning
+- [[Memory Systems]] — emotional memory enhancement; flashbulb memories; reconsolidation
+- [[Autonomic Nervous System]] — central nucleus → brainstem (sympathetic activation, fear physiology)
+- [[Neurotransmitters]] — glutamate (BLA), GABA (intercalated cells, inhibitory interneurons), norepinephrine (LC), dopamine (VTA), serotonin (DRN)
+
+## 🗂️ Key Information
+| Property | Detail |
+|----------|--------|
+| Location | Medial temporal lobe; anterior to hippocampus; deep to uncus; superior to inferior horn of lateral ventricle |
+| Size | ~1.5 cm long; bilateral; each ~1–2 mL volume |
+| Main nuclear groups | Basolateral complex (BLA); centromedial group; cortical group |
+| Primary function | Emotional learning (fear, reward); autonomic coordination; emotional memory modulation |
+| Key input pathway | "Low road" (thalamus → amygdala, fast/crude) + "high road" (cortex → amygdala, slow/accurate) — LeDoux |
+| Key output pathway | Central nucleus → hypothalamus + brainstem (autonomic fear responses) |
+| Cortical connections | Reciprocal with PFC (vmPFC, OFC), insular cortex, anterior cingulate |
+| Blood supply | Anterior choroidal artery; posterior communicating artery branches |
+
+---
+
+## 🔑 Nuclear Organization
+
+### Three Main Groups
+
+| Nuclear Group | Nuclei Included | Inputs | Outputs | Function |
+|--------------|-----------------|--------|---------|----------|
+| **Basolateral complex (BLA)** | Lateral nucleus (LA), Basal nucleus (BA), Accessory basal nucleus | All sensory modalities (thalamus + cortex); hippocampus (context); PFC (top-down); neuromodulators (NE, DA, ACh, 5-HT) | Centromedial group; PFC (vmPFC, OFC); hippocampus; striatum (NAc); cortex | **Main INPUT zone**; associative learning; glutamatergic; synaptic plasticity (LTP-based fear conditioning); reward learning |
+| **Centromedial group** | Central nucleus (CeA), Medial nucleus | BLA (fear associations); thalamus; brainstem (pain, visceral via NTS) | Hypothalamus (LHA — autonomic); PAG (midbrain — freezing, defensive behavior); LC (NE release); PB (pain); nucleus accumbens | **Main OUTPUT zone**; CeA = "fear motor center"; autonomic/behavioral fear responses; CeA medial → HPA via PVN; medial nucleus → pheromone processing, reproductive behavior |
+| **Cortical group** | Cortical amygdaloid nuclei | Olfactory bulb; piriform cortex | Hypothalamus; entorhinal cortex | Olfactory/pheromone processing; reproductive behavior |
+
+### Intercalated Cell Masses (ITCs)
+- GABAergic interneuron clusters between BLA and central nucleus
+- Act as **inhibitory gates**: vmPFC/prelimbic cortex → activates ITCs → **inhibits CeA** → fear extinction
+- Critical for extinction learning (prefrontal regulation of amygdala)
+
+---
+
+## 🔑 Fear Conditioning
+
+### Classical Fear Conditioning (Pavlovian)
+| Component | Stimulus | Neural Substrate |
+|-----------|----------|-----------------|
+| **CS** (conditioned stimulus) | Tone or light (initially neutral) | Auditory cortex / thalamus → lateral nucleus (LA) |
+| **US** (unconditioned stimulus) | Foot shock (painful, innately aversive) | Somatosensory system → LA |
+| **CR/UR** (fear response) | Freezing, ↑HR, ↑cortisol, ↑BP | CeA → PAG (freezing), hypothalamus (HPA + autonomic) |
+| **CS–US association** | LTP at LA synapses | NMDA-dependent LTP in LA neurons (Bhagya & LeDoux) |
+
+### "Low Road" vs. "High Road" — LeDoux
+| Pathway | Route | Speed | Information | Role |
+|---------|-------|-------|-------------|------|
+| **Low road** | CS → thalamus → **directly** to LA | Fast (~12 ms) | Crude, unprocessed (frequency without context) | Fast, automatic fear response; "shoot first, ask questions later" |
+| **High road** | CS → thalamus → **sensory cortex** → LA | Slower (~25 ms) | Detailed, context-rich representation | Accurate appraisal; can distinguish threat from non-threat |
+
+> Both pathways converge on the lateral nucleus (LA). The low road ensures rapid survival responses even before conscious awareness; the high road allows refinement and contextual modulation.
+
+### Fear Extinction
+- **Not erasure** — fear memory is not erased during extinction; it is **actively suppressed** by a new inhibitory memory
+- Neural mechanism: **vmPFC (prelimbic + infralimbic cortex)** → activates **ITC interneurons** → inhibit CeA → reduced fear output
+- Hippocampus → provides contextual information for extinction (renewal effect: extinguished fear returns in different context)
+- **Propranolol**: β-adrenergic blockade during reconsolidation (reactivation of fear memory) can weaken fear memory — therapeutic implications for PTSD
+
+### Fear Memory Consolidation
+| Phase | Timeframe | Mechanism |
+|-------|-----------|-----------|
+| Acquisition | During CS–US pairing | NMDA-LTP in LA; AMPA receptor insertion |
+| Consolidation | Hours after | Protein synthesis required; NE + cortisol enhance; BDNF |
+| Reconsolidation | After memory reactivation | Memory becomes labile again; requires re-stabilization via protein synthesis |
+
+---
+
+## 🔑 Emotional Memory Enhancement
+
+The amygdala **enhances hippocampal consolidation** of emotionally significant events:
+
+| Component | Mechanism |
+|-----------|-----------|
+| **Stress hormones** | Epinephrine (peripheral) → NTS → noradrenergic activation of BLA → BLA projects to hippocampus → ↑consolidation |
+| **Norepinephrine (LC → BLA)** | β-adrenergic receptors in BLA activated during arousal → ↑protein kinase A → LTP-like enhancement |
+| **Glucocorticoids** | Cortisol (via Type II GR in BLA) enhances emotional memory consolidation; requires concurrent NE |
+| **Flashbulb memories** | Highly vivid, detailed memories for emotionally arousing events (9/11, personal traumas); amygdala-driven enhanced hippocampal consolidation |
+| **Propranolol** | Blocks β-adrenergic receptors; given shortly after trauma → may reduce emotional intensity of traumatic memories |
+
+---
+
+## 🔑 Reward Processing
+
+The amygdala is not only about fear — the **basal amygdala** is central to appetitive (reward) learning:
+
+| Function | Nucleus | Circuit |
+|---------|---------|---------|
+| **Reward learning** | Basal amygdala (BA) | Dopaminergic input from VTA → BA; BA → nucleus accumbens (NAc) for motivational drive |
+| **Stimulus-reward association** | BLA | OFC → BLA; BLA stores value of stimuli; BLA lesion → cannot update reward value (devaluation insensitive) |
+| **Conditioned place preference** | BLA | Reward-conditioned place learning; BLA lesion impairs |
+| **Addiction** | BLA + CeA | Drug-associated cues activate BLA → craving; CeA drives negative reinforcement (withdrawal avoidance) |
+
+---
+
+## 🔑 Klüver-Bucy Syndrome
+
+Originally described (1937) after bilateral temporal lobectomy in rhesus monkeys (Klüver & Bucy):
+
+| Feature | Description |
+|---------|-------------|
+| **Psychic blindness (visual agnosia)** | Cannot recognize objects by sight (temporal cortex damage) |
+| **Hyperorality** | Oral exploration of objects; mouthing; dietary changes |
+| **Hypersexuality** | Indiscriminate, increased sexual behavior toward inappropriate objects/species |
+| **Placidity / loss of fear** | Animals approach previously feared objects without hesitation; amygdala destruction |
+| **Hyperphagia** | Increased eating; related to loss of food aversion and hyperorality |
+| **Visual hypermetamorphosis** | Compulsive attention and response to all visual stimuli |
+
+### Human Klüver-Bucy Syndrome
+- Seen with **bilateral temporal lobe damage**: HSV encephalitis (most common cause), bilateral temporal lobectomy, severe Alzheimer's disease, Pick's disease, paraneoplastic limbic encephalitis
+- Usually incomplete; **HSV encephalitis** produces the most characteristic picture (involves bilateral uncal/hippocampal-amygdala complex)
+- **SM case**: Woman with bilateral amygdala calcification (Urbach-Wiethe disease — lipoid proteinosis) → **fearlessness**, inability to recognize fearful facial expressions, did not maintain personal space; no PTSD despite multiple traumas; could experience fear with CO₂ inhalation (survival reflexes intact)
+
+---
+
+## 🔑 Facial Emotion Recognition
+
+- The amygdala responds strongly to **fearful and angry faces** (even presented subliminally below conscious threshold)
+- Neuroimaging: robust amygdala BOLD activation to fearful faces (subliminally presented)
+- BLA receives projections from face-selective areas in temporal cortex (fusiform face area → amygdala)
+- **SM**: Cannot identify fearful expressions; allocates less attention to the eye region of faces (where fear is conveyed)
+- Prosopagnosia does NOT necessarily impair emotional recognition if amygdala intact
+
+---
+
+## 🏥 Clinical Significance
+
+| Condition | Amygdala Involvement | Clinical Features | Treatment Implications |
+|-----------|---------------------|-------------------|----------------------|
+| **PTSD** | BLA hyperreactivity; reduced vmPFC suppression; reduced hippocampal volume | Intrusive memories, hyperarousal, avoidance, nightmares, exaggerated startle | Propranolol (reconsolidation interference); SSRIs; EMDR; prolonged exposure; DCS (facilitates extinction) |
+| **Anxiety disorders (GAD, social phobia, specific phobias)** | Amygdala hyperreactivity to threat cues; exaggerated conditioned fear | Excessive fear/worry; physiological arousal; avoidance | SSRIs/SNRIs; CBT (extinction-based); amygdala hypoactivation with effective treatment |
+| **Phobias** | Exaggerated CS–fear association in BLA | Disproportionate fear to specific stimuli | Exposure therapy (extinction); benzodiazepines (acute); DCS (NMDA partial agonist — enhances extinction learning) |
+| **Depression** | Amygdala hyperactivity (especially left); abnormal vmPFC–amygdala connectivity | Persistent negative affect; emotional memory bias (better recall of negative events) | Antidepressants normalize amygdala reactivity; ketamine rapidly reduces amygdala hyperreactivity |
+| **SM case (Urbach-Wiethe)** | Bilateral amygdala calcification (calcium–lipid deposition) | Fearlessness; impaired fear conditioning; impaired fearful face recognition; no PTSD | Demonstrates necessity of amygdala for normal fear processing in humans |
+| **Temporal lobe epilepsy (mesial TLE)** | Amygdala often involved in seizure focus; amygdala enlargement may be seen | Ictal fear (most common ictal emotion); déjà vu; olfactory aura; autonomic activation | Seizure semiology helps localize; amygdalohippocampectomy |
+| **Borderline personality disorder** | Amygdala hyperreactivity; reduced top-down PFC regulation | Emotional dysregulation, impulsivity, fear of abandonment | DBT; SSRIs; targeting PFC–amygdala connectivity |
+
+---
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note
+
+
+## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)
+- [Brain - Limbic System](https://skfb.ly/6ZF7p)
+- [Limbic System Overview](https://skfb.ly/6QWz7)

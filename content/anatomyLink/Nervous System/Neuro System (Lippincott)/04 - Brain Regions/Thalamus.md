@@ -1,0 +1,142 @@
+---
+tags: [anatomy, thalamus, diencephalon, sensory-relay, thalamocortical, neuroscience, brain-regions, VPL, VPM, LGN, MGN, basal-ganglia, cerebellum]
+aliases: [Thalamic Nuclei, Diencephalon Thalamus, Sensory Relay Station]
+---
+# 🧠 Thalamus
+
+> The thalamus is an **egg-shaped paired diencephalic structure that serves as the major sensory relay station of the brain**, relaying virtually all sensory information (except olfaction) to the cerebral cortex, while also gating motor, limbic, and arousal signals through precisely organized thalamocortical loops.
+
+## 🔗 Key Connections
+- [[Brain]] — diencephalon; position between brainstem and cerebral hemispheres
+- [[Somatosensory System]] — VPL/VPM relay nuclei for body and face sensation
+- [[Visual System]] — lateral geniculate nucleus (LGN) relay to V1
+- [[Auditory System]] — medial geniculate nucleus (MGN) relay to A1
+- [[Basal Ganglia]] — VA/VL nuclei receive basal ganglia output (GPi/SNr) → motor cortex
+- [[Cerebellum]] — VL nucleus receives dentate nucleus output → motor cortex
+- [[Limbic System]] — anterior nucleus in Papez circuit; dorsomedial nucleus → prefrontal
+- [[Hypothalamus]] — functional and anatomical neighbor; reciprocal connections
+- [[Cerebral Cortex]] — all thalamic relay nuclei project to specific cortical areas
+
+## 🗂️ Key Information
+| Property | Detail |
+|----------|--------|
+| Location | Diencephalon; paired, one in each cerebral hemisphere |
+| Size/weight | ~3 cm long; each thalamus ~8 g |
+| Boundaries | Anterior: interventricular foramen; posterior: pulvinar; inferior: hypothalamus; medial: 3rd ventricle; lateral: internal capsule |
+| Internal division | Y-shaped internal medullary lamina divides into anterior, medial, lateral nuclear groups |
+| Nuclear groups | Anterior, medial (dorsomedial), lateral (ventral tier + dorsal tier), posterior (pulvinar), intralaminar, midline, reticular |
+| Sensory exception | Olfaction bypasses thalamus (direct piriform cortex projection) |
+| Key relay principle | Each specific relay nucleus projects to a defined cortical area and receives feedback from the same area |
+| Blood supply | Thalamoperforating arteries (posterior communicating a.), thalamogeniculate arteries (PCA), posterior choroidal arteries |
+
+
+## 🔑 Internal Medullary Lamina and Nuclear Organization
+
+The **internal medullary lamina** is a Y-shaped band of myelinated fibers that divides the thalamus:
+- **Anterior fork** → encloses the **anterior nucleus**
+- **Main body** → separates **medial group** (medially) from **lateral group** (laterally)
+- **Intralaminar nuclei** lie within the lamina itself (centromedian, parafascicular, others)
+
+### Nuclear Classification
+| Category | Nuclei | Definition |
+|----------|--------|------------|
+| **Relay (specific)** | VPL, VPM, LGN, MGN, VL, VA, anterior | Receive specific sensory/motor input; project to a defined primary cortical area |
+| **Association** | Pulvinar, dorsomedial (MD), lateral posterior (LP), lateral dorsal (LD) | No primary sensory input; project to association cortex; integrate multimodal information |
+| **Nonspecific** | Intralaminar (CM, parafascicular), midline nuclei | Diffuse, widespread cortical projections; involved in arousal and consciousness |
+| **Reticular nucleus** | Thalamic reticular nucleus (TRN) | GABAergic; inhibitory; does NOT project to cortex; modulates all other thalamic nuclei |
+
+
+## 🔑 Thalamic Nuclei — Detailed Table
+
+| Nucleus | Abbreviation | Main Input(s) | Main Output | Function |
+|---------|-------------|---------------|-------------|----------|
+| **Ventral posterolateral** | VPL | Medial lemniscus (DCML) + spinothalamic tract (contralateral body) | Primary somatosensory cortex S1 (areas 3a/3b/1/2) | Discriminative touch, vibration, proprioception, pain/temp from contralateral body |
+| **Ventral posteromedial** | VPM | Trigeminal lemniscus (face); gustatory nucleus (taste) | S1 (face area); anterior insula (taste) | Somatosensory from contralateral face; taste relay |
+| **Lateral geniculate nucleus** | LGN | Optic tract (retinal ganglion cells, contralateral visual field) | Primary visual cortex V1 (area 17, via optic radiation) | Visual relay; 6 layers (M and P pathways) |
+| **Medial geniculate nucleus** | MGN/MGB | Inferior colliculus (bilateral auditory) | Primary auditory cortex A1 (areas 41/42, via auditory radiation) | Auditory relay; tonotopic organization |
+| **Ventral lateral** | VL | Contralateral deep cerebellar nuclei (dentate via superior cerebellar peduncle, after decussation in midbrain) | Primary motor cortex M1 (area 4); premotor/SMA | Relay of cerebellar output to motor cortex; motor coordination |
+| **Ventral anterior** | VA | Basal ganglia (GPi + SNr via ansa lenticularis/lenticular fasciculus) | Premotor cortex (area 6), SMA; some prefrontal | Relay of basal ganglia output to frontal motor cortex; motor planning |
+| **Anterior nucleus** | AN | Mammillary bodies (via mammillothalamic tract); hippocampus (via fornix) | Cingulate cortex (areas 23/24) | Papez circuit; memory and emotion |
+| **Dorsomedial (mediodorsal)** | MD | Prefrontal cortex; amygdala; olfactory cortex; hypothalamus | Prefrontal cortex (DLPFC, OFC, areas 9/10/11/46) | Emotion, cognition, working memory, affect; relay to PFC |
+| **Pulvinar** | Pul | Superior colliculus; association cortex; LGN; striate cortex | Posterior parietal, temporal, occipital association cortex | Visual attention, multimodal integration, language (dominant hemisphere) |
+| **Lateral posterior** | LP | Superior colliculus; sensory cortex | Posterior parietal cortex (areas 5/7) | Somatosensory/visuospatial association |
+| **Centromedian** | CM | Globus pallidus; motor cortex; reticular formation | Striatum (caudate/putamen); motor cortex (diffuse) | Arousal; basal ganglia-thalamo-cortical loop; pain modulation |
+| **Parafascicular** | PF | Cortex; brainstem | Striatum; frontal cortex | Arousal; attention; pain |
+| **Midline nuclei** | — | Brainstem (reticular formation); hypothalamus | Amygdala; hippocampus; cingulate cortex | Visceral/emotional integration; arousal |
+| **Reticular nucleus** | TRN | Collaterals from thalamocortical and corticothalamic fibers | All thalamic relay nuclei (GABAergic inhibition) | Inhibitory gatekeeper; generates sleep spindles; filters thalamic output |
+
+
+## 🔑 Thalamocortical Loops
+
+### Specific (Relay) Loops
+- Each specific nucleus receives driving input from a sensory/motor source and sends a **point-to-point projection** to its cortical target
+- The cortical target **sends feedback** back to the same thalamic nucleus (corticothalamic fibers, layer VI) — modulates relay gain
+- Pattern: **Periphery → specific nucleus → primary cortex → back to thalamus**
+
+### Nonspecific (Diffuse) Loops
+- Intralaminar and midline nuclei project diffusely to wide cortical areas and to the striatum
+- Involved in **arousal, attention, and consciousness**
+- Modulated by brainstem ascending activating systems (ARAS: cholinergic, monoaminergic)
+
+### Reticular Nucleus Gating
+- TRN neurons are GABAergic and receive excitatory collaterals from both thalamocortical and corticothalamic axons
+- TRN provides **feedforward and feedback inhibition** onto relay nuclei
+- During NREM sleep: TRN bursting → **sleep spindles** (7–14 Hz) via rhythmic inhibition-rebound sequences
+- Arousal: TRN inhibited by cholinergic (basal forebrain/PPT/LDT) input → thalamus switches to tonic firing mode
+
+
+## 🔑 Thalamic Relay of Basal Ganglia and Cerebellar Output
+
+Two parallel motor loops converge on thalamic nuclei before reaching frontal cortex:
+
+| Loop | Subcortical Source | Thalamic Target | Cortical Destination |
+|------|--------------------|-----------------|----------------------|
+| **Cerebellar** | Deep cerebellar nuclei (dentate > interposed > fastigial) → decussate in midbrain → VL | VL (posterior part, VLp) | Primary motor cortex (M1), area 4 |
+| **Basal ganglia** | GPi + SNr → ansa lenticularis → thalamus | VA, VL (anterior part, VLa), CM | Premotor cortex (area 6), SMA, DLPFC |
+
+> The cerebellar and basal ganglia loops project to largely separate thalamic territories (VLp vs VLa/VA), allowing parallel motor processing before both streams reach motor cortex.
+
+
+## 🔑 Thalamus and Sleep
+
+| Feature | Mechanism |
+|---------|-----------|
+| **Sleep spindles** (7–14 Hz, NREM stage 2) | TRN bursts → inhibit relay nuclei → rebound burst → cortex → re-excites TRN → oscillation |
+| **K-complexes** | Large biphasic EEG waves in NREM; cortical response to external stimuli; generated by thalamocortical network |
+| **Delta waves** (0.5–4 Hz, slow-wave sleep) | Thalamocortical neurons in burst-pause firing mode; TRN critical |
+| **Arousal** | Brainstem ARAS (cholinergic PPT/LDT) activates thalamic relay nuclei → switches to tonic mode → EEG desynchronization |
+| **Fatal familial insomnia** | Prion disease (FFI); thalamic degeneration (especially MD and anterior nuclei) → loss of circadian sleep architecture, autonomic hyperactivation, eventually death |
+
+
+## 🔑 Lateral Geniculate Nucleus (LGN) — Visual Relay Detail
+
+The LGN has 6 layers with distinct properties:
+| Layer | Cell Type | Retinal Input | Visual Pathway |
+|-------|-----------|---------------|----------------|
+| 1, 2 (ventral) | Magnocellular | M-type RGCs (ipsilateral: 2; contralateral: 1) | M (magnocellular) pathway → V1 layer IVCα → dorsal stream (motion, depth) |
+| 3–6 (dorsal) | Parvocellular | P-type RGCs (layers 3,5 = ipsilateral; 4,6 = contralateral) | P (parvocellular) pathway → V1 layer IVCβ → ventral stream (color, form) |
+| Koniocellular (K) | Small, between layers | W-type RGCs | K pathway → V1 layers II/III (blob regions); color opponent |
+
+
+## 🏥 Clinical Significance
+
+| Lesion/Condition | Nucleus/Region | Deficits | Key Features |
+|-----------------|----------------|----------|--------------|
+| **Thalamic stroke — VPL/VPM** | VPL/VPM (thalamogeniculate artery) | Contralateral hemisensory loss (all modalities: face + body) | Often followed by **Dejerine-Roussy syndrome** (thalamic pain): burning, allodynic, dysesthetic pain in affected hemibody weeks later |
+| **Thalamic hemorrhage** | Posterior thalamus ± internal capsule | Contralateral hemiplegia + hemisensory loss; eyes may deviate toward the lesion (if midbrain affected — eyes deviate toward lesion, unlike hemispheric lesion) | May cause hydrocephalus (compression of aqueduct); stupor if bilateral |
+| **Paramedian thalamic infarct** | MD, intralaminar, anterior nuclei (bilateral) | Akinetic mutism, profound memory loss, somnolence/hypersomnia | Caused by artery of Percheron (single perforating artery supplying bilateral paramedian thalami); characteristic butterfly DWI pattern |
+| **Dorsomedial nucleus damage** | MD | **Diencephalic (Korsakoff-type) amnesia**: anterograde amnesia, confabulation, apathy | Seen in Korsakoff syndrome (thiamine def.), bilateral thalamic infarcts; unlike hippocampal amnesia, more profound recall deficits |
+| **Fatal familial insomnia** | MD + anterior nuclei (prion) | Progressive insomnia → autonomic dysregulation → coma → death | Autosomal dominant, PRNP D178N mutation; rare; characteristic thalamic hypometabolism on PET |
+| **Dejerine-Roussy syndrome** | VPL/VPM infarct | Contralateral hemibody pain (burning, shooting); allodynia; hyperpathia | Thalamic pain; treated with tricyclics, anticonvulsants, deep brain stimulation |
+| **VL lesion** | VL | Ataxia, intention tremor (loss of cerebellar input relay) | DBS of VL (Vim) treats essential tremor and cerebellar tremor |
+| **Thalamic glioma** | Variable | Progressive sensory/motor deficits; ICP if obstructive hydrocephalus | Pediatric thalamic gliomas common; worse prognosis if bilateral |
+
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note
+
+
+
+## 3D Interactive Models
+
+- [Brain - Basal Ganglia](https://sketchfab.com/3d-models/brain-basal-ganglia-400f86e7ccf44b258f11f142e60debd5)

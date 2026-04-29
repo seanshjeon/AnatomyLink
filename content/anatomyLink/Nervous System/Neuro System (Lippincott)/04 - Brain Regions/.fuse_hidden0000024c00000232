@@ -1,0 +1,134 @@
+---
+tags: [anatomy, neuroscience, brain, limbic, memory, lippincott]
+aliases: [Entorhinal Cortex, EC, Area 28, Brodmann 28]
+---
+
+# 🧠 Entorhinal Cortex
+
+> **The entorhinal cortex is the primary gateway between the neocortex and the hippocampus — serving as the main input/output hub of the medial temporal lobe memory system and the first region to show neurofibrillary tangle pathology in Alzheimer's disease.**
+
+## 🔗 Key Connections
+- [[Hippocampus]] — receives perforant path input from EC layers II/III; EC is the main entry point to the trisynaptic circuit
+- [[Limbic System]] — core component of the medial temporal lobe memory system
+- [[Memory Systems]] — critical for encoding and retrieval of episodic and semantic memory
+- [[Amygdala]] — reciprocal connections; emotional modulation of memory
+- [[Cerebral Cortex]] — receives highly processed multimodal sensory info from association cortices
+- [[Prefrontal Cortex]] — bidirectional connections for top-down memory modulation
+- [[Olfaction]] — receives direct olfactory input (piriform cortex → EC); explains smell-triggered memories
+- [[Neurodegenerative Diseases]] — Braak stage I-II: EC is the earliest site of tau pathology in AD
+
+## 🗂️ Key Information
+
+| Property | Detail |
+|----------|--------|
+| Location | Medial temporal lobe; posteromedial parahippocampal gyrus (anterior part) |
+| Brodmann area | Area 28 (+ area 34 anteriorly) |
+| Size | ~60 cm² in humans |
+| Cytoarchitecture | Transitional (mesocortex): 6 layers but layer IV absent; island cells in layer II |
+| Primary function | Gateway cortex: funnels neocortical information into hippocampus |
+| Blood supply | Posterior cerebral artery (PCA); anterior choroidal artery |
+
+---
+
+## 🔑 Anatomy and Cytoarchitecture
+
+### Subdivisions
+| Division | Location | Primary Connections |
+|----------|---------|-------------------|
+| Lateral EC (LEC) | Anterolateral | Receives sensory/object information ("what" pathway — perirhinal cortex, temporal cortex) |
+| Medial EC (MEC) | Posteromedial | Receives spatial/contextual information (postrhinal/parahippocampal cortex, retrosplenial cortex) |
+
+### Cortical Layers
+| Layer | Cell Types | Key Feature |
+|-------|-----------|------------|
+| I | Axons, few cells | Molecular layer |
+| II | **Island cells** (stellate/pyramidal) | Projects via **perforant path → dentate gyrus** (main hippocampal input) |
+| III | Pyramidal cells | Projects to **CA1 and subiculum** (direct temporoammonic path) |
+| IV | Absent (unlike neocortex) | "Lamina dissecans" — cell-sparse zone |
+| V | Large pyramidal cells | Receives hippocampal output (from CA1/subiculum) |
+| VI | Mixed | Projects back to neocortex |
+
+---
+
+## 🔑 Connectivity — Information Flow
+
+### Input to Hippocampus (Cortical → Hippocampal)
+```
+Neocortical association areas (visual, auditory, somatosensory, prefrontal)
+    ↓
+Perirhinal cortex (area 35/36) + Parahippocampal cortex (area TH/TF)
+    ↓
+Entorhinal Cortex (layers II/III)
+    ↓ Perforant Path (layers II → dentate gyrus)
+    ↓ Temporoammonic Path (layers III → CA1/subiculum directly)
+Hippocampus (trisynaptic circuit)
+```
+
+### Output from Hippocampus (Hippocampal → Cortical)
+```
+CA1 + Subiculum
+    ↓
+Entorhinal Cortex (layers V/VI)
+    ↓
+Perirhinal + Parahippocampal cortices
+    ↓
+Widespread neocortex (memory storage/retrieval)
+```
+
+### Grid Cells (Medial EC)
+- Discovered by Moser & Moser (Nobel Prize 2014, shared with O'Keefe)
+- MEC layer II/III neurons fire at multiple spatial locations forming a **hexagonal grid pattern**
+- Provide a **metric coordinate system** for spatial navigation
+- Work in concert with [[Hippocampus]] place cells (O'Keefe) and head direction cells
+- Grid cell spacing and orientation are consistent within a module, vary between modules
+
+### Perforant Path
+- **Main cortical input to hippocampus**
+- Axons of EC layer II cells perforate the subiculum → reach dentate gyrus and CA3
+- Lateral perforant path (LEC): to outer molecular layer of dentate
+- Medial perforant path (MEC): to middle molecular layer of dentate
+- Temporoammonic path: EC layer III → CA1 (bypasses dentate/CA3 — "direct" path)
+
+---
+
+## 🔑 Role in Memory
+
+### Encoding
+- EC acts as a **convergence zone**: receives already-processed multimodal sensory information (what + where + when) from association cortices
+- Compresses and formats neocortical representations for hippocampal encoding
+- LEC: object/item information ("what")
+- MEC: spatial/contextual information ("where")
+
+### Consolidation
+- During sleep: sharp-wave ripples in hippocampus → replay → EC → neocortex
+- Slow oscillations: cortical → EC → hippocampus (top-down during NREM SWS)
+- EC mediates **bidirectional transfer** during systems consolidation
+
+### Retrieval
+- Cortical cues → EC → hippocampus → pattern completion → EC → cortex
+- EC damage impairs both encoding AND retrieval
+
+---
+
+## 🏥 Clinical Significance
+
+| Condition | EC Involvement | Features |
+|-----------|---------------|---------|
+| **Alzheimer's disease** | **First site of tau pathology** (Braak stage I-II) | Earliest symptom = episodic memory loss (EC → hippocampal disconnection); EC volume loss on MRI predicts conversion from MCI to AD |
+| **Temporal lobe epilepsy** | EC within seizure network; often involved in TLE | Contributes to ictal spread; EC stimulation can trigger déjà vu; EC sclerosis in mesial TLE |
+| **Semantic dementia** | Perirhinal > EC (anterior temporal lobe) | Semantic memory loss; EC relatively spared until late |
+| **Transient global amnesia** | Possible EC + CA1 involvement | Restricted DWI signal in EC/hippocampus during TGA attacks |
+| **Schizophrenia** | EC layer II stellate cells reduced | Disrupted EC→hippocampus connectivity; may underlie formal thought disorder |
+| **COVID-19 / post-COVID** | Possible EC vulnerability (ACE2 expression) | Memory complaints; EC atrophy reported in some post-COVID studies |
+
+---
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → Entorhinal Cortex
+
+## 🎬 3D Interactive Models
+
+
+
+## 3D Interactive Models
+

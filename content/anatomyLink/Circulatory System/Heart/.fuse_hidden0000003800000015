@@ -1,0 +1,76 @@
+---
+tags: [anatomy, coronary-arteries, heart, circulatory-system]
+aliases: [coronary circulation, coronary vessels]
+---
+
+# Coronary Arteries
+
+> The coronary arteries are the **first branches of the [[Aorta]]**, arising just above the aortic valve cusps in the aortic sinuses (of Valsalva). They supply the [[Heart]] muscle (myocardium) with oxygenated blood during diastole.
+
+## 🔗 Key Connections
+- Arise from: [[Aorta]] (aortic sinuses)
+- Supply: [[Heart]] (myocardium)
+
+## 🗂️ Two Main Coronary Arteries
+
+### Left Coronary Artery (LCA)
+Arises from the left aortic sinus → short **left main** stem → divides into:
+
+| Branch | Territory | Supplies |
+|--------|-----------|---------|
+| **Left Anterior Descending (LAD)** | Anterior | Anterior LV wall, anterior 2/3 of interventricular septum, anterior RV, apex |
+| **Left Circumflex (LCx)** | Lateral/posterior | Lateral & posterior LV wall, left atrium; gives off obtuse marginal branches |
+
+### Right Coronary Artery (RCA)
+Arises from the right aortic sinus → travels in right AV groove:
+
+| Branch | Territory | Supplies |
+|--------|-----------|---------|
+| **RCA main** | Right heart | Right atrium, RV anterior wall |
+| **SA node artery** | SA node | 55% from RCA; 45% from LCx |
+| **AV node artery** | AV node | 85% from RCA (dominant) |
+| **Posterior Descending Artery (PDA)** | Posterior | Posterior 1/3 of septum, posterior LV/RV walls |
+
+## 🔑 Coronary Dominance
+- **Right dominant** (85%) — RCA gives rise to PDA
+- **Left dominant** (8%) — LCx gives rise to PDA
+- **Co-dominant** (7%) — both contribute
+
+## 🔑 Venous Drainage
+- **Great cardiac vein** → **coronary sinus** → right atrium (alongside LCA/LAD territory)
+- **Middle cardiac vein** → coronary sinus (alongside PDA)
+- **Small cardiac vein** → coronary sinus (alongside RCA)
+- **Anterior cardiac veins** → drain directly into right atrium
+
+## 🏥 Clinical Significance
+- **Coronary artery disease (CAD)** — atherosclerotic plaque → angina (stable or unstable) → MI
+- **LAD occlusion** — "widow maker"; anterior STEMI; most dangerous; can cause LV failure + septal defects
+- **RCA occlusion** — inferior STEMI (II, III, aVF on ECG); AV block (AV node ischemia); RV infarction
+- **LCx occlusion** — lateral STEMI (I, aVL, V5–V6); often electrically silent
+- **STEMI territories on ECG**:
+  - V1–V4 = anterior (LAD)
+  - II, III, aVF = inferior (RCA)
+  - I, aVL, V5–V6 = lateral (LCx)
+  - V1–V2 = posterior (RCA/LCx) — tall R waves
+- **Percutaneous coronary intervention (PCI)** — balloon angioplasty ± stent; treatment for STEMI
+- **CABG (coronary artery bypass graft)** — internal mammary artery (IMA) used to bypass LAD (gold standard)
+
+
+## 🎬 3D Interactive Models
+- [PLC Heart 09-1](https://sketchfab.com/3d-models/plc-heart-09-1) — UBC.MEDVID
+- [Open PLC heart ID 09-1140](https://sketchfab.com/3d-models/open-plc-heart-id-09-1140-d7e63c6b47ed4bba80cd1dcd50d3562c) — UBC.MEDVID
+- [Closed PLC Heart ID 09-1140](https://sketchfab.com/3d-models/closed-plc-heart-id-09-1140-d79d9a24de8847419a6a41b2549a641a) — UBC.MEDVID
+- [Human Heart](https://sketchfab.com/3d-models/human-heart-975db6a3b84c40d6b481224acec4a6fd) — UBC.MEDVID
+- [Open PLC Heart 11-1463](https://sketchfab.com/3d-models/open-plc-heart-11-1463-b9fe373792c74a8abb97d91acb1fa15a) — UBC.MEDVID
+- [Open PLC Heart 04-0332](https://sketchfab.com/3d-models/open-plc-heart-04-0332-e6a8e1e2893141a38e0cc757a2d8c850) — UBC.MEDVID
+- [Open PLC Heart 11-1446](https://sketchfab.com/3d-models/open-plc-heart-11-1446-786f01975c1648a0ab52c3724c26dce8) — UBC.MEDVID
+- [Open PLC Heart 11-1509](https://sketchfab.com/3d-models/open-plc-heart-11-1509-7698a05619a549b8b85170a4bfc5119a) — UBC.MEDVID
+- [Open PLC Heart 11-1470](https://sketchfab.com/3d-models/open-plc-heart-11-1470-41240f3706124684aa50effd2098679f) — UBC.MEDVID
+- [Open PLC Heart 13-1595](https://sketchfab.com/3d-models/open-plc-heart-13-1595-616b6a93cc2f4d138764b674c3b18506) — UBC.MEDVID
+- [Open PLC Heart 05-0546](https://sketchfab.com/3d-models/open-plc-heart-05-0546-6541fae17fed429db3ba17927834455c) — UBC.MEDVID
+
+## 📍 Location in Circulatory System
+[[Circulatory System]] → [[Heart]] → Coronary Arteries
+
+## 🌐 Interactive Modules (UBC Clinical Anatomy)
+- [Heart Anatomy](https://www.clinicalanatomy.ca/thorax/HeartAnatomy/story.html) — UBC — Coronary circulation & cardiac anatomy

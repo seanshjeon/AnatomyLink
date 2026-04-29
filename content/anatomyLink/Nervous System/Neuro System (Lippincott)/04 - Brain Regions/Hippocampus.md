@@ -1,0 +1,175 @@
+---
+tags: [anatomy, hippocampus, medial-temporal-lobe, memory, LTP, limbic, neuroscience, brain-regions, Papez-circuit, Alzheimer, epilepsy]
+aliases: [Hippocampal Formation, CA Fields, Cornu Ammonis, Ammon's Horn]
+---
+
+# 🧠 Hippocampus
+
+> The hippocampus is a **C-shaped archicortical structure in the medial temporal lobe** that serves as the critical gateway for **declarative memory consolidation**, spatial navigation, and the binding of contextual information, operating through a precisely organized trisynaptic excitatory circuit and NMDA-receptor-dependent synaptic plasticity.
+
+## 🔗 Key Connections
+- [[Memory Systems]] — explicit/declarative memory consolidation; episodic + semantic memory
+- [[Limbic System]] — Papez circuit; hippocampus → fornix → mammillary bodies → anterior thalamus → cingulate
+- [[Amygdala]] — emotional memory modulation; anatomical neighbor in medial temporal lobe
+- [[Thalamus]] — anterior nucleus (Papez circuit); indirect diencephalic amnesia connections
+- [[Entorhinal Cortex (via Limbic System)]] — primary input/output gateway; perforant path
+- [[Neurotransmitters]] — glutamate/NMDA-dependent LTP; GABAergic interneurons; acetylcholine (septohippocampal)
+- [[Synaptic Transmission]] — LTP at Schaffer collaterals; canonical NMDA mechanism
+
+## 🗂️ Key Information
+| Property | Detail |
+|----------|--------|
+| Location | Medial temporal lobe; floor of inferior horn of lateral ventricle |
+| Embryology | Archicortex (3-layered cortex); phylogenetically ancient |
+| Subdivisions | Dentate gyrus, CA1–CA4 (cornu ammonis), subiculum, presubiculum, parasubiculum |
+| Main circuit | Trisynaptic loop: entorhinal cortex → DG → CA3 → CA1 → subiculum → entorhinal cortex |
+| Primary input | Entorhinal cortex (via perforant path); septohippocampal (ACh, GABA); contralateral (commissural) |
+| Primary output | Subiculum/CA1 → fornix → mammillary bodies, hypothalamus, septal nuclei, basal forebrain |
+| Key memory type | Explicit declarative memory (episodic + semantic); NOT procedural, emotional conditioning, or priming |
+| Vulnerability | CA1 (Sommer's sector) most sensitive to hypoxia/ischemia; CA2 most resistant |
+| Blood supply | Anterior choroidal artery (temporal horn, hippocampal head); posterior cerebral artery branches |
+
+---
+
+## 🔑 Hippocampal Formation — Cytoarchitecture
+
+### Components
+| Structure | Cortical Type | Cell Type | Position |
+|-----------|--------------|-----------|----------|
+| **Dentate gyrus** | Archicortex (3 layers) | **Granule cells** (principal); mossy cells, GABAergic interneurons | Interlocked with CA3 |
+| **CA3** | Archicortex | Large pyramidal cells; receives mossy fibers from DG | Proximal hippocampus |
+| **CA2** | Archicortex | Pyramidal cells; transition zone; most resistant to ischemia | Between CA3 and CA1 |
+| **CA1 (Sommer's sector)** | Archicortex | Pyramidal cells; most vulnerable to ischemia, excitotoxicity | Distal hippocampus |
+| **Subiculum** | Transitional | Pyramidal cells; main output structure | Between CA1 and entorhinal cortex |
+| **Entorhinal cortex** | 6-layer neocortex-like | Layer II/III neurons → perforant path | Parahippocampal gyrus (area 28) |
+
+### Trisynaptic Circuit
+```
+Entorhinal cortex (layer II/III)
+    ↓ [1] Perforant path (via angular bundle)
+Dentate gyrus (granule cells)
+    ↓ [2] Mossy fibers (Zn²⁺-containing, large boutons)
+CA3 (pyramidal cells)
+    ↓ [3] Schaffer collaterals
+CA1 (pyramidal cells)
+    ↓ Alvear fibers
+Subiculum
+    ↓
+Entorhinal cortex (layer IV) — loop closes
+    ↓
+Fornix → Mammillary bodies / Septal nuclei / Hypothalamus
+```
+
+> The **mossy fibers** (DG → CA3) are unique: they use **zinc as a neuromodulator** (co-released with glutamate from large dense-core vesicles); zinc can inhibit NMDA receptors and modulate synaptic plasticity. CA3 mossy fiber synapses show LTP that is **NMDA-independent** (presynaptic, cAMP/PKA-dependent).
+
+---
+
+## 🔑 Long-Term Potentiation (LTP) at CA3–CA1 Schaffer Collaterals
+
+LTP at the **Schaffer collateral–CA1** synapse is the canonical model of synaptic consolidation:
+
+| Step | Mechanism |
+|------|-----------|
+| 1. Baseline | Presynaptic CA3 neuron releases **glutamate**; activates **AMPA receptors** → EPSP; NMDA receptor channel blocked by Mg²⁺ |
+| 2. Tetanic stimulation | High-frequency presynaptic firing + postsynaptic depolarization (via AMPA) → **Mg²⁺ block of NMDA relieved** |
+| 3. Ca²⁺ influx | NMDA channel opens → **Ca²⁺ influx** into postsynaptic CA1 neuron |
+| 4. Kinase activation | Ca²⁺ → activates **CaMKII** (and PKC, PKA) |
+| 5. Early LTP (E-LTP) | CaMKII → phosphorylates AMPA receptors (↑conductance) + **insertion of additional AMPA receptors** (GluR1) into postsynaptic membrane → ↑synaptic strength |
+| 6. Late LTP (L-LTP) | PKA/MAPK → **CREB phosphorylation** → new protein synthesis → structural changes (spine enlargement, new synapses); requires transcription |
+| 7. Retrograde signal | NO and BDNF may act retrogradely on presynaptic terminal to ↑neurotransmitter release |
+
+> LTP is NMDA-receptor dependent, input-specific (only active synapses potentiated), associative (requires near-simultaneous pre- and postsynaptic activity — "Hebb's rule"), and cooperativity-dependent. NMDA receptor acts as a **coincidence detector**.
+
+---
+
+## 🔑 Place Cells, Grid Cells, and Cognitive Maps
+
+| Cell Type | Location | Function | Nobel Prize |
+|-----------|----------|----------|-------------|
+| **Place cells** | Hippocampal pyramidal cells (CA1, CA3) | Fire selectively when animal is in a specific **location** in the environment; create "cognitive map" | O'Keefe, 2014 |
+| **Grid cells** | Medial entorhinal cortex (MEC) | Fire at multiple equally-spaced locations forming a hexagonal grid; metric system for space | Moser & Moser, 2014 |
+| **Head direction cells** | Presubiculum, thalamus, entorhinal cortex | Fire when head points in a specific direction; "compass" |  |
+| **Border/boundary cells** | Subiculum, entorhinal cortex | Fire at environmental boundaries |  |
+
+> The hippocampus–entorhinal system forms an integrated **spatial navigation system**. In humans, London taxi drivers show enlarged posterior hippocampi (navigation-dependent structural plasticity — Maguire et al.).
+
+---
+
+## 🔑 Memory Consolidation
+
+### Declarative Memory System
+| Memory Type | Hippocampus Required? | Notes |
+|-------------|----------------------|-------|
+| **Episodic** (personal events, time-place context) | Yes, critically | Autobiographical memories; highly hippocampus-dependent |
+| **Semantic** (facts, general knowledge) | Yes initially; can survive hippocampal damage with time | Gradual neocortical consolidation |
+| **Procedural** (skills, habits) | No | Striatum, cerebellum |
+| **Priming** (implicit) | No | Neocortex |
+| **Fear conditioning** | No (amygdala) | Hippocampus for contextual fear (CS-context), amygdala for cued fear (CS-tone) |
+| **Working memory** | Not primarily | Prefrontal cortex |
+
+### HM Case (Henry Molaison)
+- **Operation (1953)**: Bilateral hippocampectomy including entorhinal cortex, amygdala, and parahippocampal cortex for intractable epilepsy (surgeon: William Beecher Scoville)
+- **Results**: Severe **anterograde amnesia** (unable to form new declarative memories); **retrograde amnesia** for recent pre-surgical years (older memories intact); **intact STM** (digit span normal); **intact procedural memory** (learned mirror drawing task each day, improving, but had no memory of practicing); intellectual function intact
+- **Conclusion**: Hippocampus is critical for **converting short-term to long-term declarative memories** (consolidation), not for STM or remote memories
+
+### Systems Consolidation
+- **Hippocampus-dependent phase**: New memories initially require hippocampus; hippocampus binds cortical representations
+- **Sleep replay**: During NREM slow-wave sleep, hippocampal sharp-wave ripples (80–120 Hz) drive replay of waking experiences; coordinates with cortical slow oscillations and thalamic spindles to transfer memories to neocortex
+- **Standard consolidation theory**: Over time, memories become hippocampus-independent as neocortical connections strengthen
+- **Multiple trace theory (Nadel & Moscovitch)**: Episodic memories remain hippocampus-dependent indefinitely; semantic memories eventually become hippocampus-independent
+
+---
+
+## 🔑 Papez Circuit
+
+The **Papez circuit** (proposed 1937) is the anatomical substrate of memory and emotion:
+
+```
+Hippocampus (subiculum/CA1)
+    ↓ Fornix
+Mammillary bodies
+    ↓ Mammillothalamic tract
+Anterior thalamic nucleus
+    ↓ Thalamocortical fibers
+Cingulate cortex (areas 23/24)
+    ↓ Cingulum bundle
+Parahippocampal gyrus / Entorhinal cortex
+    ↓ Perforant path
+Hippocampus  ← loop closes
+```
+
+> Damage anywhere in the Papez circuit produces **memory disturbance**. Mammillary body damage (Korsakoff) and anterior thalamic infarcts cause **diencephalic amnesia** that mimics hippocampal amnesia.
+
+---
+
+## 🔑 Adult Neurogenesis in the Dentate Gyrus
+
+- New granule cells are born from **subgranular zone (SGZ)** progenitor cells in the dentate gyrus
+- Well-established in rodents; **disputed in adult humans** (recent studies show declining rates; Sorrells et al. 2018 found no convincing evidence; Boldrini et al. 2018 found continued neurogenesis)
+- New neurons integrate into trisynaptic circuit; may contribute to pattern separation and memory resolution
+- **Factors promoting**: exercise, enriched environment, BDNF, antidepressants (SSRIs increase neurogenesis)
+- **Factors suppressing**: stress, glucocorticoids, aging, alcohol, irradiation
+
+---
+
+## 🏥 Clinical Significance
+
+| Lesion/Condition | Pathology | Deficits | Key Features |
+|-----------------|-----------|----------|--------------|
+| **Alzheimer's disease** | Earliest: entorhinal cortex → hippocampus (Braak staging I–VI); amyloid plaques (Aβ42); neurofibrillary tangles (hyperphosphorylated tau) | Anterograde amnesia earliest; then retrograde (recent > remote); semantic memory loss; eventually global dementia | Cholinergic deficit (nucleus basalis of Meynert → hippocampus/cortex); MRI: hippocampal atrophy; PET: temporal-parietal hypometabolism |
+| **Transient global amnesia (TGA)** | Transient ischemia or venous congestion of hippocampus (CA1) | Sudden onset **anterograde amnesia** + repetitive questioning; patient oriented; no focal neuro signs; resolves <24h | Age 50–80; precipitated by Valsalva, emotional stress, cold water; DWI shows dot-like CA1 restriction; excellent prognosis |
+| **Temporal lobe epilepsy (TLE)** | **Hippocampal sclerosis** (CA1 and CA3 neuron loss, gliosis, granule cell dispersion) most common substrate | **Complex partial seizures**: aura (déjà vu, olfactory, epigastric rising sensation), automatisms (lip-smacking, hand-fumbling), post-ictal confusion | Mesial TLE; MRI: unilateral hippocampal atrophy + ↑T2 signal; often drug-resistant; **anterior temporal lobectomy** curative in ~70% |
+| **Korsakoff syndrome** | Thiamine deficiency → mammillary body necrosis + thalamic damage (diencephalic amnesia); hippocampal involvement variable | Severe anterograde amnesia; **confabulation**; relatively intact remote memory; apathy; personality change | Wernicke's → Korsakoff if untreated; treat Wernicke's urgently with IV thiamine (before glucose); only partial recovery possible |
+| **Limbic encephalitis** | Autoimmune (anti-NMDAR Ab, anti-LGI1 Ab, anti-CASPR2, anti-AMPAR, anti-GABA-B) | Subacute behavioral change, **anterograde amnesia**, seizures, psychiatric symptoms | MRI: bilateral hippocampal T2/FLAIR hyperintensity; CSF: lymphocytic pleocytosis; treat with immunotherapy; often paraneoplastic (check for tumor) |
+| **Hypoxic-ischemic injury** | CA1 (Sommer's sector) selectively damaged after cardiac arrest/near-drowning | Anterograde amnesia; executive deficits; in severe cases global cognitive impairment | CA1 vulnerability = high metabolic demand + relative NMDA receptor density; CA2 most resistant; CA3 intermediate |
+| **Bilateral hippocampal infarction** | Posterior cerebral artery territory occlusion (bilateral hippocampal branches) | Acute severe anterograde amnesia; Korsakoff-like picture | Rare; bilateral PCA territory stroke; check for basilar artery pathology |
+
+---
+
+## 📍 Location
+[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note
+
+
+## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)
+- [Brain - Limbic System](https://skfb.ly/6ZF7p)
+- [Limbic System Overview](https://skfb.ly/6QWz7)

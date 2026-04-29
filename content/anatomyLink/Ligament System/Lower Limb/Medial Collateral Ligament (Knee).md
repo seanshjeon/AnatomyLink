@@ -1,0 +1,30 @@
+---
+tags: [anatomy, ligament, lower-limb, knee, medial]
+aliases: [MCL knee, tibial collateral ligament, medial collateral ligament knee]
+---
+
+# Medial Collateral Ligament (Knee)
+
+> The **medial collateral ligament (MCL)** of the knee (tibial collateral ligament) is the primary restraint against **valgus stress**, connecting the medial femoral condyle to the medial tibia. It is the most commonly injured knee ligament.
+
+## 🔗 Key Connections
+- **Origin** — Medial femoral condyle ([[Femur]])
+- **Insertion** — Proximal medial [[Tibia]] (4–5 cm below joint line)
+- **Superficial MCL** — Long, primary restraint to valgus stress
+- **Deep MCL** — Short; attached to medial meniscus (hence medial meniscus tears in MCL injuries)
+- **Related structures** — Medial meniscus, [[Anterior Cruciate Ligament]], pes anserinus
+
+## 🏥 Clinical Significance
+- **MCL sprain** — Graded I–III; most common knee ligament injury; valgus stress from lateral impact
+- **Valgus stress test** — At 0° (PCL + MCL) and 30° (MCL isolated); medial gapping
+- **Unhappy triad** — MCL + ACL + medial meniscus (O'Donoghue)
+- **Healing** — MCL has good blood supply and often heals conservatively (unlike ACL)
+- **Pellegrini-Stieda lesion** — Calcification at MCL femoral origin on X-ray after old MCL injury
+
+## 📍 Location
+[[Ligament System]] → Lower Limb → Medial Collateral Ligament (Knee)
+
+
+## 🎬 3D Interactive Models
+- [Plastinated Knee](https://sketchfab.com/3d-models/plastinated-knee-1aeefd8700d542b793e63430927f509b) — UBC.MEDVID
+- [Artificial Knee](https://sketchfab.com/3d-models/artificial-knee-ae66f2927e3347e787455ca60a69338e) — UBC.MEDVID
