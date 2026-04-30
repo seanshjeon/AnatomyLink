@@ -8,11 +8,11 @@ aliases: [mouth, buccal cavity]
 > The oral cavity is the **entry point of the digestive system**, bounded by the lips, cheeks, hard and soft palate, and floor of the mouth. It initiates mechanical digestion (chewing) and chemical digestion (salivary amylase), and is essential for speech and swallowing.
 
 ## 🔗 Key Connections
-- Bounded by: [[Mandible]] (floor/lower teeth), [[Skull]] (hard palate / maxilla above)
-- Continues into: pharynx → [[Esophagus]]
+- Bounded by: [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) (floor/lower teeth), [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) (hard palate / maxilla above)
+- Continues into: pharynx → [Esophagus](./anatomyLink/Digestive System/Upper GI/Esophagus.md)
 - Salivary glands: parotid (CN IX), submandibular, sublingual (CN VII)
-- Muscles: [[Masseter]] (mastication), tongue (CN XII)
-- Innervation: [[Cranial Nerves]] — CN V (sensation), CN VII (taste anterior tongue), CN IX (taste posterior tongue), CN XII (tongue movement)
+- Muscles: [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) (mastication), tongue (CN XII)
+- Innervation: [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V (sensation), CN VII (taste anterior tongue), CN IX (taste posterior tongue), CN XII (tongue movement)
 
 ## 🗂️ Key Structures
 
@@ -28,7 +28,7 @@ aliases: [mouth, buccal cavity]
 ## 🔑 Swallowing (Deglutition) — 3 Phases
 1. **Oral (voluntary)** — tongue pushes bolus to pharynx
 2. **Pharyngeal (reflex)** — soft palate closes nasopharynx; larynx elevates; epiglottis covers larynx; pharyngeal constrictors propel bolus
-3. **Oesophageal (involuntary)** — peristalsis carries bolus to [[Stomach]]
+3. **Oesophageal (involuntary)** — peristalsis carries bolus to [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md)
 
 ## 🏥 Clinical Significance
 - **Oral cancer** — most common on lateral tongue and floor of mouth; squamous cell carcinoma; risk: tobacco + alcohol; HPV (oropharynx)
@@ -43,4 +43,4 @@ aliases: [mouth, buccal cavity]
 - [Orbit from within Cranial Cavity](https://sketchfab.com/3d-models/orbit-from-within-cranial-cavity-caf1e5fe161449e4a1324cdcb3156949) — UBC.MEDVID
 
 ## 📍 Location in Digestive System
-[[Digestive System]] → Upper GI → Oral Cavity
+[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Upper GI → Oral Cavity

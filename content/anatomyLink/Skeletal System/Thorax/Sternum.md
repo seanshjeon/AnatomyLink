@@ -8,14 +8,14 @@ aliases: [breastbone, sternum]
 > The sternum is a **flat bone** in the midline of the anterior thorax forming the front wall of the thoracic cage. In adults, **red bone marrow** persists, making it a site for bone marrow biopsy.
 
 ## 🔗 Connected Structures
-- [[Ribs]] — **Sternocostal joints** with costal cartilages of ribs 1–7
-- [[Clavicle]] — **Sternoclavicular joint (SCJ)** — the only bony joint between the upper limb and the axial skeleton
-- [[Thoracic Vertebrae]] — Indirectly connected via the ribs
+- [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) — **Sternocostal joints** with costal cartilages of ribs 1–7
+- [Clavicle](./anatomyLink/Skeletal System/Upper Limb/Clavicle.md) — **Sternoclavicular joint (SCJ)** — the only bony joint between the upper limb and the axial skeleton
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — Indirectly connected via the ribs
 
 ## 🔗 Associated Muscles
-- [[Pectoralis Major]] — Originates from the sternal body and medial clavicle
-- [[Rectus Abdominis]] — Inserts on the xiphoid process
-- [[Sternocleidomastoid]] — Originates from the manubrium
+- [Pectoralis Major](./anatomyLink/Muscular System/Trunk/Pectoralis Major.md) — Originates from the sternal body and medial clavicle
+- [Rectus Abdominis](./anatomyLink/Muscular System/Trunk/Rectus Abdominis.md) — Inserts on the xiphoid process
+- [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) — Originates from the manubrium
 
 ## 🗂️ Structure
 
@@ -40,7 +40,7 @@ aliases: [breastbone, sternum]
 - **Sternal angle** — Critical landmark in physical examination and thoracic anatomy
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Thoracic Cage → Sternum
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Thoracic Cage → Sternum
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Thorax](https://www.clinicalanatomy.ca/thorax/Thorax/story.html) — UBC — Thoracic wall, ribs, sternum & pleura

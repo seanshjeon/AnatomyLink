@@ -8,15 +8,15 @@ aliases: [rectum, anus, anal canal]
 > The rectum is the **15-cm terminal segment of the large bowel**, serving as a faecal reservoir. The anal canal (~4 cm) is the final segment, controlled by internal (involuntary) and external (voluntary) anal sphincters.
 
 ## 🔗 Key Connections
-- Receives from: [[Large Intestine]] (sigmoid colon at S3 level)
+- Receives from: [Large Intestine](./anatomyLink/Digestive System/Lower GI/Large Intestine.md) (sigmoid colon at S3 level)
 - Blood supply:
   - Superior rectal artery (from IMA — hindgut)
-  - Middle rectal artery (from internal iliac — [[Iliac Arteries]])
-  - Inferior rectal artery (from internal pudendal — [[Iliac Arteries]])
+  - Middle rectal artery (from internal iliac — [Iliac Arteries](./anatomyLink/Circulatory System/Arteries/Iliac Arteries.md))
+  - Inferior rectal artery (from internal pudendal — [Iliac Arteries](./anatomyLink/Circulatory System/Arteries/Iliac Arteries.md))
 - Venous drainage: **portosystemic anastomosis**
-  - Superior rectal vein → inferior mesenteric vein → [[Portal System]]
-  - Middle + inferior rectal veins → internal iliac → [[Inferior Vena Cava]]
-- Relations: [[Sacrum]] + [[Coccyx]] (posterior), [[Hip Bone]] (lateral — levator ani)
+  - Superior rectal vein → inferior mesenteric vein → [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md)
+  - Middle + inferior rectal veins → internal iliac → [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md)
+- Relations: [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) + [Coccyx](./anatomyLink/Skeletal System/Spine/Coccyx.md) (posterior), [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) (lateral — levator ani)
 
 ## 🗂️ Key Anatomy
 
@@ -49,7 +49,7 @@ aliases: [rectum, anus, anal canal]
 - **Rectal prolapse** — full-thickness rectum protrudes through anus; older women; treat: Altemeier (perineal) or Delorme's procedure
 
 ## 📍 Location in Digestive System
-[[Digestive System]] → Lower GI → Rectum and Anal Canal
+[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Lower GI → Rectum and Anal Canal
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Hindgut](https://www.clinicalanatomy.ca/abdomen/Hindgut/story.html) — UBC — Hindgut, rectum & anal canal

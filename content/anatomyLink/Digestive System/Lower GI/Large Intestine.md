@@ -8,19 +8,19 @@ aliases: [large bowel, colon, cecum, colon ascendens]
 > The large intestine is a **1.5-metre frame** surrounding the small bowel, responsible for **water and electrolyte absorption**, vitamin K and B production by gut flora, and formation and storage of faeces. It extends from the ileocaecal valve to the rectum.
 
 ## 🔗 Key Connections
-- Receives from: [[Small Intestine]] (at ileocaecal valve, right iliac fossa)
-- Continues to: [[Rectum and Anal Canal]]
+- Receives from: [Small Intestine](./anatomyLink/Digestive System/Upper GI/Small Intestine.md) (at ileocaecal valve, right iliac fossa)
+- Continues to: [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md)
 - Blood supply:
   - **SMA**: cecum, ascending colon, transverse colon (right and middle colic arteries)
   - **IMA**: descending colon, sigmoid colon (left colic + sigmoid arteries)
-- Venous drainage: → [[Portal System]]
-- Relations: [[Iliac Arteries]] (sigmoid crosses over), [[Femur|inguinal region]] (inguinal hernias near cecum)
+- Venous drainage: → [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md)
+- Relations: [Iliac Arteries](./anatomyLink/Circulatory System/Arteries/Iliac Arteries.md) (sigmoid crosses over), [inguinal region](./anatomyLink/Skeletal System/Lower Limb/Femur.md) (inguinal hernias near cecum)
 
 ## 🗂️ Segments
 
 | Segment | Length | Location | Key Feature |
 |---------|--------|----------|-------------|
-| **Cecum** | 6 cm | Right iliac fossa, intraperitoneal | Receives [[Small Intestine]] via ileocaecal valve; appendix attached |
+| **Cecum** | 6 cm | Right iliac fossa, intraperitoneal | Receives [Small Intestine](./anatomyLink/Digestive System/Upper GI/Small Intestine.md) via ileocaecal valve; appendix attached |
 | **Appendix** | 2–20 cm | Variable (retrocaecal most common) | Lymphoid organ; vestigial; McBurney's point |
 | **Ascending colon** | 15 cm | Right side; **retroperitoneal** | Right colic (hepatic) flexure at liver |
 | **Transverse colon** | 50 cm | Intraperitoneal; mobile | Attached by transverse mesocolon; hangs inferior |
@@ -45,7 +45,7 @@ The **splenic flexure** is the watershed between SMA and IMA territories — mos
 - **Hirschsprung's disease** — congenital absence of ganglion cells (from anus upward); failure to pass meconium; abdominal distension; treat: pull-through surgery
 
 ## 📍 Location in Digestive System
-[[Digestive System]] → Lower GI → Large Intestine
+[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Lower GI → Large Intestine
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Midgut](https://www.clinicalanatomy.ca/abdomen/Midgut/story.html) — UBC — Midgut & proximal large intestine

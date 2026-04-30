@@ -8,14 +8,14 @@ aliases: [NT, Chemical Messengers, Neuromodulators]
 > Neurotransmitters are **endogenous chemical messengers** released from presynaptic terminals upon Ca²⁺ influx, diffusing across the synaptic cleft to act on **ionotropic or metabotropic receptors** on postsynaptic cells, producing **fast excitatory, inhibitory, or modulatory effects** that underlie all neural communication.
 
 ## 🔗 Key Connections
-- [[Neuron]] — synthesized and released by neurons
-- [[Synaptic Transmission]] — mechanism of NT release and receptor binding
-- [[Pain Pathways]] — glutamate, substance P, opioids modulate pain
-- [[Basal Ganglia]] — dopamine (nigrostriatal pathway)
-- [[Limbic System]] — dopamine (mesolimbic), serotonin, norepinephrine
-- [[Autonomic Nervous System]] — ACh, norepinephrine, dopamine
-- [[Nervous System]] — parent system
-- [[Neuro System (Lippincott)]] — parent course module
+- [Neuron](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neuron.md) — synthesized and released by neurons
+- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — mechanism of NT release and receptor binding
+- [Pain Pathways](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Pain Pathways.md) — glutamate, substance P, opioids modulate pain
+- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — dopamine (nigrostriatal pathway)
+- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — dopamine (mesolimbic), serotonin, norepinephrine
+- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — ACh, norepinephrine, dopamine
+- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
+- [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/Neuro System (Lippincott).md) — parent course module
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -304,4 +304,4 @@ aliases: [NT, Chemical Messengers, Neuromodulators]
 ---
 
 ## 📍 Location
-[[Nervous System]] → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Neurotransmitters
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Neurotransmitters

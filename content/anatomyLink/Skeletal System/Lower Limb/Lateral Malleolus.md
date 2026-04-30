@@ -5,14 +5,14 @@ aliases: [lateral malleolus]
 
 # Lateral Malleolus
 
-> The **lateral malleolus** is the bony projection at the distal end of the [[Fibula]], forming the lateral wall of the ankle mortise. It extends ~1 cm more distally than the [[Medial Malleolus]], providing lateral stability to the ankle.
+> The **lateral malleolus** is the bony projection at the distal end of the [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md), forming the lateral wall of the ankle mortise. It extends ~1 cm more distally than the [Medial Malleolus](./anatomyLink/Skeletal System/Lower Limb/Medial Malleolus.md), providing lateral stability to the ankle.
 
 ## 🔗 Key Connections
-- [[Fibula]] — distal fibula
-- [[Tibia]] — distal tibiofibular syndesmosis (fibrous joint)
-- [[Talus]] — lateral talar surface articulates with the lateral malleolus
+- [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) — distal fibula
+- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — distal tibiofibular syndesmosis (fibrous joint)
+- [Talus](./anatomyLink/Skeletal System/Lower Limb/Talus.md) — lateral talar surface articulates with the lateral malleolus
 - Lateral ankle ligaments — ATFL, CFL, PTFL (from lateral malleolus to calcaneus/talus)
-- [[Medial Malleolus]] — together form the ankle mortise
+- [Medial Malleolus](./anatomyLink/Skeletal System/Lower Limb/Medial Malleolus.md) — together form the ankle mortise
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -28,4 +28,4 @@ aliases: [lateral malleolus]
 - **Ottawa Ankle Rules** — Lateral malleolus posterior edge tenderness → X-ray required
 
 ## 📍 Location
-[[Skeletal System]] → [[Fibula]] → Lateral Malleolus
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) → Lateral Malleolus

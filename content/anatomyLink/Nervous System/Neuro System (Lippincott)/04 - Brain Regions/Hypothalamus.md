@@ -7,13 +7,13 @@ aliases: [Hypothalamic Nuclei, Diencephalon Hypothalamus, Homeostasis Center]
 > The hypothalamus is a **small (~4 g) but extraordinarily powerful diencephalic structure forming the floor and walls of the third ventricle**, governing homeostasis through integrated control of autonomic function, endocrine output, circadian rhythmicity, feeding, thermoregulation, reproduction, and behavioral drives.
 
 ## 🔗 Key Connections
-- [[Brain]] — diencephalon; immediately below thalamus, above brainstem
-- [[Limbic System]] — amygdala → medial hypothalamus (stria terminalis); hippocampus projections; emotion-visceral interface
-- [[Autonomic Nervous System]] — lateral hypothalamus → sympathetic; anterior → parasympathetic
-- [[Thalamus]] — reciprocal connections; functional neighbor sharing the diencephalon
-- [[Hippocampus]] — fornix projects to mammillary bodies; memory circuit
-- [[Amygdala]] — stria terminalis and ventral amygdalofugal pathway to hypothalamus
-- [[Sleep and Wakefulness]] — lateral hypothalamus (orexin neurons) critical for arousal/narcolepsy
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — diencephalon; immediately below thalamus, above brainstem
+- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — amygdala → medial hypothalamus (stria terminalis); hippocampus projections; emotion-visceral interface
+- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — lateral hypothalamus → sympathetic; anterior → parasympathetic
+- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — reciprocal connections; functional neighbor sharing the diencephalon
+- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — fornix projects to mammillary bodies; memory circuit
+- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — stria terminalis and ventral amygdalofugal pathway to hypothalamus
+- [Sleep and Wakefulness](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Sleep and Wakefulness.md) — lateral hypothalamus (orexin neurons) critical for arousal/narcolepsy
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -130,7 +130,7 @@ aliases: [Hypothalamic Nuclei, Diencephalon Hypothalamus, Homeostasis Center]
 
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
 
 
 

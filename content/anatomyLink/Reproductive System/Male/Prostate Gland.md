@@ -8,11 +8,11 @@ aliases: [prostate, prostata]
 > The prostate is a **walnut-sized fibromuscular glandular organ** (~20 g, 3 cm) encircling the proximal urethra at the bladder neck. It secretes **prostatic fluid** (~25% of semen volume) containing PSA, zinc, and citric acid, and is the most clinically significant male reproductive organ.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
 - Superior: Urinary bladder neck
 - Inferior: Urogenital diaphragm / external urethral sphincter
-- Posterior: [[Rectum and Anal Canal]] (palpable on DRE)
-- Receives: Ejaculatory ducts (from [[Vas Deferens]] + [[Seminal Vesicles]])
+- Posterior: [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md) (palpable on DRE)
+- Receives: Ejaculatory ducts (from [Vas Deferens](./anatomyLink/Reproductive System/Male/Vas Deferens.md) + [Seminal Vesicles](./anatomyLink/Reproductive System/Male/Seminal Vesicles.md))
 - Expels into: Prostatic urethra (via 20–30 prostatic ducts)
 - Blood supply: Inferior vesical artery (internal iliac) + middle rectal artery
 - Venous drainage: Prostatic venous plexus → internal iliac veins
@@ -41,4 +41,4 @@ aliases: [prostate, prostata]
 - **PSA** — elevated in cancer, BPH, prostatitis; not fully specific
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Male → Prostate Gland
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Male → Prostate Gland

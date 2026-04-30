@@ -23,16 +23,16 @@ aliases: [canine, cuspid, eye tooth, 송곳니]
 - **Arch corner** — Anchors the curvature of the dental arch
 
 ## 🏥 Clinical Significance
-- **Canine impaction** — Upper canines are the most commonly impacted teeth after [[Wisdom Tooth|wisdom teeth]]; may require surgical exposure + orthodontic traction
+- **Canine impaction** — Upper canines are the most commonly impacted teeth after [wisdom teeth](./anatomyLink/Skeletal System/Skull Region/Wisdom Tooth.md); may require surgical exposure + orthodontic traction
 - **Canine guidance** — Lost in group function occlusion; canine wear increases stress on molars
 - **Longest retention** — Due to long roots, canines are often the last teeth lost in edentulous patients
 - **Palpation** — Upper canine root can be palpated through the cheek just below the eye socket (hence "eye tooth")
 
 ## 🔗 Key Connections
-- [[Teeth]] — 4 of 32 permanent teeth
-- [[Mandible]] — lower canines (#22, #27)
-- [[Skull]] — upper canines (#6, #11) in maxilla
-- [[Cranial Nerves]] — CN V2 (upper) + CN V3 (lower) innervation
+- [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) — 4 of 32 permanent teeth
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — lower canines (#22, #27)
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — upper canines (#6, #11) in maxilla
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V2 (upper) + CN V3 (lower) innervation
 
 ## 📍 Location
-[[Skeletal System]] → [[Teeth]] → Canines
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) → Canines

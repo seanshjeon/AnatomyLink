@@ -5,13 +5,13 @@ aliases: [coronoid process of ulna]
 
 # Coronoid Process
 
-> The **coronoid process** is the anterior bony projection at the proximal end of the [[Ulna]], forming the anterior wall of the trochlear notch and resisting posterior displacement of the ulna (elbow dislocation).
+> The **coronoid process** is the anterior bony projection at the proximal end of the [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md), forming the anterior wall of the trochlear notch and resisting posterior displacement of the ulna (elbow dislocation).
 
 ## 🔗 Key Connections
-- [[Ulna]] — anterior proximal ulna
-- [[Humerus]] — articulates with the trochlea; coronoid enters coronoid fossa in full flexion
-- [[Brachialis]] — inserts on the ulnar tuberosity just distal to the coronoid process
-- [[Pronator Teres]] — medial head originates from the medial coronoid process
+- [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) — anterior proximal ulna
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — articulates with the trochlea; coronoid enters coronoid fossa in full flexion
+- [Brachialis](./anatomyLink/Muscular System/Upper Limb/Brachialis.md) — inserts on the ulnar tuberosity just distal to the coronoid process
+- [Pronator Teres](./anatomyLink/Muscular System/Upper Limb/Pronator Teres.md) — medial head originates from the medial coronoid process
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -25,4 +25,4 @@ aliases: [coronoid process of ulna]
 - **Regan-Morrey classification** — Grades I–III based on size of coronoid fragment
 
 ## 📍 Location
-[[Skeletal System]] → [[Ulna]] → Coronoid Process
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) → Coronoid Process

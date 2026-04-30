@@ -9,10 +9,10 @@ aliases: [sacrospinous ligament]
 
 ## 🔗 Key Connections
 - **Origin** — Lateral sacrum + coccyx
-- **Insertion** — Ischial spine ([[Hip Bone]])
+- **Insertion** — Ischial spine ([Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md))
 - **Creates** — Greater sciatic foramen (above sacrospinous) + lesser sciatic foramen (between sacrospinous + sacrotuberous)
-- **Related** — [[Sacrotuberous Ligament]], [[Sacrum]], [[Sciatic Nerve]]
-- **Passes through greater sciatic foramen** — [[Piriformis]], [[Sciatic Nerve]], [[Superior Gluteal Nerve]], pudendal nerve
+- **Related** — [Sacrotuberous Ligament](./anatomyLink/Skeletal System/Lower Limb/Sacrotuberous Ligament.md), [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md), [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md)
+- **Passes through greater sciatic foramen** — [Piriformis](./anatomyLink/Muscular System/Lower Limb/Piriformis.md), [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md), [Superior Gluteal Nerve](./anatomyLink/Nervous System/Peripheral Nervous System/Superior Gluteal Nerve.md), pudendal nerve
 
 ## 🏥 Clinical Significance
 - **Pudendal nerve entrapment** — Pudendal nerve passes between sacrospinous + sacrotuberous ligaments → chronic pelvic pain
@@ -21,4 +21,4 @@ aliases: [sacrospinous ligament]
 - **Pelvic instability** — Injury to both sacrotuberous + sacrospinous ligaments (as in SI joint disruption) → severe pelvic instability
 
 ## 📍 Location
-[[Ligament System]] → Lower Limb → Sacrospinous Ligament
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Lower Limb → Sacrospinous Ligament

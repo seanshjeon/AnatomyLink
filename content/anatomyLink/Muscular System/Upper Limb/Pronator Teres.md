@@ -4,12 +4,12 @@ aliases: [pronator teres muscle]
 ---
 # Pronator Teres
 
-> The **pronator teres** is the primary forearm pronator, crossing the elbow from the [[Medial Epicondyle]] of the [[Humerus]] to the lateral [[Radius]]. The **median nerve** passes between its two heads.
+> The **pronator teres** is the primary forearm pronator, crossing the elbow from the [Medial Epicondyle](./anatomyLink/Skeletal System/Upper Limb/Medial Epicondyle.md) of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) to the lateral [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md). The **median nerve** passes between its two heads.
 
 ## 🔗 Key Connections
-- **Origin** — Humeral head: [[Medial Epicondyle]]; ulnar head: [[Coronoid Process]] of [[Ulna]]
-- **Insertion** — Middle of lateral [[Radius]] (pronator tuberosity)
-- **Nerve** — [[Median Nerve]] (C6, C7)
+- **Origin** — Humeral head: [Medial Epicondyle](./anatomyLink/Skeletal System/Upper Limb/Medial Epicondyle.md); ulnar head: [Coronoid Process](./anatomyLink/Skeletal System/Upper Limb/Coronoid Process.md) of [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md)
+- **Insertion** — Middle of lateral [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) (pronator tuberosity)
+- **Nerve** — [Median Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Median Nerve.md) (C6, C7)
 - **Action** — Forearm pronation + assists elbow flexion
 
 ## 🏥 Clinical Significance
@@ -17,7 +17,7 @@ aliases: [pronator teres muscle]
 - **Medial epicondyle origin** — Part of flexor-pronator group; involved in medial epicondylitis
 
 ## 📍 Location
-[[Muscular System]] → Upper Limb → Pronator Teres
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Upper Limb → Pronator Teres
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Forearm](https://www.clinicalanatomy.ca/upperlimb/Forearm/story.html) — UBC — Forearm pronators & flexors

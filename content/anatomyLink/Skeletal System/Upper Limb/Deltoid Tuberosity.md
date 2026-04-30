@@ -5,12 +5,12 @@ aliases: [deltoid tubercle]
 
 # Deltoid Tuberosity
 
-> The **deltoid tuberosity** is a roughened V-shaped area on the lateral midshaft of the [[Humerus]] where the [[Deltoid]] muscle inserts.
+> The **deltoid tuberosity** is a roughened V-shaped area on the lateral midshaft of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) where the [Deltoid](./anatomyLink/Muscular System/Upper Limb/Deltoid.md) muscle inserts.
 
 ## 🔗 Key Connections
-- [[Humerus]] — lateral midshaft, ~halfway down the humerus
-- [[Deltoid]] — inserts here (all three heads: anterior/middle/posterior)
-- [[Radial Nerve]] — the radial groove (spiral groove) passes posterior to the deltoid tuberosity level
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — lateral midshaft, ~halfway down the humerus
+- [Deltoid](./anatomyLink/Muscular System/Upper Limb/Deltoid.md) — inserts here (all three heads: anterior/middle/posterior)
+- [Radial Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Radial Nerve.md) — the radial groove (spiral groove) passes posterior to the deltoid tuberosity level
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -24,4 +24,4 @@ aliases: [deltoid tubercle]
 - **Radial nerve palsy** — Holstein-Lewis fracture (distal 1/3) or fracture at spiral groove level
 
 ## 📍 Location
-[[Skeletal System]] → [[Humerus]] → Deltoid Tuberosity
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) → Deltoid Tuberosity

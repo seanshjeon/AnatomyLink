@@ -5,12 +5,12 @@ aliases: [funiculus spermaticus]
 
 # Spermatic Cord
 
-> The spermatic cord is a **cylindrical bundle of structures** running from the deep inguinal ring to the posterior border of the [[Testes]]. It suspends the testis within the [[Scrotum]] and transmits the vas deferens, blood vessels, lymphatics, and nerves.
+> The spermatic cord is a **cylindrical bundle of structures** running from the deep inguinal ring to the posterior border of the [Testes](./anatomyLink/Reproductive System/Male/Testes.md). It suspends the testis within the [Scrotum](./anatomyLink/Reproductive System/Male/Scrotum.md) and transmits the vas deferens, blood vessels, lymphatics, and nerves.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Passes through: Inguinal canal (deep ring → superficial ring) → [[Scrotum]]
-- Contains: [[Vas Deferens]], testicular artery, pampiniform plexus, cremasteric vessels, lymphatics
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Passes through: Inguinal canal (deep ring → superficial ring) → [Scrotum](./anatomyLink/Reproductive System/Male/Scrotum.md)
+- Contains: [Vas Deferens](./anatomyLink/Reproductive System/Male/Vas Deferens.md), testicular artery, pampiniform plexus, cremasteric vessels, lymphatics
 - Coverings (outside→in): External spermatic fascia → cremaster muscle + cremasteric fascia → internal spermatic fascia
 
 ## 🔬 Contents — Mnemonic: **"3 arteries, 3 nerves, 3 other"**
@@ -30,7 +30,7 @@ aliases: [funiculus spermaticus]
 ## ⚙️ Function
 - **Thermoregulation** — pampiniform plexus acts as countercurrent heat exchanger; cools arterial blood supplying testis
 - **Cremasteric reflex** — cremaster muscle elevates testis in response to cold or touch (L1–L2)
-- Conduit for sperm transport ([[Vas Deferens]])
+- Conduit for sperm transport ([Vas Deferens](./anatomyLink/Reproductive System/Male/Vas Deferens.md))
 
 ## 🏥 Clinical Significance
 - **Testicular torsion** — twisting of cord cuts off blood supply → emergency orchiopexy within 4–6 hours
@@ -39,4 +39,4 @@ aliases: [funiculus spermaticus]
 - **Hydrocele** — fluid around testis within tunica vaginalis; if communicating, patent processus vaginalis along cord
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Male → Spermatic Cord
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Male → Spermatic Cord

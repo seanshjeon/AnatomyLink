@@ -10,7 +10,7 @@ aliases: [yellow ligament, LF]
 ## 🔗 Key Connections
 - **Attachment** — Inferior border of upper lamina → superior border of lower lamina (bilateral, paired)
 - **Levels** — C2–C3 to L5–S1
-- **Related structures** — [[Spinal Cord]], [[Vertebral Column]], epidural space (lies just anterior to LF)
+- **Related structures** — [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md), [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md), epidural space (lies just anterior to LF)
 
 ## 🏥 Clinical Significance
 - **Spinal stenosis** — Hypertrophy (thickening) of LF narrows the spinal canal → neurogenic claudication
@@ -18,4 +18,4 @@ aliases: [yellow ligament, LF]
 - **Lumbar disc disease** — Thickened LF + disc herniation = combined central stenosis
 
 ## 📍 Location
-[[Ligament System]] → Spine → Ligamentum Flavum
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Spine → Ligamentum Flavum

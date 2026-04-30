@@ -5,12 +5,12 @@ aliases: [ventricular system, CSF, cerebrospinal fluid, ventricles, 뇌실]
 
 # Ventricular System & CSF
 
-> The **ventricular system** is a series of interconnected cavities within the [[Brain]] filled with **cerebrospinal fluid (CSF)**. CSF cushions the brain, removes waste, and maintains ionic balance. Total CSF volume ~150 mL; produced at ~500 mL/day → replaced 3–4× daily.
+> The **ventricular system** is a series of interconnected cavities within the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) filled with **cerebrospinal fluid (CSF)**. CSF cushions the brain, removes waste, and maintains ionic balance. Total CSF volume ~150 mL; produced at ~500 mL/day → replaced 3–4× daily.
 
 ## 🔗 Key Connections
-- [[Brain]] — ventricles are embedded within brain tissue
-- [[Spinal Cord]] — central canal continuous with 4th ventricle; subarachnoid space surrounds cord
-- [[Meninges]] — CSF flows in the subarachnoid space between arachnoid and pia
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — ventricles are embedded within brain tissue
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — central canal continuous with 4th ventricle; subarachnoid space surrounds cord
+- [Meninges](./anatomyLink/Nervous System/Central Nervous System/Meninges.md) — CSF flows in the subarachnoid space between arachnoid and pia
 
 ## 🗂️ CSF Flow Pathway
 
@@ -86,4 +86,4 @@ Choroid plexus (lateral ventricles) → Interventricular foramen (Foramen of Mon
 - [MRI Resources](https://neuroanatomy.ca/mri.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Central Nervous System → Ventricular System
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Ventricular System

@@ -5,13 +5,13 @@ aliases: [SVC, superior vena cava]
 
 # Superior Vena Cava
 
-> The superior vena cava (SVC) is the **large venous trunk returning deoxygenated blood from the upper body** (head, neck, upper limbs, thorax) to the right atrium of the [[Heart]]. It has no valves.
+> The superior vena cava (SVC) is the **large venous trunk returning deoxygenated blood from the upper body** (head, neck, upper limbs, thorax) to the right atrium of the [Heart](./anatomyLink/Circulatory System/Heart/Heart.md). It has no valves.
 
 ## 🔗 Key Connections
-- Drains into: [[Heart]] (right atrium)
+- Drains into: [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) (right atrium)
 - Formed by: right and left brachiocephalic veins (each formed by subclavian + internal jugular veins)
-- Drains: [[Jugular Veins]] (head/neck), subclavian veins (upper limbs), azygos system (posterior thorax)
-- Relation to: [[Sternum]] (behind manubrium), ascending [[Aorta]] (to the left), right lung hilum
+- Drains: [Jugular Veins](./anatomyLink/Circulatory System/Veins/Jugular Veins.md) (head/neck), subclavian veins (upper limbs), azygos system (posterior thorax)
+- Relation to: [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) (behind manubrium), ascending [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (to the left), right lung hilum
 
 ## 🗂️ Key Information
 
@@ -42,6 +42,6 @@ The azygos vein (right) and hemiazygos veins (left) drain the posterior thoracic
 - [Posterior Thoracic Wall](https://sketchfab.com/3d-models/posterior-thoracic-wall-f09253eac0464b52a6083ce8b6ce5b69) — UBC.MEDVID
 
 ## 📍 Location in Circulatory System
-[[Circulatory System]] → Veins → Superior Vena Cava
+[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Veins → Superior Vena Cava
 
 

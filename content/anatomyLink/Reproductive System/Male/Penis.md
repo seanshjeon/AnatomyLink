@@ -8,9 +8,9 @@ aliases: [phallus]
 > The penis is the **male external genital organ** and the terminal segment of the urinary and reproductive tracts. It consists of three erectile cylinders and serves as the conduit for both **urine** and **semen**.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Receives urethra from: [[Prostate Gland]] → membranous urethra → spongy (penile) urethra
-- Receives duct from: [[Bulbourethral Glands]] (bulbar urethra)
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Receives urethra from: [Prostate Gland](./anatomyLink/Reproductive System/Male/Prostate Gland.md) → membranous urethra → spongy (penile) urethra
+- Receives duct from: [Bulbourethral Glands](./anatomyLink/Reproductive System/Male/Bulbourethral Glands.md) (bulbar urethra)
 - Blood supply: Internal pudendal artery → dorsal artery, deep artery of penis (cavernosal artery)
 - Venous drainage: Deep dorsal vein → prostatic venous plexus
 - Lymphatics: Superficial inguinal nodes (penile skin), deep inguinal / internal iliac nodes (glans/urethra)
@@ -42,4 +42,4 @@ aliases: [phallus]
 - **Hypospadias** — urethral meatus on ventral surface; commonest male urogenital anomaly
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Male → Penis
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Male → Penis

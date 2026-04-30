@@ -5,12 +5,12 @@ aliases: [gluteus minimus muscle]
 
 # Gluteus Minimus
 
-> The **gluteus minimus** is the smallest and deepest gluteal muscle, lying directly beneath [[Gluteus Medius]]. Together they form the primary hip abductors, critical for maintaining pelvic stability during single-leg stance.
+> The **gluteus minimus** is the smallest and deepest gluteal muscle, lying directly beneath [Gluteus Medius](./anatomyLink/Muscular System/Lower Limb/Gluteus Medius.md). Together they form the primary hip abductors, critical for maintaining pelvic stability during single-leg stance.
 
 ## 🔗 Key Connections
 - **Origin** — Ilium (between anterior and inferior gluteal lines)
-- **Insertion** — Anterior facet of [[Greater Trochanter]] of [[Femur]]
-- **Nerve** — [[Superior Gluteal Nerve]] (L4, L5, S1)
+- **Insertion** — Anterior facet of [Greater Trochanter](./anatomyLink/Skeletal System/Lower Limb/Greater Trochanter.md) of [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md)
+- **Nerve** — [Superior Gluteal Nerve](./anatomyLink/Nervous System/Peripheral Nervous System/Superior Gluteal Nerve.md) (L4, L5, S1)
 - **Action** — Hip abduction + internal rotation (with Gluteus Medius)
 
 ## 🏥 Clinical Significance
@@ -19,4 +19,4 @@ aliases: [gluteus minimus muscle]
 - **Greater trochanteric pain syndrome** — Tendinopathy at greater trochanter insertion
 
 ## 📍 Location
-[[Muscular System]] → Lower Limb → Gluteus Minimus
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Lower Limb → Gluteus Minimus

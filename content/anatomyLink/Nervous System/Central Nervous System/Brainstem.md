@@ -4,13 +4,13 @@ aliases: [brainstem, brain stem, truncus cerebri]
 ---
 # Brainstem
 
-> The **brainstem** connects the [[Brain]] to the [[Spinal Cord]] and consists of three parts: **midbrain (mesencephalon)**, **pons**, and **medulla oblongata**. It houses cranial nerve nuclei III–XII, controls vital functions, and contains all ascending and descending pathways.
+> The **brainstem** connects the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) to the [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) and consists of three parts: **midbrain (mesencephalon)**, **pons**, and **medulla oblongata**. It houses cranial nerve nuclei III–XII, controls vital functions, and contains all ascending and descending pathways.
 
 ## 🔗 Key Connections
-- [[Brain]] — superior continuation (diencephalon above)
-- [[Spinal Cord]] — inferior continuation through foramen magnum
-- [[Cranial Nerves]] — CN III–XII nuclei housed within brainstem
-- [[Cerebellum]] — connected via three cerebellar peduncles
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — superior continuation (diencephalon above)
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — inferior continuation through foramen magnum
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN III–XII nuclei housed within brainstem
+- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — connected via three cerebellar peduncles
 
 ## 🗂️ Three Divisions
 
@@ -20,7 +20,7 @@ aliases: [brainstem, brain stem, truncus cerebri]
 | **Cerebral peduncles** | Corticospinal + corticobulbar tracts descend |
 | **Tectum** (superior/inferior colliculi) | Superior: visual reflexes; Inferior: auditory reflexes |
 | **Tegmentum** | CN III, IV nuclei; red nucleus; substantia nigra |
-| **Substantia nigra** | Dopamine-producing; connects to [[Basal Ganglia]] |
+| **Substantia nigra** | Dopamine-producing; connects to [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) |
 | **Red nucleus** | Motor coordination; rubrospinal tract |
 | **Cerebral aqueduct** | CSF channel connecting 3rd → 4th ventricle |
 
@@ -103,7 +103,7 @@ Diffuse network throughout the brainstem tegmentum:
 
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Central Nervous System → Brainstem
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Brainstem
 
 
 

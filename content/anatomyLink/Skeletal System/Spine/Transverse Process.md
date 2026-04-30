@@ -8,10 +8,10 @@ aliases: [transverse process]
 > The **transverse process** is the lateral bony projection at each side of the vertebra, arising from the pedicle-lamina junction. In the thoracic spine, it articulates with the ribs (costovertebral joints). It serves as an attachment for back muscles.
 
 ## 🔗 Key Connections
-- [[Vertebral Column]] — lateral elements of each vertebra
-- [[Thoracic Vertebrae]] — articulate with the tubercles of [[Ribs]] (costotransverse joints)
-- [[Cervical Vertebrae]] — contain foramina transversaria for the vertebral arteries
-- [[Erector Spinae]] — lateral portions attach to transverse processes
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — lateral elements of each vertebra
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — articulate with the tubercles of [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (costotransverse joints)
+- [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) — contain foramina transversaria for the vertebral arteries
+- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — lateral portions attach to transverse processes
 - Intertransverse ligaments — connect adjacent transverse processes
 
 ## 🗂️ Key Facts
@@ -27,7 +27,7 @@ aliases: [transverse process]
 - **Costovertebral joint pain** — Thoracic T-P joint arthritis → mid-back pain
 
 ## 📍 Location
-[[Skeletal System]] → [[Vertebral Column]] → Transverse Process
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Transverse Process
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral landmarks & processes

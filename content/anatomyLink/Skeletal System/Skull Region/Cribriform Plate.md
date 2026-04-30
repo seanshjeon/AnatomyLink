@@ -8,8 +8,8 @@ aliases: [cribriform plate of ethmoid]
 > The **cribriform plate** (Latin: *cribrum* = sieve) is the horizontal portion of the **ethmoid bone** forming the roof of the nasal cavity and the floor of the anterior cranial fossa. Its numerous small foramina transmit the **olfactory nerve fibers (CN I)**.
 
 ## 🔗 Key Connections
-- [[Skull]] — ethmoid bone, anterior cranial fossa floor
-- [[Cranial Nerves]] — CN I (olfactory) filaments pass through cribriform foramina
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — ethmoid bone, anterior cranial fossa floor
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN I (olfactory) filaments pass through cribriform foramina
 - Olfactory bulb — lies on the superior surface of the cribriform plate (intracranial)
 
 ## 🗂️ Key Facts
@@ -27,4 +27,4 @@ aliases: [cribriform plate of ethmoid]
 - **Esthesioneuroblastoma** — Olfactory neuroblastoma arising near cribriform plate
 
 ## 📍 Location
-[[Skeletal System]] → [[Skull]] → Ethmoid bone → Cribriform Plate
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) → Ethmoid bone → Cribriform Plate

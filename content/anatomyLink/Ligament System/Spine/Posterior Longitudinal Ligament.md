@@ -9,8 +9,8 @@ aliases: [PLL]
 
 ## 🔗 Key Connections
 - **Attachment** — Posterior surface of vertebral bodies and discs (C2 → Sacrum), inside the spinal canal
-- **Related structures** — [[Intervertebral Disc]], [[Spinal Cord]], [[Vertebral Column]]
-- **Counterpart** — [[Anterior Longitudinal Ligament]]
+- **Related structures** — [Intervertebral Disc](./anatomyLink/Skeletal System/Spine/Intervertebral Disc.md), [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md), [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md)
+- **Counterpart** — [Anterior Longitudinal Ligament](./anatomyLink/Ligament System/Spine/Anterior Longitudinal Ligament.md)
 
 ## 🏥 Clinical Significance
 - **Disc herniation** — PLL is thicker centrally; herniations often occur posterolaterally where PLL is thinner
@@ -18,4 +18,4 @@ aliases: [PLL]
 - **Hyperflexion injury** — PLL rupture in flexion-distraction injuries (seat belt injuries)
 
 ## 📍 Location
-[[Ligament System]] → Spine → Posterior Longitudinal Ligament
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Spine → Posterior Longitudinal Ligament

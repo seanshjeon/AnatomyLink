@@ -28,10 +28,10 @@ aliases: [incisor, central incisor, lateral incisor, 앞니]
 - **Esthetic zone** — Incisors dominate smile esthetics; focus of cosmetic dentistry
 
 ## 🔗 Key Connections
-- [[Teeth]] — part of permanent dentition (8 total)
-- [[Mandible]] — lower incisors embedded in mandibular symphysis
-- [[Skull]] — upper incisors in premaxilla/maxilla
-- [[Cranial Nerves]] — CN V2 (upper) + CN V3 (lower) innervation
+- [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) — part of permanent dentition (8 total)
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — lower incisors embedded in mandibular symphysis
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — upper incisors in premaxilla/maxilla
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V2 (upper) + CN V3 (lower) innervation
 
 ## 📍 Location
-[[Skeletal System]] → [[Teeth]] → Incisors (Anterior)
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) → Incisors (Anterior)

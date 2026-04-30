@@ -7,15 +7,15 @@ aliases: [Thalamic Nuclei, Diencephalon Thalamus, Sensory Relay Station]
 > The thalamus is an **egg-shaped paired diencephalic structure that serves as the major sensory relay station of the brain**, relaying virtually all sensory information (except olfaction) to the cerebral cortex, while also gating motor, limbic, and arousal signals through precisely organized thalamocortical loops.
 
 ## 🔗 Key Connections
-- [[Brain]] — diencephalon; position between brainstem and cerebral hemispheres
-- [[Somatosensory System]] — VPL/VPM relay nuclei for body and face sensation
-- [[Visual System]] — lateral geniculate nucleus (LGN) relay to V1
-- [[Auditory System]] — medial geniculate nucleus (MGN) relay to A1
-- [[Basal Ganglia]] — VA/VL nuclei receive basal ganglia output (GPi/SNr) → motor cortex
-- [[Cerebellum]] — VL nucleus receives dentate nucleus output → motor cortex
-- [[Limbic System]] — anterior nucleus in Papez circuit; dorsomedial nucleus → prefrontal
-- [[Hypothalamus]] — functional and anatomical neighbor; reciprocal connections
-- [[Cerebral Cortex]] — all thalamic relay nuclei project to specific cortical areas
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — diencephalon; position between brainstem and cerebral hemispheres
+- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — VPL/VPM relay nuclei for body and face sensation
+- [Visual System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Visual System.md) — lateral geniculate nucleus (LGN) relay to V1
+- [Auditory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Auditory System.md) — medial geniculate nucleus (MGN) relay to A1
+- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — VA/VL nuclei receive basal ganglia output (GPi/SNr) → motor cortex
+- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — VL nucleus receives dentate nucleus output → motor cortex
+- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — anterior nucleus in Papez circuit; dorsomedial nucleus → prefrontal
+- [Hypothalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hypothalamus.md) — functional and anatomical neighbor; reciprocal connections
+- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — all thalamic relay nuclei project to specific cortical areas
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -133,7 +133,7 @@ The LGN has 6 layers with distinct properties:
 
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → This Note
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
 
 
 

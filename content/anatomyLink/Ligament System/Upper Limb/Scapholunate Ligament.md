@@ -10,7 +10,7 @@ aliases: [SL ligament, scapholunate interosseous ligament, SLIL]
 ## 🔗 Key Connections
 - **Attachment** — Scaphoid ↔ Lunate (dorsal, membranous, and palmar portions; dorsal band = strongest)
 - **Part of** — Proximal carpal row stabilization
-- **Related structures** — [[Carpals]], radiocarpal joint, capitate
+- **Related structures** — [Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md), radiocarpal joint, capitate
 
 ## 🏥 Clinical Significance
 - **Scapholunate dissociation** — SL ligament tear → scaphoid flexes, lunate extends → DISI deformity (dorsal intercalated segment instability)
@@ -19,4 +19,4 @@ aliases: [SL ligament, scapholunate interosseous ligament, SLIL]
 - **Wrist arthritis** — Chronic SL instability → SLAC (scapholunate advanced collapse) wrist arthritis
 
 ## 📍 Location
-[[Ligament System]] → Upper Limb → Scapholunate Ligament
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Upper Limb → Scapholunate Ligament

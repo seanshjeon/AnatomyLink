@@ -8,9 +8,9 @@ aliases: [pleural cavity, pleural space, pleurae]
 > The pleura is a **double-layered serous membrane** enclosing each lung within the thoracic cavity. The virtual space between the two layers — the **pleural cavity** — contains a thin film of fluid (~10–15 mL) enabling frictionless lung movement during breathing.
 
 ## 🔗 Key Connections
-- [[Respiratory System]]
-- Lines: [[Lungs]] (visceral pleura) and thoracic wall / [[Diaphragm]] / mediastinum (parietal pleura)
-- Extends to: Cervical pleura (cupola) — above clavicle, at apex of [[Lungs]]
+- [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md)
+- Lines: [Lungs](./anatomyLink/Respiratory System/Lungs.md) (visceral pleura) and thoracic wall / [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md) / mediastinum (parietal pleura)
+- Extends to: Cervical pleura (cupola) — above clavicle, at apex of [Lungs](./anatomyLink/Respiratory System/Lungs.md)
 - Blood supply — visceral pleura: Bronchial arteries; parietal pleura: Intercostal + internal thoracic arteries
 - Innervation — **parietal** pleura: Intercostal nerves (costal + peripheral diaphragmatic) + phrenic nerve (mediastinal + central diaphragmatic) → **PAIN SENSITIVE**; **visceral** pleura: autonomic (visceral afferents) → **pain insensitive**
 
@@ -24,7 +24,7 @@ aliases: [pleural cavity, pleural space, pleurae]
 
 ### Parietal Pleura Regions
 - **Costal** — lines ribs and intercostal muscles
-- **Diaphragmatic** — covers upper surface of [[Diaphragm]]
+- **Diaphragmatic** — covers upper surface of [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md)
 - **Mediastinal** — lines mediastinum; forms the lung root (hilum) sleeve
 - **Cervical (cupola)** — projects above rib 1 and clavicle; vulnerable to injury
 
@@ -51,7 +51,7 @@ aliases: [pleural cavity, pleural space, pleurae]
 | **Pleurodesis** | Chemical/mechanical adhesion of pleura; prevents recurrent pneumothorax or malignant effusion |
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Respiratory System]] → Pleura
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md) → Pleura
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

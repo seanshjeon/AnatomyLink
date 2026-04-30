@@ -8,24 +8,24 @@ aliases: [pulmonary system, airway]
 > The respiratory system conducts air between the atmosphere and the alveoli for **gas exchange** (O₂ uptake, CO₂ elimination), and regulates acid-base balance via CO₂. It is divided into the **conducting zone** (dead space, ~150 mL) and the **respiratory zone** (gas exchange).
 
 ## 🔗 Key Connections
-- [[00 - AnatomyLink Home]]
-- Upper airway: [[Oral Cavity]], [[Larynx]] (airway protection)
-- Vascular: [[Pulmonary Circulation]] (gas exchange); bronchial arteries from [[Aorta]] (nutrition)
-- Muscular: [[Diaphragm]] (primary respiratory muscle), intercostals
-- Skeletal: [[Ribs]], [[Sternum]], [[Thoracic Vertebrae]]
-- Neural: Phrenic nerve (C3–C5 → [[Diaphragm]]), intercostal nerves
-- Related: [[Circulatory System]] (pulmonary circulation), [[Endocrine System]] (hypoxia → EPO)
+- [00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md)
+- Upper airway: [Oral Cavity](./anatomyLink/Digestive System/Upper GI/Oral Cavity.md), [Larynx](./anatomyLink/Digestive System/Upper GI/Larynx.md) (airway protection)
+- Vascular: [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md) (gas exchange); bronchial arteries from [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (nutrition)
+- Muscular: [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md) (primary respiratory muscle), intercostals
+- Skeletal: [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md), [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md), [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md)
+- Neural: Phrenic nerve (C3–C5 → [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md)), intercostal nerves
+- Related: [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) (pulmonary circulation), [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md) (hypoxia → EPO)
 
 ## 🗂️ Components
 
 | Structure | Zone | Function |
 |-----------|------|----------|
-| [[Larynx]] | Conducting | Airway valve; phonation |
-| [[Trachea]] | Conducting | Main airway conduit |
-| [[Bronchi]] | Conducting | Air distribution to lung segments |
-| [[Lungs]] | Both | Gas exchange + conducting airways |
-| [[Pleura]] | Supporting | Serous membrane; enables lung movement |
-| [[Diaphragm]] | Muscle | Primary muscle of inspiration |
+| [Larynx](./anatomyLink/Digestive System/Upper GI/Larynx.md) | Conducting | Airway valve; phonation |
+| [Trachea](./anatomyLink/Respiratory System/Trachea.md) | Conducting | Main airway conduit |
+| [Bronchi](./anatomyLink/Respiratory System/Bronchi.md) | Conducting | Air distribution to lung segments |
+| [Lungs](./anatomyLink/Respiratory System/Lungs.md) | Both | Gas exchange + conducting airways |
+| [Pleura](./anatomyLink/Respiratory System/Pleura.md) | Supporting | Serous membrane; enables lung movement |
+| [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md) | Muscle | Primary muscle of inspiration |
 
 ## 🔑 Lung Volumes & Capacities
 | Measurement | Value | Description |
@@ -47,7 +47,7 @@ aliases: [pulmonary system, airway]
 - **Lung cancer** — squamous (central), adenocarcinoma (peripheral), SCLC (paraneoplastic)
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → Respiratory System
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → Respiratory System
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

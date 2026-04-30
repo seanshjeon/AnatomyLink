@@ -7,10 +7,10 @@ aliases: [diaphragma, thoracic diaphragm]
 > The diaphragm is a **dome-shaped musculotendinous partition** separating the thoracic and abdominal cavities. It is the **primary muscle of inspiration** (~70% of tidal volume) and also increases intra-abdominal pressure during Valsalva manoeuvres.
 
 ## 🔗 Key Connections
-- [[Respiratory System]], [[Muscular System]]
-- Above (thoracic surface): [[Lungs]] / [[Pleura]], pericardium / heart
-- Below (abdominal surface): [[Liver]] (right lobe), stomach, spleen
-- Skeletal attachments: [[Lumbar Vertebrae]] (crura, L1–L3), [[Ribs]] 7–12 (costal), [[Sternum]] xiphoid process
+- [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md), [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
+- Above (thoracic surface): [Lungs](./anatomyLink/Respiratory System/Lungs.md) / [Pleura](./anatomyLink/Respiratory System/Pleura.md), pericardium / heart
+- Below (abdominal surface): [Liver](./anatomyLink/Digestive System/Accessory Organs/Liver.md) (right lobe), stomach, spleen
+- Skeletal attachments: [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) (crura, L1–L3), [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) 7–12 (costal), [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) xiphoid process
 - Innervation: **Phrenic nerve (C3, C4, C5)** — bilateral, motor + sensory to central tendon; intercostal nerves (T6–T12) — peripheral sensory only
 - "C3, C4, C5 keep the diaphragm alive"
 
@@ -36,7 +36,7 @@ aliases: [diaphragma, thoracic diaphragm]
 
 ## ⚙️ Function
 - **Inspiration** — diaphragm contracts and descends → increases thoracic volume → negative intrathoracic pressure → air flows in
-- **Expiration** — diaphragm relaxes → elastic recoil of lungs → passive during quiet breathing; active muscles (abdominals, [[Rectus Abdominis]]) in forced expiration
+- **Expiration** — diaphragm relaxes → elastic recoil of lungs → passive during quiet breathing; active muscles (abdominals, [Rectus Abdominis](./anatomyLink/Muscular System/Trunk/Rectus Abdominis.md)) in forced expiration
 - **Valsalva** — contracts simultaneously with abdominals → ↑ intra-abdominal pressure (defecation, urination, childbirth, lifting)
 - **Cough / sneeze** — rapid contraction generates high expiratory flow
 
@@ -48,7 +48,7 @@ aliases: [diaphragma, thoracic diaphragm]
 - **Hiccup** — involuntary spasmodic diaphragm contraction; glottis closure → characteristic sound
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Respiratory System]] → Diaphragm
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md) → Diaphragm
 
 
 

@@ -8,12 +8,12 @@ aliases: [Smell, Olfactory System, CN I, Olfactory Nerve, Olfactory Bulb, Anosmi
 > The olfactory system is the **phylogenetically oldest sensory system**, unique among all sensory modalities in that its primary afferents project **directly to cortex without a thalamic relay**. Olfactory sensory neurons (OSNs) are remarkable as the **only CNS neurons that are directly exposed to the environment and that are regularly replaced** throughout adult life from basal stem cells, making them a model for adult neurogenesis.
 
 ## 🔗 Key Connections
-- [[Gustation]] — combined olfactory + taste signals create flavor perception
-- [[Limbic System]] — direct olfactory projections to amygdala and hippocampus
-- [[Hippocampus]] — olfactory memory consolidation; Lewy body deposition in neurodegeneration
-- [[Amygdala]] — emotional response to odors; fear conditioning
-- [[Cranial Nerves]] — CN I (olfactory nerve, technically a CNS tract)
-- [[Skull]] — cribriform plate of ethmoid bone (site of CN I transit)
+- [Gustation](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Gustation.md) — combined olfactory + taste signals create flavor perception
+- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — direct olfactory projections to amygdala and hippocampus
+- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — olfactory memory consolidation; Lewy body deposition in neurodegeneration
+- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — emotional response to odors; fear conditioning
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN I (olfactory nerve, technically a CNS tract)
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — cribriform plate of ethmoid bone (site of CN I transit)
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -191,7 +191,7 @@ Mitral/tufted cell axons exit olfactory bulb via the **olfactory tract**, which 
 
 ## 📍 Location
 
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 03 - Special Senses → Olfaction
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Olfaction
 
 
 

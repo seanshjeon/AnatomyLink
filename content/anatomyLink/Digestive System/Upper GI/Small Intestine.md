@@ -8,19 +8,19 @@ aliases: [small bowel, duodenum, jejunum, ileum]
 > The small intestine is a **6-metre tube** where virtually all nutrient absorption occurs. It is divided into duodenum (25 cm), jejunum (~2.5 m), and ileum (~3.5 m). Its enormous absorptive surface (~200 m²) is achieved by villi, microvilli (brush border), and circular folds (plicae circulares).
 
 ## 🔗 Key Connections
-- Receives from: [[Stomach]] (via pylorus → duodenum)
-- Empties into: [[Large Intestine]] (ileocaecal valve)
+- Receives from: [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) (via pylorus → duodenum)
+- Empties into: [Large Intestine](./anatomyLink/Digestive System/Lower GI/Large Intestine.md) (ileocaecal valve)
 - Blood supply:
-  - Duodenum: [[Celiac Trunk]] (superior pancreaticoduodenal) + SMA (inferior pancreaticoduodenal)
+  - Duodenum: [Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md) (superior pancreaticoduodenal) + SMA (inferior pancreaticoduodenal)
   - Jejunum + ileum: **Superior mesenteric artery (SMA)**
-- Venous drainage: → [[Portal System]] (superior mesenteric vein)
-- Relations: [[Pancreas]] (posterior to duodenum), [[Lumbar Vertebrae]] (duodenum wraps around L1–L3)
+- Venous drainage: → [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md) (superior mesenteric vein)
+- Relations: [Pancreas](./anatomyLink/Digestive System/Accessory Organs/Pancreas.md) (posterior to duodenum), [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) (duodenum wraps around L1–L3)
 
 ## 🗂️ Three Segments
 
 | Segment | Length | Location | Key Features |
 |---------|--------|----------|--------------|
-| **Duodenum** | 25 cm | Retroperitoneal (C-shape around [[Pancreas]] head) | Bile + pancreatic ducts open at ampulla of Vater (2nd part); Brunner's glands (alkaline mucus); most ulcers here |
+| **Duodenum** | 25 cm | Retroperitoneal (C-shape around [Pancreas](./anatomyLink/Digestive System/Accessory Organs/Pancreas.md) head) | Bile + pancreatic ducts open at ampulla of Vater (2nd part); Brunner's glands (alkaline mucus); most ulcers here |
 | **Jejunum** | ~2.5 m | Intraperitoneal (left upper abdomen) | Tall villi, thick wall, prominent plicae, active absorption; valvulae conniventes visible on imaging |
 | **Ileum** | ~3.5 m | Intraperitoneal (right lower abdomen) | Shorter villi; Peyer's patches (lymphoid follicles); terminal ileum absorbs B12 + bile salts (unique!) |
 
@@ -33,7 +33,7 @@ aliases: [small bowel, duodenum, jejunum, ileum]
 | Fats | Jejunum | Micelles → fatty acids → chylomicrons → lacteals → lymph |
 | Iron | Duodenum | Ferric (Fe³⁺) reduced to ferrous (Fe²⁺); absorbed as DMT1; ferroportin to blood |
 | Calcium | Duodenum | Vitamin D-dependent (calcitriol → calbindin) |
-| B12 (cobalamin) | Terminal ileum | Requires intrinsic factor (from [[Stomach]] parietal cells) → cubilin receptor |
+| B12 (cobalamin) | Terminal ileum | Requires intrinsic factor (from [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) parietal cells) → cubilin receptor |
 | Bile salts | Terminal ileum | Active reabsorption → enterohepatic circulation |
 
 ## 🏥 Clinical Significance
@@ -45,7 +45,7 @@ aliases: [small bowel, duodenum, jejunum, ileum]
 - **Short bowel syndrome** — <200 cm functional small bowel; malabsorption + TPN dependence; after massive resection (ischaemia, Crohn's, volvulus)
 
 ## 📍 Location in Digestive System
-[[Digestive System]] → Upper GI → Small Intestine
+[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Upper GI → Small Intestine
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Midgut](https://www.clinicalanatomy.ca/abdomen/Midgut/story.html) — UBC — Midgut derivatives & small intestine

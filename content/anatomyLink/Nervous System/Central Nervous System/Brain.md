@@ -4,14 +4,14 @@ aliases: [Cerebrum, Encephalon]
 ---
 # Brain
 
-> The brain is the **command center of the CNS**, housed within the [[Skull]], composed of the **cerebrum (4 lobes), cerebellum, and brainstem**, and giving rise to all **12 [[Cranial Nerves]]**.
+> The brain is the **command center of the CNS**, housed within the [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md), composed of the **cerebrum (4 lobes), cerebellum, and brainstem**, and giving rise to all **12 [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md)**.
 
 ## 🔗 Key Connections
-- [[Nervous System]] — parent system
-- [[Spinal Cord]] — inferior continuation via foramen magnum
-- [[Cranial Nerves]] — 12 pairs originating from the brainstem and brain
-- [[Skull]] — bony protection (cranial vault)
-- [[Vertebral Column]] — continuation of CNS protection
+- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — inferior continuation via foramen magnum
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — 12 pairs originating from the brainstem and brain
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — bony protection (cranial vault)
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — continuation of CNS protection
 
 ## 🗂️ Key Information
 
@@ -33,15 +33,15 @@ aliases: [Cerebrum, Encephalon]
 | **Occipital** | Posterior pole | Primary visual cortex, visual processing |
 
 ### Deep Structures
-- **[[Basal Ganglia]]** — motor coordination, habit formation; damaged in Parkinson's disease
+- **[Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md)** — motor coordination, habit formation; damaged in Parkinson's disease
 - **Thalamus** — sensory relay station ("gateway to cortex")
-- **Hypothalamus** — autonomic and endocrine control; see [[Limbic System]]
-- **Hippocampus** (temporal lobe) — explicit memory formation; see [[Limbic System]]
+- **Hypothalamus** — autonomic and endocrine control; see [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md)
+- **Hippocampus** (temporal lobe) — explicit memory formation; see [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md)
 - **Amygdala** (temporal lobe) — fear, emotional memory
 
 ## 🔑 Brainstem and Cranial Nerve Origins
 
-The [[Brainstem]] consists of midbrain, pons, and medulla oblongata. It contains all cranial nerve nuclei except CN I and CN II.
+The [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) consists of midbrain, pons, and medulla oblongata. It contains all cranial nerve nuclei except CN I and CN II.
 
 | Brainstem Level | Cranial Nerves | Key Functions |
 |-----------------|----------------|---------------|
@@ -51,8 +51,8 @@ The [[Brainstem]] consists of midbrain, pons, and medulla oblongata. It contains
 | **Olfactory bulb** | CN I (olfactory) | Smell (not from brainstem proper) |
 | **Diencephalon** | CN II (optic) | Vision (not from brainstem proper) |
 
-### [[Cerebellum]]
-Located in the posterior fossa. Coordinates movement, balance, and fine motor control. Receives input from [[Spinal Cord]] and motor cortex; outputs to thalamus. Damage causes ipsilateral ataxia, dysmetria, intention tremor.
+### [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md)
+Located in the posterior fossa. Coordinates movement, balance, and fine motor control. Receives input from [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) and motor cortex; outputs to thalamus. Damage causes ipsilateral ataxia, dysmetria, intention tremor.
 
 ## 🏥 Clinical Significance
 
@@ -98,4 +98,4 @@ Located in the posterior fossa. Coordinates movement, balance, and fine motor co
 
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Central Nervous System → Brain
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Brain

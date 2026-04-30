@@ -5,12 +5,12 @@ aliases: [ureters, ureteric]
 
 # Ureter
 
-> The ureters are **paired muscular tubes ~25–30 cm long** conveying urine from the renal pelvis of each [[Kidney]] to the [[Urinary Bladder]] by peristalsis. They are entirely retroperitoneal.
+> The ureters are **paired muscular tubes ~25–30 cm long** conveying urine from the renal pelvis of each [Kidney](./anatomyLink/Urinary System/Kidney.md) to the [Urinary Bladder](./anatomyLink/Urinary System/Urinary Bladder.md) by peristalsis. They are entirely retroperitoneal.
 
 ## 🔗 Key Connections
-- [[Urinary System]]
+- [Urinary System](./anatomyLink/Urinary System/Urinary System.md)
 - Superior: Renal pelvis (at UPJ — ureteropelvic junction)
-- Inferior: Trigone of [[Urinary Bladder]] (at UVJ — ureterovesical junction)
+- Inferior: Trigone of [Urinary Bladder](./anatomyLink/Urinary System/Urinary Bladder.md) (at UVJ — ureterovesical junction)
 - Blood supply: Segmental branches — renal artery (upper), gonadal artery (middle), superior vesical artery (lower)
 - Lymphatics: Para-aortic nodes (upper), internal iliac nodes (lower)
 - Innervation: Renal + aortic plexus (T11–L2); pain referred to groin/labia/scrotum
@@ -21,7 +21,7 @@ aliases: [ureters, ureteric]
 |---------|-----------|
 | Abdominal | On psoas major; crosses gonadal vessels anteriorly |
 | **Pelvic (male)** | Crosses internal iliac artery; passes under vas deferens ("water under bridge") |
-| **Pelvic (female)** | Passes under uterine artery at lateral [[Cervix]] ("water under bridge") |
+| **Pelvic (female)** | Passes under uterine artery at lateral [Cervix](./anatomyLink/Reproductive System/Female/Cervix.md) ("water under bridge") |
 | Intramural | Oblique passage through bladder wall → passive anti-reflux valve |
 
 ## 🔬 Three Anatomical Narrowings (Sites of Stone Impaction)
@@ -43,4 +43,4 @@ aliases: [ureters, ureteric]
 - **Ureteric stent (JJ stent)** — placed to relieve obstruction; maintains drainage
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Urinary System]] → Ureter
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Urinary System](./anatomyLink/Urinary System/Urinary System.md) → Ureter

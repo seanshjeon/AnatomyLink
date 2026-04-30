@@ -8,18 +8,18 @@ aliases: [supraspinatus muscle]
 > Supraspinatus is the **superior muscle of the rotator cuff**, initiating shoulder abduction (first 15°) and stabilising the humeral head. It is the **most commonly torn rotator cuff muscle**.
 
 ## 🔗 Key Connections
-- [[Muscular System]], [[Rotator Cuff]]
-- Passes under: [[Coracoacromial Ligament]] + acromion of [[Scapula]] (subacromial space)
-- Inserts on: [[Greater Tubercle]] of [[Humerus]] (superior facet)
-- Nerve: **Suprascapular nerve (C5, C6)** — from superior trunk of [[Brachial Plexus]]
+- [Muscular System](./anatomyLink/Muscular System/Muscular System.md), [Rotator Cuff](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md)
+- Passes under: [Coracoacromial Ligament](./anatomyLink/Ligament System/Upper Limb/Coracoacromial Ligament.md) + acromion of [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) (subacromial space)
+- Inserts on: [Greater Tubercle](./anatomyLink/Skeletal System/Upper Limb/Greater Tubercle.md) of [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (superior facet)
+- Nerve: **Suprascapular nerve (C5, C6)** — from superior trunk of [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md)
 - Blood supply: Suprascapular artery
 
 ## 🔬 Details
 
 | Feature | Detail |
 |---------|--------|
-| Origin | Supraspinous fossa of [[Scapula]] |
-| Insertion | Superior facet of [[Greater Tubercle]] of [[Humerus]] |
+| Origin | Supraspinous fossa of [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) |
+| Insertion | Superior facet of [Greater Tubercle](./anatomyLink/Skeletal System/Upper Limb/Greater Tubercle.md) of [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) |
 | Action | **Initiates abduction (0–15°)**; stabilises humeral head in glenoid |
 | Nerve | Suprascapular nerve (C5–C6) |
 
@@ -30,4 +30,4 @@ aliases: [supraspinatus muscle]
 - **Suprascapular nerve entrapment** — suprascapular notch; causes supraspinatus + infraspinatus atrophy
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Muscular System]] → Upper Limb → Supraspinatus
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Upper Limb → Supraspinatus

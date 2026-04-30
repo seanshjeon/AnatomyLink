@@ -5,13 +5,13 @@ aliases: [acromial process]
 
 # Acromion
 
-> The **acromion** is a bony projection of the spine of the [[Scapula]] that forms the "roof" of the shoulder joint, articulating with the [[Clavicle]] at the **acromioclavicular (AC) joint**.
+> The **acromion** is a bony projection of the spine of the [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) that forms the "roof" of the shoulder joint, articulating with the [Clavicle](./anatomyLink/Skeletal System/Upper Limb/Clavicle.md) at the **acromioclavicular (AC) joint**.
 
 ## 🔗 Key Connections
-- [[Scapula]] — extension of the spine of the scapula
-- [[Clavicle]] — forms the **acromioclavicular (AC) joint**
-- [[Deltoid]] — origin on the lateral acromion
-- [[Rotator Cuff|Supraspinatus]] — passes under the acromion through the **subacromial space**
+- [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) — extension of the spine of the scapula
+- [Clavicle](./anatomyLink/Skeletal System/Upper Limb/Clavicle.md) — forms the **acromioclavicular (AC) joint**
+- [Deltoid](./anatomyLink/Muscular System/Upper Limb/Deltoid.md) — origin on the lateral acromion
+- [Supraspinatus](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) — passes under the acromion through the **subacromial space**
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -28,7 +28,7 @@ aliases: [acromial process]
 - **Acromial morphology** — Type I (flat), II (curved), III (hooked — highest risk of impingement)
 
 ## 📍 Location
-[[Skeletal System]] → [[Scapula]] → Acromion
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) → Acromion
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Shoulder Joint Anatomy](https://www.clinicalanatomy.ca/upperlimb/ShoulderAnatomy/story.html) — UBC — Scapular landmarks including acromion

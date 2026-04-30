@@ -7,11 +7,11 @@ aliases: [Proprioceptive System, Muscle Spindle, Golgi Tendon Organ, Kinesthesia
 > Proprioception is the **conscious and unconscious sense of body position, limb movement (kinesthesia), and muscular force**, mediated by peripheral mechanoreceptors — principally **muscle spindles** (length), **Golgi tendon organs** (tension), and **joint receptors** — with central processing via the dorsal column–medial lemniscal pathway (conscious) and spinocerebellar tracts (unconscious).
 
 ## 🔗 Key Connections
-- [[Somatosensory System]] — dorsal column pathway and S1 cortex (area 3a)
-- [[Cerebellum]] — integration of unconscious proprioceptive signals, motor coordination
-- [[Spinal Cord Circuits]] — stretch reflex, autogenic inhibition, Renshaw cells
-- [[Motor Pathway]] — γ-motor neuron control, α-γ co-activation
-- [[Sensory Receptors]] — receptor types, fiber classification, adaptation
+- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — dorsal column pathway and S1 cortex (area 3a)
+- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — integration of unconscious proprioceptive signals, motor coordination
+- [Spinal Cord Circuits](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Spinal Cord Circuits.md) — stretch reflex, autogenic inhibition, Renshaw cells
+- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — γ-motor neuron control, α-γ co-activation
+- [Sensory Receptors](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Sensory Receptors.md) — receptor types, fiber classification, adaptation
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -170,7 +170,7 @@ These tracts relay proprioceptive signals to the cerebellum for real-time motor 
 
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 02 - Sensory Systems → This Note
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
 
 
 ## 3D Interactive Models

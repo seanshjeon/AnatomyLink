@@ -8,9 +8,9 @@ aliases: [carpal bones, wrist bones]
 > The carpals are **8 short bones** arranged in 2 rows forming the wrist. They create the carpal tunnel on their palmar surface.
 
 ## 🔗 Connected Structures
-- [[Radius]] — **Radiocarpal joint** — primary wrist joint
-- [[Ulna]] — Indirect via the triangular fibrocartilage complex (TFCC)
-- [[Metacarpals]] — **Carpometacarpal joints (CMC joints)**
+- [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) — **Radiocarpal joint** — primary wrist joint
+- [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) — Indirect via the triangular fibrocartilage complex (TFCC)
+- [Metacarpals](./anatomyLink/Skeletal System/Upper Limb/Metacarpals.md) — **Carpometacarpal joints (CMC joints)**
 
 ## 🗂️ The 8 Carpal Bones
 
@@ -44,7 +44,7 @@ aliases: [carpal bones, wrist bones]
 - **TFCC injury** — Ulnar-sided wrist pain
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Upper Limb → Carpals (Wrist)
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Upper Limb → Carpals (Wrist)
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Wrist](https://www.clinicalanatomy.ca/upperlimb/Wrist/story.html) — UBC — Carpal bones, wrist joints & ligaments

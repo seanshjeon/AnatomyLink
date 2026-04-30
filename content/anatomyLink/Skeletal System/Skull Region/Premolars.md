@@ -31,13 +31,13 @@ Upper first premolars are the **most commonly extracted teeth** in orthodontic t
 - **Premolar occlusion** — Premature contact here → lateral jaw deviation and TMJ strain
 
 ## 🔗 Key Connections
-- [[Teeth]] — 8 of 32 permanent teeth; absent in deciduous dentition
-- [[Mandible]] — lower premolars (#20, #21, #28, #29)
-- [[Skull]] — upper premolars (#4, #5, #12, #13) in maxilla
-- [[Cranial Nerves]] — CN V2 (upper, via middle superior alveolar nerve) + CN V3 (lower, via inferior alveolar nerve)
+- [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) — 8 of 32 permanent teeth; absent in deciduous dentition
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — lower premolars (#20, #21, #28, #29)
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — upper premolars (#4, #5, #12, #13) in maxilla
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V2 (upper, via middle superior alveolar nerve) + CN V3 (lower, via inferior alveolar nerve)
 
 ## 📍 Location
-[[Skeletal System]] → [[Teeth]] → Premolars
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) → Premolars
 
 
 

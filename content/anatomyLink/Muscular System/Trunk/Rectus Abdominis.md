@@ -8,15 +8,15 @@ aliases: [abs, six-pack muscle, anterior abdominal muscle]
 > The rectus abdominis is the **paired longitudinal muscle of the anterior abdominal wall**, enclosed within the rectus sheath. It is the primary flexor of the trunk.
 
 ## 🔗 Bone Attachments
-- **Origin**: [[Hip Bone]] (pubic crest + pubic symphysis)
-- **Insertion**: [[Sternum]] (xiphoid process) + [[Ribs]] (costal cartilages 5–7)
+- **Origin**: [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) (pubic crest + pubic symphysis)
+- **Insertion**: [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) (xiphoid process) + [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (costal cartilages 5–7)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | Pubic crest & symphysis ([[Hip Bone]]) |
-| Insertion | Xiphoid process ([[Sternum]]) + costal cartilages 5–7 ([[Ribs]]) |
+| Origin | Pubic crest & symphysis ([Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md)) |
+| Insertion | Xiphoid process ([Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md)) + costal cartilages 5–7 ([Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md)) |
 | Action | Trunk **flexion**; posterior pelvic tilt; increases intra-abdominal pressure; assists forced expiration |
 | Innervation | Intercostal nerves T7–T12 (anterior rami) |
 | Blood Supply | Superior & inferior epigastric arteries |
@@ -37,7 +37,7 @@ Formed by aponeuroses of external oblique, internal oblique, and transversus abd
 - **Core stability** — Works with transversus abdominis and multifidus for spinal stability
 
 ## 📍 Location in Muscular System
-[[Muscular System]] → Trunk → Rectus Abdominis
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Rectus Abdominis
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anterior Abdominal Wall](https://www.clinicalanatomy.ca/abdomen/AnteriorAbdominalWall/story.html) — UBC — Anterior abdominal wall muscles & layers

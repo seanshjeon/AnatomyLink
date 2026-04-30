@@ -5,13 +5,13 @@ aliases: [flexor carpi radialis, flexor carpi ulnaris, flexor digitorum superfic
 
 # Forearm Flexors
 
-> The forearm flexors occupy the **anterior (flexor) compartment** of the forearm and are divided into superficial and deep groups. Most arise from the **medial epicondyle** of the [[Humerus]] (common flexor origin) and act on the wrist and fingers.
+> The forearm flexors occupy the **anterior (flexor) compartment** of the forearm and are divided into superficial and deep groups. Most arise from the **medial epicondyle** of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (common flexor origin) and act on the wrist and fingers.
 
 ## 🔗 Key Connections
-- [[Muscular System]]
-- Innervation: [[Median Nerve]] (most); [[Ulnar Nerve]] (FCU + medial FDP)
-- Blood supply: Ulnar artery ([[Ulnar Artery]]) and [[Radial Artery]]
-- Bony landmarks: [[Medial Epicondyle]] ([[Humerus]]), [[Radius]], [[Ulna]]
+- [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
+- Innervation: [Median Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Median Nerve.md) (most); [Ulnar Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Ulnar Nerve.md) (FCU + medial FDP)
+- Blood supply: Ulnar artery ([Ulnar Artery](./anatomyLink/Circulatory System/Arteries/Ulnar Artery.md)) and [Radial Artery](./anatomyLink/Circulatory System/Arteries/Radial Artery.md)
+- Bony landmarks: [Medial Epicondyle](./anatomyLink/Skeletal System/Upper Limb/Medial Epicondyle.md) ([Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md)), [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md), [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md)
 
 ## 🔬 Superficial Layer — Common Flexor Origin (Medial Epicondyle)
 
@@ -29,7 +29,7 @@ aliases: [flexor carpi radialis, flexor carpi ulnaris, flexor digitorum superfic
 |--------|-----------|--------|-------|
 | **Flexor Digitorum Profundus (FDP)** | Distal phalanges of fingers 2–5 | Flexes DIP joints | Median (AIN, radial 2 digits); **Ulnar (ulnar 2 digits)** |
 | **Flexor Pollicis Longus (FPL)** | Distal phalanx of thumb | Flexes IP joint of thumb | Median (AIN) |
-| **Pronator Quadratus** | Distal anterior [[Ulna]] → [[Radius]] | Pronation | Median (AIN) |
+| **Pronator Quadratus** | Distal anterior [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) → [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) | Pronation | Median (AIN) |
 
 ## 🏥 Clinical Significance
 - **Medial epicondylitis (Golfer's elbow)** — overuse of common flexor origin; medial elbow pain
@@ -38,7 +38,7 @@ aliases: [flexor carpi radialis, flexor carpi ulnaris, flexor digitorum superfic
 - **Palmaris longus** — used as tendon graft for ACL repair, tendon transfer; absent in ~15% — check before planning surgery
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Muscular System]] → Upper Limb → Forearm Flexors
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Upper Limb → Forearm Flexors
 
 
 

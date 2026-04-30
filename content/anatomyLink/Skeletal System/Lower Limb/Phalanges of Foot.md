@@ -8,7 +8,7 @@ aliases: [toe bones, digital phalanges foot, foot phalanges]
 > The foot contains **14 phalanges**. The great toe (Hallux) has 2; each of the other four toes has 3.
 
 ## 🔗 Connected Structures
-- [[Metatarsals]] — **Metatarsophalangeal joints (MTP joints)**
+- [Metatarsals](./anatomyLink/Skeletal System/Lower Limb/Metatarsals.md) — **Metatarsophalangeal joints (MTP joints)**
 - Interphalangeal joints:
   - **PIP joint** — Proximal ↔ middle phalanx
   - **DIP joint** — Middle ↔ distal phalanx
@@ -39,7 +39,7 @@ aliases: [toe bones, digital phalanges foot, foot phalanges]
 - [Human Foot Bones](https://sketchfab.com/3d-models/human-foot-bones-3741b9acf74b4206aa6fd9dbb20ad583) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Lower Limb → [[Metatarsals]] → Phalanges of Foot
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Lower Limb → [Metatarsals](./anatomyLink/Skeletal System/Lower Limb/Metatarsals.md) → Phalanges of Foot
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Foot](https://www.clinicalanatomy.ca/lowerlimb/Foot/story.html) — UBC — Foot anatomy & phalanges

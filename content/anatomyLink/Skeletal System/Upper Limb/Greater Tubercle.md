@@ -5,13 +5,13 @@ aliases: [greater tuberosity]
 
 # Greater Tubercle
 
-> The **greater tubercle** is the large bony prominence on the lateral aspect of the proximal [[Humerus]], serving as the insertion site for three rotator cuff muscles.
+> The **greater tubercle** is the large bony prominence on the lateral aspect of the proximal [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md), serving as the insertion site for three rotator cuff muscles.
 
 ## 🔗 Key Connections
-- [[Humerus]] — lateral proximal humerus
-- [[Rotator Cuff|Supraspinatus]] — inserts on the superior facet (initiates abduction 0–15°)
-- [[Rotator Cuff|Infraspinatus]] — inserts on the middle facet (external rotation)
-- [[Rotator Cuff|Teres Minor]] — inserts on the inferior facet (external rotation, adduction)
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — lateral proximal humerus
+- [Supraspinatus](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) — inserts on the superior facet (initiates abduction 0–15°)
+- [Infraspinatus](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) — inserts on the middle facet (external rotation)
+- [Teres Minor](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) — inserts on the inferior facet (external rotation, adduction)
 
 ## 🗂️ Key Facts
 | Facet | Muscle | Action |
@@ -27,4 +27,4 @@ aliases: [greater tuberosity]
 - **Subacromial impingement** — Greater tubercle + supraspinatus compressed under acromion
 
 ## 📍 Location
-[[Skeletal System]] → [[Humerus]] → Greater Tubercle
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) → Greater Tubercle

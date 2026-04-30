@@ -5,16 +5,16 @@ aliases: [womb, metra]
 
 # Uterus
 
-> The uterus is a **hollow, thick-walled, pear-shaped muscular organ** (~7.5 × 5 × 2.5 cm; ~60 g) lying in the lesser pelvis between the bladder and [[Rectum and Anal Canal]]. It is the site of **implantation**, **menstruation**, **gestation**, and **parturition**.
+> The uterus is a **hollow, thick-walled, pear-shaped muscular organ** (~7.5 × 5 × 2.5 cm; ~60 g) lying in the lesser pelvis between the bladder and [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md). It is the site of **implantation**, **menstruation**, **gestation**, and **parturition**.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Superolateral: [[Uterine Tubes]] at uterine horns
-- Inferior: [[Cervix]] (internal os → external os)
-- Below: [[Vagina]]
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Superolateral: [Uterine Tubes](./anatomyLink/Reproductive System/Female/Uterine Tubes.md) at uterine horns
+- Inferior: [Cervix](./anatomyLink/Reproductive System/Female/Cervix.md) (internal os → external os)
+- Below: [Vagina](./anatomyLink/Reproductive System/Female/Vagina.md)
 - Anterior: Vesico-uterine pouch / bladder
-- Posterior: Recto-uterine pouch (Pouch of Douglas) / [[Rectum and Anal Canal]]
-- Supported by: [[Broad Ligament]], cardinal (transverse cervical) ligament, uterosacral ligaments, round ligament of uterus
+- Posterior: Recto-uterine pouch (Pouch of Douglas) / [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md)
+- Supported by: [Broad Ligament](./anatomyLink/Reproductive System/Female/Broad Ligament.md), cardinal (transverse cervical) ligament, uterosacral ligaments, round ligament of uterus
 - Blood supply: **Uterine artery** (from internal iliac) — crosses **ureter** at the lateral fornix of vagina ("water under bridge")
 - Venous drainage: Uterine venous plexus → internal iliac veins
 - Lymphatics: Para-aortic nodes (fundus); internal iliac / obturator nodes (body/cervix)
@@ -29,7 +29,7 @@ aliases: [womb, metra]
 | **Fundus** | Dome above uterine tubes; palpable in pregnancy |
 | **Body (corpus)** | Main portion; site of implantation |
 | **Isthmus** | Junction of body and cervix; "lower uterine segment" in obstetrics |
-| **Cervix** | See [[Cervix]] |
+| **Cervix** | See [Cervix](./anatomyLink/Reproductive System/Female/Cervix.md) |
 
 ### Layers
 | Layer | Description |
@@ -56,4 +56,4 @@ aliases: [womb, metra]
 - **Retroverted uterus** — in ~20%; usually normal variant; can cause dyspareunia
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Female → Uterus
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Female → Uterus

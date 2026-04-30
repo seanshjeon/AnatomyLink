@@ -8,10 +8,10 @@ aliases: [plantar aponeurosis, plantar fascia]
 > The **plantar fascia** (plantar aponeurosis) is a thick band of connective tissue on the sole of the foot, originating from the calcaneal tuberosity and fanning out to the toes. It supports the **medial longitudinal arch** via the "windlass mechanism."
 
 ## 🔗 Key Connections
-- **Origin** — Medial calcaneal tuberosity (calcaneus / [[Tarsals]])
-- **Insertion** — Base of proximal phalanges of all toes ([[Phalanges of Foot]])
+- **Origin** — Medial calcaneal tuberosity (calcaneus / [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md))
+- **Insertion** — Base of proximal phalanges of all toes ([Phalanges of Foot](./anatomyLink/Skeletal System/Lower Limb/Phalanges of Foot.md))
 - **Windlass mechanism** — Toe dorsiflexion tightens plantar fascia → raises arch → supinates foot
-- **Related structures** — Plantar intrinsic muscles, [[Metatarsals]], Achilles tendon (indirect load transfer)
+- **Related structures** — Plantar intrinsic muscles, [Metatarsals](./anatomyLink/Skeletal System/Lower Limb/Metatarsals.md), Achilles tendon (indirect load transfer)
 
 ## 🏥 Clinical Significance
 - **Plantar fasciitis** — Most common cause of heel pain; pain at medial calcaneal tuberosity, worst with first steps in morning
@@ -21,4 +21,4 @@ aliases: [plantar aponeurosis, plantar fascia]
 - **Treatment** — Stretching, orthotics, night splints, corticosteroid injection, ESWT (extracorporeal shock wave therapy)
 
 ## 📍 Location
-[[Ligament System]] → Lower Limb → Plantar Fascia
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Lower Limb → Plantar Fascia

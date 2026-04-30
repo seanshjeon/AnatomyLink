@@ -8,14 +8,14 @@ aliases: [rib cage, costae, costal bones]
 > The ribs comprise **12 pairs (24 bones)** connecting the thoracic vertebrae to the sternum, forming the **thoracic cage** that protects the heart, lungs, and major vessels.
 
 ## 🔗 Connected Structures
-- [[Thoracic Vertebrae]] — **Costovertebral joints** — posterior articulation (all 12 pairs)
-- [[Sternum]] — **Sternocostal joints** — anterior articulation (ribs 1–7 directly)
-- [[Vertebral Column]] — Connected via thoracic vertebrae
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — **Costovertebral joints** — posterior articulation (all 12 pairs)
+- [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) — **Sternocostal joints** — anterior articulation (ribs 1–7 directly)
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — Connected via thoracic vertebrae
 
 ## 🔗 Associated Muscles
-- [[Pectoralis Major]] — Originates from anterior rib surfaces (costal cartilages 1–6)
-- [[Erector Spinae]] — Iliocostalis inserts on ribs
-- [[Latissimus Dorsi]] — Originates from ribs 9–12
+- [Pectoralis Major](./anatomyLink/Muscular System/Trunk/Pectoralis Major.md) — Originates from anterior rib surfaces (costal cartilages 1–6)
+- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — Iliocostalis inserts on ribs
+- [Latissimus Dorsi](./anatomyLink/Muscular System/Trunk/Latissimus Dorsi.md) — Originates from ribs 9–12
 
 ## 🗂️ Classification
 
@@ -52,7 +52,7 @@ aliases: [rib cage, costae, costal bones]
 
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Thoracic Cage → Ribs
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Thoracic Cage → Ribs
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Thorax](https://www.clinicalanatomy.ca/thorax/Thorax/story.html) — UBC — Thoracic wall, ribs, sternum & pleura

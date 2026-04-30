@@ -8,15 +8,15 @@ aliases: [trap muscle, trapezius muscle]
 > The trapezius is a large, **diamond-shaped superficial back muscle** spanning the posterior neck and thorax. It is the primary mover of the scapula and has three functionally distinct parts.
 
 ## 🔗 Bone Attachments
-- **Origin**: [[Skull]] (external occipital protuberance + superior nuchal line) + [[Vertebral Column]] (nuchal ligament C1–C7, spinous processes T1–T12)
-- **Insertion**: [[Clavicle]] (lateral 1/3) + [[Scapula]] (acromion + spine of scapula)
+- **Origin**: [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) (external occipital protuberance + superior nuchal line) + [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) (nuchal ligament C1–C7, spinous processes T1–T12)
+- **Insertion**: [Clavicle](./anatomyLink/Skeletal System/Upper Limb/Clavicle.md) (lateral 1/3) + [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) (acromion + spine of scapula)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | Occiput ([[Skull]]) + [[Cervical Vertebrae]] + [[Thoracic Vertebrae]] spinous processes |
-| Insertion | Lateral [[Clavicle]] + acromion + scapular spine ([[Scapula]]) |
+| Origin | Occiput ([Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md)) + [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) + [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) spinous processes |
+| Insertion | Lateral [Clavicle](./anatomyLink/Skeletal System/Upper Limb/Clavicle.md) + acromion + scapular spine ([Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md)) |
 | Innervation | **Spinal accessory nerve (CN XI)** + C3–C4 (proprioception) |
 | Blood Supply | Transverse cervical artery |
 
@@ -37,7 +37,7 @@ aliases: [trap muscle, trapezius muscle]
 - **Shoulder impingement** — Weak lower trapezius → poor scapular upward rotation → subacromial narrowing
 
 ## 📍 Location in Muscular System
-[[Muscular System]] → Trunk → Trapezius
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Trapezius
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)
 

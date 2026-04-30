@@ -8,9 +8,9 @@ aliases: [sensory pathway, spinothalamic tract, dorsal columns, 감각경로]
 > There are two major ascending sensory pathways: the **dorsal column-medial lemniscal pathway** (fine touch, vibration, proprioception) and the **spinothalamic tract** (pain, temperature, crude touch). They decussate at different levels — critical for lesion localization.
 
 ## 🔗 Key Connections
-- [[Spinal Cord]] — both pathways ascend within the cord
-- [[Brainstem]] — dorsal columns decussate in medulla; spinothalamic already crossed in cord
-- [[Brain]] — both reach the thalamus (VPL nucleus) → primary somatosensory cortex (postcentral gyrus)
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — both pathways ascend within the cord
+- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — dorsal columns decussate in medulla; spinothalamic already crossed in cord
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — both reach the thalamus (VPL nucleus) → primary somatosensory cortex (postcentral gyrus)
 
 ## 🗂️ Two Major Pathways
 
@@ -100,4 +100,4 @@ aliases: [sensory pathway, spinothalamic tract, dorsal columns, 감각경로]
 - [Spinal Cord](https://neuroanatomy.ca/regions/spinalcord.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Pathways → Sensory Pathway
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Pathways → Sensory Pathway

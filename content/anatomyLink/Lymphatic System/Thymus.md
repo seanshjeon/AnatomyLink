@@ -5,15 +5,15 @@ aliases: [thymic, thymus gland]
 
 # Thymus
 
-> The thymus is a **bilobed lymphoid organ** in the anterior superior mediastinum, behind the [[Sternum]]. It is the site of **T-lymphocyte maturation** and is most active in childhood, involuting with age (replaced by adipose tissue by adulthood).
+> The thymus is a **bilobed lymphoid organ** in the anterior superior mediastinum, behind the [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md). It is the site of **T-lymphocyte maturation** and is most active in childhood, involuting with age (replaced by adipose tissue by adulthood).
 
 ## 🔗 Key Connections
-- [[Lymphatic System]]
-- Location: Anterior superior mediastinum; posterior to [[Sternum]], anterior to [[Trachea]] + great vessels
-- Neighbours: Aortic arch + great vessels (posterior), [[Lungs]] / [[Pleura]] (lateral), pericardium (inferior)
+- [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md)
+- Location: Anterior superior mediastinum; posterior to [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md), anterior to [Trachea](./anatomyLink/Respiratory System/Trachea.md) + great vessels
+- Neighbours: Aortic arch + great vessels (posterior), [Lungs](./anatomyLink/Respiratory System/Lungs.md) / [Pleura](./anatomyLink/Respiratory System/Pleura.md) (lateral), pericardium (inferior)
 - Blood supply: Internal thoracic artery + inferior thyroid artery
 - Lymphatics: Drains to anterior mediastinal + paratracheal nodes
-- Embryological origin: 3rd pharyngeal pouch (same as inferior [[Parathyroid Glands]])
+- Embryological origin: 3rd pharyngeal pouch (same as inferior [Parathyroid Glands](./anatomyLink/Endocrine System/Parathyroid Glands.md))
 
 ## 🔬 Structure
 
@@ -35,4 +35,4 @@ aliases: [thymic, thymus gland]
 - **Anterior mediastinal masses (4 T's)** — Thymoma, Teratoma, Thyroid (retrosternal), Terrible lymphoma
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Lymphatic System]] → Thymus
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md) → Thymus

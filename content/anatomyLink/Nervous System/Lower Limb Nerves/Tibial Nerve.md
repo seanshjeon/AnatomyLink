@@ -4,25 +4,25 @@ aliases: [medial popliteal nerve, posterior tibial nerve]
 ---
 # Tibial Nerve
 
-> The tibial nerve (L4–S3), the larger medial terminal division of the [[Sciatic Nerve]], **innervates all muscles of the posterior leg and intrinsic foot muscles** and is the nerve compressed in tarsal tunnel syndrome.
+> The tibial nerve (L4–S3), the larger medial terminal division of the [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md), **innervates all muscles of the posterior leg and intrinsic foot muscles** and is the nerve compressed in tarsal tunnel syndrome.
 
 ## 🔗 Origin
 - **Root values**: L4–S3
-- **From plexus**: [[Sacral Plexus]] (via [[Sciatic Nerve]])
-- **Cord**: Medial division of [[Sciatic Nerve]]
+- **From plexus**: [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) (via [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md))
+- **Cord**: Medial division of [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md)
 
 ## 🗂️ Key Information
 | Property | Detail |
 |----------|--------|
 | Root Values | L4–S3 |
-| Plexus Origin | [[Sacral Plexus]] via [[Sciatic Nerve]] |
-| Course | Diverges from [[Common Fibular Nerve]] at apex of popliteal fossa → descends through popliteal fossa (most superficial structure) → passes under the soleal arch (fibrous arch of soleus) → descends in posterior compartment of leg with posterior tibial vessels → passes posterior to medial malleolus of [[Tibia]] through the tarsal tunnel → divides into medial and lateral plantar nerves |
+| Plexus Origin | [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) via [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md) |
+| Course | Diverges from [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md) at apex of popliteal fossa → descends through popliteal fossa (most superficial structure) → passes under the soleal arch (fibrous arch of soleus) → descends in posterior compartment of leg with posterior tibial vessels → passes posterior to medial malleolus of [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) through the tarsal tunnel → divides into medial and lateral plantar nerves |
 | Sensory Territory | Posterior leg (sural nerve with common fibular contribution); heel (medial calcaneal branches); sole of foot (medial + lateral plantar nerves) |
 | Terminal Branches | Medial plantar nerve, lateral plantar nerve, medial calcaneal branches, sural nerve (with common fibular nerve) |
 
 ## 💪 Muscles Innervated
 **Posterior leg (superficial compartment):**
-- [[Gastrocnemius]] (medial and lateral heads) — plantarflexion (also knee flexion)
+- [Gastrocnemius](./anatomyLink/Muscular System/Lower Limb/Gastrocnemius.md) (medial and lateral heads) — plantarflexion (also knee flexion)
 - Soleus — plantarflexion (primary weight-bearing plantarflexor)
 - Plantaris — weak plantarflexion + knee flexion
 
@@ -41,7 +41,7 @@ aliases: [medial popliteal nerve, posterior tibial nerve]
 - Popliteal fossa contents (superficial to deep): tibial nerve → popliteal vein → popliteal artery
 - Passes under the **soleal arch** — a fibrous arch of soleus; potential compression site
 - Descends with the posterior tibial artery and veins (neurovascular bundle)
-- Passes posterior to the medial malleolus of [[Tibia]] within the **tarsal tunnel** (flexor retinaculum), alongside FHL, FDL, tibialis posterior tendons, and posterior tibial vessels (mnemonic: **Tom, Dick And Very Nervous Harry** — Tibialis posterior, flexor Digitorum longus, posterior tibial Artery, Vein, tibial Nerve, flexor Hallucis longus)
+- Passes posterior to the medial malleolus of [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) within the **tarsal tunnel** (flexor retinaculum), alongside FHL, FDL, tibialis posterior tendons, and posterior tibial vessels (mnemonic: **Tom, Dick And Very Nervous Harry** — Tibialis posterior, flexor Digitorum longus, posterior tibial Artery, Vein, tibial Nerve, flexor Hallucis longus)
 - Divides into medial and lateral plantar nerves at the level of the sustentaculum tali of the calcaneus
 
 ## 🏥 Clinical Significance
@@ -64,7 +64,7 @@ aliases: [medial popliteal nerve, posterior tibial nerve]
 - 🎬 [UBC Neuroanatomy S3E3: The Lower Limb](https://www.youtube.com/watch?v=LJn7ZApt1NA) — UBC Medicine (10:44)
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → [[Sacral Plexus]] → [[Sciatic Nerve]] → Tibial Nerve
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) → [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md) → Tibial Nerve
 
 
 ## 3D Interactive Models

@@ -5,21 +5,21 @@ aliases: [ligamentum latum uteri]
 
 # Broad Ligament
 
-> The broad ligament is a **double-layered peritoneal fold** extending from the lateral walls of the [[Uterus]] to the lateral pelvic walls and pelvic floor. It is the principal mesentery of the female reproductive tract, suspending the uterus, uterine tubes, and ovaries within the pelvis.
+> The broad ligament is a **double-layered peritoneal fold** extending from the lateral walls of the [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) to the lateral pelvic walls and pelvic floor. It is the principal mesentery of the female reproductive tract, suspending the uterus, uterine tubes, and ovaries within the pelvis.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Attached to: [[Uterus]] (medially), lateral pelvic wall (laterally)
-- Contains: [[Uterine Tubes]] (in its upper free border — mesosalpinx), [[Ovaries]] (in mesovarium), [[Uterus]] round ligament, ovarian ligament, uterine artery, uterine veins, lymphatics, autonomic nerves
-- Related to: [[Sacral Plexus]] (posterior pelvic wall behind ligament)
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Attached to: [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) (medially), lateral pelvic wall (laterally)
+- Contains: [Uterine Tubes](./anatomyLink/Reproductive System/Female/Uterine Tubes.md) (in its upper free border — mesosalpinx), [Ovaries](./anatomyLink/Reproductive System/Female/Ovaries.md) (in mesovarium), [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) round ligament, ovarian ligament, uterine artery, uterine veins, lymphatics, autonomic nerves
+- Related to: [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) (posterior pelvic wall behind ligament)
 
 ## 🔬 Subdivisions
 
 | Part | Contents |
 |------|----------|
-| **Mesosalpinx** | Upper margin; suspends [[Uterine Tubes]] |
-| **Mesovarium** | Posterior leaf; suspends [[Ovaries]] (ovaries are NOT covered by peritoneum — attach at hilum) |
-| **Mesometrium** | Largest part; flanks the [[Uterus]]; contains parametrium (fatty connective tissue with vessels/nerves) |
+| **Mesosalpinx** | Upper margin; suspends [Uterine Tubes](./anatomyLink/Reproductive System/Female/Uterine Tubes.md) |
+| **Mesovarium** | Posterior leaf; suspends [Ovaries](./anatomyLink/Reproductive System/Female/Ovaries.md) (ovaries are NOT covered by peritoneum — attach at hilum) |
+| **Mesometrium** | Largest part; flanks the [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md); contains parametrium (fatty connective tissue with vessels/nerves) |
 
 ## ⚙️ Function
 - **Supports** uterus, tubes, and ovaries within the pelvis (though cardinal and uterosacral ligaments provide primary uterine support against prolapse)
@@ -34,7 +34,7 @@ aliases: [ligamentum latum uteri]
 - **Ovarian cysts** — may appear to lie within broad ligament on imaging
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Female → Broad Ligament
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Female → Broad Ligament
 
 
 ## 3D Interactive Models

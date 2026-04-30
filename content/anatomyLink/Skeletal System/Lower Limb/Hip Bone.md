@@ -7,24 +7,24 @@ aliases: [os coxae, innominate bone, pelvic bone, coxal bone]
 > The hip bone is formed by the fusion of three bones: **ilium, ischium, and pubis**. The two hip bones together with the sacrum form the **pelvis**.
 
 ## 🔗 Connected Structures
-- [[Sacrum]] — **Sacroiliac joint (SIJ)** — posterior articulation
-- Opposite [[Hip Bone]] — **Pubic symphysis** — anterior articulation
-- [[Femur]] — **Hip joint** — femoral head articulates in the acetabulum
+- [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) — **Sacroiliac joint (SIJ)** — posterior articulation
+- Opposite [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) — **Pubic symphysis** — anterior articulation
+- [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) — **Hip joint** — femoral head articulates in the acetabulum
 
 ## 🔗 Associated Muscles
-- [[Gluteus Maximus]] — Originates from the posterior ilium and sacrum
-- [[Gluteus Medius]] — Originates from the ilium (between gluteal lines)
-- [[Iliopsoas]] — Iliacus originates from the iliac fossa
-- [[Hamstrings]] — Biceps femoris (long), semimembranosus, semitendinosus originate from ischial tuberosity
-- [[Rectus Abdominis]] — Inserts on the pubic crest
+- [Gluteus Maximus](./anatomyLink/Muscular System/Lower Limb/Gluteus Maximus.md) — Originates from the posterior ilium and sacrum
+- [Gluteus Medius](./anatomyLink/Muscular System/Lower Limb/Gluteus Medius.md) — Originates from the ilium (between gluteal lines)
+- [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) — Iliacus originates from the iliac fossa
+- [Hamstrings](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — Biceps femoris (long), semimembranosus, semitendinosus originate from ischial tuberosity
+- [Rectus Abdominis](./anatomyLink/Muscular System/Trunk/Rectus Abdominis.md) — Inserts on the pubic crest
 
 ## 🗂️ Three Component Bones
 
 ### Ilium
 | Part | Description |
 |------|-------------|
-| [[Iliac Crest]] | Superior border; palpable; **Jacoby's line = L4 level** |
-| [[Anterior Superior Iliac Spine|ASIS]] | Anterior end of crest; key surface landmark |
+| [Iliac Crest](./anatomyLink/Skeletal System/Lower Limb/Iliac Crest.md) | Superior border; palpable; **Jacoby's line = L4 level** |
+| [ASIS](./anatomyLink/Skeletal System/Lower Limb/Anterior Superior Iliac Spine.md) | Anterior end of crest; key surface landmark |
 | AIIS | Rectus femoris origin |
 | Iliac fossa | Anterior medial surface; iliacus muscle |
 | Auricular surface | Sacroiliac joint face |
@@ -32,7 +32,7 @@ aliases: [os coxae, innominate bone, pelvic bone, coxal bone]
 ### Ischium
 | Part | Description |
 |------|-------------|
-| [[Ischial Tuberosity]] | Weight-bearing when seated; hamstring origin |
+| [Ischial Tuberosity](./anatomyLink/Skeletal System/Lower Limb/Ischial Tuberosity.md) | Weight-bearing when seated; hamstring origin |
 | Ischial spine | Sacrospinous ligament; fetal station reference in obstetrics |
 
 ### Pubis
@@ -42,8 +42,8 @@ aliases: [os coxae, innominate bone, pelvic bone, coxal bone]
 | Superior ramus | Contributes to acetabulum |
 | Inferior ramus | Forms ischiopubic ramus; borders obturator foramen |
 
-## 🔑 [[Acetabulum]]
-- [[Acetabulum]] — Contribution: Ilium (2/5) + Ischium (2/5) + Pubis (1/5)
+## 🔑 [Acetabulum](./anatomyLink/Skeletal System/Lower Limb/Acetabulum.md)
+- [Acetabulum](./anatomyLink/Skeletal System/Lower Limb/Acetabulum.md) — Contribution: Ilium (2/5) + Ischium (2/5) + Pubis (1/5)
 - Deepened by the **acetabular labrum**
 
 ## 🔑 Pelvic Sex Differences
@@ -62,7 +62,7 @@ aliases: [os coxae, innominate bone, pelvic bone, coxal bone]
 
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Pelvic Girdle → Hip Bone
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Pelvic Girdle → Hip Bone
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Hip](https://www.clinicalanatomy.ca/lowerlimb/Hip/story.html) — UBC — Hip joint, pelvis & proximal femur

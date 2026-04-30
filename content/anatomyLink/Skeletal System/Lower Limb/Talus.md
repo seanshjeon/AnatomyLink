@@ -5,12 +5,12 @@ aliases: [talus bone, astragalus]
 
 # Talus
 
-> The **talus** is the most superior of the [[Tarsals]], forming the ankle joint above (with [[Tibia]] and [[Fibula]]) and the subtalar joint below (with the calcaneus). It has no muscle attachments — only ligamentous and cartilaginous surfaces.
+> The **talus** is the most superior of the [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md), forming the ankle joint above (with [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) and [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md)) and the subtalar joint below (with the calcaneus). It has no muscle attachments — only ligamentous and cartilaginous surfaces.
 
 ## 🔗 Key Connections
-- [[Tibia]] — superior/medial articular surface forms talocrural (ankle) joint
-- [[Fibula]] — [[Lateral Malleolus]] forms lateral ankle mortise
-- [[Medial Malleolus]] — medial mortise wall
+- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — superior/medial articular surface forms talocrural (ankle) joint
+- [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) — [Lateral Malleolus](./anatomyLink/Skeletal System/Lower Limb/Lateral Malleolus.md) forms lateral ankle mortise
+- [Medial Malleolus](./anatomyLink/Skeletal System/Lower Limb/Medial Malleolus.md) — medial mortise wall
 - Calcaneus — subtalar joint (below talus); primary site of hindfoot inversion/eversion
 - Navicular — talonavicular joint (midfoot)
 
@@ -18,8 +18,8 @@ aliases: [talus bone, astragalus]
 | Surface | Articulation |
 |---------|-------------|
 | Trochlea (dome) | Tibia (tibial plafond) — plantarflexion/dorsiflexion |
-| Medial facet | [[Medial Malleolus]] |
-| Lateral facet | [[Lateral Malleolus]] |
+| Medial facet | [Medial Malleolus](./anatomyLink/Skeletal System/Lower Limb/Medial Malleolus.md) |
+| Lateral facet | [Lateral Malleolus](./anatomyLink/Skeletal System/Lower Limb/Lateral Malleolus.md) |
 | Inferior surface | Calcaneus (subtalar joint) |
 
 ## 🏥 Clinical Significance
@@ -29,4 +29,4 @@ aliases: [talus bone, astragalus]
 - **Osteochondral lesions of talus (OLT)** — Cartilage + bone injury from ankle sprains; anteromedial or posterolateral dome
 
 ## 📍 Location
-[[Skeletal System]] → Lower Limb → [[Tarsals]] → Talus
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Lower Limb → [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md) → Talus

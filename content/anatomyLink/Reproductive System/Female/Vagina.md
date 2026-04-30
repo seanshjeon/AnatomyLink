@@ -5,14 +5,14 @@ aliases: [birth canal, vaginal canal]
 
 # Vagina
 
-> The vagina is a **fibromuscular canal ~8–10 cm long** extending from the [[Cervix]] to the [[Vulva]]. It serves as the **birth canal**, the conduit for menstrual flow, and the receptive organ during intercourse.
+> The vagina is a **fibromuscular canal ~8–10 cm long** extending from the [Cervix](./anatomyLink/Reproductive System/Female/Cervix.md) to the [Vulva](./anatomyLink/Reproductive System/Female/Vulva.md). It serves as the **birth canal**, the conduit for menstrual flow, and the receptive organ during intercourse.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Superior: [[Cervix]] (with anterior, posterior, and lateral fornices)
-- Inferior: [[Vulva]] (vaginal orifice / introitus)
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Superior: [Cervix](./anatomyLink/Reproductive System/Female/Cervix.md) (with anterior, posterior, and lateral fornices)
+- Inferior: [Vulva](./anatomyLink/Reproductive System/Female/Vulva.md) (vaginal orifice / introitus)
 - Anterior: Urinary bladder, urethra
-- Posterior: Recto-uterine pouch (Douglas) superiorly; [[Rectum and Anal Canal]] inferiorly; **perineal body**
+- Posterior: Recto-uterine pouch (Douglas) superiorly; [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md) inferiorly; **perineal body**
 - Lateral: Levator ani muscles, ureter (near lateral fornix)
 - Blood supply: Vaginal arteries (from internal iliac); branches of uterine, middle rectal, internal pudendal arteries
 - Venous drainage: Vaginal venous plexus → internal iliac veins
@@ -39,4 +39,4 @@ aliases: [birth canal, vaginal canal]
 - **Culdocentesis** — needle through posterior fornix to aspirate fluid from pouch of Douglas (e.g., in ectopic pregnancy diagnosis)
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Female → Vagina
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Female → Vagina

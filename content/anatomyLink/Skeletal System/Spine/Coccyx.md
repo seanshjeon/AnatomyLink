@@ -8,7 +8,7 @@ aliases: [tailbone, coccygeal bone]
 > The coccyx is the **terminal segment of the vertebral column**, formed by the fusion of **3–5 rudimentary coccygeal vertebrae**. It represents the vestigial tail and serves as an attachment point for pelvic floor muscles.
 
 ## 🔗 Connected Structures
-- [[Sacrum]] — Articulates at the **sacrococcygeal joint**
+- [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) — Articulates at the **sacrococcygeal joint**
   - Allows slight flexion/extension — important during childbirth
 
 ## 🗂️ Structure
@@ -28,7 +28,7 @@ aliases: [tailbone, coccygeal bone]
 - **Coccygectomy** — Surgical removal for refractory coccydynia
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → [[Vertebral Column]] → Coccyx
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Coccyx
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral column, curvatures, vertebrae, joints & ligaments

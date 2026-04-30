@@ -5,11 +5,11 @@ aliases: [lateral epicondyle of humerus]
 
 # Lateral Epicondyle
 
-> The **lateral epicondyle** is the bony projection on the lateral side of the distal [[Humerus]], serving as the common origin of the extensor muscles of the forearm.
+> The **lateral epicondyle** is the bony projection on the lateral side of the distal [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md), serving as the common origin of the extensor muscles of the forearm.
 
 ## 🔗 Key Connections
-- [[Humerus]] — distal lateral humerus
-- [[Radial Nerve]] — divides into superficial and deep (posterior interosseous) branches at the level of the lateral epicondyle
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — distal lateral humerus
+- [Radial Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Radial Nerve.md) — divides into superficial and deep (posterior interosseous) branches at the level of the lateral epicondyle
 - Extensor-supinator group — common extensor origin (ECRB, EDC, EDM, ECU, supinator)
 - Lateral collateral ligament — originates from lateral epicondyle
 
@@ -19,7 +19,7 @@ aliases: [lateral epicondyle of humerus]
 - **Posterior interosseous nerve palsy** — Finger/wrist drop (extensor weakness); no sensory loss (deep branch)
 
 ## 📍 Location
-[[Skeletal System]] → [[Humerus]] → Lateral Epicondyle
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) → Lateral Epicondyle
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Cubital Fossa](https://www.clinicalanatomy.ca/upperlimb/CubitalFossa/story.html) — UBC — Elbow epicondyles & cubital fossa

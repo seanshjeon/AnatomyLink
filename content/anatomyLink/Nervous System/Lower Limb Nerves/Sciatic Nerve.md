@@ -5,25 +5,25 @@ aliases: [ischiadic nerve]
 
 # Sciatic Nerve
 
-> The sciatic nerve (L4–S3), arising from the [[Sacral Plexus]], is the **largest nerve in the human body** and provides motor and sensory supply to the entire lower limb below the knee via its two terminal divisions: the [[Tibial Nerve]] and [[Common Fibular Nerve]].
+> The sciatic nerve (L4–S3), arising from the [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md), is the **largest nerve in the human body** and provides motor and sensory supply to the entire lower limb below the knee via its two terminal divisions: the [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) and [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md).
 
 ## 🔗 Origin
 - **Root values**: L4–S3
-- **From plexus**: [[Sacral Plexus]]
+- **From plexus**: [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md)
 - **Cord**: N/A (sacral plexus — no cord equivalent)
 
 ## 🗂️ Key Information
 | Property | Detail |
 |----------|--------|
 | Root Values | L4–S3 |
-| Plexus Origin | [[Sacral Plexus]] |
-| Course | Exits pelvis through the **greater sciatic foramen below piriformis** (usually) → descends deep to gluteus maximus in the posterior thigh → gives branches to posterior thigh muscles → divides into [[Tibial Nerve]] (medial) and [[Common Fibular Nerve]] (lateral) above the popliteal fossa (variable level) |
-| Sensory Territory | Posterior thigh via posterior cutaneous nerve of thigh (which runs alongside); all below the knee via [[Tibial Nerve]] and [[Common Fibular Nerve]] |
-| Terminal Branches | [[Tibial Nerve]] (medial division), [[Common Fibular Nerve]] (lateral division) |
+| Plexus Origin | [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) |
+| Course | Exits pelvis through the **greater sciatic foramen below piriformis** (usually) → descends deep to gluteus maximus in the posterior thigh → gives branches to posterior thigh muscles → divides into [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) (medial) and [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md) (lateral) above the popliteal fossa (variable level) |
+| Sensory Territory | Posterior thigh via posterior cutaneous nerve of thigh (which runs alongside); all below the knee via [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) and [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md) |
+| Terminal Branches | [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) (medial division), [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md) (lateral division) |
 
 ## 💪 Muscles Innervated
 **Via tibial division in the posterior thigh:**
-- [[Hamstrings]]:
+- [Hamstrings](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md):
   - Biceps femoris (long head) — knee flexion + lateral rotation of knee
   - Semimembranosus — knee flexion + medial rotation + hip extension
   - Semitendinosus — knee flexion + medial rotation + hip extension
@@ -32,15 +32,15 @@ aliases: [ischiadic nerve]
 **Via common fibular division in the posterior thigh:**
 - Biceps femoris (short head) — knee flexion
 
-**All muscles below the knee via [[Tibial Nerve]] and [[Common Fibular Nerve]]** — see respective files
+**All muscles below the knee via [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) and [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md)** — see respective files
 
 ## 🦴 Key Anatomical Relationships
 - Exits the pelvis through the **greater sciatic foramen**, typically inferior to piriformis (may pass through or above piriformis in anatomical variants — clinically significant in piriformis syndrome)
 - Lies deep to gluteus maximus in the buttock
-- Descends midway between the ischial tuberosity and greater trochanter of the [[Femur]]
+- Descends midway between the ischial tuberosity and greater trochanter of the [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md)
 - Posterior cutaneous nerve of thigh runs alongside (separate nerve from S1–S3)
 - In the posterior thigh, the sciatic nerve lies deep to the long head of biceps femoris
-- Divides into [[Tibial Nerve]] and [[Common Fibular Nerve]] at a variable level — usually in the popliteal fossa, but can be as high as the greater sciatic foramen
+- Divides into [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) and [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md) at a variable level — usually in the popliteal fossa, but can be as high as the greater sciatic foramen
 - **Safe zone for gluteal injections**: upper outer (superolateral) quadrant of the buttock — avoids the sciatic nerve
 
 ## 🏥 Clinical Significance
@@ -50,7 +50,7 @@ aliases: [ischiadic nerve]
   - **Straight leg raise test (SLR / Lasègue's test)** — supine, leg raised with knee straight; positive if radicular pain reproduced at <60°; tests L4–S1
   - **Crossed SLR** — raising the unaffected leg reproduces symptoms on the affected side; highly specific for disc herniation
 - **Sciatic nerve injury** (trunk level)
-  - Motor deficit: all muscles below the knee lost; [[Hamstrings]] weakened; loss of knee flexion, all foot movement
+  - Motor deficit: all muscles below the knee lost; [Hamstrings](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) weakened; loss of knee flexion, all foot movement
   - Sensory deficit: entire leg and foot below knee (except medial leg — saphenous nerve from femoral nerve)
   - High sciatic injury: hamstring function also lost
 - **Posterior hip dislocation** — femoral head displaces posteriorly and stretches the sciatic nerve (common fibular division most vulnerable)
@@ -63,7 +63,7 @@ aliases: [ischiadic nerve]
 - 🎬 [UBC Neuroanatomy S3E3: The Lower Limb](https://www.youtube.com/watch?v=LJn7ZApt1NA) — UBC Medicine (10:44)
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → [[Sacral Plexus]] → Sciatic Nerve → [[Tibial Nerve]] / [[Common Fibular Nerve]]
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) → Sciatic Nerve → [Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) / [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md)
 
 
 

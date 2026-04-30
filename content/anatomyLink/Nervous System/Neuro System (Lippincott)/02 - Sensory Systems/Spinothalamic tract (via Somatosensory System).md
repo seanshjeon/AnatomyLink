@@ -8,14 +8,14 @@ aliases: [Spinothalamic Tract, STT, Anterolateral System, ALS, Pain Pathway Trac
 > **The spinothalamic tract is the principal ascending pathway for pain, temperature, and crude touch — its fibres cross the midline within 1-2 spinal segments of entry, travelling in the contralateral anterolateral white matter to the thalamus and cortex.**
 
 ## 🔗 Key Connections
-- [[Somatosensory System]] — one of the two major somatosensory pathways (alongside dorsal column–medial lemniscal)
-- [[Pain Pathways]] — spinothalamic tract is the anatomical substrate of pain and temperature transmission
-- [[Spinal Cord Circuits]] — dorsal horn laminae I, IV, V are the synaptic relay stations
-- [[Sensory Receptors]] — Aδ fibres (fast pain, cool) and C fibres (slow pain, warm) are the primary afferents
-- [[Thalamus]] — VPL (ventral posterolateral nucleus) receives contralateral body spinothalamic input
-- [[Cerebral Cortex]] — S1 (postcentral gyrus) and S2 (parietal operculum) for discriminative aspects; insula/ACC for affective
-- [[Brainstem]] — spinoreticular and spinomesencephalic components relay to reticular formation and PAG
-- [[Neurotransmitters]] — glutamate (fast), substance P (slow); opioids modulate at dorsal horn level
+- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — one of the two major somatosensory pathways (alongside dorsal column–medial lemniscal)
+- [Pain Pathways](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Pain Pathways.md) — spinothalamic tract is the anatomical substrate of pain and temperature transmission
+- [Spinal Cord Circuits](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Spinal Cord Circuits.md) — dorsal horn laminae I, IV, V are the synaptic relay stations
+- [Sensory Receptors](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Sensory Receptors.md) — Aδ fibres (fast pain, cool) and C fibres (slow pain, warm) are the primary afferents
+- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — VPL (ventral posterolateral nucleus) receives contralateral body spinothalamic input
+- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — S1 (postcentral gyrus) and S2 (parietal operculum) for discriminative aspects; insula/ACC for affective
+- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — spinoreticular and spinomesencephalic components relay to reticular formation and PAG
+- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate (fast), substance P (slow); opioids modulate at dorsal horn level
 
 ## 🗂️ Key Information
 
@@ -128,4 +128,4 @@ The 1-2 segment oblique course of the crossing fibres means:
 | **Surgical cordotomy** | Deliberate anterolateral incision | Contralateral pain/temp loss for cancer pain relief (below and contralateral to level) |
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 02 - Sensory Systems → Spinothalamic Tract
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → Spinothalamic Tract

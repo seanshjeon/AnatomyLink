@@ -7,14 +7,14 @@ aliases: [cervical spine, neck vertebrae, C1-C7]
 > There are **7 cervical vertebrae (C1–C7)** forming the neck region of the spine. They are the **smallest and lightest** vertebrae with the **greatest range of motion**.
 
 ## 🔗 Connected Structures
-- [[Skull]] — C1 (Atlas) articulates with the occipital condyles at the **atlanto-occipital joint**
-- [[Thoracic Vertebrae]] — C7 connects to T1 at the cervicothoracic junction
-- [[Vertebral Column]] — Superior component of the spinal column
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — C1 (Atlas) articulates with the occipital condyles at the **atlanto-occipital joint**
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — C7 connects to T1 at the cervicothoracic junction
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — Superior component of the spinal column
 
 ## 🔗 Associated Muscles
-- [[Sternocleidomastoid]] — Inserts on the mastoid process; flexes and rotates the neck
-- [[Trapezius]] — Originates from C1–C7 spinous processes (via nuchal ligament)
-- [[Erector Spinae]] — Cervical portion runs along the cervical spine
+- [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) — Inserts on the mastoid process; flexes and rotates the neck
+- [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) — Originates from C1–C7 spinous processes (via nuchal ligament)
+- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — Cervical portion runs along the cervical spine
 
 ## 🗂️ Atypical Cervical Vertebrae
 
@@ -27,7 +27,7 @@ aliases: [cervical spine, neck vertebrae, C1-C7]
 - Atlanto-axial joint allows **head rotation** (~45° each side)
 
 ### C7 — Vertebra Prominens
-- Longest [[Spinous Process]] — palpable at the base of the neck
+- Longest [Spinous Process](./anatomyLink/Skeletal System/Spine/Spinous Process.md) — palpable at the base of the neck
 - Key **surface landmark** for the cervicothoracic junction
 
 ## 📐 Typical Cervical Vertebrae (C3–C7)
@@ -35,7 +35,7 @@ aliases: [cervical spine, neck vertebrae, C1-C7]
 |---------|-------------|
 | Vertebral body | Small, wider than tall, saddle-shaped superior surface |
 | Transverse foramen | Transmits vertebral artery & vein |
-| Bifid [[Spinous Process]] | C2–C6 spinous processes are bifid |
+| Bifid [Spinous Process](./anatomyLink/Skeletal System/Spine/Spinous Process.md) | C2–C6 spinous processes are bifid |
 | Uncovertebral joints | Joints of Luschka (C3–C7) |
 
 ## 📏 Range of Motion
@@ -53,6 +53,6 @@ aliases: [cervical spine, neck vertebrae, C1-C7]
 
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → [[Vertebral Column]] → Cervical Vertebrae
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Cervical Vertebrae
 
 

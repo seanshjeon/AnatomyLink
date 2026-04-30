@@ -5,12 +5,12 @@ aliases: [semitendinosus muscle]
 
 # Semitendinosus
 
-> The **semitendinosus** is the medial hamstring with a long tendon, originating from the [[Ischial Tuberosity]] and inserting at the pes anserinus on the medial [[Tibia]].
+> The **semitendinosus** is the medial hamstring with a long tendon, originating from the [Ischial Tuberosity](./anatomyLink/Skeletal System/Lower Limb/Ischial Tuberosity.md) and inserting at the pes anserinus on the medial [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md).
 
 ## 🔗 Key Connections
-- **Origin** — [[Ischial Tuberosity]] of [[Hip Bone]]
-- **Insertion** — Pes anserinus (medial [[Tibia]])
-- **Nerve** — [[Sciatic Nerve]] (tibial division, L5–S2)
+- **Origin** — [Ischial Tuberosity](./anatomyLink/Skeletal System/Lower Limb/Ischial Tuberosity.md) of [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md)
+- **Insertion** — Pes anserinus (medial [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md))
+- **Nerve** — [Sciatic Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Sciatic Nerve.md) (tibial division, L5–S2)
 - **Action** — Knee flexion + medial rotation; hip extension
 
 ## 🏥 Clinical Significance
@@ -18,7 +18,7 @@ aliases: [semitendinosus muscle]
 - **Pes anserinus bursitis** — Insertion with sartorius and gracilis at medial tibia
 
 ## 📍 Location
-[[Muscular System]] → Lower Limb → [[Hamstrings]] → Semitendinosus
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Lower Limb → [Hamstrings](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) → Semitendinosus
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

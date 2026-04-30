@@ -5,18 +5,18 @@ aliases: [labourer's nerve]
 
 # Median Nerve
 
-> The median nerve (C6–T1), formed from the lateral and medial cords of the [[Brachial Plexus]], **innervates most anterior forearm flexors and the LOAF thenar muscles**; it is the nerve most commonly compressed at the wrist (carpal tunnel syndrome).
+> The median nerve (C6–T1), formed from the lateral and medial cords of the [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md), **innervates most anterior forearm flexors and the LOAF thenar muscles**; it is the nerve most commonly compressed at the wrist (carpal tunnel syndrome).
 
 ## 🔗 Origin
 - **Root values**: C6–T1
-- **From plexus**: [[Brachial Plexus]]
+- **From plexus**: [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md)
 - **Cord**: Lateral cord (C6–C7) + Medial cord (C8–T1) — forms an "M" shape around the axillary artery
 
 ## 🗂️ Key Information
 | Property | Detail |
 |----------|--------|
 | Root Values | C6–T1 |
-| Plexus Origin | [[Brachial Plexus]] (lateral + medial cords) |
+| Plexus Origin | [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) (lateral + medial cords) |
 | Course | No branches in the arm → enters forearm between two heads of pronator teres → gives off anterior interosseous nerve (AIN) → runs deep to FDS → gives palmar cutaneous branch (5 cm above wrist) → passes through carpal tunnel with 9 flexor tendons → divides into recurrent motor branch and digital branches |
 | Sensory Territory | Palmar surface of lateral 3.5 digits + nail beds; palm via palmar cutaneous branch (not affected in CTS) |
 | Terminal Branches | Recurrent (thenar) motor branch, common palmar digital nerves, anterior interosseous nerve (AIN) |
@@ -68,4 +68,4 @@ aliases: [labourer's nerve]
 - 🎬 [UBC Neuroanatomy S3E2: The Upper Limb](https://www.youtube.com/watch?v=oSrC8Hg61TU) — UBC Medicine (11:04)
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → [[Brachial Plexus]] → Lateral + Medial Cords → Median Nerve
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) → Lateral + Medial Cords → Median Nerve

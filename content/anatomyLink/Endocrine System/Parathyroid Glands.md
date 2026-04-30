@@ -5,11 +5,11 @@ aliases: [parathyroid, PTH glands, parathyroids]
 
 # Parathyroid Glands
 
-> The parathyroid glands are **4 small oval glands** (~40 mg each) embedded in the posterior surface of the [[Thyroid Gland]]. They secrete **parathyroid hormone (PTH)**, the primary regulator of calcium and phosphate homeostasis.
+> The parathyroid glands are **4 small oval glands** (~40 mg each) embedded in the posterior surface of the [Thyroid Gland](./anatomyLink/Endocrine System/Thyroid Gland.md). They secrete **parathyroid hormone (PTH)**, the primary regulator of calcium and phosphate homeostasis.
 
 ## 🔗 Key Connections
-- [[Endocrine System]]
-- Located: Posterior capsule of [[Thyroid Gland]] (variable positions)
+- [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md)
+- Located: Posterior capsule of [Thyroid Gland](./anatomyLink/Endocrine System/Thyroid Gland.md) (variable positions)
 - Blood supply: Inferior thyroid artery (most); may also receive from superior thyroid artery
 - Embryological origin: Superior parathyroids → 4th pharyngeal pouch; Inferior parathyroids → 3rd pharyngeal pouch (with thymus — can descend into mediastinum)
 
@@ -34,8 +34,8 @@ aliases: [parathyroid, PTH glands, parathyroids]
 - **Primary hyperparathyroidism** — solitary adenoma (80%); asymptomatic ↑Ca²⁺; "bones, stones, groans, psychic moans"; Rx: parathyroidectomy
 - **Secondary hyperparathyroidism** — compensatory ↑PTH in CKD (↓calcitriol + ↑PO₄³⁻ → hypocalcaemia); Rx: phosphate binders, calcitriol, cinacalcet
 - **Hypoparathyroidism** — post-thyroid surgery (most common cause); ↓Ca²⁺ → tetany, Chvostek's, Trousseau's signs, perioral tingling; Rx: Ca²⁺ + Vit D
-- **MEN1** — multiple endocrine neoplasia type 1; parathyroid hyperplasia + pituitary adenoma + [[Pancreas]] tumour
+- **MEN1** — multiple endocrine neoplasia type 1; parathyroid hyperplasia + pituitary adenoma + [Pancreas](./anatomyLink/Digestive System/Accessory Organs/Pancreas.md) tumour
 - **Parathyroid carcinoma** — rare; very high PTH + Ca²⁺; palpable mass
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Endocrine System]] → Parathyroid Glands
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md) → Parathyroid Glands

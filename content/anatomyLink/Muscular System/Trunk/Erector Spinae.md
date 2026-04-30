@@ -8,8 +8,8 @@ aliases: [back extensors, paraspinal muscles, sacrospinalis]
 > The erector spinae is a **group of three paired muscle columns** running the entire length of the vertebral column. They are the primary extensors of the spine and maintain upright posture.
 
 ## 🔗 Bone Attachments
-- **Origin**: [[Sacrum]] + [[Hip Bone]] (iliac crest) + [[Lumbar Vertebrae]] (spinous processes via thoracolumbar fascia)
-- **Insertion**: [[Ribs]] + [[Thoracic Vertebrae]] + [[Cervical Vertebrae]] + [[Skull]] (depending on the column)
+- **Origin**: [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) + [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) (iliac crest) + [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) (spinous processes via thoracolumbar fascia)
+- **Insertion**: [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) + [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) + [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) + [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) (depending on the column)
 
 ## 🗂️ Three Columns (medial → lateral)
 
@@ -38,7 +38,7 @@ Each column has regional subdivisions (lumborum, thoracis, cervicis, capitis).
 - **Bilateral paraspinal tenderness** — Exam finding in lumbar disc disease or sacroiliitis
 
 ## 📍 Location in Muscular System
-[[Muscular System]] → Trunk → Erector Spinae
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Erector Spinae
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)
 

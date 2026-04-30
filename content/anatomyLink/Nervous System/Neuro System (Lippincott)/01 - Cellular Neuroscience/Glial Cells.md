@@ -8,12 +8,12 @@ aliases: [Neuroglia, Glia, Supporting Cells]
 > Glial cells are the **non-neuronal supporting cells of the nervous system**, comprising ~50% of brain cells, performing essential roles in **myelination, blood-brain barrier maintenance, ion buffering, synaptic modulation, immune surveillance, and structural scaffolding**.
 
 ## 🔗 Key Connections
-- [[Neuron]] — primary cell type supported by glia
-- [[Action Potential]] — conduction velocity depends on oligodendrocyte/Schwann cell myelination
-- [[Meninges]] — astrocytic endfeet contribute to the glia limitans at the CNS surface
-- [[Ventricular System]] — ependymal cells line ventricles and produce/circulate CSF
-- [[Nervous System]] — parent system
-- [[Neuro System (Lippincott)]] — parent course module
+- [Neuron](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neuron.md) — primary cell type supported by glia
+- [Action Potential](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — conduction velocity depends on oligodendrocyte/Schwann cell myelination
+- [Meninges](./anatomyLink/Nervous System/Central Nervous System/Meninges.md) — astrocytic endfeet contribute to the glia limitans at the CNS surface
+- [Ventricular System](./anatomyLink/Nervous System/Central Nervous System/Ventricular System.md) — ependymal cells line ventricles and produce/circulate CSF
+- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
+- [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/Neuro System (Lippincott).md) — parent course module
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -164,4 +164,4 @@ Microglia are the **resident immune cells (macrophages) of the CNS**.
 ---
 
 ## 📍 Location
-[[Nervous System]] → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Glial Cells
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Glial Cells

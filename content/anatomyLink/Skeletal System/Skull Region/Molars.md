@@ -5,7 +5,7 @@ aliases: [molar, first molar, second molar, 어금니]
 
 # Molars
 
-> **Molars** are the 12 large posterior teeth (6 upper, 6 lower) designed for **grinding and pulverizing** food. They have the largest crowns and multiple roots. The third molars ([[Wisdom Tooth|wisdom teeth]]) are the last to erupt and most commonly impacted.
+> **Molars** are the 12 large posterior teeth (6 upper, 6 lower) designed for **grinding and pulverizing** food. They have the largest crowns and multiple roots. The third molars ([wisdom teeth](./anatomyLink/Skeletal System/Skull Region/Wisdom Tooth.md)) are the last to erupt and most commonly impacted.
 
 ## 🗂️ Types
 
@@ -13,7 +13,7 @@ aliases: [molar, first molar, second molar, 어금니]
 |------|-------|----------|-------|-------|
 | 1st molar ("6-year molar") | 4 | 6–7 years | Upper: 3; Lower: 2 | First permanent tooth to erupt |
 | 2nd molar ("12-year molar") | 4 | 11–13 years | Upper: 3; Lower: 2 | Erupts ~6 years after 1st |
-| 3rd molar ([[Wisdom Tooth|wisdom tooth]]) | 4 | 17–25 years | Variable (1–4) | Most commonly impacted |
+| 3rd molar ([wisdom tooth](./anatomyLink/Skeletal System/Skull Region/Wisdom Tooth.md)) | 4 | 17–25 years | Variable (1–4) | Most commonly impacted |
 
 **Universal numbers:** Upper #1–3, #14–16 / Lower #17–19, #30–32
 
@@ -36,18 +36,18 @@ The **upper and lower first molars** are considered the most important teeth for
 - **Root canal (endodontics)** — Upper 1st molars most commonly treated (4 canals including MB2)
 - **Furcation involvement** — Sign of advanced periodontitis; poor prognosis
 - **Early loss** — Loss of 1st molar before age 10 → significant drift and malocclusion
-- **Impacted 3rd molar** — [[Wisdom Tooth|Wisdom teeth]] impaction → pericoronitis, caries on 2nd molar
+- **Impacted 3rd molar** — [Wisdom teeth](./anatomyLink/Skeletal System/Skull Region/Wisdom Tooth.md) impaction → pericoronitis, caries on 2nd molar
 
 ## 🔗 Key Connections
-- [[Teeth]] — 12 of 32 permanent teeth (largest group)
-- [[Wisdom Tooth]] — 3rd molars; most clinically significant subgroup
-- [[Mandible]] — lower molars (#17–19, #30–32)
-- [[Skull]] — upper molars (#1–3, #14–16) in maxilla; upper molars close to maxillary sinus
-- [[Cranial Nerves]] — CN V2 (upper, posterior superior alveolar nerve) + CN V3 (lower, inferior alveolar nerve)
-- [[Masseter]] — primary muscle generating force on molars
+- [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) — 12 of 32 permanent teeth (largest group)
+- [Wisdom Tooth](./anatomyLink/Skeletal System/Skull Region/Wisdom Tooth.md) — 3rd molars; most clinically significant subgroup
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — lower molars (#17–19, #30–32)
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — upper molars (#1–3, #14–16) in maxilla; upper molars close to maxillary sinus
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V2 (upper, posterior superior alveolar nerve) + CN V3 (lower, inferior alveolar nerve)
+- [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) — primary muscle generating force on molars
 
 ## 📍 Location
-[[Skeletal System]] → [[Teeth]] → Molars
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) → Molars
 
 
 

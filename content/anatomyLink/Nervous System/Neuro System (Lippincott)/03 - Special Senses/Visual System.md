@@ -8,12 +8,12 @@ aliases: [Vision, Visual Pathway, Eye Anatomy, Phototransduction, Retina, Visual
 > The visual system is the **most elaborate sensory system in the human brain, with ~30% of the cerebral cortex devoted to visual processing**. It transforms photon energy into neural signals via phototransduction in retinal photoreceptors, integrates and processes visual information through parallel retinogeniculocortical pathways, and ultimately constructs conscious perception of color, motion, depth, and form via segregated dorsal and ventral cortical streams.
 
 ## 🔗 Key Connections
-- [[Visual Pathway]] — detailed optic tract to cortex routing
-- [[Thalamus]] — lateral geniculate nucleus as visual relay
-- [[Cerebral Cortex]] — primary and higher visual cortices
-- [[Cranial Nerves]] — CN II (optic nerve), CN III/IV/VI (eye movement)
-- [[Autonomic Nervous System]] — pupillary reflexes, ciliary muscle innervation
-- [[Brain]] — occipital lobe, parietal stream, temporal stream
+- [Visual Pathway](./anatomyLink/Nervous System/Pathways/Visual Pathway.md) — detailed optic tract to cortex routing
+- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — lateral geniculate nucleus as visual relay
+- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — primary and higher visual cortices
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN II (optic nerve), CN III/IV/VI (eye movement)
+- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — pupillary reflexes, ciliary muscle innervation
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — occipital lobe, parietal stream, temporal stream
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -219,7 +219,7 @@ aliases: [Vision, Visual Pathway, Eye Anatomy, Phototransduction, Retina, Visual
 
 ## 📍 Location
 
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 03 - Special Senses → Visual System
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Visual System
 
 
 ## 🎬 3D Interactive Models

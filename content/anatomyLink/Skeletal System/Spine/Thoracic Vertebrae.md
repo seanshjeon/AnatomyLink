@@ -7,23 +7,23 @@ aliases: [thoracic spine, dorsal vertebrae, T1-T12]
 > There are **12 thoracic vertebrae (T1–T12)** forming the chest region of the spine. Their defining feature is **articulation with the ribs**, making them key components of the thoracic cage.
 
 ## 🔗 Connected Structures
-- [[Cervical Vertebrae]] — T1 connects to C7 at the cervicothoracic junction
-- [[Lumbar Vertebrae]] — T12 connects to L1 at the thoracolumbar junction
-- [[Ribs]] — Articulate via **costovertebral joints** (all 12 pairs)
-- [[Vertebral Column]] — Middle component of the spinal column
+- [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) — T1 connects to C7 at the cervicothoracic junction
+- [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) — T12 connects to L1 at the thoracolumbar junction
+- [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) — Articulate via **costovertebral joints** (all 12 pairs)
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — Middle component of the spinal column
 
 ## 🔗 Associated Muscles
-- [[Erector Spinae]] — Runs alongside thoracic spinous processes
-- [[Trapezius]] — Attaches to T1–T12 spinous processes
-- [[Latissimus Dorsi]] — Originates from lower thoracic spinous processes (T7–T12)
+- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — Runs alongside thoracic spinous processes
+- [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) — Attaches to T1–T12 spinous processes
+- [Latissimus Dorsi](./anatomyLink/Muscular System/Trunk/Latissimus Dorsi.md) — Originates from lower thoracic spinous processes (T7–T12)
 
 ## 🗂️ Features
 
 | Feature | Description |
 |---------|-------------|
 | Vertebral body | Heart-shaped; has **costal facets** for rib articulation |
-| [[Transverse Process]] | Long and strong; has **transverse costal facets** (T1–T10) |
-| [[Spinous Process]] | Long, downward-sloping (especially mid-thoracic) |
+| [Transverse Process](./anatomyLink/Skeletal System/Spine/Transverse Process.md) | Long and strong; has **transverse costal facets** (T1–T10) |
+| [Spinous Process](./anatomyLink/Skeletal System/Spine/Spinous Process.md) | Long, downward-sloping (especially mid-thoracic) |
 | Intervertebral foramen | Transmits spinal nerves |
 
 ## 🦴 Rib Articulation Pattern
@@ -46,7 +46,7 @@ aliases: [thoracic spine, dorsal vertebrae, T1-T12]
 
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → [[Vertebral Column]] → Thoracic Vertebrae
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Thoracic Vertebrae
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral column, curvatures, vertebrae, joints & ligaments

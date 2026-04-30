@@ -5,16 +5,16 @@ aliases: [dentition, tooth, dental anatomy, 치아, 이빨]
 
 # Teeth (Dentition)
 
-> Humans have **two sets of teeth**: 20 deciduous (baby) teeth and **32 permanent teeth**. Teeth are anchored in the alveolar bone of the [[Mandible]] (lower) and maxilla of the [[Skull]] (upper), connected by the periodontal ligament.
+> Humans have **two sets of teeth**: 20 deciduous (baby) teeth and **32 permanent teeth**. Teeth are anchored in the alveolar bone of the [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) (lower) and maxilla of the [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) (upper), connected by the periodontal ligament.
 
 ## 🗂️ Permanent Dentition — 32 Teeth
 
 | Type | Upper | Lower | Total | Function |
 |------|-------|-------|-------|----------|
-| [[Incisors]] | 4 | 4 | 8 | Cutting / biting |
-| [[Canines]] | 2 | 2 | 4 | Tearing / piercing |
-| [[Premolars]] | 4 | 4 | 8 | Crushing / grinding |
-| [[Molars]] | 6 | 6 | 12 | Grinding |
+| [Incisors](./anatomyLink/Skeletal System/Skull Region/Incisors.md) | 4 | 4 | 8 | Cutting / biting |
+| [Canines](./anatomyLink/Skeletal System/Skull Region/Canines.md) | 2 | 2 | 4 | Tearing / piercing |
+| [Premolars](./anatomyLink/Skeletal System/Skull Region/Premolars.md) | 4 | 4 | 8 | Crushing / grinding |
+| [Molars](./anatomyLink/Skeletal System/Skull Region/Molars.md) | 6 | 6 | 12 | Grinding |
 | **Total** | **16** | **16** | **32** | |
 
 ### Dental Formula (Permanent)
@@ -80,14 +80,14 @@ aliases: [dentition, tooth, dental anatomy, 치아, 이빨]
 | Canines | 9–12 years |
 | Premolars | 10–12 years |
 | Second molars ("12-year molar") | 11–13 years |
-| Third molars ([[Wisdom Tooth|wisdom teeth]]) | 17–25 years |
+| Third molars ([wisdom teeth](./anatomyLink/Skeletal System/Skull Region/Wisdom Tooth.md)) | 17–25 years |
 
 ## 🔗 Key Connections
-- [[Mandible]] — lower teeth embedded in mandibular alveolar bone
-- [[Skull]] — upper teeth embedded in maxillary alveolar bone
-- [[Oral Cavity]] — teeth are the primary structures of the oral cavity
-- [[Masseter]] — primary muscle closing the jaw onto teeth
-- [[Cranial Nerves]] — CN V3 (inferior alveolar nerve) innervates lower teeth; CN V2 innervates upper teeth
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — lower teeth embedded in mandibular alveolar bone
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — upper teeth embedded in maxillary alveolar bone
+- [Oral Cavity](./anatomyLink/Digestive System/Upper GI/Oral Cavity.md) — teeth are the primary structures of the oral cavity
+- [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) — primary muscle closing the jaw onto teeth
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V3 (inferior alveolar nerve) innervates lower teeth; CN V2 innervates upper teeth
 
 ## 🏥 Clinical Significance
 - **Dental caries (cavities)** — Bacterial acid demineralizes enamel → dentin → pulp exposure
@@ -97,7 +97,7 @@ aliases: [dentition, tooth, dental anatomy, 치아, 이빨]
 - **Malocclusion** — Malalignment of teeth; classified by Angle's classification (Class I/II/III)
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → [[Skull]] + [[Mandible]] → Teeth
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) + [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) → Teeth
 
 
 ## 3D Interactive Models

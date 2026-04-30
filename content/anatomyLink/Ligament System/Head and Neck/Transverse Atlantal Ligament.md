@@ -9,9 +9,9 @@ aliases: [transverse ligament of atlas, TAL]
 
 ## 🔗 Key Connections
 - **Attachment** — Lateral masses of atlas (C1) on each side
-- **Holds in place** — Dens of axis (C2) ([[Cervical Vertebrae]])
+- **Holds in place** — Dens of axis (C2) ([Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md))
 - **Part of** — Cruciate ligament complex (TAL + superior + inferior longitudinal bands)
-- **Related** — [[Alar Ligament]], apical ligament, atlantoaxial joint, [[Spinal Cord]]
+- **Related** — [Alar Ligament](./anatomyLink/Ligament System/Head and Neck/Alar Ligament.md), apical ligament, atlantoaxial joint, [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md)
 
 ## 🏥 Clinical Significance
 - **Jefferson fracture (C1 burst fracture)** — TAL rupture if lateral mass displacement > 7mm (Rule of Spence) → atlantoaxial instability
@@ -21,4 +21,4 @@ aliases: [transverse ligament of atlas, TAL]
 - **Open mouth (odontoid) X-ray** — Assesses lateral mass displacement to evaluate TAL integrity
 
 ## 📍 Location
-[[Ligament System]] → Head and Neck → Transverse Atlantal Ligament
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Head and Neck → Transverse Atlantal Ligament

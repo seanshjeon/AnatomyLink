@@ -8,12 +8,12 @@ aliases: [Cowper's glands, Cowper glands]
 > The bulbourethral glands (Cowper's glands) are **paired pea-sized exocrine glands** located within the **deep perineal pouch** (urogenital diaphragm), on either side of the membranous urethra. They secrete a clear, alkaline pre-ejaculatory fluid.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
 - Located in: Deep perineal pouch / urogenital diaphragm
-- Ducts open into: Bulbar (spongy) urethra of [[Penis]]
+- Ducts open into: Bulbar (spongy) urethra of [Penis](./anatomyLink/Reproductive System/Male/Penis.md)
 - Blood supply: Internal pudendal artery
 - Innervation: Parasympathetic (S2–S4) → secretion during arousal
-- Homologue: [[Vulva]] Bartholin's glands (greater vestibular glands) in females
+- Homologue: [Vulva](./anatomyLink/Reproductive System/Female/Vulva.md) Bartholin's glands (greater vestibular glands) in females
 
 ## ⚙️ Function
 - Secrete **alkaline mucus** during sexual arousal (pre-ejaculation)
@@ -26,4 +26,4 @@ aliases: [Cowper's glands, Cowper glands]
 - **Cowper's gland cysts** — may cause obstructive urinary symptoms in young males; seen on urethrography as filling defects in bulbar urethra
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Male → Bulbourethral Glands
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Male → Bulbourethral Glands

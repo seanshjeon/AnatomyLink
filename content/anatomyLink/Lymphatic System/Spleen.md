@@ -8,11 +8,11 @@ aliases: [splen, lien]
 > The spleen is the **largest lymphoid organ** (~150 g, 12 × 7 × 3 cm), lying in the left hypochondriac region under ribs 9–11. It filters blood, removes aged erythrocytes, and stores platelets and immune cells. Unlike lymph nodes, it filters **blood** (not lymph).
 
 ## 🔗 Key Connections
-- [[Lymphatic System]]
-- Related organs: [[Stomach]] (gastrosplenic ligament, gastric surface), [[Kidney]] (splenorenal ligament, renal surface), [[Diaphragm]] (diaphragmatic surface), [[Pancreas]] (tail relates to splenic hilum)
-- Blood supply: **Splenic artery** (largest branch of [[Celiac Trunk]]); tortuous course along superior border of pancreas
-- Venous drainage: **Splenic vein** → joins SMV → **[[Portal System]]** (hepatic portal vein)
-- Lymphatics: Splenic nodes → [[Celiac Trunk]] nodes
+- [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md)
+- Related organs: [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) (gastrosplenic ligament, gastric surface), [Kidney](./anatomyLink/Urinary System/Kidney.md) (splenorenal ligament, renal surface), [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md) (diaphragmatic surface), [Pancreas](./anatomyLink/Digestive System/Accessory Organs/Pancreas.md) (tail relates to splenic hilum)
+- Blood supply: **Splenic artery** (largest branch of [Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md)); tortuous course along superior border of pancreas
+- Venous drainage: **Splenic vein** → joins SMV → **[Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md)** (hepatic portal vein)
+- Lymphatics: Splenic nodes → [Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md) nodes
 - Peritoneum: Intraperitoneal; gastrosplenic ligament (short gastric + left gastro-omental vessels); splenorenal ligament (splenic artery/vein + tail of pancreas)
 
 ## 🔬 Structure
@@ -39,4 +39,4 @@ aliases: [splen, lien]
 - **Splenic artery aneurysm** — most common visceral artery aneurysm; women; pregnancy risk
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Lymphatic System]] → Spleen
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md) → Spleen

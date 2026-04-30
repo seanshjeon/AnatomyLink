@@ -8,16 +8,16 @@ aliases: [lower jaw, jawbone]
 > The mandible is the **only freely movable bone in the facial skeleton**. It is essential for mastication (chewing), speech, and breathing.
 
 ## 🔗 Connected Structures
-- [[Skull]] — Articulates with the temporal bone via the **temporomandibular joint (TMJ)**
-- [[Teeth]] — Lower 16 teeth embedded in the mandibular alveolar bone
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — Articulates with the temporal bone via the **temporomandibular joint (TMJ)**
+- [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) — Lower 16 teeth embedded in the mandibular alveolar bone
 
 ## 🔗 Associated Muscles
-- [[Masseter]] — Inserts on the ramus and angle; primary jaw closer
+- [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) — Inserts on the ramus and angle; primary jaw closer
 
 ## 🗂️ Structure
 | Part | Description |
 |------|-------------|
-| Body | U-shaped horizontal portion; holds lower 16 [[Teeth]] |
+| Body | U-shaped horizontal portion; holds lower 16 [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) |
 | Ramus | Vertical portion, bilateral |
 | Condylar process | Forms the TMJ articulation |
 | Coronoid process | Temporalis muscle attachment |
@@ -49,4 +49,4 @@ aliases: [lower jaw, jawbone]
 - [Human Mandible](https://sketchfab.com/3d-models/human-mandible-3eef1a64945a4fb19e693cd412dcf76e) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → [[Skull]] → Mandible
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) → Mandible

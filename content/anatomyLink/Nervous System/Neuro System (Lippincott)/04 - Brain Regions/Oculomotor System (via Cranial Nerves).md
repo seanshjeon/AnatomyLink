@@ -8,14 +8,14 @@ aliases: [Oculomotor System, Eye Movements, Gaze Control, CN III CN IV CN VI]
 > **The oculomotor system coordinates all voluntary and reflexive eye movements through three cranial nerves (CN III, IV, VI), the paramedian pontine reticular formation, and the medial longitudinal fasciculus — enabling conjugate gaze, fixation, vergence, and the vestibulo-ocular reflex.**
 
 ## 🔗 Key Connections
-- [[Cranial Nerves]] — CN III (oculomotor), CN IV (trochlear), CN VI (abducens): the three motor cranial nerves for eye movement
-- [[Brainstem]] — PPRF (horizontal gaze centre in pons), riMLF (vertical gaze in midbrain), CN nuclei
-- [[Vestibular System]] — VOR: semicircular canals → vestibular nuclei → MLF → CN III/IV/VI
-- [[Cerebellum]] — gaze-holding (flocculus), smooth pursuit (dorsal vermis), saccade accuracy
-- [[Visual System]] — visual feedback for fixation, smooth pursuit, optokinetic reflex
-- [[Autonomic Nervous System]] — Edinger-Westphal nucleus (CN III): pupillary constriction + accommodation
-- [[Stroke Syndromes]] — gaze palsy patterns localise brainstem lesions precisely
-- [[Neurodegenerative Diseases]] — PSP (vertical gaze palsy), PD (hypometric saccades), MSA
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN III (oculomotor), CN IV (trochlear), CN VI (abducens): the three motor cranial nerves for eye movement
+- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — PPRF (horizontal gaze centre in pons), riMLF (vertical gaze in midbrain), CN nuclei
+- [Vestibular System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Vestibular System.md) — VOR: semicircular canals → vestibular nuclei → MLF → CN III/IV/VI
+- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — gaze-holding (flocculus), smooth pursuit (dorsal vermis), saccade accuracy
+- [Visual System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Visual System.md) — visual feedback for fixation, smooth pursuit, optokinetic reflex
+- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — Edinger-Westphal nucleus (CN III): pupillary constriction + accommodation
+- [Stroke Syndromes](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Stroke Syndromes.md) — gaze palsy patterns localise brainstem lesions precisely
+- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — PSP (vertical gaze palsy), PD (hypometric saccades), MSA
 
 ## 🗂️ Key Information
 
@@ -148,5 +148,5 @@ Pretectal area (posterior commissure): upgaze pathway
 | Wernicke's encephalopathy | Periaqueductal grey / CN VI nuclei | Horizontal gaze palsy + nystagmus (with ataxia + encephalopathy) |
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 04 - Brain Regions → Oculomotor System
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → Oculomotor System
 

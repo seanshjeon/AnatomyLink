@@ -8,13 +8,13 @@ aliases: [Memory, Declarative Memory, Procedural Memory, Long-Term Potentiation,
 > **Memory is not a unitary faculty but a family of distinct systems — each with dedicated neural substrates, molecular mechanisms, and clinical vulnerabilities**, united by the overarching stages of encoding, consolidation, storage, and retrieval that transform transient experience into lasting knowledge.
 
 ## 🔗 Key Connections
-- [[Hippocampus]] — essential for explicit/declarative memory encoding and consolidation (episodic + semantic)
-- [[Amygdala]] — emotional memory; fear conditioning; modulates hippocampal consolidation
-- [[Prefrontal Cortex]] — working memory (central executive, phonological loop); episodic memory retrieval
-- [[Cerebral Cortex]] — long-term storage of semantic and procedural memories (distributed neocortex)
-- [[Synaptic Transmission]] — LTP and LTD as synaptic correlates of memory storage
-- [[Neurodegenerative Diseases]] — Alzheimer's (hippocampal/entorhinal), Parkinson's (procedural), semantic dementia
-- [[Sleep and Wakefulness]] — sleep-dependent memory consolidation (SWS: declarative; REM: procedural/emotional)
+- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — essential for explicit/declarative memory encoding and consolidation (episodic + semantic)
+- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — emotional memory; fear conditioning; modulates hippocampal consolidation
+- [Prefrontal Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — working memory (central executive, phonological loop); episodic memory retrieval
+- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — long-term storage of semantic and procedural memories (distributed neocortex)
+- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — LTP and LTD as synaptic correlates of memory storage
+- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — Alzheimer's (hippocampal/entorhinal), Parkinson's (procedural), semantic dementia
+- [Sleep and Wakefulness](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Sleep and Wakefulness.md) — sleep-dependent memory consolidation (SWS: declarative; REM: procedural/emotional)
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -174,4 +174,4 @@ Working memory is the active maintenance and manipulation of information over se
 ---
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 05 - Higher Functions → This Note
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 05 - Higher Functions → This Note

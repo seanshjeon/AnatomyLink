@@ -5,13 +5,13 @@ aliases: [fallopian tubes, oviducts, salpinx]
 
 # Uterine Tubes
 
-> The uterine tubes (Fallopian tubes) are **paired muscular ducts ~10 cm long** extending from the uterine horns to the [[Ovaries]]. They are the site of **fertilisation** and transport the zygote to the [[Uterus]].
+> The uterine tubes (Fallopian tubes) are **paired muscular ducts ~10 cm long** extending from the uterine horns to the [Ovaries](./anatomyLink/Reproductive System/Female/Ovaries.md). They are the site of **fertilisation** and transport the zygote to the [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md).
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Lateral end: Fimbriae embrace [[Ovaries]]
-- Medial end: Opens into [[Uterus]] at uterine horn
-- Contained in: Upper border of [[Broad Ligament]] (mesosalpinx)
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Lateral end: Fimbriae embrace [Ovaries](./anatomyLink/Reproductive System/Female/Ovaries.md)
+- Medial end: Opens into [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) at uterine horn
+- Contained in: Upper border of [Broad Ligament](./anatomyLink/Reproductive System/Female/Broad Ligament.md) (mesosalpinx)
 - Blood supply: Uterine artery (medial 2/3) + ovarian artery (lateral 1/3)
 - Lymphatics: Para-aortic nodes
 - Innervation: Ovarian plexus + uterine plexus
@@ -41,4 +41,4 @@ aliases: [fallopian tubes, oviducts, salpinx]
 - **Fitz-Hugh–Curtis syndrome** — perihepatitis from ascending PID; "violin string" adhesions on liver capsule
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Female → Uterine Tubes
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Female → Uterine Tubes

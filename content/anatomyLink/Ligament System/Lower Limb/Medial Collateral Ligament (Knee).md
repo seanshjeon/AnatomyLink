@@ -8,11 +8,11 @@ aliases: [MCL knee, tibial collateral ligament, medial collateral ligament knee]
 > The **medial collateral ligament (MCL)** of the knee (tibial collateral ligament) is the primary restraint against **valgus stress**, connecting the medial femoral condyle to the medial tibia. It is the most commonly injured knee ligament.
 
 ## 🔗 Key Connections
-- **Origin** — Medial femoral condyle ([[Femur]])
-- **Insertion** — Proximal medial [[Tibia]] (4–5 cm below joint line)
+- **Origin** — Medial femoral condyle ([Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md))
+- **Insertion** — Proximal medial [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) (4–5 cm below joint line)
 - **Superficial MCL** — Long, primary restraint to valgus stress
 - **Deep MCL** — Short; attached to medial meniscus (hence medial meniscus tears in MCL injuries)
-- **Related structures** — Medial meniscus, [[Anterior Cruciate Ligament]], pes anserinus
+- **Related structures** — Medial meniscus, [Anterior Cruciate Ligament](./anatomyLink/Ligament System/Lower Limb/Anterior Cruciate Ligament.md), pes anserinus
 
 ## 🏥 Clinical Significance
 - **MCL sprain** — Graded I–III; most common knee ligament injury; valgus stress from lateral impact
@@ -22,7 +22,7 @@ aliases: [MCL knee, tibial collateral ligament, medial collateral ligament knee]
 - **Pellegrini-Stieda lesion** — Calcification at MCL femoral origin on X-ray after old MCL injury
 
 ## 📍 Location
-[[Ligament System]] → Lower Limb → Medial Collateral Ligament (Knee)
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Lower Limb → Medial Collateral Ligament (Knee)
 
 
 ## 🎬 3D Interactive Models

@@ -8,10 +8,10 @@ aliases: [ANS, autonomic nervous system, sympathetic, parasympathetic, 자율신
 > The **autonomic nervous system** regulates involuntary functions — heart rate, blood pressure, digestion, gland secretion, and pupil size. It has two main divisions: **sympathetic** ("fight or flight") and **parasympathetic** ("rest and digest"), plus the **enteric NS** (gut).
 
 ## 🔗 Key Connections
-- [[Brain]] — hypothalamus is the master ANS controller
-- [[Spinal Cord]] — preganglionic neurons located in lateral horn (T1–L2 sympathetic; S2–S4 parasympathetic)
-- [[Cranial Nerves]] — CN III, VII, IX, X carry parasympathetic fibers
-- [[Brainstem]] — parasympathetic nuclei (Edinger-Westphal, superior/inferior salivatory, dorsal motor of vagus)
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — hypothalamus is the master ANS controller
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — preganglionic neurons located in lateral horn (T1–L2 sympathetic; S2–S4 parasympathetic)
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN III, VII, IX, X carry parasympathetic fibers
+- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — parasympathetic nuclei (Edinger-Westphal, superior/inferior salivatory, dorsal motor of vagus)
 
 ## 🗂️ Comparison
 
@@ -103,4 +103,4 @@ aliases: [ANS, autonomic nervous system, sympathetic, parasympathetic, 자율신
 - [Bladder Control & Micturition](https://neuroanatomy.ca/modules/Micturition/story.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Autonomic Nervous System
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Autonomic Nervous System

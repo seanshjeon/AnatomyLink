@@ -5,13 +5,13 @@ aliases: [medial malleolus]
 
 # Medial Malleolus
 
-> The **medial malleolus** is the bony projection at the distal medial end of the [[Tibia]], forming the medial wall of the ankle mortise (ankle joint), articulating with the medial talar surface.
+> The **medial malleolus** is the bony projection at the distal medial end of the [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md), forming the medial wall of the ankle mortise (ankle joint), articulating with the medial talar surface.
 
 ## 🔗 Key Connections
-- [[Tibia]] — distal medial tibia
-- [[Talus]] — medial surface of talus articulates with the medial malleolus
+- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — distal medial tibia
+- [Talus](./anatomyLink/Skeletal System/Lower Limb/Talus.md) — medial surface of talus articulates with the medial malleolus
 - Deltoid ligament — broad medial ligament complex attaching to the medial malleolus (resists eversion)
-- [[Fibula]] — lateral malleolus and medial malleolus together form the ankle mortise
+- [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) — lateral malleolus and medial malleolus together form the ankle mortise
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -28,7 +28,7 @@ aliases: [medial malleolus]
 - **True leg length** — Measured from ASIS to medial malleolus
 
 ## 📍 Location
-[[Skeletal System]] → [[Tibia]] → Medial Malleolus
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) → Medial Malleolus
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

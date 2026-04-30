@@ -8,15 +8,15 @@ aliases: [collarbone, clavicula]
 > The clavicle is an S-shaped long bone forming the **only bony connection between the upper limb and the axial skeleton**. It is the **first bone to begin ossification** and the **last growth plate to fuse** in the human body.
 
 ## 🔗 Connected Structures
-- [[Sternum]] — **Sternoclavicular joint (SCJ)** — medial articulation (saddle joint)
-- [[Scapula]] — **Acromioclavicular joint (ACJ)** — lateral articulation (plane joint); reinforced by coracoclavicular ligaments
-- [[Ribs]] — Indirectly connected via the sternum
+- [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) — **Sternoclavicular joint (SCJ)** — medial articulation (saddle joint)
+- [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) — **Acromioclavicular joint (ACJ)** — lateral articulation (plane joint); reinforced by coracoclavicular ligaments
+- [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) — Indirectly connected via the sternum
 
 ## 🔗 Associated Muscles
-- [[Pectoralis Major]] — Clavicular head originates from the medial clavicle
-- [[Trapezius]] — Inserts on the lateral 1/3 of the clavicle
-- [[Sternocleidomastoid]] — Clavicular head originates from the medial clavicle
-- [[Deltoid]] — Anterior part originates from the lateral clavicle
+- [Pectoralis Major](./anatomyLink/Muscular System/Trunk/Pectoralis Major.md) — Clavicular head originates from the medial clavicle
+- [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) — Inserts on the lateral 1/3 of the clavicle
+- [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) — Clavicular head originates from the medial clavicle
+- [Deltoid](./anatomyLink/Muscular System/Upper Limb/Deltoid.md) — Anterior part originates from the lateral clavicle
 
 ## 🗂️ Structure
 
@@ -36,7 +36,7 @@ aliases: [collarbone, clavicula]
 
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Pectoral Girdle → Clavicle
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Pectoral Girdle → Clavicle
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Shoulder Joint Anatomy](https://www.clinicalanatomy.ca/upperlimb/ShoulderAnatomy/story.html) — UBC — Shoulder girdle, clavicle & scapula landmarks

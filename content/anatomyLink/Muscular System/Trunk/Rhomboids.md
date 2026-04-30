@@ -5,11 +5,11 @@ aliases: [rhomboid major, rhomboid minor]
 
 # Rhomboids
 
-> The rhomboids (**major** and **minor**) are deep back muscles connecting the vertebral column to the medial border of the [[Scapula]]. They **retract and elevate** the scapula, working in opposition to [[Serratus Anterior]].
+> The rhomboids (**major** and **minor**) are deep back muscles connecting the vertebral column to the medial border of the [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md). They **retract and elevate** the scapula, working in opposition to [Serratus Anterior](./anatomyLink/Muscular System/Trunk/Serratus Anterior.md).
 
 ## 🔗 Key Connections
-- [[Muscular System]]
-- Related: [[Scapula]], [[Trapezius]], [[Serratus Anterior]]
+- [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
+- Related: [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md), [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md), [Serratus Anterior](./anatomyLink/Muscular System/Trunk/Serratus Anterior.md)
 - Nerve: **Dorsal scapular nerve (C4, C5)**
 - Blood supply: Dorsal scapular artery
 
@@ -29,7 +29,7 @@ aliases: [rhomboid major, rhomboid minor]
 - **Postural imbalance** — weak rhomboids + tight pectorals → protracted scapula, kyphosis
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Muscular System]] → Trunk → Rhomboids
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Rhomboids
 
 ## 🎬 3D Interactive Models
 - [Deep Back](https://skfb.ly/oZArI)

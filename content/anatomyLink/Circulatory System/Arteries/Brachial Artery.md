@@ -5,26 +5,26 @@ aliases: [brachial artery]
 
 # Brachial Artery
 
-> The brachial artery is the **main arterial supply of the arm**, running from the lower border of teres major to the cubital fossa, where it bifurcates into the [[Radial Artery]] and [[Ulnar Artery]].
+> The brachial artery is the **main arterial supply of the arm**, running from the lower border of teres major to the cubital fossa, where it bifurcates into the [Radial Artery](./anatomyLink/Circulatory System/Arteries/Radial Artery.md) and [Ulnar Artery](./anatomyLink/Circulatory System/Arteries/Ulnar Artery.md).
 
 ## 🔗 Key Connections
-- Continues from: [[Subclavian Artery]] (via axillary artery)
-- Divides into: [[Radial Artery]] + [[Ulnar Artery]] (at cubital fossa)
-- Accompanies: [[Median Nerve]] (lies medial in arm, crosses anterior to brachial artery at elbow)
-- Runs alongside: [[Humerus]] (medial aspect), [[Biceps Brachii]] (medial border)
+- Continues from: [Subclavian Artery](./anatomyLink/Circulatory System/Arteries/Subclavian Artery.md) (via axillary artery)
+- Divides into: [Radial Artery](./anatomyLink/Circulatory System/Arteries/Radial Artery.md) + [Ulnar Artery](./anatomyLink/Circulatory System/Arteries/Ulnar Artery.md) (at cubital fossa)
+- Accompanies: [Median Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Median Nerve.md) (lies medial in arm, crosses anterior to brachial artery at elbow)
+- Runs alongside: [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (medial aspect), [Biceps Brachii](./anatomyLink/Muscular System/Upper Limb/Biceps Brachii.md) (medial border)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | Axillary artery (at lower border of teres major / [[Humerus]] surgical neck level) |
-| Termination | Neck of [[Radius]] in cubital fossa → [[Radial Artery]] + [[Ulnar Artery]] |
-| Key Branch | Deep brachial artery (profunda brachii) — runs in spiral groove with [[Radial Nerve]] → supplies [[Triceps Brachii]] |
+| Origin | Axillary artery (at lower border of teres major / [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) surgical neck level) |
+| Termination | Neck of [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) in cubital fossa → [Radial Artery](./anatomyLink/Circulatory System/Arteries/Radial Artery.md) + [Ulnar Artery](./anatomyLink/Circulatory System/Arteries/Ulnar Artery.md) |
+| Key Branch | Deep brachial artery (profunda brachii) — runs in spiral groove with [Radial Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Radial Nerve.md) → supplies [Triceps Brachii](./anatomyLink/Muscular System/Upper Limb/Triceps Brachii.md) |
 | Pulse | Palpable medially in the arm and in the antecubital fossa |
 
 ## 🔑 Clinical Landmarks
 - **BP measurement site** — brachial artery is compressed by the cuff; auscultated with stethoscope in antecubital fossa (Korotkoff sounds)
-- **Antecubital fossa** — site of bifurcation; contents: biceps tendon (laterally), brachial artery (middle), [[Median Nerve]] (medially); mnemonic: **TAN** (Tendon, Artery, Nerve lateral to medial)
+- **Antecubital fossa** — site of bifurcation; contents: biceps tendon (laterally), brachial artery (middle), [Median Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Median Nerve.md) (medially); mnemonic: **TAN** (Tendon, Artery, Nerve lateral to medial)
 
 ## 🏥 Clinical Significance
 - **Brachial artery laceration** — major bleeding; distal pulses lost; tourniquet at upper arm
@@ -33,7 +33,7 @@ aliases: [brachial artery]
 - **Brachial artery access** — cardiac catheterization (Sones technique); now largely replaced by radial artery access
 
 ## 📍 Location in Circulatory System
-[[Circulatory System]] → Arteries → Brachial Artery
+[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Arteries → Brachial Artery
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

@@ -8,16 +8,16 @@ aliases: [Medulla Spinalis]
 > The spinal cord is the **cylindrical CNS structure extending from the foramen magnum to L1–L2** (conus medullaris), transmitting sensory and motor signals between the brain and body via **31 pairs of spinal nerves**.
 
 ## 🔗 Key Connections
-- [[Nervous System]] — parent system
-- [[Brain]] — superior continuation
-- [[Vertebral Column]] — bony canal protection
-- [[Cervical Vertebrae]] — C1–C7 (cervical cord segments C1–C8)
-- [[Thoracic Vertebrae]] — T1–T12 (thoracic cord segments)
-- [[Lumbar Vertebrae]] — L1–L2 vertebral level (conus medullaris); lumbar cord segments pass through
-- [[Sacrum]] — sacral segments S1–S5 pass through sacral canal
-- [[Brachial Plexus]] — arises from C5–T1 nerve roots
-- [[Lumbar Plexus]] — arises from L1–L4 nerve roots
-- [[Sacral Plexus]] — arises from L4–S3 nerve roots
+- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — superior continuation
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — bony canal protection
+- [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) — C1–C7 (cervical cord segments C1–C8)
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — T1–T12 (thoracic cord segments)
+- [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) — L1–L2 vertebral level (conus medullaris); lumbar cord segments pass through
+- [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) — sacral segments S1–S5 pass through sacral canal
+- [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) — arises from C5–T1 nerve roots
+- [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md) — arises from L1–L4 nerve roots
+- [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) — arises from L4–S3 nerve roots
 
 ## 🗂️ Key Information
 
@@ -110,4 +110,4 @@ Compression of nerve roots below L1–L2 (not true spinal cord — LMN lesion):
 
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Central Nervous System → Spinal Cord
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Spinal Cord

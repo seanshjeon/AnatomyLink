@@ -5,13 +5,13 @@ aliases: [digastric muscle]
 
 # Digastric
 
-> The **digastric** is a two-bellied (digastric) suprahyoid muscle. Its posterior belly attaches to the [[Mastoid Process]]; its anterior belly attaches to the mandible. Both bellies join at an intermediate tendon that loops through the hyoid bone.
+> The **digastric** is a two-bellied (digastric) suprahyoid muscle. Its posterior belly attaches to the [Mastoid Process](./anatomyLink/Skeletal System/Skull Region/Mastoid Process.md); its anterior belly attaches to the mandible. Both bellies join at an intermediate tendon that loops through the hyoid bone.
 
 ## 🔗 Key Connections
-- **Posterior belly origin** — [[Mastoid Process]] of temporal bone
-- **Anterior belly origin** — Digastric fossa of [[Mandible]]
+- **Posterior belly origin** — [Mastoid Process](./anatomyLink/Skeletal System/Skull Region/Mastoid Process.md) of temporal bone
+- **Anterior belly origin** — Digastric fossa of [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md)
 - **Intermediate tendon** — Loops through fibrous pulley attached to hyoid bone
-- **Nerve** — Posterior belly: [[Cranial Nerves|Facial Nerve (CN VII)]] (CN VII); Anterior belly: mylohyoid nerve (CN V3)
+- **Nerve** — Posterior belly: [Facial Nerve (CN VII)](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) (CN VII); Anterior belly: mylohyoid nerve (CN V3)
 - **Action** — Depresses mandible (opens mouth) + elevates hyoid
 
 ## 🏥 Clinical Significance
@@ -26,4 +26,4 @@ aliases: [digastric muscle]
 
 
 
-[[Muscular System]] → Head and Neck → Digastric
+[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Head and Neck → Digastric

@@ -5,12 +5,12 @@ aliases: [suprarenal glands, adrenals, adrenal cortex, adrenal medulla]
 
 # Adrenal Glands
 
-> The adrenal (suprarenal) glands are **paired pyramidal glands** (~4–6 g each) sitting on the anteromedial surface of the upper pole of each [[Kidney]] within Gerota's fascia. They have two functionally distinct regions: the **cortex** (steroid hormones) and the **medulla** (catecholamines).
+> The adrenal (suprarenal) glands are **paired pyramidal glands** (~4–6 g each) sitting on the anteromedial surface of the upper pole of each [Kidney](./anatomyLink/Urinary System/Kidney.md) within Gerota's fascia. They have two functionally distinct regions: the **cortex** (steroid hormones) and the **medulla** (catecholamines).
 
 ## 🔗 Key Connections
-- [[Endocrine System]]
-- Sit on: Upper pole of [[Kidney]] (within Gerota's fascia)
-- Controlled by: [[Pituitary Gland]] ACTH (cortex); [[Nervous System]] preganglionic sympathetic fibres (medulla — a modified sympathetic ganglion)
+- [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md)
+- Sit on: Upper pole of [Kidney](./anatomyLink/Urinary System/Kidney.md) (within Gerota's fascia)
+- Controlled by: [Pituitary Gland](./anatomyLink/Endocrine System/Pituitary Gland.md) ACTH (cortex); [Nervous System](./anatomyLink/Nervous System/Nervous System.md) preganglionic sympathetic fibres (medulla — a modified sympathetic ganglion)
 - Blood supply: Superior suprarenal arteries (inferior phrenic), Middle suprarenal artery (aorta), Inferior suprarenal artery (renal artery)
 - Venous drainage: **Right adrenal vein** → IVC directly; **Left adrenal vein** → left renal vein (clinically important!)
 - Lymphatics: Para-aortic nodes
@@ -40,7 +40,7 @@ aliases: [suprarenal glands, adrenals, adrenal cortex, adrenal medulla]
 | **Waterhouse-Friderichsen** | Bilateral adrenal haemorrhage; meningococcal sepsis → Addisonian crisis |
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Endocrine System]] → Adrenal Glands
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md) → Adrenal Glands
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

@@ -8,11 +8,11 @@ aliases: [Sleep Stages, Sleep Architecture, Circadian Rhythm, REM Sleep, NREM Sl
 > **Sleep is an actively generated, highly regulated brain state orchestrated by the interplay of circadian timing (SCN), homeostatic sleep pressure (adenosine), and a brainstem–hypothalamic flip-flop switch** — with distinct NREM and REM stages serving complementary functions in memory consolidation, metabolic restoration, and emotional processing.
 
 ## 🔗 Key Connections
-- [[Hypothalamus]] — VLPO (sleep-promoting), lateral hypothalamus (orexin/wake-stabilizing), SCN (circadian master clock)
-- [[Brainstem]] — locus coeruleus (NE), raphe nuclei (5-HT), PPT/LDT (ACh), reticular formation (ARAS)
-- [[Neurotransmitters]] — histamine, NE, serotonin, acetylcholine, orexin, GABA, adenosine, melatonin
-- [[Memory Systems]] — SWS for declarative memory consolidation; REM for procedural/emotional memory
-- [[Neurodegenerative Diseases]] — RBD as prodromal synucleinopathy; fatal familial insomnia (prion/thalamus)
+- [Hypothalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hypothalamus.md) — VLPO (sleep-promoting), lateral hypothalamus (orexin/wake-stabilizing), SCN (circadian master clock)
+- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — locus coeruleus (NE), raphe nuclei (5-HT), PPT/LDT (ACh), reticular formation (ARAS)
+- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — histamine, NE, serotonin, acetylcholine, orexin, GABA, adenosine, melatonin
+- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — SWS for declarative memory consolidation; REM for procedural/emotional memory
+- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — RBD as prodromal synucleinopathy; fatal familial insomnia (prion/thalamus)
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -170,4 +170,4 @@ Per/Cry mRNA levels fall → PER:CRY complex degraded → CLOCK:BMAL1 activity r
 ---
 
 ## 📍 Location
-[[Nervous System]] → [[00 - Neuroscience Index|Neuro System (Lippincott)]] → 05 - Higher Functions → This Note
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 05 - Higher Functions → This Note

@@ -11,7 +11,7 @@ aliases: [GHL, superior glenohumeral ligament, middle glenohumeral ligament, inf
 - **Superior GHL (SGHL)** — Origin: superior glenoid → Insertion: lesser tubercle; limits ER + inferior translation in adduction
 - **Middle GHL (MGHL)** — Oblique band; limits ER in mid-range abduction
 - **Inferior GHL (IGHL)** — Hammock structure; anterior and posterior bands; primary stabilizer in 90° abduction
-- **Related structures** — [[Glenoid Cavity]], [[Humerus]], [[Rotator Cuff]], labrum
+- **Related structures** — [Glenoid Cavity](./anatomyLink/Skeletal System/Upper Limb/Glenoid Cavity.md), [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md), [Rotator Cuff](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md), labrum
 
 ## 🏥 Clinical Significance
 - **Bankart lesion** — Anterior IGHL + labrum avulsion from glenoid rim → anterior instability (most common shoulder dislocation)
@@ -20,4 +20,4 @@ aliases: [GHL, superior glenohumeral ligament, middle glenohumeral ligament, inf
 - **Anterior dislocation** — IGHL is the checkrein that fails with anterior GH dislocation
 
 ## 📍 Location
-[[Ligament System]] → Upper Limb → Glenohumeral Ligaments
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Upper Limb → Glenohumeral Ligaments

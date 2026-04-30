@@ -8,10 +8,10 @@ aliases: [pulmonary circuit, lesser circulation]
 > The pulmonary circulation is the **circuit carrying deoxygenated blood from the right heart to the lungs for oxygenation**, and returning oxygenated blood to the left heart. It is a low-pressure, high-flow system — the only circuit where arteries carry deoxygenated blood and veins carry oxygenated blood.
 
 ## 🔗 Key Connections
-- From: [[Heart]] (right ventricle → pulmonary trunk)
-- Returns to: [[Heart]] (left atrium via pulmonary veins)
+- From: [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) (right ventricle → pulmonary trunk)
+- Returns to: [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) (left atrium via pulmonary veins)
 - Gas exchange at: pulmonary capillaries (alveolar-capillary membrane)
-- Bounded by: [[Ribs]], [[Sternum]], [[Thoracic Vertebrae]]
+- Bounded by: [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md), [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md), [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md)
 
 ## 🗂️ Circuit Overview
 
@@ -23,7 +23,7 @@ aliases: [pulmonary circuit, lesser circulation]
 | 4 | Pulmonary capillaries | Surround alveoli; O₂ in, CO₂ out |
 | 5 | Pulmonary venules → veins | Collect oxygenated blood; 4 pulmonary veins |
 | 6 | Left atrium | Receives 4 pulmonary veins |
-| 7 | Left ventricle | Pumps into systemic [[Aorta]] |
+| 7 | Left ventricle | Pumps into systemic [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) |
 
 ## 🗂️ Pulmonary Pressures (Normal)
 
@@ -54,7 +54,7 @@ aliases: [pulmonary circuit, lesser circulation]
 
 
 ## 📍 Location in Circulatory System
-[[Circulatory System]] → Pulmonary Circulation → Pulmonary Circulation
+[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Pulmonary Circulation → Pulmonary Circulation
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Cardiac Physiology](https://www.clinicalanatomy.ca/thorax/CardiacPhysiology/story.html) — UBC — Pulmonary & systemic circulation

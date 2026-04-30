@@ -8,10 +8,10 @@ aliases: [pineal body, epiphysis cerebri, conarium]
 > The pineal gland is a **small unpaired neuroendocrine gland** (~150 mg, 8 mm) located in the **epithalamus** of the diencephalon, at the posterior end of the third ventricle. It secretes **melatonin** to regulate circadian rhythms and seasonal reproductive cycles.
 
 ## 🔗 Key Connections
-- [[Endocrine System]]
+- [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md)
 - Located: Posterior roof of 3rd ventricle; attached via habenular commissure; below splenium of corpus callosum
-- Neighbours: [[Thalamus]] (posterosuperior), [[Brainstem]] (below), superior colliculi (midbrain tectum)
-- Controlled by: Light/dark cycle via retina → suprachiasmatic nucleus (SCN) of [[Hypothalamus]] → superior cervical ganglion → sympathetic fibres → pineal gland
+- Neighbours: [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) (posterosuperior), [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) (below), superior colliculi (midbrain tectum)
+- Controlled by: Light/dark cycle via retina → suprachiasmatic nucleus (SCN) of [Hypothalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hypothalamus.md) → superior cervical ganglion → sympathetic fibres → pineal gland
 - Blood supply: Posterior choroidal arteries (from posterior cerebral artery)
 
 ## ⚙️ Function
@@ -27,7 +27,7 @@ aliases: [pineal body, epiphysis cerebri, conarium]
 - **Seasonal affective disorder (SAD)** — altered melatonin secretion in short-day seasons; Rx: light therapy
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Endocrine System]] → Pineal Gland
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md) → Pineal Gland
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

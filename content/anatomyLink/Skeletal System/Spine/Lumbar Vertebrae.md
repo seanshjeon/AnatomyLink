@@ -8,22 +8,22 @@ aliases: [lumbar spine, lower back vertebrae, L1-L5]
 > There are **5 lumbar vertebrae (L1–L5)** forming the lower back. They are the **largest and heaviest** vertebrae, bearing the majority of body weight.
 
 ## 🔗 Connected Structures
-- [[Thoracic Vertebrae]] — L1 connects to T12 at the thoracolumbar junction
-- [[Sacrum]] — L5 connects to S1 via the **L5/S1 [[Intervertebral Disc]]**
-- [[Hip Bone]] — Indirectly connected via the sacrum
-- [[Vertebral Column]] — Inferior mobile component of the spinal column
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — L1 connects to T12 at the thoracolumbar junction
+- [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) — L5 connects to S1 via the **L5/S1 [Intervertebral Disc](./anatomyLink/Skeletal System/Spine/Intervertebral Disc.md)**
+- [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) — Indirectly connected via the sacrum
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — Inferior mobile component of the spinal column
 
 ## 🔗 Associated Muscles
-- [[Erector Spinae]] — Primary extensors of the lumbar spine
-- [[Iliopsoas]] — Psoas major originates from lumbar vertebral bodies (L1–L5) and transverse processes
+- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — Primary extensors of the lumbar spine
+- [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) — Psoas major originates from lumbar vertebral bodies (L1–L5) and transverse processes
 
 ## 🗂️ Features
 
 | Feature | Description |
 |---------|-------------|
 | Vertebral body | Kidney-shaped; **largest** in the spine |
-| [[Spinous Process]] | Wide, flat, horizontal orientation |
-| [[Transverse Process]] | Slender and long; has accessory processes |
+| [Spinous Process](./anatomyLink/Skeletal System/Spine/Spinous Process.md) | Wide, flat, horizontal orientation |
+| [Transverse Process](./anatomyLink/Skeletal System/Spine/Transverse Process.md) | Slender and long; has accessory processes |
 | Articular processes | Sagittal plane orientation (favors flexion/extension; limits rotation) |
 
 ## 📏 Range of Motion
@@ -36,7 +36,7 @@ aliases: [lumbar spine, lower back vertebrae, L1-L5]
 ## 🔑 Clinical Anatomy
 - **Cauda equina** — Below L2, spinal cord ends (conus medullaris); only spinal nerve roots remain
 - **L4/L5 and L5/S1** — Most common levels for disc herniation
-- **Jacoby's line** — Connects iliac crests = L4 [[Spinous Process]] → lumbar puncture landmark
+- **Jacoby's line** — Connects iliac crests = L4 [Spinous Process](./anatomyLink/Skeletal System/Spine/Spinous Process.md) → lumbar puncture landmark
 
 ## 🏥 Clinical Significance
 - **Lumbar disc herniation** — L4/L5 (L5 nerve root), L5/S1 (S1 nerve root) most common
@@ -45,7 +45,7 @@ aliases: [lumbar spine, lower back vertebrae, L1-L5]
 - **Lumbar puncture** — Performed at L3/L4 or L4/L5
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → [[Vertebral Column]] → Lumbar Vertebrae
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Lumbar Vertebrae
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral column, curvatures, vertebrae, joints & ligaments

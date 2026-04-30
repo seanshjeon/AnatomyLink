@@ -5,11 +5,11 @@ aliases: [lesser tuberosity]
 
 # Lesser Tubercle
 
-> The **lesser tubercle** is the smaller bony prominence on the anterior-medial surface of the proximal [[Humerus]], serving as the insertion site for the [[Rotator Cuff|Subscapularis]] (the only anterior rotator cuff muscle).
+> The **lesser tubercle** is the smaller bony prominence on the anterior-medial surface of the proximal [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md), serving as the insertion site for the [Subscapularis](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) (the only anterior rotator cuff muscle).
 
 ## 🔗 Key Connections
-- [[Humerus]] — anteromedial proximal humerus
-- [[Rotator Cuff|Subscapularis]] — inserts on the lesser tubercle (internal rotation)
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — anteromedial proximal humerus
+- [Subscapularis](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) — inserts on the lesser tubercle (internal rotation)
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -24,4 +24,4 @@ aliases: [lesser tuberosity]
 - **Lesser tubercle fracture** — Rare avulsion fracture from forceful internal rotation
 
 ## 📍 Location
-[[Skeletal System]] → [[Humerus]] → Lesser Tubercle
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) → Lesser Tubercle

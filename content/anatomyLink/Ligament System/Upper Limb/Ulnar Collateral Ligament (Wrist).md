@@ -5,13 +5,13 @@ aliases: [UCL wrist, ulnar collateral ligament wrist]
 
 # Ulnar Collateral Ligament (Wrist)
 
-> The **ulnar collateral ligament (UCL)** of the wrist is part of the **TFCC (triangular fibrocartilage complex)**, connecting the [[Styloid Process of Ulna]] to the triquetrum and pisiform, providing ulnar-side wrist stability.
+> The **ulnar collateral ligament (UCL)** of the wrist is part of the **TFCC (triangular fibrocartilage complex)**, connecting the [Styloid Process of Ulna](./anatomyLink/Skeletal System/Upper Limb/Styloid Process of Ulna.md) to the triquetrum and pisiform, providing ulnar-side wrist stability.
 
 ## 🔗 Key Connections
-- **Origin** — [[Styloid Process of Ulna]]
-- **Insertion** — Triquetrum and pisiform ([[Carpals]])
+- **Origin** — [Styloid Process of Ulna](./anatomyLink/Skeletal System/Upper Limb/Styloid Process of Ulna.md)
+- **Insertion** — Triquetrum and pisiform ([Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md))
 - **Part of** — TFCC (triangular fibrocartilage complex)
-- **Counterpart** — [[Radial Collateral Ligament (Wrist)]]
+- **Counterpart** — [Radial Collateral Ligament (Wrist)](./anatomyLink/Ligament System/Upper Limb/Radial Collateral Ligament (Wrist).md)
 
 ## 🏥 Clinical Significance
 - **TFCC tear** — Ulnar-sided wrist pain with forearm rotation; common in falls or rotational injury
@@ -20,4 +20,4 @@ aliases: [UCL wrist, ulnar collateral ligament wrist]
 - **MRI wrist** — Gold standard to assess TFCC and UCL integrity
 
 ## 📍 Location
-[[Ligament System]] → Upper Limb → Ulnar Collateral Ligament (Wrist)
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Upper Limb → Ulnar Collateral Ligament (Wrist)

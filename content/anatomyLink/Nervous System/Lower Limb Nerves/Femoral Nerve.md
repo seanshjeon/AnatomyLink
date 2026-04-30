@@ -5,25 +5,25 @@ aliases: [anterior crural nerve]
 
 # Femoral Nerve
 
-> The femoral nerve (L2–L4), the largest branch of the [[Lumbar Plexus]], **innervates the quadriceps femoris and hip flexors** and provides sensation to the anterior thigh and medial leg via its saphenous branch — the longest cutaneous nerve in the body.
+> The femoral nerve (L2–L4), the largest branch of the [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md), **innervates the quadriceps femoris and hip flexors** and provides sensation to the anterior thigh and medial leg via its saphenous branch — the longest cutaneous nerve in the body.
 
 ## 🔗 Origin
 - **Root values**: L2–L4
-- **From plexus**: [[Lumbar Plexus]]
+- **From plexus**: [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md)
 - **Cord**: N/A (lumbar plexus — no cord equivalent)
 
 ## 🗂️ Key Information
 | Property | Detail |
 |----------|--------|
 | Root Values | L2–L4 |
-| Plexus Origin | [[Lumbar Plexus]] |
-| Course | Forms within [[Iliopsoas]] (psoas major) → emerges from the lateral border of psoas → passes under the inguinal ligament (lateral to femoral artery — mnemonic NAVY: nerve, artery, vein, Y-fronts) → enters femoral triangle → divides into anterior and posterior divisions; saphenous nerve descends medially to supply medial leg + foot |
+| Plexus Origin | [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md) |
+| Course | Forms within [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) (psoas major) → emerges from the lateral border of psoas → passes under the inguinal ligament (lateral to femoral artery — mnemonic NAVY: nerve, artery, vein, Y-fronts) → enters femoral triangle → divides into anterior and posterior divisions; saphenous nerve descends medially to supply medial leg + foot |
 | Sensory Territory | Anterior and medial thigh (intermediate + medial cutaneous nerves of thigh); medial leg + medial foot (saphenous nerve — longest cutaneous nerve in body) |
 | Terminal Branches | Anterior division (medial + intermediate cutaneous nerves of thigh; motor to sartorius); Posterior division (motor to quadriceps; saphenous nerve) |
 
 ## 💪 Muscles Innervated
-- [[Iliopsoas]] (iliacus component innervated in the abdomen, before inguinal ligament) — hip flexion (primary)
-- [[Quadriceps Femoris]] (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) — **knee extension** (primary); rectus femoris also flexes hip
+- [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) (iliacus component innervated in the abdomen, before inguinal ligament) — hip flexion (primary)
+- [Quadriceps Femoris](./anatomyLink/Muscular System/Lower Limb/Quadriceps Femoris.md) (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) — **knee extension** (primary); rectus femoris also flexes hip
 - Sartorius — hip flexion + external rotation + abduction; knee flexion (FABER position)
 - Pectineus — hip adduction + flexion (also receives obturator nerve contribution)
 
@@ -55,4 +55,4 @@ aliases: [anterior crural nerve]
 - 🎬 [UBC Neuroanatomy S3E3: The Lower Limb](https://www.youtube.com/watch?v=LJn7ZApt1NA) — UBC Medicine (10:44)
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → [[Lumbar Plexus]] → Femoral Nerve
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md) → Femoral Nerve

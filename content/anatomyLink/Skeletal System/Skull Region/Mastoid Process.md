@@ -5,13 +5,13 @@ aliases: [mastoid]
 
 # Mastoid Process
 
-> The **mastoid process** is a conical bony projection of the **temporal bone**, located posterior to the ear (behind the earlobe), serving as the primary attachment for the [[Sternocleidomastoid]] muscle.
+> The **mastoid process** is a conical bony projection of the **temporal bone**, located posterior to the ear (behind the earlobe), serving as the primary attachment for the [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) muscle.
 
 ## 🔗 Key Connections
-- [[Skull]] — part of the temporal bone, posterolateral skull base
-- [[Sternocleidomastoid]] — inserts on the mastoid process (rotates/flexes neck)
-- [[Splenius Capitis]] — inserts on the mastoid process
-- [[Digastric]] — posterior belly attaches to mastoid notch
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — part of the temporal bone, posterolateral skull base
+- [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) — inserts on the mastoid process (rotates/flexes neck)
+- [Splenius Capitis](./anatomyLink/Muscular System/Head and Neck/Splenius Capitis.md) — inserts on the mastoid process
+- [Digastric](./anatomyLink/Muscular System/Head and Neck/Digastric.md) — posterior belly attaches to mastoid notch
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -27,4 +27,4 @@ aliases: [mastoid]
 - **Facial nerve proximity** — CN VII exits skull through stylomastoid foramen just anterior to mastoid
 
 ## 📍 Location
-[[Skeletal System]] → [[Skull]] → Temporal bone → Mastoid Process
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) → Temporal bone → Mastoid Process

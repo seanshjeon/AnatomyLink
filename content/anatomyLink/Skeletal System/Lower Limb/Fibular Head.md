@@ -5,13 +5,13 @@ aliases: [head of fibula, fibula head]
 
 # Fibular Head
 
-> The **fibular head** is the proximal end of the [[Fibula]], articulating with the posterolateral [[Tibia]] at the proximal tibiofibular joint, and serving as the attachment for the **biceps femoris** (lateral hamstring) and the fibular collateral ligament (FCL).
+> The **fibular head** is the proximal end of the [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md), articulating with the posterolateral [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) at the proximal tibiofibular joint, and serving as the attachment for the **biceps femoris** (lateral hamstring) and the fibular collateral ligament (FCL).
 
 ## 🔗 Key Connections
-- [[Fibula]] — proximal end
-- [[Tibia]] — proximal tibiofibular joint (posterolateral)
-- [[Hamstrings|Biceps Femoris]] — long and short heads insert on the fibular head
-- [[Common Fibular Nerve]] — winds around the fibular neck just below the head ⚠️ highly vulnerable
+- [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) — proximal end
+- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — proximal tibiofibular joint (posterolateral)
+- [Biceps Femoris](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — long and short heads insert on the fibular head
+- [Common Fibular Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Common Fibular Nerve.md) — winds around the fibular neck just below the head ⚠️ highly vulnerable
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -26,7 +26,7 @@ aliases: [head of fibula, fibula head]
 - **Proximal tibiofibular joint dislocation** — Rare; direct blow or twisting; painful lateral knee lump
 
 ## 📍 Location
-[[Skeletal System]] → [[Fibula]] → Fibular Head
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) → Fibular Head
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

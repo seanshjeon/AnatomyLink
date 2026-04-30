@@ -5,19 +5,19 @@ aliases: [carotid artery, common carotid, internal carotid, external carotid]
 
 # Carotid Arteries
 
-> The carotid arteries are the **primary arterial supply to the head and neck**, arising from the [[Aorta]] on each side and bifurcating into internal (brain + eye) and external (face + scalp) branches at the level of C4 ([[Cervical Vertebrae]]).
+> The carotid arteries are the **primary arterial supply to the head and neck**, arising from the [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) on each side and bifurcating into internal (brain + eye) and external (face + scalp) branches at the level of C4 ([Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md)).
 
 ## 🔗 Key Connections
-- Arise from: [[Aorta]] (left common carotid directly; right via brachiocephalic trunk)
-- Supply: [[Brain]] (via internal carotid → anterior + middle cerebral arteries)
-- Relation to: [[Cervical Vertebrae]], [[Skull]] (carotid canal → intracranial)
+- Arise from: [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (left common carotid directly; right via brachiocephalic trunk)
+- Supply: [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) (via internal carotid → anterior + middle cerebral arteries)
+- Relation to: [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md), [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) (carotid canal → intracranial)
 
 ## 🗂️ Three Segments
 
 | Artery | Course | Supplies |
 |--------|--------|---------|
 | **Common carotid artery (CCA)** | Neck, within carotid sheath (with IJV + vagus) | No branches in neck |
-| **Internal carotid artery (ICA)** | Enters carotid canal in [[Skull]] → cavernous sinus → Circle of Willis | Brain (anterior 2/3), eye (ophthalmic artery), pituitary |
+| **Internal carotid artery (ICA)** | Enters carotid canal in [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) → cavernous sinus → Circle of Willis | Brain (anterior 2/3), eye (ophthalmic artery), pituitary |
 | **External carotid artery (ECA)** | Branches in neck/face | Face, scalp, pharynx, tongue, thyroid |
 
 ## 🔑 External Carotid Branches (mnemonic: **Some Angry Ladies Fight Over Pretty Maids**)
@@ -51,4 +51,4 @@ aliases: [carotid artery, common carotid, internal carotid, external carotid]
 - [Anterior Cervical Triangle Dissection](https://sketchfab.com/3d-models/anterior-cervical-triangle-dissection-da94d904d80347ec84690ca606e5ce23) — UBC.MEDVID
 
 ## 📍 Location in Circulatory System
-[[Circulatory System]] → Arteries → Carotid Arteries
+[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Arteries → Carotid Arteries

@@ -5,14 +5,14 @@ aliases: [bronchus, bronchial tree, bronchioles]
 
 # Bronchi
 
-> The bronchi form the **branching airway tree** from the tracheal bifurcation (carina, T4–T5) to the terminal bronchioles, distributing air to all 18 bronchopulmonary segments of the [[Lungs]]. Bronchioles lack cartilage; terminal bronchioles mark the end of the conducting zone.
+> The bronchi form the **branching airway tree** from the tracheal bifurcation (carina, T4–T5) to the terminal bronchioles, distributing air to all 18 bronchopulmonary segments of the [Lungs](./anatomyLink/Respiratory System/Lungs.md). Bronchioles lack cartilage; terminal bronchioles mark the end of the conducting zone.
 
 ## 🔗 Key Connections
-- [[Respiratory System]]
-- Originates from: [[Trachea]] (carina at T4/T5)
-- Enters: [[Lungs]] (at hilum — root of lung)
-- Accompanied by: Pulmonary arteries (via [[Pulmonary Circulation]]) and veins at each branching level
-- Blood supply (bronchial wall nutrition): Bronchial arteries (from descending [[Aorta]])
+- [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md)
+- Originates from: [Trachea](./anatomyLink/Respiratory System/Trachea.md) (carina at T4/T5)
+- Enters: [Lungs](./anatomyLink/Respiratory System/Lungs.md) (at hilum — root of lung)
+- Accompanied by: Pulmonary arteries (via [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md)) and veins at each branching level
+- Blood supply (bronchial wall nutrition): Bronchial arteries (from descending [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md))
 - Innervation: Vagus (CN X) → bronchoconstriction; Sympathetic → bronchodilation
 
 ## 🔬 Bronchial Tree
@@ -51,4 +51,4 @@ aliases: [bronchus, bronchial tree, bronchioles]
 - **Endobronchial intubation** — ETT too deep → only one lung ventilated; absent breath sounds contralateral side
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Respiratory System]] → Bronchi
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md) → Bronchi

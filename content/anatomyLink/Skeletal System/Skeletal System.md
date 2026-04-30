@@ -16,53 +16,53 @@ aliases: [skeleton, bones, 206 bones]
 ## 🗂️ Divisions (206 bones)
 
 ### Skull Region
-- [[Skull]] — Neurocranium + Viscerocranium (22 bones) 
-- [[Mandible]] — Lower jaw (1 bone)
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — Neurocranium + Viscerocranium (22 bones) 
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — Lower jaw (1 bone)
 
 ### Vertebral Column — 26 bones
-- [[Vertebral Column]] — Overview
-  - [[Cervical Vertebrae]] — C1–C7 (7 bones)
-  - [[Thoracic Vertebrae]] — T1–T12 (12 bones)
-  - [[Lumbar Vertebrae]] — L1–L5 (5 bones)
-  - [[Sacrum]] — 1 bone (5 fused)
-  - [[Coccyx]] — 1 bone (3–5 fused)
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — Overview
+  - [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) — C1–C7 (7 bones)
+  - [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — T1–T12 (12 bones)
+  - [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) — L1–L5 (5 bones)
+  - [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) — 1 bone (5 fused)
+  - [Coccyx](./anatomyLink/Skeletal System/Spine/Coccyx.md) — 1 bone (3–5 fused)
 
 ### Thoracic Cage — 25 bones
-- [[Sternum]] — 1 bone
-- [[Ribs]] — 12 pairs (24 bones)
+- [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) — 1 bone
+- [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) — 12 pairs (24 bones)
 
 ### Pectoral Girdle & Upper Limb — 64 bones
-- [[Clavicle]] — 2 bones
-- [[Scapula]] — 2 bones
-- [[Humerus]] — 2 bones
-- [[Radius]] — 2 bones
-- [[Ulna]] — 2 bones
-- [[Carpals]] — 16 bones
-- [[Metacarpals]] — 10 bones
-- [[Phalanges of Hand]] — 28 bones
+- [Clavicle](./anatomyLink/Skeletal System/Upper Limb/Clavicle.md) — 2 bones
+- [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) — 2 bones
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — 2 bones
+- [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) — 2 bones
+- [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) — 2 bones
+- [Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md) — 16 bones
+- [Metacarpals](./anatomyLink/Skeletal System/Upper Limb/Metacarpals.md) — 10 bones
+- [Phalanges of Hand](./anatomyLink/Skeletal System/Upper Limb/Phalanges of Hand.md) — 28 bones
 
 ### Pelvic Girdle & Lower Limb — 62 bones
-- [[Hip Bone]] — 2 bones
-- [[Femur]] — 2 bones
-- [[Patella]] — 2 bones
-- [[Tibia]] — 2 bones
-- [[Fibula]] — 2 bones
-- [[Tarsals]] — 14 bones
-- [[Metatarsals]] — 10 bones
-- [[Phalanges of Foot]] — 28 bones
+- [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) — 2 bones
+- [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) — 2 bones
+- [Patella](./anatomyLink/Skeletal System/Lower Limb/Patella.md) — 2 bones
+- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — 2 bones
+- [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) — 2 bones
+- [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md) — 14 bones
+- [Metatarsals](./anatomyLink/Skeletal System/Lower Limb/Metatarsals.md) — 10 bones
+- [Phalanges of Foot](./anatomyLink/Skeletal System/Lower Limb/Phalanges of Foot.md) — 28 bones
 
 ## Bone Classification by Shape
 
 | Type | Examples |
 |------|---------|
-| Long bone | [[Humerus]], [[Femur]], [[Tibia]] |
-| Short bone | [[Carpals]], [[Tarsals]] |
-| Flat bone | [[Skull]], [[Scapula]], [[Sternum]] |
-| Irregular bone | [[Vertebral Column|Vertebrae]], [[Hip Bone]] |
-| Sesamoid bone | [[Patella]] |
+| Long bone | [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md), [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md), [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) |
+| Short bone | [Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md), [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md) |
+| Flat bone | [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md), [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md), [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) |
+| Irregular bone | [Vertebrae](./anatomyLink/Skeletal System/Spine/Vertebral Column.md), [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) |
+| Sesamoid bone | [Patella](./anatomyLink/Skeletal System/Lower Limb/Patella.md) |
 
 ## 🔗 See Also
-→ [[Muscular System]]
+→ [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
 
 
 

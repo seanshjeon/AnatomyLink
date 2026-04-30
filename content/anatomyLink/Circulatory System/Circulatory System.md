@@ -4,20 +4,20 @@ aliases: [cardiovascular system, vascular system]
 ---
 # Circulatory System
 
-> The circulatory system is the body's **transport network**, consisting of the [[Heart]], blood vessels (arteries, veins, capillaries), and blood. It delivers oxygen and nutrients to every cell and removes metabolic waste.
+> The circulatory system is the body's **transport network**, consisting of the [Heart](./anatomyLink/Circulatory System/Heart/Heart.md), blood vessels (arteries, veins, capillaries), and blood. It delivers oxygen and nutrients to every cell and removes metabolic waste.
 
 ## 🔗 Key Connections
-- [[00 - AnatomyLink Home]]
-- [[Heart]] — central pump
-- [[Pulmonary Circulation]] — heart ↔ lungs
-- [[Skeletal System]], [[Muscular System]], [[Nervous System]] — all supplied by this system
+- [00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md)
+- [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) — central pump
+- [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md) — heart ↔ lungs
+- [Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md), [Muscular System](./anatomyLink/Muscular System/Muscular System.md), [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — all supplied by this system
 
 ## 🗂️ Two Circuits
 
 | Circuit | Path | Function |
 |---------|------|----------|
-| **Pulmonary** | Right heart → [[Pulmonary Circulation]] → Left heart | Oxygenation of blood |
-| **Systemic** | Left heart → [[Aorta]] → body → [[Superior Vena Cava]] / [[Inferior Vena Cava]] → Right heart | Delivery of O₂ + nutrients |
+| **Pulmonary** | Right heart → [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md) → Left heart | Oxygenation of blood |
+| **Systemic** | Left heart → [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) → body → [Superior Vena Cava](./anatomyLink/Circulatory System/Veins/Superior Vena Cava.md) / [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) → Right heart | Delivery of O₂ + nutrients |
 
 ## 🗂️ Vessel Types
 
@@ -30,30 +30,30 @@ aliases: [cardiovascular system, vascular system]
 ## 🗺️ Subsections
 
 ### Heart
-- [[Heart]] — 4 chambers, 4 valves, conduction system
-- [[Coronary Arteries]] — blood supply to the heart itself
+- [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) — 4 chambers, 4 valves, conduction system
+- [Coronary Arteries](./anatomyLink/Circulatory System/Heart/Coronary Arteries.md) — blood supply to the heart itself
 
 ### Arteries
-- [[Aorta]] — main systemic artery; all others branch from it
-- [[Carotid Arteries]] — head & neck supply
-- [[Subclavian Artery]] — upper limb supply
-- [[Brachial Artery]] — arm
-- [[Radial Artery]] — lateral forearm & hand
-- [[Ulnar Artery]] — medial forearm & hand
-- [[Celiac Trunk]] — foregut supply (stomach, liver, spleen)
-- [[Renal Arteries]] — kidney supply
-- [[Iliac Arteries]] — pelvis & lower limb supply
-- [[Femoral Artery]] — thigh
-- [[Popliteal Artery]] — knee & leg
+- [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) — main systemic artery; all others branch from it
+- [Carotid Arteries](./anatomyLink/Circulatory System/Arteries/Carotid Arteries.md) — head & neck supply
+- [Subclavian Artery](./anatomyLink/Circulatory System/Arteries/Subclavian Artery.md) — upper limb supply
+- [Brachial Artery](./anatomyLink/Circulatory System/Arteries/Brachial Artery.md) — arm
+- [Radial Artery](./anatomyLink/Circulatory System/Arteries/Radial Artery.md) — lateral forearm & hand
+- [Ulnar Artery](./anatomyLink/Circulatory System/Arteries/Ulnar Artery.md) — medial forearm & hand
+- [Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md) — foregut supply (stomach, liver, spleen)
+- [Renal Arteries](./anatomyLink/Circulatory System/Arteries/Renal Arteries.md) — kidney supply
+- [Iliac Arteries](./anatomyLink/Circulatory System/Arteries/Iliac Arteries.md) — pelvis & lower limb supply
+- [Femoral Artery](./anatomyLink/Circulatory System/Arteries/Femoral Artery.md) — thigh
+- [Popliteal Artery](./anatomyLink/Circulatory System/Arteries/Popliteal Artery.md) — knee & leg
 
 ### Veins
-- [[Superior Vena Cava]] — drains upper body
-- [[Inferior Vena Cava]] — drains lower body
-- [[Portal System]] — gut → liver venous drainage
-- [[Jugular Veins]] — head & neck venous drainage
+- [Superior Vena Cava](./anatomyLink/Circulatory System/Veins/Superior Vena Cava.md) — drains upper body
+- [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) — drains lower body
+- [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md) — gut → liver venous drainage
+- [Jugular Veins](./anatomyLink/Circulatory System/Veins/Jugular Veins.md) — head & neck venous drainage
 
 ### Pulmonary
-- [[Pulmonary Circulation]] — right heart ↔ lungs ↔ left heart
+- [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md) — right heart ↔ lungs ↔ left heart
 
 ## 🏥 Clinical Significance
 - **Atherosclerosis** — plaque in arterial walls → ischemia; affects coronary, carotid, femoral arteries
@@ -62,7 +62,7 @@ aliases: [cardiovascular system, vascular system]
 - **Shock** — failure of circulatory delivery of O₂ to tissues
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → Circulatory System
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → Circulatory System
 
 
 

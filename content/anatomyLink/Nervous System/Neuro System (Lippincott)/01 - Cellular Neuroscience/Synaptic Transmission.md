@@ -8,12 +8,12 @@ aliases: [Synaptic Signaling, Neurotransmission, Chemical Synapse]
 > Synaptic transmission is the **process by which a presynaptic neuron communicates with a postsynaptic cell**, achieved via **electrical synapses (gap junctions)** or **chemical synapses (neurotransmitter release into a 20–40 nm cleft)**, resulting in **excitatory or inhibitory changes** in the postsynaptic membrane potential.
 
 ## 🔗 Key Connections
-- [[Neuron]] — pre- and postsynaptic structural components
-- [[Action Potential]] — triggers Ca²⁺ influx at presynaptic terminal
-- [[Neurotransmitters]] — chemical messengers released across the synaptic cleft
-- [[Memory Systems]] — LTP and LTD underlie synaptic plasticity
-- [[Nervous System]] — parent system
-- [[Neuro System (Lippincott)]] — parent course module
+- [Neuron](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neuron.md) — pre- and postsynaptic structural components
+- [Action Potential](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — triggers Ca²⁺ influx at presynaptic terminal
+- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — chemical messengers released across the synaptic cleft
+- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — LTP and LTD underlie synaptic plasticity
+- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
+- [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/Neuro System (Lippincott).md) — parent course module
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -186,4 +186,4 @@ aliases: [Synaptic Signaling, Neurotransmission, Chemical Synapse]
 ---
 
 ## 📍 Location
-[[Nervous System]] → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Synaptic Transmission
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Synaptic Transmission

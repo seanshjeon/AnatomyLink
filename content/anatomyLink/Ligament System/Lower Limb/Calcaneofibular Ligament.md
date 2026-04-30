@@ -5,12 +5,12 @@ aliases: [CFL, calcaneofibular ligament]
 
 # Calcaneofibular Ligament (CFL)
 
-> The **calcaneofibular ligament (CFL)** is the middle component of the lateral ankle ligament complex, connecting the [[Lateral Malleolus]] to the lateral calcaneus. It stabilizes both the **talocrural and subtalar joints** against inversion.
+> The **calcaneofibular ligament (CFL)** is the middle component of the lateral ankle ligament complex, connecting the [Lateral Malleolus](./anatomyLink/Skeletal System/Lower Limb/Lateral Malleolus.md) to the lateral calcaneus. It stabilizes both the **talocrural and subtalar joints** against inversion.
 
 ## 🔗 Key Connections
-- **Origin** — Tip of [[Lateral Malleolus]] ([[Fibula]])
-- **Insertion** — Lateral surface of calcaneus ([[Tarsals]])
-- **Lateral complex** — [[Anterior Talofibular Ligament]] (ATFL) + CFL + PTFL
+- **Origin** — Tip of [Lateral Malleolus](./anatomyLink/Skeletal System/Lower Limb/Lateral Malleolus.md) ([Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md))
+- **Insertion** — Lateral surface of calcaneus ([Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md))
+- **Lateral complex** — [Anterior Talofibular Ligament](./anatomyLink/Ligament System/Lower Limb/Anterior Talofibular Ligament.md) (ATFL) + CFL + PTFL
 - **Crosses** — Both ankle and subtalar joints (unique among ankle ligaments)
 
 ## 🏥 Clinical Significance
@@ -20,4 +20,4 @@ aliases: [CFL, calcaneofibular ligament]
 - **Peroneal tendon dislocation** — Peroneal tendons lie posterior to CFL; both can be injured together
 
 ## 📍 Location
-[[Ligament System]] → Lower Limb → Calcaneofibular Ligament
+[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Lower Limb → Calcaneofibular Ligament

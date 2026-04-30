@@ -7,12 +7,12 @@ aliases: [spinous process]
 > The **spinous process** is the posterior bony projection of each vertebra, formed by the fusion of the two laminae. It is palpable as the midline "bumps" of the back and serves as an attachment for back muscles and ligaments.
 
 ## 🔗 Key Connections
-- [[Vertebral Column]] — posterior element of each vertebra
-- [[Cervical Vertebrae]] — C2, C7 (vertebra prominens) most prominent; C3–C6 bifid
-- [[Thoracic Vertebrae]] — long, downward-sloping spinous processes
-- [[Lumbar Vertebrae]] — broad, horizontal spinous processes
-- [[Trapezius]] — attaches to spinous processes (ligamentum nuchae in cervical spine)
-- [[Erector Spinae]] — broad muscle group along spinous processes
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — posterior element of each vertebra
+- [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) — C2, C7 (vertebra prominens) most prominent; C3–C6 bifid
+- [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) — long, downward-sloping spinous processes
+- [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) — broad, horizontal spinous processes
+- [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) — attaches to spinous processes (ligamentum nuchae in cervical spine)
+- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — broad muscle group along spinous processes
 - Interspinous ligament — connects adjacent spinous processes
 - Supraspinous ligament — runs over the tips of spinous processes
 
@@ -30,7 +30,7 @@ aliases: [spinous process]
 - **Vertebra prominens (C7)** — Used as anatomical landmark to count vertebrae
 
 ## 📍 Location
-[[Skeletal System]] → [[Vertebral Column]] → Spinous Process
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Spinous Process
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral landmarks & processes

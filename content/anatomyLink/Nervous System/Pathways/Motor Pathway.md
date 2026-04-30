@@ -8,11 +8,11 @@ aliases: [corticospinal tract, motor pathway, pyramidal tract, UMN, LMN, 운동�
 > The **motor pathway** transmits voluntary movement commands from the **motor cortex** down through the **internal capsule**, **brainstem**, and **spinal cord** to the **lower motor neurons** that innervate muscles. Lesions above the decussation cause **contralateral** deficits.
 
 ## 🔗 Key Connections
-- [[Brain]] — origin in primary motor cortex (precentral gyrus)
-- [[Subcortical Fiber Tracts]] — passes through corona radiata and internal capsule
-- [[Brainstem]] — corticobulbar fibers branch off; pyramidal decussation in medulla
-- [[Spinal Cord]] — lateral corticospinal tract; synapse on anterior horn (LMN)
-- [[Cranial Nerves]] — corticobulbar fibers supply CN motor nuclei
+- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — origin in primary motor cortex (precentral gyrus)
+- [Subcortical Fiber Tracts](./anatomyLink/Nervous System/Pathways/Subcortical Fiber Tracts.md) — passes through corona radiata and internal capsule
+- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — corticobulbar fibers branch off; pyramidal decussation in medulla
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — lateral corticospinal tract; synapse on anterior horn (LMN)
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — corticobulbar fibers supply CN motor nuclei
 
 ## 🗂️ The Pathway
 
@@ -82,4 +82,4 @@ Most cranial nerve motor nuclei receive **bilateral** cortical input (protected)
 - [Brainstem](https://neuroanatomy.ca/regions/brainstem.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[[Nervous System]] → Pathways → Motor Pathway
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Pathways → Motor Pathway

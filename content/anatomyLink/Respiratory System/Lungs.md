@@ -8,11 +8,11 @@ aliases: [lung, pulmo, pulmonary]
 > The lungs are **paired, spongy, cone-shaped organs** occupying the left and right pleural cavities of the thorax. They are the primary site of **gas exchange** between inspired air and the pulmonary circulation, and together form the largest organ of the respiratory system.
 
 ## 🔗 Key Connections
-- [[Respiratory System]]
-- Airway: [[Trachea]] → [[Bronchi]] → bronchioles → alveoli
-- Vascular: [[Pulmonary Circulation]] (deoxygenated blood in, oxygenated out); bronchial arteries from [[Aorta]] (nutritional)
-- Covered by: [[Pleura]] (visceral layer directly on lung)
-- Skeletal: [[Ribs]] (lateral), [[Sternum]] (anterior), [[Thoracic Vertebrae]] (posterior), [[Diaphragm]] (inferior)
+- [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md)
+- Airway: [Trachea](./anatomyLink/Respiratory System/Trachea.md) → [Bronchi](./anatomyLink/Respiratory System/Bronchi.md) → bronchioles → alveoli
+- Vascular: [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md) (deoxygenated blood in, oxygenated out); bronchial arteries from [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (nutritional)
+- Covered by: [Pleura](./anatomyLink/Respiratory System/Pleura.md) (visceral layer directly on lung)
+- Skeletal: [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (lateral), [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) (anterior), [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) (posterior), [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md) (inferior)
 - Lymphatics: Hilar and mediastinal nodes → right lymphatic duct / thoracic duct
 
 ## 🔬 Anatomy
@@ -32,9 +32,9 @@ aliases: [lung, pulmo, pulmonary]
 ### Surfaces & Borders
 | Surface | Relation |
 |---------|----------|
-| Costal | Against [[Ribs]] and intercostal muscles |
+| Costal | Against [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) and intercostal muscles |
 | Mediastinal | Against heart, great vessels, oesophagus, trachea |
-| Diaphragmatic (base) | Rests on [[Diaphragm]] |
+| Diaphragmatic (base) | Rests on [Diaphragm](./anatomyLink/Muscular System/Trunk/Diaphragm.md) |
 | Apex | Projects ~2.5 cm above clavicle (cervical pleura) |
 
 ### Hilum (Root of Lung)
@@ -59,7 +59,7 @@ Structure order (anterior → posterior): Pulmonary veins (× 2) → Pulmonary a
 | **Pleural effusion** | Fluid in pleural space; blunts costophrenic angle on CXR |
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Respiratory System]] → Lungs
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md) → Lungs
 
 
 

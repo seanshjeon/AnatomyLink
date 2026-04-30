@@ -8,22 +8,22 @@ aliases: [radial bone, forearm lateral bone]
 > The radius is the **lateral (thumb-side) bone of the forearm**. It is the primary bone forming the **wrist joint** and rotates around the ulna during pronation/supination.
 
 ## 🔗 Connected Structures
-- [[Humerus]] — **Humeroradial joint** — elbow articulation
-- [[Ulna]] — **Proximal & distal radioulnar joints** + interosseous membrane
-- [[Carpals]] — **Radiocarpal joint** — primary wrist joint
+- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — **Humeroradial joint** — elbow articulation
+- [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) — **Proximal & distal radioulnar joints** + interosseous membrane
+- [Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md) — **Radiocarpal joint** — primary wrist joint
 
 ## 🔗 Associated Muscles
-- [[Biceps Brachii]] — Inserts on the radial tuberosity; powerful supinator
+- [Biceps Brachii](./anatomyLink/Muscular System/Upper Limb/Biceps Brachii.md) — Inserts on the radial tuberosity; powerful supinator
 
 ## 🗂️ Key Structures
 
 | Structure | Location | Description |
 |-----------|----------|-------------|
-| [[Radial Head]] | Proximal | Disc-shaped; articulates with capitulum & ulnar radial notch |
+| [Radial Head](./anatomyLink/Skeletal System/Upper Limb/Radial Head.md) | Proximal | Disc-shaped; articulates with capitulum & ulnar radial notch |
 | Radial neck | Proximal | Narrow portion below the head |
-| [[Radial Tuberosity]] | Proximal medial | Biceps brachii insertion |
+| [Radial Tuberosity](./anatomyLink/Skeletal System/Upper Limb/Radial Tuberosity.md) | Proximal medial | Biceps brachii insertion |
 | Interosseous border | Shaft | Interosseous membrane attachment |
-| [[Styloid Process of Radius]] | Distal | Lateral wrist prominence; palpable |
+| [Styloid Process of Radius](./anatomyLink/Skeletal System/Upper Limb/Styloid Process of Radius.md) | Distal | Lateral wrist prominence; palpable |
 | Lister's tubercle | Distal dorsal | Redirects extensor pollicis longus tendon |
 
 ## 🔑 Pronation & Supination
@@ -43,7 +43,7 @@ aliases: [radial bone, forearm lateral bone]
 - [Upper Limb Intermediate](https://sketchfab.com/3d-models/upper-limb-intermediate-4a8d60864bf64ee1b74af89d10531c0a) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[[Skeletal System]] → Upper Limb → Radius (Forearm)
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Upper Limb → Radius (Forearm)
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Forearm](https://www.clinicalanatomy.ca/upperlimb/Forearm/story.html) — UBC — Forearm bones, muscles & neurovascular supply

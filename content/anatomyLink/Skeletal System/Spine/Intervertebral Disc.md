@@ -5,13 +5,13 @@ aliases: [disc, IVD, intervertebral disc]
 
 # Intervertebral Disc
 
-> The **intervertebral disc** is a fibrocartilaginous structure between adjacent vertebral bodies in the [[Vertebral Column]], acting as a shock absorber and allowing spinal flexibility. It consists of an outer **annulus fibrosus** and an inner **nucleus pulposus**.
+> The **intervertebral disc** is a fibrocartilaginous structure between adjacent vertebral bodies in the [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md), acting as a shock absorber and allowing spinal flexibility. It consists of an outer **annulus fibrosus** and an inner **nucleus pulposus**.
 
 ## 🔗 Key Connections
-- [[Vertebral Column]] — located between each vertebral body (C2–3 to L5–S1)
-- [[Spinal Cord]] — disc herniations compress adjacent nerve roots or the spinal cord
-- [[Cervical Vertebrae]] — cervical discs; most mobile region
-- [[Lumbar Vertebrae]] — lumbar discs; highest load; most commonly herniated (L4–L5, L5–S1)
+- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — located between each vertebral body (C2–3 to L5–S1)
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — disc herniations compress adjacent nerve roots or the spinal cord
+- [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) — cervical discs; most mobile region
+- [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) — lumbar discs; highest load; most commonly herniated (L4–L5, L5–S1)
 
 ## 🗂️ Anatomy
 | Component | Structure | Function |
@@ -29,7 +29,7 @@ aliases: [disc, IVD, intervertebral disc]
 - **Cauda equina syndrome** — Massive central herniation at L1–L2 or below → surgical emergency
 
 ## 📍 Location
-[[Skeletal System]] → [[Vertebral Column]] → Intervertebral Disc
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Intervertebral Disc
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Intervertebral joints & disc anatomy

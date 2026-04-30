@@ -4,7 +4,7 @@ aliases: [wisdom teeth, third molar, 사랑니, 智齒]
 ---
 # Wisdom Tooth (Third Molar)
 
-> **Wisdom teeth** (third molars) are the last of the 4 [[Molars]] in each quadrant, normally erupting between **17–25 years**. They are the most commonly **impacted** teeth in the mouth due to insufficient jaw space in modern humans.
+> **Wisdom teeth** (third molars) are the last of the 4 [Molars](./anatomyLink/Skeletal System/Skull Region/Molars.md) in each quadrant, normally erupting between **17–25 years**. They are the most commonly **impacted** teeth in the mouth due to insufficient jaw space in modern humans.
 
 ## 🗂️ Basic Facts
 
@@ -31,8 +31,8 @@ aliases: [wisdom teeth, third molar, 사랑니, 智齒]
 
 ## 🔑 Why Wisdom Teeth Are Impacted
 Modern human jaws are smaller than ancestral jaws due to dietary changes (softer diet → less jaw development). Third molars often lack space to fully erupt, becoming trapped (impacted) against:
-- The adjacent [[Molars|2nd molar]]
-- The ascending ramus of the [[Mandible]]
+- The adjacent [2nd molar](./anatomyLink/Skeletal System/Skull Region/Molars.md)
+- The ascending ramus of the [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md)
 - Overlying gum/bone
 
 ## 🏥 Clinical Significance
@@ -62,14 +62,14 @@ Modern human jaws are smaller than ancestral jaws due to dietary changes (softer
 - Prophylactically (before age 25 — easier + fewer complications)
 
 ## 🔗 Key Connections
-- [[Molars]] — wisdom teeth are the 3rd molars
-- [[Teeth]] — part of the permanent dentition
-- [[Mandible]] — lower wisdom teeth; proximity to mandibular canal (inferior alveolar nerve)
-- [[Skull]] — upper wisdom teeth; proximity to maxillary sinus
-- [[Cranial Nerves]] — CN V3 (inferior alveolar + lingual nerve) at risk during lower extraction
+- [Molars](./anatomyLink/Skeletal System/Skull Region/Molars.md) — wisdom teeth are the 3rd molars
+- [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) — part of the permanent dentition
+- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — lower wisdom teeth; proximity to mandibular canal (inferior alveolar nerve)
+- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — upper wisdom teeth; proximity to maxillary sinus
+- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V3 (inferior alveolar + lingual nerve) at risk during lower extraction
 
 ## 📍 Location
-[[Skeletal System]] → [[Teeth]] → [[Molars]] → Wisdom Tooth (3rd Molar)
+[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Teeth](./anatomyLink/Skeletal System/Skull Region/Teeth.md) → [Molars](./anatomyLink/Skeletal System/Skull Region/Molars.md) → Wisdom Tooth (3rd Molar)
 
 
 

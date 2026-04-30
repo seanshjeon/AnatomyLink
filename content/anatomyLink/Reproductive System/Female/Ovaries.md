@@ -8,9 +8,9 @@ aliases: [ovary, oophor-]
 > The ovaries are **paired female gonads** located in the **ovarian fossa** on the lateral pelvic wall. They are responsible for **oogenesis** and secretion of **oestrogen** and **progesterone** under hypothalamic–pituitary control.
 
 ## 🔗 Key Connections
-- [[Reproductive System]]
-- Attached to: [[Broad Ligament]] (mesovarium); [[Uterus]] via ovarian ligament; pelvic wall via suspensory ligament of ovary
-- Leads to: [[Uterine Tubes]] (infundibulum captures released oocyte)
+- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
+- Attached to: [Broad Ligament](./anatomyLink/Reproductive System/Female/Broad Ligament.md) (mesovarium); [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) via ovarian ligament; pelvic wall via suspensory ligament of ovary
+- Leads to: [Uterine Tubes](./anatomyLink/Reproductive System/Female/Uterine Tubes.md) (infundibulum captures released oocyte)
 - Blood supply: **Ovarian artery** (from abdominal aorta at L2); anastomoses with uterine artery
 - Venous drainage: Right ovarian vein → IVC; Left ovarian vein → **left renal vein**
 - Lymphatics: **Para-aortic nodes** (L1–L2)
@@ -50,6 +50,6 @@ aliases: [ovary, oophor-]
 - **Premature ovarian insufficiency** — menopause <40 years
 
 ## 📍 Location
-[[00 - AnatomyLink Home]] → [[Reproductive System]] → Female → Ovaries
+[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Female → Ovaries
 
 

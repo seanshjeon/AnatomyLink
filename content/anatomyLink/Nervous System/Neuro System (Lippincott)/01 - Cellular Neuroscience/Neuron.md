@@ -8,12 +8,12 @@ aliases: [Nerve Cell, Neurons, Neurocyte]
 > The neuron is the **fundamental structural and functional unit of the nervous system**, consisting of a **soma, dendrites, and axon**, specialized for **receiving, integrating, and transmitting electrical signals** across synapses to other neurons, muscles, or glands.
 
 ## 🔗 Key Connections
-- [[Nervous System]] — parent system
-- [[Neuro System (Lippincott)]] — parent course module
-- [[Glial Cells]] — supporting cells of the nervous system
-- [[Action Potential]] — electrical signal generated at the axon hillock
-- [[Synaptic Transmission]] — output mechanism at the axon terminal
-- [[Spinal Cord]] — contains motor and sensory neuron populations
+- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
+- [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/Neuro System (Lippincott).md) — parent course module
+- [Glial Cells](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — supporting cells of the nervous system
+- [Action Potential](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — electrical signal generated at the axon hillock
+- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — output mechanism at the axon terminal
+- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — contains motor and sensory neuron populations
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -148,4 +148,4 @@ This polarity is maintained by:
 ---
 
 ## 📍 Location
-[[Nervous System]] → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Neuron
+[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Neuron
