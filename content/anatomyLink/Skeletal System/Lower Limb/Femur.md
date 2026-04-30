@@ -8,31 +8,31 @@ aliases: [thigh bone, femoral bone]
 > The femur is the **longest, heaviest, and strongest bone in the human body**. It plays a central role in weight transfer and locomotion.
 
 ## 🔗 Connected Structures
-- [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) — **Hip joint** — femoral head fits into the acetabulum
-- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — **Knee joint** — medial & lateral condyles articulate with the tibial plateau
-- [Patella](./anatomyLink/Skeletal System/Lower Limb/Patella.md) — **Patellofemoral joint**
+- [Hip Bone](./anatomyLink/Skeletal-System/Lower-Limb/Hip-Bone.md) — **Hip joint** — femoral head fits into the acetabulum
+- [Tibia](./anatomyLink/Skeletal-System/Lower-Limb/Tibia.md) — **Knee joint** — medial & lateral condyles articulate with the tibial plateau
+- [Patella](./anatomyLink/Skeletal-System/Lower-Limb/Patella.md) — **Patellofemoral joint**
 
 ## 🔗 Associated Muscles
-- [Quadriceps Femoris](./anatomyLink/Muscular System/Lower Limb/Quadriceps Femoris.md) — Rectus femoris from AIIS; vastii from femoral shaft; insert via patellar tendon
-- [Hamstrings](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — Short head of biceps femoris originates from the linea aspera
-- [Gluteus Maximus](./anatomyLink/Muscular System/Lower Limb/Gluteus Maximus.md) — Inserts on the gluteal tuberosity and iliotibial band
-- [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) — Inserts on the lesser trochanter
+- [Quadriceps Femoris](./anatomyLink/Muscular-System/Lower-Limb/Quadriceps-Femoris.md) — Rectus femoris from AIIS; vastii from femoral shaft; insert via patellar tendon
+- [Hamstrings](./anatomyLink/Muscular-System/Lower-Limb/Hamstrings.md) — Short head of biceps femoris originates from the linea aspera
+- [Gluteus Maximus](./anatomyLink/Muscular-System/Lower-Limb/Gluteus-Maximus.md) — Inserts on the gluteal tuberosity and iliotibial band
+- [Iliopsoas](./anatomyLink/Muscular-System/Lower-Limb/Iliopsoas.md) — Inserts on the lesser trochanter
 
 ## 🗂️ Key Structures
 
 ### Proximal
 | Structure | Description |
 |-----------|-------------|
-| [Femoral Head](./anatomyLink/Skeletal System/Lower Limb/Femoral Head.md) | Spherical; fits acetabulum |
+| [Femoral Head](./anatomyLink/Skeletal-System/Lower-Limb/Femoral-Head.md) | Spherical; fits acetabulum |
 | Fovea capitis | Ligament of the femoral head attachment |
 | Neck | Connects head to trochanters; neck-shaft angle ~125° |
-| [Greater Trochanter](./anatomyLink/Skeletal System/Lower Limb/Greater Trochanter.md) | Hip abductor attachment; palpable laterally |
-| [Lesser Trochanter](./anatomyLink/Skeletal System/Lower Limb/Lesser Trochanter.md) | Iliopsoas insertion |
+| [Greater Trochanter](./anatomyLink/Skeletal-System/Lower-Limb/Greater-Trochanter.md) | Hip abductor attachment; palpable laterally |
+| [Lesser Trochanter](./anatomyLink/Skeletal-System/Lower-Limb/Lesser-Trochanter.md) | Iliopsoas insertion |
 
 ### Shaft
 | Structure | Description |
 |-----------|-------------|
-| [Linea Aspera](./anatomyLink/Skeletal System/Lower Limb/Linea Aspera.md) | Posterior ridge; multiple muscle attachments |
+| [Linea Aspera](./anatomyLink/Skeletal-System/Lower-Limb/Linea-Aspera.md) | Posterior ridge; multiple muscle attachments |
 | Adductor canal | Contains femoral artery, vein & saphenous nerve |
 
 ### Distal
@@ -52,7 +52,7 @@ aliases: [thigh bone, femoral bone]
 
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Lower Limb → Femur
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → Lower Limb → Femur
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Hip](https://www.clinicalanatomy.ca/lowerlimb/Hip/story.html) — UBC — Hip joint & proximal femur

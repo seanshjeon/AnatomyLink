@@ -7,12 +7,12 @@ aliases: [Nociception, Pain Processing, Pain Modulation, Spinothalamic Pain, Des
 > Pain (nociception) is a **protective sensory and emotional experience mediated by high-threshold Aδ and C fiber afferents**, processed in the dorsal horn, transmitted via ascending spinothalamic and spinoreticular tracts, and modulated by powerful **descending inhibitory systems** from the brainstem — encompassing discriminative, affective, and autonomic dimensions of the pain experience.
 
 ## 🔗 Key Connections
-- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — spinothalamic tract anatomy and cortical targets
-- [Sensory Receptors](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Sensory Receptors.md) — nociceptor types, fiber classification
-- [Spinal Cord Circuits](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Spinal Cord Circuits.md) — dorsal horn laminae, Rexed organization
-- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate, substance P, opioids, serotonin, norepinephrine
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — PAG, nucleus raphe magnus, locus coeruleus
-- [Spinothalamic tract (via Somatosensory System)](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Spinothalamic tract (via Somatosensory System).md) — ascending pain tract
+- [Somatosensory System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Somatosensory System.md) — spinothalamic tract anatomy and cortical targets
+- [Sensory Receptors](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Sensory Receptors.md) — nociceptor types, fiber classification
+- [Spinal Cord Circuits](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Spinal Cord Circuits.md) — dorsal horn laminae, Rexed organization
+- [Neurotransmitters](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate, substance P, opioids, serotonin, norepinephrine
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — PAG, nucleus raphe magnus, locus coeruleus
+- [Spinothalamic tract (via Somatosensory System)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Spinothalamic tract (via Somatosensory System).md) — ascending pain tract
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -213,7 +213,7 @@ Prolonged or intense nociceptive input can produce long-lasting increases in dor
 
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
 
 
 

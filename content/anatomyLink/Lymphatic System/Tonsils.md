@@ -8,8 +8,8 @@ aliases: [tonsil, Waldeyer's ring, palatine tonsils, pharyngeal tonsil, adenoids
 > The tonsils are **aggregates of lymphoid tissue** forming **Waldeyer's tonsillar ring** around the pharyngeal inlet, providing the first line of mucosal immune defence against inhaled and ingested antigens.
 
 ## 🔗 Key Connections
-- [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md)
-- Located in: Pharynx (upper aerodigestive tract) → [Oral Cavity](./anatomyLink/Digestive System/Upper GI/Oral Cavity.md), [Larynx](./anatomyLink/Digestive System/Upper GI/Larynx.md)
+- [Lymphatic System](./anatomyLink/Lymphatic-System/Lymphatic-System.md)
+- Located in: Pharynx (upper aerodigestive tract) → [Oral Cavity](./anatomyLink/Digestive-System/Upper-GI/Oral-Cavity.md), [Larynx](./anatomyLink/Digestive-System/Upper-GI/Larynx.md)
 - Lymphatics: Drain to upper deep cervical nodes (jugulodigastric — "tonsillar node")
 - Blood supply: Tonsillar branch of facial artery (palatine); ascending pharyngeal artery
 
@@ -37,4 +37,4 @@ aliases: [tonsil, Waldeyer's ring, palatine tonsils, pharyngeal tonsil, adenoids
 - **Tonsillar cancer** — squamous cell carcinoma; HPV-associated; presents with neck mass (metastasis)
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md) → Tonsils
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Lymphatic System](./anatomyLink/Lymphatic-System/Lymphatic-System.md) → Tonsils

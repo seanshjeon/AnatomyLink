@@ -8,15 +8,15 @@ aliases: [Neocortex, Cortical Layers, Cortical Architecture, Cerebral Hemisphere
 > The cerebral cortex is the **outermost 2–4 mm mantle of the cerebrum**, comprising ~16 billion neurons organized into six distinct horizontal layers (neocortex) and functional vertical columns, forming the anatomical substrate for perception, movement, language, cognition, and consciousness.
 
 ## 🔗 Key Connections
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — outermost structure of the cerebrum; gray matter surface
-- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — layer V Betz cells → corticospinal tract; area 4 primary motor cortex
-- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — areas 3a/3b/1/2 postcentral gyrus; thalamic VPL/VPM input to layer IV
-- [Visual System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Visual System.md) — area 17 (V1), striate cortex; optic radiation → layer IV
-- [Language and Speech](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Language and Speech.md) — Broca's area (44/45), Wernicke's area (22); dominant hemisphere
-- [Prefrontal Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — areas 9/10/11/46 anterior frontal lobe; executive function
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — specific relay nuclei → layer IV; corticothalamic feedback from layer VI
-- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — receives cortical input (layer V/VI → striatum); motor loop output back via thalamus
-- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — cortico-ponto-cerebellar pathway; receives processed motor cortex output
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — outermost structure of the cerebrum; gray matter surface
+- [Motor Pathway](./anatomyLink/Nervous-System/Pathways/Motor-Pathway.md) — layer V Betz cells → corticospinal tract; area 4 primary motor cortex
+- [Somatosensory System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Somatosensory System.md) — areas 3a/3b/1/2 postcentral gyrus; thalamic VPL/VPM input to layer IV
+- [Visual System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/03 - Special Senses/Visual System.md) — area 17 (V1), striate cortex; optic radiation → layer IV
+- [Language and Speech](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Language and Speech.md) — Broca's area (44/45), Wernicke's area (22); dominant hemisphere
+- [Prefrontal Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — areas 9/10/11/46 anterior frontal lobe; executive function
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — specific relay nuclei → layer IV; corticothalamic feedback from layer VI
+- [Basal Ganglia](./anatomyLink/Nervous-System/Central-Nervous-System/Basal-Ganglia.md) — receives cortical input (layer V/VI → striatum); motor loop output back via thalamus
+- [Cerebellum](./anatomyLink/Nervous-System/Central-Nervous-System/Cerebellum.md) — cortico-ponto-cerebellar pathway; receives processed motor cortex output
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -157,7 +157,7 @@ aliases: [Neocortex, Cortical Layers, Cortical Architecture, Cerebral Hemisphere
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

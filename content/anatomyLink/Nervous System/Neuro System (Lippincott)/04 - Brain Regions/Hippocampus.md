@@ -8,13 +8,13 @@ aliases: [Hippocampal Formation, CA Fields, Cornu Ammonis, Ammon's Horn]
 > The hippocampus is a **C-shaped archicortical structure in the medial temporal lobe** that serves as the critical gateway for **declarative memory consolidation**, spatial navigation, and the binding of contextual information, operating through a precisely organized trisynaptic excitatory circuit and NMDA-receptor-dependent synaptic plasticity.
 
 ## 🔗 Key Connections
-- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — explicit/declarative memory consolidation; episodic + semantic memory
-- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — Papez circuit; hippocampus → fornix → mammillary bodies → anterior thalamus → cingulate
-- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — emotional memory modulation; anatomical neighbor in medial temporal lobe
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — anterior nucleus (Papez circuit); indirect diencephalic amnesia connections
-- [Entorhinal Cortex (via Limbic System)](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Entorhinal Cortex (via Limbic System).md) — primary input/output gateway; perforant path
-- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate/NMDA-dependent LTP; GABAergic interneurons; acetylcholine (septohippocampal)
-- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — LTP at Schaffer collaterals; canonical NMDA mechanism
+- [Memory Systems](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Memory Systems.md) — explicit/declarative memory consolidation; episodic + semantic memory
+- [Limbic System](./anatomyLink/Nervous-System/Central-Nervous-System/Limbic-System.md) — Papez circuit; hippocampus → fornix → mammillary bodies → anterior thalamus → cingulate
+- [Amygdala](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Amygdala.md) — emotional memory modulation; anatomical neighbor in medial temporal lobe
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — anterior nucleus (Papez circuit); indirect diencephalic amnesia connections
+- [Entorhinal Cortex (via Limbic System)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Entorhinal Cortex (via Limbic System).md) — primary input/output gateway; perforant path
+- [Neurotransmitters](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate/NMDA-dependent LTP; GABAergic interneurons; acetylcholine (septohippocampal)
+- [Synaptic Transmission](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — LTP at Schaffer collaterals; canonical NMDA mechanism
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -167,7 +167,7 @@ Hippocampus  ← loop closes
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

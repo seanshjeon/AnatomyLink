@@ -8,8 +8,8 @@ aliases: [infraspinatus muscle]
 > Infraspinatus is the **posterior rotator cuff muscle** responsible for **external (lateral) rotation** of the shoulder. It is the second most commonly torn rotator cuff muscle and is essential for overhead throwing activities.
 
 ## 🔗 Key Connections
-- [Muscular System](./anatomyLink/Muscular System/Muscular System.md), [Rotator Cuff](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md)
-- Inserts on: [Greater Tubercle](./anatomyLink/Skeletal System/Upper Limb/Greater Tubercle.md) of [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (middle facet)
+- [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md), [Rotator Cuff](./anatomyLink/Muscular-System/Upper-Limb/Rotator-Cuff.md)
+- Inserts on: [Greater Tubercle](./anatomyLink/Skeletal-System/Upper-Limb/Greater-Tubercle.md) of [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (middle facet)
 - Nerve: **Suprascapular nerve (C5, C6)**
 - Blood supply: Suprascapular and circumflex scapular arteries
 
@@ -17,8 +17,8 @@ aliases: [infraspinatus muscle]
 
 | Feature | Detail |
 |---------|--------|
-| Origin | Infraspinous fossa of [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) (medial 2/3) |
-| Insertion | Middle facet of [Greater Tubercle](./anatomyLink/Skeletal System/Upper Limb/Greater Tubercle.md) of [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) |
+| Origin | Infraspinous fossa of [Scapula](./anatomyLink/Skeletal-System/Upper-Limb/Scapula.md) (medial 2/3) |
+| Insertion | Middle facet of [Greater Tubercle](./anatomyLink/Skeletal-System/Upper-Limb/Greater-Tubercle.md) of [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) |
 | Action | **External rotation** of shoulder; stabilises humeral head |
 | Nerve | Suprascapular nerve (C5–C6) |
 
@@ -28,4 +28,4 @@ aliases: [infraspinatus muscle]
 - **Hornblower's test** — unable to externally rotate with elbow at 90°; suggests teres minor + infraspinatus tear
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Upper Limb → Infraspinatus
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Upper Limb → Infraspinatus

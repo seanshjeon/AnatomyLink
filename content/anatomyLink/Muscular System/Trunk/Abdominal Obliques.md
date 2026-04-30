@@ -4,11 +4,11 @@ aliases: [external oblique, internal oblique, obliquus externus, obliquus intern
 ---
 # Abdominal Obliques
 
-> The **external oblique** and **internal oblique** are two of the four muscles forming the anterolateral abdominal wall. Together with [Rectus Abdominis](./anatomyLink/Muscular System/Trunk/Rectus Abdominis.md) and transversus abdominis, they protect abdominal viscera, flex the trunk, and generate intra-abdominal pressure.
+> The **external oblique** and **internal oblique** are two of the four muscles forming the anterolateral abdominal wall. Together with [Rectus Abdominis](./anatomyLink/Muscular-System/Trunk/Rectus-Abdominis.md) and transversus abdominis, they protect abdominal viscera, flex the trunk, and generate intra-abdominal pressure.
 
 ## 🔗 Key Connections
-- [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
-- Layer (outside → in): External oblique → Internal oblique → Transversus abdominis → [peritoneum](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md)
+- [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md)
+- Layer (outside → in): External oblique → Internal oblique → Transversus abdominis → [peritoneum](./anatomyLink/Digestive-System/Lower-GI/Rectum-and-Anal-Canal.md)
 - Forms: Inguinal ligament (EO aponeurosis); conjoint tendon (IO + transversus); rectus sheath
 
 ## 🔬 External Oblique
@@ -37,7 +37,7 @@ aliases: [external oblique, internal oblique, obliquus externus, obliquus intern
 - **Abdominal wall repair** — component separation technique uses these muscles
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Abdominal Obliques
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Trunk → Abdominal Obliques
 
 
 

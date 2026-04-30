@@ -8,12 +8,12 @@ aliases: [metatarsal bones, forefoot bones]
 > The metatarsals are **5 long bones** forming the forefoot, numbered 1 (big toe) to 5 (little toe).
 
 ## 🔗 Connected Structures
-- [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md) — **Tarsometatarsal joints (Lisfranc joint)**
-- [Phalanges of Foot](./anatomyLink/Skeletal System/Lower Limb/Phalanges of Foot.md) — **Metatarsophalangeal joints (MTP joints)**
+- [Tarsals](./anatomyLink/Skeletal-System/Lower-Limb/Tarsals.md) — **Tarsometatarsal joints (Lisfranc joint)**
+- [Phalanges of Foot](./anatomyLink/Skeletal-System/Lower-Limb/Phalanges-of-Foot.md) — **Metatarsophalangeal joints (MTP joints)**
 
 ## 🔗 Associated Muscles
-- [Tibialis Anterior](./anatomyLink/Muscular System/Lower Limb/Tibialis Anterior.md) — Inserts on 1st metatarsal base and medial cuneiform
-- [Gastrocnemius](./anatomyLink/Muscular System/Lower Limb/Gastrocnemius.md) — Plantarflexion during push-off involves metatarsal heads
+- [Tibialis Anterior](./anatomyLink/Muscular-System/Lower-Limb/Tibialis-Anterior.md) — Inserts on 1st metatarsal base and medial cuneiform
+- [Gastrocnemius](./anatomyLink/Muscular-System/Lower-Limb/Gastrocnemius.md) — Plantarflexion during push-off involves metatarsal heads
 
 ## 🗂️ Structure
 Each has a **Base** (proximal; tarsal articulation), **Shaft**, and **Head** (distal; forms ball of foot).
@@ -29,7 +29,7 @@ Each has a **Base** (proximal; tarsal articulation), **Shaft**, and **Head** (di
 - **Hallux valgus** — 1st MTP lateral deviation; bunion formation
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Lower Limb → [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md) → Metatarsals
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → Lower Limb → [Tarsals](./anatomyLink/Skeletal-System/Lower-Limb/Tarsals.md) → Metatarsals
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Foot](https://www.clinicalanatomy.ca/lowerlimb/Foot/story.html) — UBC — Foot anatomy & metatarsals

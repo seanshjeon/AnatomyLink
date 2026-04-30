@@ -8,19 +8,19 @@ aliases: [cor, cardiac]
 > The heart is a **hollow, muscular, four-chambered pump** located in the mediastinum, enclosed in the pericardial sac. It beats ~100,000 times per day, pumping ~5 L/min at rest, driving both the pulmonary and systemic circulations.
 
 ## 🔗 Key Connections
-- Protected by: [Sternum](./anatomyLink/Skeletal System/Thorax/Sternum.md) (anteriorly), [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (laterally), [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md) (posteriorly)
-- Supplies: [Coronary Arteries](./anatomyLink/Circulatory System/Heart/Coronary Arteries.md) (heart muscle itself)
-- Outflow: [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (systemic), [Pulmonary Circulation](./anatomyLink/Circulatory System/Pulmonary Circulation/Pulmonary Circulation.md) (lungs)
-- Inflow: [Superior Vena Cava](./anatomyLink/Circulatory System/Veins/Superior Vena Cava.md), [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) (systemic), pulmonary veins (from lungs)
+- Protected by: [Sternum](./anatomyLink/Skeletal-System/Thorax/Sternum.md) (anteriorly), [Ribs](./anatomyLink/Skeletal-System/Thorax/Ribs.md) (laterally), [Thoracic Vertebrae](./anatomyLink/Skeletal-System/Spine/Thoracic-Vertebrae.md) (posteriorly)
+- Supplies: [Coronary Arteries](./anatomyLink/Circulatory-System/Heart/Coronary-Arteries.md) (heart muscle itself)
+- Outflow: [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) (systemic), [Pulmonary Circulation](./anatomyLink/Circulatory-System/Pulmonary-Circulation/Pulmonary-Circulation.md) (lungs)
+- Inflow: [Superior Vena Cava](./anatomyLink/Circulatory-System/Veins/Superior-Vena-Cava.md), [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md) (systemic), pulmonary veins (from lungs)
 
 ## 🗂️ Four Chambers
 
 | Chamber | Wall Thickness | Function | Inflow | Outflow |
 |---------|---------------|----------|--------|---------|
-| **Right Atrium (RA)** | Thin | Receives deoxygenated blood | [Superior Vena Cava](./anatomyLink/Circulatory System/Veins/Superior Vena Cava.md), [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md), coronary sinus | → Right ventricle (tricuspid valve) |
+| **Right Atrium (RA)** | Thin | Receives deoxygenated blood | [Superior Vena Cava](./anatomyLink/Circulatory-System/Veins/Superior-Vena-Cava.md), [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md), coronary sinus | → Right ventricle (tricuspid valve) |
 | **Right Ventricle (RV)** | Moderate | Pumps to lungs | ← RA | → Pulmonary trunk (pulmonary valve) |
 | **Left Atrium (LA)** | Thin | Receives oxygenated blood | Pulmonary veins (×4) | → Left ventricle (mitral valve) |
-| **Left Ventricle (LV)** | Thick (~3×) | Pumps to body | ← LA | → [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (aortic valve) |
+| **Left Ventricle (LV)** | Thick (~3×) | Pumps to body | ← LA | → [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) (aortic valve) |
 
 ## 🗂️ Four Valves
 
@@ -29,7 +29,7 @@ aliases: [cor, cardiac]
 | **Tricuspid** | RA → RV | AV valve (3 leaflets) | Ventricular diastole | Ventricular systole |
 | **Pulmonary** | RV → pulmonary trunk | Semilunar (3 cusps) | Ventricular systole | Ventricular diastole |
 | **Mitral (bicuspid)** | LA → LV | AV valve (2 leaflets) | Ventricular diastole | Ventricular systole |
-| **Aortic** | LV → [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) | Semilunar (3 cusps) | Ventricular systole | Ventricular diastole |
+| **Aortic** | LV → [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) | Semilunar (3 cusps) | Ventricular systole | Ventricular diastole |
 
 ## 🔑 Conduction System
 
@@ -47,7 +47,7 @@ aliases: [cor, cardiac]
 - Heart sounds: S1 ("lub") = AV valve closure; S2 ("dub") = semilunar valve closure
 
 ## 🏥 Clinical Significance
-- **Myocardial infarction (MI)** — coronary artery occlusion → myocardial necrosis; see [Coronary Arteries](./anatomyLink/Circulatory System/Heart/Coronary Arteries.md)
+- **Myocardial infarction (MI)** — coronary artery occlusion → myocardial necrosis; see [Coronary Arteries](./anatomyLink/Circulatory-System/Heart/Coronary-Arteries.md)
 - **Heart failure** — LV failure → pulmonary edema; RV failure → peripheral edema, raised JVP
 - **Valvular disease** — stenosis (reduced flow) or regurgitation (backflow)
   - Mitral stenosis — rheumatic fever; opening snap + mid-diastolic murmur
@@ -57,7 +57,7 @@ aliases: [cor, cardiac]
 - **Cardiac tamponade** — fluid in pericardial sac → Beck's triad: hypotension, raised JVP, muffled heart sounds
 
 ## 📍 Location in Circulatory System
-[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Heart → Heart
+[Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Heart → Heart
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Heart Anatomy](https://www.clinicalanatomy.ca/thorax/HeartAnatomy/story.html) — UBC — Cardiac anatomy, chambers & valves

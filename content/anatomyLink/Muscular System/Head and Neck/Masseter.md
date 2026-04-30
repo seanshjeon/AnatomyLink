@@ -8,15 +8,15 @@ aliases: [jaw muscle, masticatory muscle]
 > The masseter is the **most powerful muscle of mastication** relative to its size. It is the primary jaw-closing muscle and is easily palpable when clenching the teeth.
 
 ## 🔗 Bone Attachments
-- **Origin**: [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) (zygomatic arch — zygomatic bone & temporal bone)
-- **Insertion**: [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) (lateral surface of ramus & angle)
+- **Origin**: [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md) (zygomatic arch — zygomatic bone & temporal bone)
+- **Insertion**: [Mandible](./anatomyLink/Skeletal-System/Skull-Region/Mandible.md) (lateral surface of ramus & angle)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | Zygomatic arch ([Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md)) |
-| Insertion | Ramus & angle of [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) |
+| Origin | Zygomatic arch ([Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md)) |
+| Insertion | Ramus & angle of [Mandible](./anatomyLink/Skeletal-System/Skull-Region/Mandible.md) |
 | Action | **Jaw elevation** (mouth closing); slight protrusion |
 | Innervation | Masseteric nerve (CN V3 — mandibular division of trigeminal) |
 | Blood Supply | Masseteric artery (from maxillary artery) |
@@ -47,4 +47,4 @@ aliases: [jaw muscle, masticatory muscle]
 
 
 
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Head & Neck → Masseter
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Head & Neck → Masseter

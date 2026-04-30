@@ -5,11 +5,11 @@ aliases: [basal ganglia, basal nuclei, striatum, 기저핵]
 
 # Basal Ganglia
 
-> The **basal ganglia** are a group of subcortical nuclei deep within the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) that regulate **voluntary movement initiation, motor learning, and habit formation**. They work via inhibitory loops — dysfunction causes either too much movement (hyperkinetic) or too little (hypokinetic).
+> The **basal ganglia** are a group of subcortical nuclei deep within the [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) that regulate **voluntary movement initiation, motor learning, and habit formation**. They work via inhibitory loops — dysfunction causes either too much movement (hyperkinetic) or too little (hypokinetic).
 
 ## 🔗 Key Connections
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — embedded in cerebral hemispheres and diencephalon
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — substantia nigra is functionally part of the basal ganglia circuit
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — embedded in cerebral hemispheres and diencephalon
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — substantia nigra is functionally part of the basal ganglia circuit
 - Motor cortex → striatum → output nuclei → thalamus → motor cortex (loop)
 
 ## 🗂️ Components
@@ -96,4 +96,4 @@ Net effect: **Thalamus inhibited → Movement suppressed**
 - [Brain - Basal Ganglia](https://sketchfab.com/3d-models/brain-basal-ganglia-400f86e7ccf44b258f11f142e60debd5) — UBC.MEDVID
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Basal Ganglia
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Central Nervous System → Basal Ganglia

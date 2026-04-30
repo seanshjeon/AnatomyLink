@@ -10,7 +10,7 @@ aliases: [portal vein, hepatic portal system, portal circulation]
 ## 🔗 Key Connections
 - Drains: stomach, small intestine, large intestine, spleen, pancreas
 - Delivers to: liver (hepatic sinusoids)
-- Empties via: hepatic veins → [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) → [Heart](./anatomyLink/Circulatory System/Heart/Heart.md)
+- Empties via: hepatic veins → [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md) → [Heart](./anatomyLink/Circulatory-System/Heart/Heart.md)
 - Anastomoses with: systemic veins at portosystemic anastomoses
 
 ## 🗂️ Formation of the Portal Vein
@@ -41,7 +41,7 @@ When portal pressure rises (portal hypertension), blood is shunted into systemic
 - **Portal vein thrombosis** — abdominal pain + splenomegaly; anticoagulation; causes: hypercoagulable states, pancreatitis, cirrhosis
 
 ## 📍 Location in Circulatory System
-[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Veins → Portal System
+[Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Veins → Portal System
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

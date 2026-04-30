@@ -8,11 +8,11 @@ aliases: [Hearing, Cochlea, Auditory Pathway, Hearing Loss, Organ of Corti]
 > The auditory system is a **mechanosensory system that transduces sound pressure waves (20–20,000 Hz in young adults) into neural signals via mechanosensitive hair cells in the cochlea**, then processes binaural auditory information through a series of brainstem nuclei with extensive bilateral projections before reaching the primary auditory cortex in the superior temporal plane.
 
 ## 🔗 Key Connections
-- [Vestibular System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Vestibular System.md) — shares CN VIII and labyrinthine apparatus
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — cochlear nuclei, superior olivary complex, inferior colliculus
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — medial geniculate nucleus (MGN/MGB) as auditory relay
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — primary auditory cortex (A1), Wernicke's area
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN VIII (vestibulocochlear), CN VII (stapedius reflex), CN V3 (tensor tympani)
+- [Vestibular System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/03 - Special Senses/Vestibular System.md) — shares CN VIII and labyrinthine apparatus
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — cochlear nuclei, superior olivary complex, inferior colliculus
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — medial geniculate nucleus (MGN/MGB) as auditory relay
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — primary auditory cortex (A1), Wernicke's area
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN VIII (vestibulocochlear), CN VII (stapedius reflex), CN V3 (tensor tympani)
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -178,6 +178,6 @@ Unlike the visual system (complete contralateral segregation below cortex), audi
 
 ## 📍 Location
 
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Auditory System
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Auditory System
 
 

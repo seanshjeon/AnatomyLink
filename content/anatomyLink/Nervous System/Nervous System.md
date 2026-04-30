@@ -7,11 +7,11 @@ aliases: [Neural System]
 > The nervous system is the body's **master communication and control network**, divided into the **Central Nervous System (CNS)** and **Peripheral Nervous System (PNS)**, with the **Autonomic Nervous System (ANS)** as a functional subdivision of the PNS.
 
 ## 🔗 Key Connections
-- [00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md)
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md), [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — CNS components
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md), [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md), [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md), [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) — PNS components
-- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — protects the brain
-- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — protects the spinal cord
+- [00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md)
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md), [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — CNS components
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md), [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md), [Lumbar Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Lumbar-Plexus.md), [Sacral Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Sacral-Plexus.md) — PNS components
+- [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md) — protects the brain
+- [Vertebral Column](./anatomyLink/Skeletal-System/Spine/Vertebral-Column.md) — protects the spinal cord
 
 ## 🗂️ Nervous System Organization
 
@@ -28,10 +28,10 @@ aliases: [Neural System]
 ## 🔑 Functional Overview
 
 ### Central Nervous System (CNS)
-The CNS comprises the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) and [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md). It processes all incoming sensory information, integrates it, and generates motor commands. Protected by bone (skull and vertebral column), meninges (dura, arachnoid, pia mater), and cerebrospinal fluid (CSF).
+The CNS comprises the [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) and [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md). It processes all incoming sensory information, integrates it, and generates motor commands. Protected by bone (skull and vertebral column), meninges (dura, arachnoid, pia mater), and cerebrospinal fluid (CSF).
 
 ### Peripheral Nervous System (PNS)
-Everything outside the CNS. Includes [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) (12 pairs), spinal nerves (31 pairs organized into plexuses), and the ANS. Carries signals to and from the CNS.
+Everything outside the CNS. Includes [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) (12 pairs), spinal nerves (31 pairs organized into plexuses), and the ANS. Carries signals to and from the CNS.
 
 ### Autonomic Nervous System (ANS)
 Controls involuntary visceral functions. Sympathetic ("fight or flight") uses thoracolumbar outflow; parasympathetic ("rest and digest") uses craniosacral outflow.
@@ -39,14 +39,14 @@ Controls involuntary visceral functions. Sympathetic ("fight or flight") uses th
 ## 🗺️ Subsections
 
 ### Central Nervous System
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — cerebrum, cerebellum, brainstem
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — segments, tracts, reflex arcs
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — cerebrum, cerebellum, brainstem
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — segments, tracts, reflex arcs
 
 ### Peripheral Nervous System
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — 12 pairs from the brain
-- [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) — C5–T1, upper limb innervation
-- [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md) — L1–L4, anterior lower limb
-- [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) — L4–S3, posterior lower limb and pelvis
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — 12 pairs from the brain
+- [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md) — C5–T1, upper limb innervation
+- [Lumbar Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Lumbar-Plexus.md) — L1–L4, anterior lower limb
+- [Sacral Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Sacral-Plexus.md) — L4–S3, posterior lower limb and pelvis
 
 ## 🏥 Clinical Significance
 - **Upper Motor Neuron (UMN) lesion** — spasticity, hyperreflexia, upgoing Babinski; lesion in CNS (brain or spinal cord)
@@ -57,26 +57,26 @@ Controls involuntary visceral functions. Sympathetic ("fight or flight") uses th
 
 
 ## 🧠 Central Nervous System — Detailed Structures
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — Cerebrum, cerebellum, brainstem
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — Midbrain, pons, medulla
-- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — Coordination and motor learning
-- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — Movement regulation circuits
-- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — Emotion, memory, hypothalamus
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — Sensory + motor relay
-- [Meninges](./anatomyLink/Nervous System/Central Nervous System/Meninges.md) — Dura, arachnoid, pia + meningeal spaces
-- [Ventricular System](./anatomyLink/Nervous System/Central Nervous System/Ventricular System.md) — CSF production and flow
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — Cerebrum, cerebellum, brainstem
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — Midbrain, pons, medulla
+- [Cerebellum](./anatomyLink/Nervous-System/Central-Nervous-System/Cerebellum.md) — Coordination and motor learning
+- [Basal Ganglia](./anatomyLink/Nervous-System/Central-Nervous-System/Basal-Ganglia.md) — Movement regulation circuits
+- [Limbic System](./anatomyLink/Nervous-System/Central-Nervous-System/Limbic-System.md) — Emotion, memory, hypothalamus
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — Sensory + motor relay
+- [Meninges](./anatomyLink/Nervous-System/Central-Nervous-System/Meninges.md) — Dura, arachnoid, pia + meningeal spaces
+- [Ventricular System](./anatomyLink/Nervous-System/Central-Nervous-System/Ventricular-System.md) — CSF production and flow
 
 ## 🔀 Pathways
-- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — Corticospinal tract; UMN vs LMN
-- [Sensory Pathway](./anatomyLink/Nervous System/Pathways/Sensory Pathway.md) — Dorsal columns + spinothalamic tract
-- [Visual Pathway](./anatomyLink/Nervous System/Pathways/Visual Pathway.md) — Retina → LGN → V1; field defects
-- [Subcortical Fiber Tracts](./anatomyLink/Nervous System/Pathways/Subcortical Fiber Tracts.md) — Internal capsule, corpus callosum
+- [Motor Pathway](./anatomyLink/Nervous-System/Pathways/Motor-Pathway.md) — Corticospinal tract; UMN vs LMN
+- [Sensory Pathway](./anatomyLink/Nervous-System/Pathways/Sensory-Pathway.md) — Dorsal columns + spinothalamic tract
+- [Visual Pathway](./anatomyLink/Nervous-System/Pathways/Visual-Pathway.md) — Retina → LGN → V1; field defects
+- [Subcortical Fiber Tracts](./anatomyLink/Nervous-System/Pathways/Subcortical-Fiber-Tracts.md) — Internal capsule, corpus callosum
 
 ## 🤖 Autonomic Nervous System
-- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — Sympathetic + parasympathetic
+- [Autonomic Nervous System](./anatomyLink/Nervous-System/Autonomic-Nervous-System/Autonomic-Nervous-System.md) — Sympathetic + parasympathetic
 
 ## 🗺️ Peripheral Maps
-- [Dermatomes](./anatomyLink/Nervous System/Peripheral Nervous System/Dermatomes.md) — Spinal root sensory territories
+- [Dermatomes](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Dermatomes.md) — Spinal root sensory territories
 
 ## 🎬 Video Resources
 
@@ -121,7 +121,7 @@ Controls involuntary visceral functions. Sympathetic ("fight or flight") uses th
 - [Stroke Model](https://neuroanatomy.ca/stroke.html) — interactive stroke localization
 
 ## 📍 Location in Nervous System
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → Nervous System
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → Nervous System
 
 
 

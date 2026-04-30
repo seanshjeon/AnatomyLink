@@ -8,11 +8,11 @@ aliases: [Receptor Types, Sensory Transduction, Mechanoreceptors, Nociceptors]
 > Sensory receptors are **specialized structures that transduce specific forms of energy (mechanical, thermal, chemical, electromagnetic) into graded electrical potentials**, which, when sufficient, trigger action potentials in afferent neurons and transmit sensory information to the CNS via the **labeled line principle**.
 
 ## 🔗 Key Connections
-- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — central pathways carrying receptor signals
-- [Pain Pathways](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Pain Pathways.md) — nociceptor processing and modulation
-- [Proprioception](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Proprioception.md) — muscle spindles, GTOs, joint receptors
-- [Neuron](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neuron.md) — structural basis of receptor neurons
-- [Action Potential](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — downstream signal generated after receptor potential reaches threshold
+- [Somatosensory System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Somatosensory System.md) — central pathways carrying receptor signals
+- [Pain Pathways](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Pain Pathways.md) — nociceptor processing and modulation
+- [Proprioception](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Proprioception.md) — muscle spindles, GTOs, joint receptors
+- [Neuron](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neuron.md) — structural basis of receptor neurons
+- [Action Potential](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — downstream signal generated after receptor potential reaches threshold
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -181,4 +181,4 @@ A **receptive field** is the area of skin (or sensory surface) where stimulation
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note

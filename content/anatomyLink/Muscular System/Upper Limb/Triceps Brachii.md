@@ -8,19 +8,19 @@ aliases: [triceps, elbow extensor]
 
 ## 🔗 Bone Attachments
 - **Origin**:
-  - Long head: Infraglenoid tubercle of [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md)
-  - Lateral head: Posterior [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (above radial groove)
-  - Medial head: Posterior [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (below radial groove — deepest head)
-- **Insertion**: [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) (olecranon)
+  - Long head: Infraglenoid tubercle of [Scapula](./anatomyLink/Skeletal-System/Upper-Limb/Scapula.md)
+  - Lateral head: Posterior [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (above radial groove)
+  - Medial head: Posterior [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (below radial groove — deepest head)
+- **Insertion**: [Ulna](./anatomyLink/Skeletal-System/Upper-Limb/Ulna.md) (olecranon)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | Infraglenoid tubercle ([Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md)) + posterior [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (2 heads) |
-| Insertion | Olecranon of [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) |
+| Origin | Infraglenoid tubercle ([Scapula](./anatomyLink/Skeletal-System/Upper-Limb/Scapula.md)) + posterior [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (2 heads) |
+| Insertion | Olecranon of [Ulna](./anatomyLink/Skeletal-System/Upper-Limb/Ulna.md) |
 | Action | Elbow **extension** (all heads); shoulder extension (long head) |
-| Innervation | **[Radial Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Radial Nerve.md) (C6–C8)** — all three heads |
+| Innervation | **[Radial Nerve](./anatomyLink/Nervous-System/Upper-Limb-Nerves/Radial-Nerve.md) (C6–C8)** — all three heads |
 | Blood Supply | Deep brachial artery (profunda brachii) |
 
 ## 🔑 Three Heads
@@ -38,7 +38,7 @@ The radial nerve winds in the **spiral (radial) groove** of the humerus, between
 - **Triceps testing** — Tests radial nerve and C7 nerve root (reflex: triceps jerk)
 
 ## 📍 Location in Muscular System
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Upper Limb → Triceps Brachii
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Upper Limb → Triceps Brachii
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Arm Muscles Acting on Shoulder](https://www.clinicalanatomy.ca/upperlimb/ShoulderArm/story.html) — UBC — Arm muscles including triceps brachii

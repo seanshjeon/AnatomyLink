@@ -5,13 +5,13 @@ aliases: [meninges, dura mater, arachnoid, pia mater, 뇌막]
 
 # Meninges
 
-> The **meninges** are three protective membranes surrounding the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) and [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md): **dura mater** (outer), **arachnoid mater** (middle), and **pia mater** (inner). Between them are spaces that can fill with blood or infection.
+> The **meninges** are three protective membranes surrounding the [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) and [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md): **dura mater** (outer), **arachnoid mater** (middle), and **pia mater** (inner). Between them are spaces that can fill with blood or infection.
 
 ## 🔗 Key Connections
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — surrounds the entire brain
-- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — dura attaches to inner skull surface
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — meninges extend down the vertebral canal to S2
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN V innervates the dura (pain-sensitive)
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — surrounds the entire brain
+- [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md) — dura attaches to inner skull surface
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — meninges extend down the vertebral canal to S2
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN V innervates the dura (pain-sensitive)
 
 ## 🗂️ Three Layers
 
@@ -82,4 +82,4 @@ aliases: [meninges, dura mater, arachnoid, pia mater, 뇌막]
 - [Blood Supply](https://neuroanatomy.ca/regions/bloodsupply.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Meninges
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Central Nervous System → Meninges

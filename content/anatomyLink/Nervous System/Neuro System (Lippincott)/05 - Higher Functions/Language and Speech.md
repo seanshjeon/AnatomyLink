@@ -7,11 +7,11 @@ aliases: [Language Areas, Speech Centers, Aphasia Classification, Cortical Langu
 > **Language is a left-hemisphere-dominant, distributed cortical network involving frontal, parietal, and temporal regions linked by white matter tracts**, with Broca's area governing speech production and grammar and Wernicke's area governing comprehension and word selection; lesions at any node produce a characteristic aphasia syndrome.
 
 ## 🔗 Key Connections
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — primary language cortices (Brodmann 44/45, 22, 39, 40) in left hemisphere
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — hemispheric lateralization; left MCA territory houses most language areas
-- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — primary motor cortex face area → lip, tongue, laryngeal muscles for articulation
-- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — verbal working memory via phonological loop; semantic memory storage
-- [Prefrontal Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — verbal working memory, phonological loop, language executive control
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — primary language cortices (Brodmann 44/45, 22, 39, 40) in left hemisphere
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — hemispheric lateralization; left MCA territory houses most language areas
+- [Motor Pathway](./anatomyLink/Nervous-System/Pathways/Motor-Pathway.md) — primary motor cortex face area → lip, tongue, laryngeal muscles for articulation
+- [Memory Systems](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Memory Systems.md) — verbal working memory via phonological loop; semantic memory storage
+- [Prefrontal Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — verbal working memory, phonological loop, language executive control
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -168,7 +168,7 @@ aliases: [Language Areas, Speech Centers, Aphasia Classification, Cortical Langu
 
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 05 - Higher Functions → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 05 - Higher Functions → This Note
 
 
 

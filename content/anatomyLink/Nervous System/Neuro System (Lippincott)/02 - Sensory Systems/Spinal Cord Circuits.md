@@ -8,12 +8,12 @@ aliases: [Spinal Cord Organization, Rexed Laminae, Spinal Reflexes, Brown-Séqua
 > The spinal cord is the **primary conduit for ascending sensory and descending motor information between brain and body**, and a **semi-autonomous processing center** containing reflex arcs, central pattern generators, and autonomic preganglionic neurons — organized into a characteristic butterfly-shaped gray matter surrounded by white matter columns.
 
 ## 🔗 Key Connections
-- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — dorsal column and spinothalamic pathway anatomy
-- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — corticospinal, rubrospinal, reticulospinal tracts in white matter
-- [Pain Pathways](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Pain Pathways.md) — dorsal horn laminar processing, Rexed laminae I, II, V
-- [Proprioception](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Proprioception.md) — spinocerebellar tracts, stretch reflex, Ib circuits
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — gross anatomy, vascular supply, vertebral level relationships
-- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — lateral horn, preganglionic sympathetic and parasympathetic
+- [Somatosensory System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Somatosensory System.md) — dorsal column and spinothalamic pathway anatomy
+- [Motor Pathway](./anatomyLink/Nervous-System/Pathways/Motor-Pathway.md) — corticospinal, rubrospinal, reticulospinal tracts in white matter
+- [Pain Pathways](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Pain Pathways.md) — dorsal horn laminar processing, Rexed laminae I, II, V
+- [Proprioception](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Proprioception.md) — spinocerebellar tracts, stretch reflex, Ib circuits
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — gross anatomy, vascular supply, vertebral level relationships
+- [Autonomic Nervous System](./anatomyLink/Nervous-System/Autonomic-Nervous-System/Autonomic-Nervous-System.md) — lateral horn, preganglionic sympathetic and parasympathetic
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -193,7 +193,7 @@ Central Pattern Generators are **spinal interneuron networks that can generate r
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
 
 
 

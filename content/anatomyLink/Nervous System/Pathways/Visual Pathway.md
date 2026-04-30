@@ -8,9 +8,9 @@ aliases: [visual pathway, optic pathway, visual system, 시각경로]
 > The **visual pathway** transmits visual information from the **retina** → **optic nerve (CN II)** → **optic chiasm** → **optic tract** → **lateral geniculate nucleus (LGN)** → **optic radiation** → **primary visual cortex (V1)** in the occipital lobe.
 
 ## 🔗 Key Connections
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN II (optic nerve) is the first segment
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — occipital lobe (V1), temporal/parietal lobes (V2+), thalamus (LGN)
-- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — optic canal transmits CN II
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN II (optic nerve) is the first segment
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — occipital lobe (V1), temporal/parietal lobes (V2+), thalamus (LGN)
+- [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md) — optic canal transmits CN II
 
 ## 🗂️ The Pathway Step by Step
 
@@ -107,4 +107,4 @@ Convergence + Accommodation + Miosis — mediated by CN III
 - [Visual System](https://neuroanatomy.ca/regions/visualsystem.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Pathways → Visual Pathway
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Pathways → Visual Pathway

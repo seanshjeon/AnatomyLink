@@ -5,25 +5,25 @@ aliases: [radial artery]
 
 # Radial Artery
 
-> The radial artery is the **lateral terminal branch of the [Brachial Artery](./anatomyLink/Circulatory System/Arteries/Brachial Artery.md)**, running along the lateral forearm alongside the [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) and forming the deep palmar arch in the hand.
+> The radial artery is the **lateral terminal branch of the [Brachial Artery](./anatomyLink/Circulatory-System/Arteries/Brachial-Artery.md)**, running along the lateral forearm alongside the [Radius](./anatomyLink/Skeletal-System/Upper-Limb/Radius.md) and forming the deep palmar arch in the hand.
 
 ## 🔗 Key Connections
-- Arises from: [Brachial Artery](./anatomyLink/Circulatory System/Arteries/Brachial Artery.md) (at cubital fossa)
-- Runs alongside: [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) (lateral forearm)
-- Anastomoses with: [Ulnar Artery](./anatomyLink/Circulatory System/Arteries/Ulnar Artery.md) (via palmar arches)
+- Arises from: [Brachial Artery](./anatomyLink/Circulatory-System/Arteries/Brachial-Artery.md) (at cubital fossa)
+- Runs alongside: [Radius](./anatomyLink/Skeletal-System/Upper-Limb/Radius.md) (lateral forearm)
+- Anastomoses with: [Ulnar Artery](./anatomyLink/Circulatory-System/Arteries/Ulnar-Artery.md) (via palmar arches)
 - Forms: deep palmar arch (with deep branch of ulnar artery)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | [Brachial Artery](./anatomyLink/Circulatory System/Arteries/Brachial Artery.md) bifurcation at cubital fossa |
-| Course | Lateral forearm → beneath brachioradialis → anatomical snuffbox → crosses [Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md) → deep palmar arch |
+| Origin | [Brachial Artery](./anatomyLink/Circulatory-System/Arteries/Brachial-Artery.md) bifurcation at cubital fossa |
+| Course | Lateral forearm → beneath brachioradialis → anatomical snuffbox → crosses [Carpals](./anatomyLink/Skeletal-System/Upper-Limb/Carpals.md) → deep palmar arch |
 | Pulse | Palpable at wrist lateral to flexor carpi radialis tendon (radial pulse) |
 | Key Branch | Deep palmar arch → palmar metacarpal arteries → digital arteries |
 
 ## 🔑 Anatomical Snuffbox
-The radial artery crosses the floor of the anatomical snuffbox (bounded by EPL medially; EPB and APL laterally) over the [Carpals](./anatomyLink/Skeletal System/Upper Limb/Carpals.md) (scaphoid and trapezium). **Scaphoid fracture** → tenderness in snuffbox + risk of avascular necrosis via radial artery disruption.
+The radial artery crosses the floor of the anatomical snuffbox (bounded by EPL medially; EPB and APL laterally) over the [Carpals](./anatomyLink/Skeletal-System/Upper-Limb/Carpals.md) (scaphoid and trapezium). **Scaphoid fracture** → tenderness in snuffbox + risk of avascular necrosis via radial artery disruption.
 
 ## 🏥 Clinical Significance
 - **Radial pulse** — most commonly palpated pulse; rate, rhythm, character assessment; "waterhammer" pulse in aortic regurgitation
@@ -33,7 +33,7 @@ The radial artery crosses the floor of the anatomical snuffbox (bounded by EPL m
 - **Transradial PCI** — cardiac catheterization via radial artery (now preferred route); reduced bleeding risk vs. femoral
 
 ## 📍 Location in Circulatory System
-[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Arteries → Radial Artery
+[Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Arteries → Radial Artery
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

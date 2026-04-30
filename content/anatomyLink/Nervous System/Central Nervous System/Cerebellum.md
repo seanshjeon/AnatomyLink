@@ -8,10 +8,10 @@ aliases: [cerebellum, little brain, 소뇌]
 > The **cerebellum** ("little brain") occupies the posterior fossa, comprising ~10% of brain volume but containing ~50% of all neurons. It coordinates **movement, balance, and motor learning** — all damage causes **ipsilateral** deficits (unlike cerebral lesions).
 
 ## 🔗 Key Connections
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — connected superiorly via tentorium cerebelli
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — connected via three cerebellar peduncles
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — receives proprioceptive input via spinocerebellar tracts
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN VIII (vestibular input to flocculonodular lobe)
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — connected superiorly via tentorium cerebelli
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — connected via three cerebellar peduncles
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — receives proprioceptive input via spinocerebellar tracts
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN VIII (vestibular input to flocculonodular lobe)
 
 ## 🗂️ Anatomy
 
@@ -99,6 +99,6 @@ Inferior olive → Climbing fibers ───────────────
 - [Cerebellum](https://neuroanatomy.ca/regions/cerebellum.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Cerebellum
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Central Nervous System → Cerebellum
 
 

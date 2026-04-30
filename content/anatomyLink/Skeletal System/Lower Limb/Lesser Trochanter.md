@@ -5,11 +5,11 @@ aliases: [lesser trochanter of femur]
 
 # Lesser Trochanter
 
-> The **lesser trochanter** is the small conical bony projection on the posteromedial proximal [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md), just below the femoral neck, serving as the insertion for the **iliopsoas** (the primary hip flexor).
+> The **lesser trochanter** is the small conical bony projection on the posteromedial proximal [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md), just below the femoral neck, serving as the insertion for the **iliopsoas** (the primary hip flexor).
 
 ## 🔗 Key Connections
-- [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) — posteromedial proximal femur
-- [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) — inserts on the lesser trochanter (iliacus + psoas major — primary hip flexor)
+- [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md) — posteromedial proximal femur
+- [Iliopsoas](./anatomyLink/Muscular-System/Lower-Limb/Iliopsoas.md) — inserts on the lesser trochanter (iliacus + psoas major — primary hip flexor)
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -23,4 +23,4 @@ aliases: [lesser trochanter of femur]
 - **Pathological fracture** — Isolated lesser trochanter fracture in adults is a red flag for metastatic disease (common site for bone mets)
 
 ## 📍 Location
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) → Lesser Trochanter
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md) → Lesser Trochanter

@@ -8,7 +8,7 @@ aliases: [lymph node, lymph gland, lymphadenopathy]
 > Lymph nodes are **small bean-shaped lymphoid organs** (2–25 mm) located throughout the body along lymphatic vessels. They filter lymph, trap antigens, and coordinate adaptive immune responses. Clinically, lymphadenopathy is a key sign of infection, inflammation, or malignancy.
 
 ## 🔗 Key Connections
-- [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md)
+- [Lymphatic System](./anatomyLink/Lymphatic-System/Lymphatic-System.md)
 - Drain into: Thoracic duct (left body) or right lymphatic duct → venous system
 
 ## 🔬 Structure
@@ -35,15 +35,15 @@ aliases: [lymph node, lymph gland, lymphadenopathy]
 ### Thorax
 | Group | Drains |
 |-------|--------|
-| Hilar / mediastinal | [Lungs](./anatomyLink/Respiratory System/Lungs.md), [Bronchi](./anatomyLink/Respiratory System/Bronchi.md), trachea |
+| Hilar / mediastinal | [Lungs](./anatomyLink/Respiratory-System/Lungs.md), [Bronchi](./anatomyLink/Respiratory-System/Bronchi.md), trachea |
 | Paratracheal | Trachea, thyroid |
 
 ### Abdomen & Pelvis
 | Group | Drains |
 |-------|--------|
-| Para-aortic (lumbar) | [Kidney](./anatomyLink/Urinary System/Kidney.md), [Ovaries](./anatomyLink/Reproductive System/Female/Ovaries.md), [Testes](./anatomyLink/Reproductive System/Male/Testes.md), [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) (fundus) |
+| Para-aortic (lumbar) | [Kidney](./anatomyLink/Urinary-System/Kidney.md), [Ovaries](./anatomyLink/Reproductive-System/Female/Ovaries.md), [Testes](./anatomyLink/Reproductive-System/Male/Testes.md), [Uterus](./anatomyLink/Reproductive-System/Female/Uterus.md) (fundus) |
 | Mesenteric | Small intestine, large intestine |
-| Coeliac | [Liver](./anatomyLink/Digestive System/Accessory Organs/Liver.md), [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md), [Pancreas](./anatomyLink/Digestive System/Accessory Organs/Pancreas.md), [Spleen](./anatomyLink/Lymphatic System/Spleen.md) |
+| Coeliac | [Liver](./anatomyLink/Digestive-System/Accessory-Organs/Liver.md), [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md), [Pancreas](./anatomyLink/Digestive-System/Accessory-Organs/Pancreas.md), [Spleen](./anatomyLink/Lymphatic-System/Spleen.md) |
 
 ### Upper Limb
 | Group | Drains |
@@ -65,4 +65,4 @@ aliases: [lymph node, lymph gland, lymphadenopathy]
 - **Kikuchi disease** — cervical lymphadenitis in young women; self-limiting; exclude lupus
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Lymphatic System](./anatomyLink/Lymphatic System/Lymphatic System.md) → Lymph Nodes
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Lymphatic System](./anatomyLink/Lymphatic-System/Lymphatic-System.md) → Lymph Nodes

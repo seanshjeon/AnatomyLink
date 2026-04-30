@@ -8,12 +8,12 @@ aliases: [AP, Nerve Impulse, Spike]
 > The action potential is an **all-or-nothing electrical signal** generated at the axon hillock when membrane potential reaches threshold (~−55 mV), driven by sequential opening of **voltage-gated Na⁺ and K⁺ channels**, and propagated along the axon to the presynaptic terminal.
 
 ## 🔗 Key Connections
-- [Neuron](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neuron.md) — site of AP generation; axon hillock and nodes of Ranvier
-- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — AP triggers Ca²⁺ influx → neurotransmitter release at terminal
-- [Glial Cells](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — oligodendrocytes/Schwann cells enable saltatory conduction
-- [Pain Pathways](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Pain Pathways.md) — Aδ and C fibers transmit pain via AP propagation
-- [Nervous System](./anatomyLink/Nervous System/Nervous System.md) — parent system
-- [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/Neuro System (Lippincott).md) — parent course module
+- [Neuron](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neuron.md) — site of AP generation; axon hillock and nodes of Ranvier
+- [Synaptic Transmission](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — AP triggers Ca²⁺ influx → neurotransmitter release at terminal
+- [Glial Cells](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — oligodendrocytes/Schwann cells enable saltatory conduction
+- [Pain Pathways](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Pain Pathways.md) — Aδ and C fibers transmit pain via AP propagation
+- [Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) — parent system
+- [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/Neuro System (Lippincott).md) — parent course module
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -173,4 +173,4 @@ The equilibrium potential for an ion is calculated as:
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Action Potential
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Neuro System (Lippincott) → 01 - Cellular Neuroscience → Action Potential

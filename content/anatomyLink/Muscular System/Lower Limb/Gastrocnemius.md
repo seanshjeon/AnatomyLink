@@ -8,17 +8,17 @@ aliases: [gastroc, calf muscle, gastrocnemius muscle]
 > The gastrocnemius is the **large, two-headed superficial calf muscle** forming the rounded contour of the posterior lower leg. It is a powerful plantarflexor and assists in knee flexion.
 
 ## 🔗 Bone Attachments
-- **Origin**: [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) (medial head: medial femoral condyle; lateral head: lateral femoral condyle) — posterior surfaces
-- **Insertion**: [Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md) (posterior calcaneus — calcaneal tuberosity) via the **Achilles tendon** (shared with soleus)
+- **Origin**: [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md) (medial head: medial femoral condyle; lateral head: lateral femoral condyle) — posterior surfaces
+- **Insertion**: [Tarsals](./anatomyLink/Skeletal-System/Lower-Limb/Tarsals.md) (posterior calcaneus — calcaneal tuberosity) via the **Achilles tendon** (shared with soleus)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
-| Origin | Medial & lateral femoral condyles ([Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md)) |
-| Insertion | Calcaneal tuberosity ([Tarsals](./anatomyLink/Skeletal System/Lower Limb/Tarsals.md)) via Achilles tendon |
+| Origin | Medial & lateral femoral condyles ([Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md)) |
+| Insertion | Calcaneal tuberosity ([Tarsals](./anatomyLink/Skeletal-System/Lower-Limb/Tarsals.md)) via Achilles tendon |
 | Action | Ankle **plantarflexion** (powerful); knee **flexion** (when foot is free) |
-| Innervation | **[Tibial Nerve](./anatomyLink/Nervous System/Lower Limb Nerves/Tibial Nerve.md) (S1, S2)** |
+| Innervation | **[Tibial Nerve](./anatomyLink/Nervous-System/Lower-Limb-Nerves/Tibial-Nerve.md) (S1, S2)** |
 | Blood Supply | Sural branches of popliteal artery |
 
 ## 🔑 Achilles Tendon (Calcaneal Tendon)
@@ -53,7 +53,7 @@ Formed by the gastrocnemius + soleus tendons. The **strongest and thickest tendo
 - [Superficial Lower Limb](https://sketchfab.com/3d-models/superficial-lower-limb-575dab0f34034212932778ebd5a89833) — UBC.MEDVID
 
 ## 📍 Location in Muscular System
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Lower Limb → Gastrocnemius
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Lower Limb → Gastrocnemius
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Leg](https://www.clinicalanatomy.ca/lowerlimb/Leg/story.html) — UBC — Posterior leg compartment & gastrocnemius

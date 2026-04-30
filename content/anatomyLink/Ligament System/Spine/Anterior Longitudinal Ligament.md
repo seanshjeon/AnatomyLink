@@ -9,8 +9,8 @@ aliases: [ALL]
 
 ## 🔗 Key Connections
 - **Attachment** — Anterior surface of vertebral bodies and intervertebral discs (C1 → Sacrum)
-- **Related structures** — [Intervertebral Disc](./anatomyLink/Skeletal System/Spine/Intervertebral Disc.md), [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md), [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (lies just anterior in thorax/abdomen)
-- **Counterpart** — [Posterior Longitudinal Ligament](./anatomyLink/Ligament System/Spine/Posterior Longitudinal Ligament.md) (posterior to vertebral bodies)
+- **Related structures** — [Intervertebral Disc](./anatomyLink/Skeletal-System/Spine/Intervertebral-Disc.md), [Vertebral Column](./anatomyLink/Skeletal-System/Spine/Vertebral-Column.md), [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) (lies just anterior in thorax/abdomen)
+- **Counterpart** — [Posterior Longitudinal Ligament](./anatomyLink/Ligament-System/Spine/Posterior-Longitudinal-Ligament.md) (posterior to vertebral bodies)
 
 ## 🏥 Clinical Significance
 - **Hyperextension injury** — ALL rupture in whiplash or cervical extension trauma
@@ -18,4 +18,4 @@ aliases: [ALL]
 - **Spinal stabilization surgery** — ALL integrity critical in anterior approaches
 
 ## 📍 Location
-[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Spine → Anterior Longitudinal Ligament
+[Ligament System](./anatomyLink/Ligament-System/Ligament-System.md) → Spine → Anterior Longitudinal Ligament

@@ -5,16 +5,16 @@ aliases: [oesophagus, gullet]
 
 # Esophagus
 
-> The esophagus is a **muscular tube ~25 cm long** connecting the pharynx to the [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md), passing through the neck, posterior mediastinum, and diaphragm. It has **no mesentery and no serosal layer** — crucial for surgical anastomosis leaks.
+> The esophagus is a **muscular tube ~25 cm long** connecting the pharynx to the [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md), passing through the neck, posterior mediastinum, and diaphragm. It has **no mesentery and no serosal layer** — crucial for surgical anastomosis leaks.
 
 ## 🔗 Key Connections
-- Begins at: C6 ([Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md)) — cricoid cartilage level
-- Passes through: posterior mediastinum alongside [Thoracic Vertebrae](./anatomyLink/Skeletal System/Spine/Thoracic Vertebrae.md)
-- Pierces diaphragm at: T10 (oesophageal hiatus); relation to [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md)
-- Joins [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) at: gastro-oesophageal (GO) junction (T11)
-- Posterior to: trachea, left main bronchus, [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) (LA)
-- Blood supply: inferior thyroid artery (cervical), oesophageal branches of descending aorta ([Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md)), left gastric artery ([Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md))
-- Venous drainage: azygos vein → [Superior Vena Cava](./anatomyLink/Circulatory System/Veins/Superior Vena Cava.md) (upper); left gastric vein → [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md) (lower) — **portosystemic anastomosis**
+- Begins at: C6 ([Cervical Vertebrae](./anatomyLink/Skeletal-System/Spine/Cervical-Vertebrae.md)) — cricoid cartilage level
+- Passes through: posterior mediastinum alongside [Thoracic Vertebrae](./anatomyLink/Skeletal-System/Spine/Thoracic-Vertebrae.md)
+- Pierces diaphragm at: T10 (oesophageal hiatus); relation to [Ribs](./anatomyLink/Skeletal-System/Thorax/Ribs.md)
+- Joins [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md) at: gastro-oesophageal (GO) junction (T11)
+- Posterior to: trachea, left main bronchus, [Heart](./anatomyLink/Circulatory-System/Heart/Heart.md) (LA)
+- Blood supply: inferior thyroid artery (cervical), oesophageal branches of descending aorta ([Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md)), left gastric artery ([Celiac Trunk](./anatomyLink/Circulatory-System/Arteries/Celiac-Trunk.md))
+- Venous drainage: azygos vein → [Superior Vena Cava](./anatomyLink/Circulatory-System/Veins/Superior-Vena-Cava.md) (upper); left gastric vein → [Portal System](./anatomyLink/Circulatory-System/Veins/Portal-System.md) (lower) — **portosystemic anastomosis**
 
 ## 🗂️ Key Information
 
@@ -36,12 +36,12 @@ aliases: [oesophagus, gullet]
 - **Barrett's oesophagus** — metaplasia of squamous → columnar epithelium; complication of chronic GORD; precursor to adenocarcinoma
 - **Oesophageal carcinoma** — squamous (upper/mid, risk: smoking + alcohol) vs. adenocarcinoma (lower, risk: GORD + Barrett's)
 - **Achalasia** — failure of LOS relaxation + loss of peristalsis; dysphagia to liquids + solids; "bird's beak" on barium swallow; treat: pneumatic dilatation or Heller myotomy
-- **Oesophageal varices** — dilated veins at GO junction due to portal hypertension ([Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md)); rupture → massive haematemesis; treat: terlipressin + endoscopic band ligation
+- **Oesophageal varices** — dilated veins at GO junction due to portal hypertension ([Portal System](./anatomyLink/Circulatory-System/Veins/Portal-System.md)); rupture → massive haematemesis; treat: terlipressin + endoscopic band ligation
 - **Mallory-Weiss tear** — mucosal tear at GO junction after forceful vomiting → haematemesis; usually self-limiting
 - **Boerhaave syndrome** — full-thickness oesophageal rupture after violent vomiting → surgical emergency; Mackler triad: vomiting + chest pain + surgical emphysema
 
 ## 📍 Location in Digestive System
-[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Upper GI → Esophagus
+[Digestive System](./anatomyLink/Digestive-System/Digestive-System.md) → Upper GI → Esophagus
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Foregut](https://www.clinicalanatomy.ca/abdomen/Foregut/story.html) — UBC — Foregut embryology, esophagus & stomach

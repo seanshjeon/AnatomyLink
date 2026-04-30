@@ -8,11 +8,11 @@ aliases: [kneecap, sesamoid bone of knee]
 > The patella is the **largest sesamoid bone in the body**, embedded within the quadriceps tendon. It increases the mechanical advantage of knee extension by ~50%.
 
 ## 🔗 Connected Structures
-- [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) — **Patellofemoral joint** — glides along the femoral trochlear groove
-- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) — Indirectly via the **patellar tendon** to the tibial tuberosity
+- [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md) — **Patellofemoral joint** — glides along the femoral trochlear groove
+- [Tibia](./anatomyLink/Skeletal-System/Lower-Limb/Tibia.md) — Indirectly via the **patellar tendon** to the tibial tuberosity
 
 ## 🔗 Associated Muscles
-- [Quadriceps Femoris](./anatomyLink/Muscular System/Lower Limb/Quadriceps Femoris.md) — Inserts via quadriceps tendon onto the patella base; patellar tendon continues to tibial tuberosity
+- [Quadriceps Femoris](./anatomyLink/Muscular-System/Lower-Limb/Quadriceps-Femoris.md) — Inserts via quadriceps tendon onto the patella base; patellar tendon continues to tibial tuberosity
 
 ## 🗂️ Structure
 
@@ -41,7 +41,7 @@ aliases: [kneecap, sesamoid bone of knee]
 - [Plastinated Knee (patella removed)](https://sketchfab.com/3d-models/plastinated-knee-patella-removed-91affec80c3c463e877292be31f50ce9) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Lower Limb → [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md) → Patella (Knee joint)
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → Lower Limb → [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md) → Patella (Knee joint)
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Knee](https://www.clinicalanatomy.ca/lowerlimb/Knee/story.html) — UBC — Patellofemoral joint & knee anatomy

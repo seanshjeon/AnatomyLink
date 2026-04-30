@@ -5,12 +5,12 @@ aliases: [cervix uteri, uterine cervix]
 
 # Cervix
 
-> The cervix is the **inferior cylindrical portion of the [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md)** (~2.5–3 cm), projecting into the vault of the [Vagina](./anatomyLink/Reproductive System/Female/Vagina.md). It is a critical barrier between the uterine cavity and the vagina, and is the most common site of **gynaecological cancer** worldwide.
+> The cervix is the **inferior cylindrical portion of the [Uterus](./anatomyLink/Reproductive-System/Female/Uterus.md)** (~2.5–3 cm), projecting into the vault of the [Vagina](./anatomyLink/Reproductive-System/Female/Vagina.md). It is a critical barrier between the uterine cavity and the vagina, and is the most common site of **gynaecological cancer** worldwide.
 
 ## 🔗 Key Connections
-- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
-- Above: [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) (internal os)
-- Below: [Vagina](./anatomyLink/Reproductive System/Female/Vagina.md) (external os)
+- [Reproductive System](./anatomyLink/Reproductive-System/Reproductive-System.md)
+- Above: [Uterus](./anatomyLink/Reproductive-System/Female/Uterus.md) (internal os)
+- Below: [Vagina](./anatomyLink/Reproductive-System/Female/Vagina.md) (external os)
 - Lateral supports: Cardinal ligaments (Mackenrodt's), uterosacral ligaments
 - Blood supply: Cervical branch of uterine artery (from internal iliac)
 - Lymphatics: Internal iliac, external iliac, obturator, presacral nodes
@@ -40,4 +40,4 @@ aliases: [cervix uteri, uterine cervix]
 - **Ectropion (erosion)** — columnar epithelium visible on ectocervix; benign; bleeds on contact
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Female → Cervix
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Reproductive System](./anatomyLink/Reproductive-System/Reproductive-System.md) → Female → Cervix

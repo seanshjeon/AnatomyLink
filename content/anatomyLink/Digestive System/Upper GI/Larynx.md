@@ -5,14 +5,14 @@ aliases: [voice box, laryngeal cartilages, glottis]
 
 # Larynx
 
-> The larynx is a **cartilaginous valve** in the anterior neck at C3–C6, situated between the [Oral Cavity](./anatomyLink/Digestive System/Upper GI/Oral Cavity.md) / pharynx above and the trachea below. It serves three functions: **airway protection** during swallowing, **phonation** (voice production), and **respiration**.
+> The larynx is a **cartilaginous valve** in the anterior neck at C3–C6, situated between the [Oral Cavity](./anatomyLink/Digestive-System/Upper-GI/Oral-Cavity.md) / pharynx above and the trachea below. It serves three functions: **airway protection** during swallowing, **phonation** (voice production), and **respiration**.
 
 ## 🔗 Key Connections
-- [Digestive System](./anatomyLink/Digestive System/Digestive System.md) / [00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md)
-- Above: Pharynx (oropharynx/hypopharynx) → [Oral Cavity](./anatomyLink/Digestive System/Upper GI/Oral Cavity.md)
+- [Digestive System](./anatomyLink/Digestive-System/Digestive-System.md) / [00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md)
+- Above: Pharynx (oropharynx/hypopharynx) → [Oral Cavity](./anatomyLink/Digestive-System/Upper-GI/Oral-Cavity.md)
 - Below: Trachea → Bronchi → Lungs
 - Anterior: Strap muscles of neck, thyroid gland
-- Skeletal relations: [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) (C3–C6 level), [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) (hyoid bone above)
+- Skeletal relations: [Cervical Vertebrae](./anatomyLink/Skeletal-System/Spine/Cervical-Vertebrae.md) (C3–C6 level), [Mandible](./anatomyLink/Skeletal-System/Skull-Region/Mandible.md) (hyoid bone above)
 - Blood supply: Superior laryngeal artery (from superior thyroid → external carotid); inferior laryngeal artery (from inferior thyroid → subclavian)
 - Innervation: **Vagus nerve (CN X)** — Superior laryngeal nerve (sensory above cords; cricothyroid motor); **Recurrent laryngeal nerve (RLN)** — all other intrinsic muscles + sensory below cords
 
@@ -50,7 +50,7 @@ aliases: [voice box, laryngeal cartilages, glottis]
 - **Intubation landmark** — vocal cords visible during laryngoscopy; ETT passes through rima glottidis
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Upper GI → Larynx
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Digestive System](./anatomyLink/Digestive-System/Digestive-System.md) → Upper GI → Larynx
 
 ## 🎬 3D Interactive Models
 - [Human Larynx](https://sketchfab.com/3d-models/human-larynx-9cb56f0a20654072810a12959b812632) — UBC.MEDVID

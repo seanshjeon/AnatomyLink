@@ -8,9 +8,9 @@ aliases: [seminal glands, vesicular glands]
 > The seminal vesicles are **paired, coiled, saccular glands** (~5 cm) lying posterior to the urinary bladder. They contribute **~70% of semen volume** with a fructose-rich, alkaline secretion that nourishes and activates sperm.
 
 ## 🔗 Key Connections
-- [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md)
-- Located posterior to: urinary bladder, anterior to [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md)
-- Duct joins: [Vas Deferens](./anatomyLink/Reproductive System/Male/Vas Deferens.md) ampulla → **ejaculatory duct** → prostatic urethra
+- [Reproductive System](./anatomyLink/Reproductive-System/Reproductive-System.md)
+- Located posterior to: urinary bladder, anterior to [Rectum and Anal Canal](./anatomyLink/Digestive-System/Lower-GI/Rectum-and-Anal-Canal.md)
+- Duct joins: [Vas Deferens](./anatomyLink/Reproductive-System/Male/Vas-Deferens.md) ampulla → **ejaculatory duct** → prostatic urethra
 - Blood supply: Inferior vesical artery (from internal iliac)
 - Innervation: Sympathetic (T10–L2) → contraction during ejaculation
 - Embryological origin: Wolffian (mesonephric) duct outgrowth
@@ -32,8 +32,8 @@ aliases: [seminal glands, vesicular glands]
 ## 🏥 Clinical Significance
 - **Prostate cancer invasion** — seminal vesicle invasion upstages tumour to pT3b; key landmark in radical prostatectomy
 - **Seminal vesiculitis** — uncommon; associated with prostatitis
-- **Agenesis** — associated with CBAVD and *CFTR* mutations (see [Vas Deferens](./anatomyLink/Reproductive System/Male/Vas Deferens.md))
+- **Agenesis** — associated with CBAVD and *CFTR* mutations (see [Vas Deferens](./anatomyLink/Reproductive-System/Male/Vas-Deferens.md))
 - **CT/MRI landmark** — "bat-wing" appearance posterior to bladder; important surgical anatomy for prostatectomy and cystectomy
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Reproductive System](./anatomyLink/Reproductive System/Reproductive System.md) → Male → Seminal Vesicles
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Reproductive System](./anatomyLink/Reproductive-System/Reproductive-System.md) → Male → Seminal Vesicles

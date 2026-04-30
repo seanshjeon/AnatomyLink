@@ -9,9 +9,9 @@ aliases: [nuchal ligament]
 
 ## 🔗 Key Connections
 - **Proximal** — External occipital protuberance (occiput)
-- **Distal** — Spinous processes of C1–C7; continuous with [Supraspinous Ligament](./anatomyLink/Ligament System/Spine/Supraspinous Ligament.md) below
-- **Muscle attachments** — [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md), Splenius capitis, Rhomboid minor attach to it
-- **Related structures** — [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md), [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md)
+- **Distal** — Spinous processes of C1–C7; continuous with [Supraspinous Ligament](./anatomyLink/Ligament-System/Spine/Supraspinous-Ligament.md) below
+- **Muscle attachments** — [Trapezius](./anatomyLink/Muscular-System/Trunk/Trapezius.md), Splenius capitis, Rhomboid minor attach to it
+- **Related structures** — [Cervical Vertebrae](./anatomyLink/Skeletal-System/Spine/Cervical-Vertebrae.md), [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md)
 
 ## 🏥 Clinical Significance
 - **Cervical stability** — Passive support for the head; limits cervical flexion
@@ -19,4 +19,4 @@ aliases: [nuchal ligament]
 - **Quadruped analogy** — Highly developed in grazing animals (e.g., ox) to support head without muscular effort
 
 ## 📍 Location
-[Ligament System](./anatomyLink/Ligament System/Ligament System.md) → Spine → Ligamentum Nuchae
+[Ligament System](./anatomyLink/Ligament-System/Ligament-System.md) → Spine → Ligamentum Nuchae

@@ -5,12 +5,12 @@ aliases: [hypophysis, pituitary, master gland]
 
 # Pituitary Gland
 
-> The pituitary gland (hypophysis) is a **pea-sized gland (~0.5 g)** suspended from the hypothalamus by the pituitary stalk (infundibulum) and housed in the **[Sella Turcica](./anatomyLink/Skeletal System/Skull Region/Sella Turcica.md)** of the sphenoid bone. It is the "master gland" — its tropic hormones control most other endocrine glands via feedback axes.
+> The pituitary gland (hypophysis) is a **pea-sized gland (~0.5 g)** suspended from the hypothalamus by the pituitary stalk (infundibulum) and housed in the **[Sella Turcica](./anatomyLink/Skeletal-System/Skull-Region/Sella-Turcica.md)** of the sphenoid bone. It is the "master gland" — its tropic hormones control most other endocrine glands via feedback axes.
 
 ## 🔗 Key Connections
-- [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md)
-- Controlled by: [Hypothalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hypothalamus.md) (releasing/inhibiting hormones via hypophyseal portal system)
-- Skeletal: Sits in [Sella Turcica](./anatomyLink/Skeletal System/Skull Region/Sella Turcica.md) of sphenoid bone
+- [Endocrine System](./anatomyLink/Endocrine-System/Endocrine-System.md)
+- Controlled by: [Hypothalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hypothalamus.md) (releasing/inhibiting hormones via hypophyseal portal system)
+- Skeletal: Sits in [Sella Turcica](./anatomyLink/Skeletal-System/Skull-Region/Sella-Turcica.md) of sphenoid bone
 - Above: Optic chiasm (→ bitemporal hemianopia if compressed)
 - Surrounded by: Cavernous sinuses laterally (CN III, IV, V1, V2, VI pass through)
 - Blood supply: Superior hypophyseal artery (anterior pituitary portal system) + inferior hypophyseal artery (posterior pituitary) — both from internal carotid
@@ -23,8 +23,8 @@ Derived from Rathke's pouch (oral ectoderm); produces hormones regulated by hypo
 | Hormone | Cell | Effect |
 |---------|------|--------|
 | **GH** (growth hormone) | Somatotrophs (50%) | ↑ IGF-1; growth, anabolism |
-| **TSH** | Thyrotrophs | Stimulates [Thyroid Gland](./anatomyLink/Endocrine System/Thyroid Gland.md) → T3/T4 |
-| **ACTH** | Corticotrophs | Stimulates [Adrenal Glands](./anatomyLink/Endocrine System/Adrenal Glands.md) cortex → cortisol |
+| **TSH** | Thyrotrophs | Stimulates [Thyroid Gland](./anatomyLink/Endocrine-System/Thyroid-Gland.md) → T3/T4 |
+| **ACTH** | Corticotrophs | Stimulates [Adrenal Glands](./anatomyLink/Endocrine-System/Adrenal-Glands.md) cortex → cortisol |
 | **LH** | Gonadotrophs | Ovulation (F), testosterone (M) |
 | **FSH** | Gonadotrophs | Folliculogenesis (F), spermatogenesis (M) |
 | **Prolactin** | Lactotrophs | Milk production; inhibited by dopamine |
@@ -46,7 +46,7 @@ Derived from brain (diencephalon); **stores and releases** hormones produced in 
 - **Craniopharyngioma** — benign but locally invasive; children; suprasellar; calcifications on imaging
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md) → Pituitary Gland
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Endocrine System](./anatomyLink/Endocrine-System/Endocrine-System.md) → Pituitary Gland
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

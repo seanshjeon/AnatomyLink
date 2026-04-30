@@ -5,11 +5,11 @@ aliases: [coronary circulation, coronary vessels]
 
 # Coronary Arteries
 
-> The coronary arteries are the **first branches of the [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md)**, arising just above the aortic valve cusps in the aortic sinuses (of Valsalva). They supply the [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) muscle (myocardium) with oxygenated blood during diastole.
+> The coronary arteries are the **first branches of the [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md)**, arising just above the aortic valve cusps in the aortic sinuses (of Valsalva). They supply the [Heart](./anatomyLink/Circulatory-System/Heart/Heart.md) muscle (myocardium) with oxygenated blood during diastole.
 
 ## 🔗 Key Connections
-- Arise from: [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (aortic sinuses)
-- Supply: [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) (myocardium)
+- Arise from: [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) (aortic sinuses)
+- Supply: [Heart](./anatomyLink/Circulatory-System/Heart/Heart.md) (myocardium)
 
 ## 🗂️ Two Main Coronary Arteries
 
@@ -61,7 +61,7 @@ Arises from the right aortic sinus → travels in right AV groove:
 - [Human Heart](https://sketchfab.com/3d-models/human-heart-975db6a3b84c40d6b481224acec4a6fd) — UBC.MEDVID
 
 ## 📍 Location in Circulatory System
-[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → [Heart](./anatomyLink/Circulatory System/Heart/Heart.md) → Coronary Arteries
+[Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → [Heart](./anatomyLink/Circulatory-System/Heart/Heart.md) → Coronary Arteries
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Heart Anatomy](https://www.clinicalanatomy.ca/thorax/HeartAnatomy/story.html) — UBC — Coronary circulation & cardiac anatomy

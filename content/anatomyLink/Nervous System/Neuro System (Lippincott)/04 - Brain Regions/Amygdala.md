@@ -8,13 +8,13 @@ aliases: [Amygdaloid Complex, Basolateral Amygdala, Central Amygdala, Fear Cente
 > The amygdala is an **almond-shaped nuclear complex in the medial temporal lobe** that serves as the brain's principal **integrator of emotionally significant stimuli**, orchestrating fear learning, emotional memory consolidation, autonomic fear responses, and reward processing through its extensive connections with sensory cortices, hippocampus, hypothalamus, and brainstem.
 
 ## 🔗 Key Connections
-- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — core limbic structure; amygdala–hippocampus–hypothalamus triangle
-- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — anatomical neighbor; amygdala enhances hippocampal consolidation of emotional memories
-- [Hypothalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hypothalamus.md) — central amygdala → lateral hypothalamus → autonomic stress response
-- [Prefrontal Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — medial PFC/vmPFC inhibits amygdala; OFC → BLA for stimulus-reinforcement learning
-- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — emotional memory enhancement; flashbulb memories; reconsolidation
-- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — central nucleus → brainstem (sympathetic activation, fear physiology)
-- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate (BLA), GABA (intercalated cells, inhibitory interneurons), norepinephrine (LC), dopamine (VTA), serotonin (DRN)
+- [Limbic System](./anatomyLink/Nervous-System/Central-Nervous-System/Limbic-System.md) — core limbic structure; amygdala–hippocampus–hypothalamus triangle
+- [Hippocampus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hippocampus.md) — anatomical neighbor; amygdala enhances hippocampal consolidation of emotional memories
+- [Hypothalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hypothalamus.md) — central amygdala → lateral hypothalamus → autonomic stress response
+- [Prefrontal Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — medial PFC/vmPFC inhibits amygdala; OFC → BLA for stimulus-reinforcement learning
+- [Memory Systems](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Memory Systems.md) — emotional memory enhancement; flashbulb memories; reconsolidation
+- [Autonomic Nervous System](./anatomyLink/Nervous-System/Autonomic-Nervous-System/Autonomic-Nervous-System.md) — central nucleus → brainstem (sympathetic activation, fear physiology)
+- [Neurotransmitters](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — glutamate (BLA), GABA (intercalated cells, inhibitory interneurons), norepinephrine (LC), dopamine (VTA), serotonin (DRN)
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -152,7 +152,7 @@ Originally described (1937) after bilateral temporal lobectomy in rhesus monkeys
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

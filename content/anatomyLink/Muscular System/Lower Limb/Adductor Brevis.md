@@ -9,12 +9,12 @@ aliases: [adductor brevis muscle]
 
 ## 🔗 Key Connections
 - **Origin** — Inferior pubic ramus
-- **Insertion** — Upper [Linea Aspera](./anatomyLink/Skeletal System/Lower Limb/Linea Aspera.md) and lesser trochanteric line of [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md)
-- **Nerve** — [Obturator Nerve](./anatomyLink/Nervous System/Peripheral Nervous System/Obturator Nerve.md) (L2–L4)
+- **Insertion** — Upper [Linea Aspera](./anatomyLink/Skeletal-System/Lower-Limb/Linea-Aspera.md) and lesser trochanteric line of [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md)
+- **Nerve** — [Obturator Nerve](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Obturator-Nerve.md) (L2–L4)
 - **Action** — Hip adduction + slight flexion
 
 ## 🏥 Clinical Significance
 - **Obturator nerve division** — Adductor brevis divides obturator nerve into anterior (superficial) and posterior (deep) branches
 
 ## 📍 Location
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Lower Limb → Adductor Brevis
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Lower Limb → Adductor Brevis

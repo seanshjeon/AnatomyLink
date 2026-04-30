@@ -8,7 +8,7 @@ aliases: [finger bones, digital phalanges, hand phalanges]
 > The hand contains **14 phalanges**. The thumb has 2 (proximal & distal); each other finger has 3 (proximal, middle & distal).
 
 ## 🔗 Connected Structures
-- [Metacarpals](./anatomyLink/Skeletal System/Upper Limb/Metacarpals.md) — **Metacarpophalangeal joints (MCP joints)**
+- [Metacarpals](./anatomyLink/Skeletal-System/Upper-Limb/Metacarpals.md) — **Metacarpophalangeal joints (MCP joints)**
 - Interphalangeal joints:
   - **PIP joint** — Proximal ↔ middle phalanx
   - **DIP joint** — Middle ↔ distal phalanx
@@ -40,7 +40,7 @@ aliases: [finger bones, digital phalanges, hand phalanges]
 - [Human Hand Bones](https://sketchfab.com/3d-models/human-hand-bones-bfb2de16af9f4144b0b4c162b2638f19) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Upper Limb → [Metacarpals](./anatomyLink/Skeletal System/Upper Limb/Metacarpals.md) → Phalanges of Hand
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → Upper Limb → [Metacarpals](./anatomyLink/Skeletal-System/Upper-Limb/Metacarpals.md) → Phalanges of Hand
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Hand](https://www.clinicalanatomy.ca/upperlimb/Hand/story.html) — UBC — Hand anatomy, intrinsic muscles & neurovascular supply

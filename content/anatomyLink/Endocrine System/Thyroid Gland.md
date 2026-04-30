@@ -8,11 +8,11 @@ aliases: [thyroid, glandula thyroidea]
 > The thyroid gland is the **largest purely endocrine gland** (~25 g), lying in the anterior neck at C5–T1. It secretes **thyroxine (T4)** and **triiodothyronine (T3)** to regulate basal metabolic rate, and **calcitonin** to lower serum calcium.
 
 ## 🔗 Key Connections
-- [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md)
-- Controlled by: [Pituitary Gland](./anatomyLink/Endocrine System/Pituitary Gland.md) TSH → [Hypothalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hypothalamus.md) TRH
-- Location: Anterior to [Trachea](./anatomyLink/Respiratory System/Trachea.md) (C5–T1 level); overlaps [Larynx](./anatomyLink/Digestive System/Upper GI/Larynx.md) (cricoid level)
-- Posterior relations: Parathyroid glands on posterior surface; [Parathyroid Glands](./anatomyLink/Endocrine System/Parathyroid Glands.md)
-- Medial: [Trachea](./anatomyLink/Respiratory System/Trachea.md), [Esophagus](./anatomyLink/Digestive System/Upper GI/Esophagus.md)
+- [Endocrine System](./anatomyLink/Endocrine-System/Endocrine-System.md)
+- Controlled by: [Pituitary Gland](./anatomyLink/Endocrine-System/Pituitary-Gland.md) TSH → [Hypothalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hypothalamus.md) TRH
+- Location: Anterior to [Trachea](./anatomyLink/Respiratory-System/Trachea.md) (C5–T1 level); overlaps [Larynx](./anatomyLink/Digestive-System/Upper-GI/Larynx.md) (cricoid level)
+- Posterior relations: Parathyroid glands on posterior surface; [Parathyroid Glands](./anatomyLink/Endocrine-System/Parathyroid-Glands.md)
+- Medial: [Trachea](./anatomyLink/Respiratory-System/Trachea.md), [Esophagus](./anatomyLink/Digestive-System/Upper-GI/Esophagus.md)
 - Blood supply: **Superior thyroid artery** (1st branch of external carotid); **Inferior thyroid artery** (from thyrocervical trunk of subclavian); occasionally thyroidea ima (from arch of aorta)
 - Venous drainage: Superior + middle thyroid veins → IJV; Inferior thyroid veins → brachiocephalic veins
 - Lymphatics: Prelaryngeal, pretracheal, paratracheal, cervical nodes
@@ -48,7 +48,7 @@ aliases: [thyroid, glandula thyroidea]
 | **Thyroid storm** | Life-threatening hyperthyroidism; fever, tachycardia, AF, confusion; Rx: PTU, β-blockers, steroids |
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Endocrine System](./anatomyLink/Endocrine System/Endocrine System.md) → Thyroid Gland
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Endocrine System](./anatomyLink/Endocrine-System/Endocrine-System.md) → Thyroid Gland
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

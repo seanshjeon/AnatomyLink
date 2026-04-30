@@ -8,12 +8,12 @@ aliases: [Taste, Gustatory System, Taste Buds, Chorda Tympani, Ageusia, Dysgeusi
 > The gustatory system detects **dissolved chemical stimuli (tastants) via specialized taste receptor cells (TRCs) clustered in taste buds**, signaling five primary taste qualities — sweet, salty, sour, bitter, and umami — via three cranial nerves to the nucleus tractus solitarius, and ultimately to the insular cortex. Taste is distinct from **flavor**, which integrates gustatory, olfactory (retronasal), tactile, thermal, and nociceptive signals to create the rich perception of food.
 
 ## 🔗 Key Connections
-- [Olfaction](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Olfaction.md) — retronasal olfaction dominates flavor perception; combined in orbitofrontal cortex
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN VII (chorda tympani), CN IX (glossopharyngeal), CN X (vagus)
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — nucleus tractus solitarius (NTS, medulla) as first central relay
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — VPM nucleus relay to gustatory cortex
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — anterior insula/frontal operculum (primary), orbitofrontal (secondary)
-- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — amygdala (aversion/reward), hypothalamus (feeding regulation)
+- [Olfaction](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/03 - Special Senses/Olfaction.md) — retronasal olfaction dominates flavor perception; combined in orbitofrontal cortex
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN VII (chorda tympani), CN IX (glossopharyngeal), CN X (vagus)
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — nucleus tractus solitarius (NTS, medulla) as first central relay
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — VPM nucleus relay to gustatory cortex
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — anterior insula/frontal operculum (primary), orbitofrontal (secondary)
+- [Limbic System](./anatomyLink/Nervous-System/Central-Nervous-System/Limbic-System.md) — amygdala (aversion/reward), hypothalamus (feeding regulation)
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -173,4 +173,4 @@ Each taste bud contains ~50–100 cells arranged like a garlic bulb:
 
 ## 📍 Location
 
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Gustation
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Gustation

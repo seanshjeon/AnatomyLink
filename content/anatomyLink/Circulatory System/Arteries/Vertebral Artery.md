@@ -5,15 +5,15 @@ aliases: [vertebral arteries, VA]
 
 # Vertebral Artery
 
-> The vertebral arteries are **paired arteries** arising from the first part of the [Subclavian Artery](./anatomyLink/Circulatory System/Arteries/Subclavian Artery.md), ascending through the transverse foramina of [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) C6–C1, entering the skull via the foramen magnum, and uniting to form the **basilar artery**. They supply the posterior fossa, brainstem, and cerebellum.
+> The vertebral arteries are **paired arteries** arising from the first part of the [Subclavian Artery](./anatomyLink/Circulatory-System/Arteries/Subclavian-Artery.md), ascending through the transverse foramina of [Cervical Vertebrae](./anatomyLink/Skeletal-System/Spine/Cervical-Vertebrae.md) C6–C1, entering the skull via the foramen magnum, and uniting to form the **basilar artery**. They supply the posterior fossa, brainstem, and cerebellum.
 
 ## 🔗 Key Connections
-- [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md)
-- Origin: 1st part of [Subclavian Artery](./anatomyLink/Circulatory System/Arteries/Subclavian Artery.md) (bilateral)
+- [Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md)
+- Origin: 1st part of [Subclavian Artery](./anatomyLink/Circulatory-System/Arteries/Subclavian-Artery.md) (bilateral)
 - Unites with contralateral VA → **basilar artery** (at pontomedullary junction)
 - Contributes to: **Circle of Willis** (posterior circulation)
-- Supplies: [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md), [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md), posterior [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) (occipital lobe, thalamus via PCA)
-- Skeletal: Passes through transverse foramina of [Cervical Vertebrae](./anatomyLink/Skeletal System/Spine/Cervical Vertebrae.md) C6–C1
+- Supplies: [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md), [Cerebellum](./anatomyLink/Nervous-System/Central-Nervous-System/Cerebellum.md), posterior [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) (occipital lobe, thalamus via PCA)
+- Skeletal: Passes through transverse foramina of [Cervical Vertebrae](./anatomyLink/Skeletal-System/Spine/Cervical-Vertebrae.md) C6–C1
 
 ## 🔬 Four Segments (V1–V4)
 
@@ -36,7 +36,7 @@ aliases: [vertebral arteries, VA]
 - **Basilar artery occlusion** — "locked-in syndrome"; pupillary changes; bilateral weakness; medical emergency
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Arteries → Vertebral Artery
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Arteries → Vertebral Artery
 
 ## 🎬 3D Interactive Models
 - [Brainstem](https://skfb.ly/6XPPM)

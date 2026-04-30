@@ -9,16 +9,16 @@ aliases: [PFC, Prefrontal Lobe, Frontal Association Cortex]
 
 ## 🔗 Key Connections
 
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — PFC is the anterior association cortex of the frontal lobe; heavily interconnected with all lobes
-- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — OFC and vmPFC ↔ amygdala via stria terminalis and ventral amygdalofugal pathway; critical for emotional regulation and fear extinction
-- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — vmPFC ↔ hippocampus; memory-guided value-based decisions and fear extinction consolidation
-- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — PFC → caudate head → globus pallidus → thalamus → PFC (five parallel cortico-striatal-thalamo-cortical loops)
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — DLPFC ↔ mediodorsal (MD) thalamus (bidirectional reciprocal); gateway for subcortical → prefrontal input
-- [Language and Speech](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Language and Speech.md) — left DLPFC and Broca's area (area 44/45) underlie phonological loop and verbal working memory
-- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — PFC provides top-down control for encoding and retrieval; vmPFC indexes consolidated memories
-- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — mesocortical DA pathway (VTA → PFC); D1 dominant in DLPFC; NE via locus coeruleus (α2A receptors)
-- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — mPFC/ACC and OFC are key limbic-prefrontal integration zones
-- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — bvFTD preferentially targets OFC/vmPFC/ACC
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — PFC is the anterior association cortex of the frontal lobe; heavily interconnected with all lobes
+- [Amygdala](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Amygdala.md) — OFC and vmPFC ↔ amygdala via stria terminalis and ventral amygdalofugal pathway; critical for emotional regulation and fear extinction
+- [Hippocampus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hippocampus.md) — vmPFC ↔ hippocampus; memory-guided value-based decisions and fear extinction consolidation
+- [Basal Ganglia](./anatomyLink/Nervous-System/Central-Nervous-System/Basal-Ganglia.md) — PFC → caudate head → globus pallidus → thalamus → PFC (five parallel cortico-striatal-thalamo-cortical loops)
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — DLPFC ↔ mediodorsal (MD) thalamus (bidirectional reciprocal); gateway for subcortical → prefrontal input
+- [Language and Speech](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Language and Speech.md) — left DLPFC and Broca's area (area 44/45) underlie phonological loop and verbal working memory
+- [Memory Systems](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Memory Systems.md) — PFC provides top-down control for encoding and retrieval; vmPFC indexes consolidated memories
+- [Neurotransmitters](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — mesocortical DA pathway (VTA → PFC); D1 dominant in DLPFC; NE via locus coeruleus (α2A receptors)
+- [Limbic System](./anatomyLink/Nervous-System/Central-Nervous-System/Limbic-System.md) — mPFC/ACC and OFC are key limbic-prefrontal integration zones
+- [Neurodegenerative Diseases](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — bvFTD preferentially targets OFC/vmPFC/ACC
 
 ## 🗂️ Key Information
 
@@ -131,4 +131,4 @@ aliases: [PFC, Prefrontal Lobe, Frontal Association Cortex]
 
 ## 📍 Location
 
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → This Note

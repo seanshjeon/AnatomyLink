@@ -5,10 +5,10 @@ aliases: [celiac axis, coeliac trunk]
 
 # Celiac Trunk
 
-> The celiac trunk is the **first unpaired visceral branch of the abdominal [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md)**, arising at T12 just below the diaphragm and supplying the **foregut** (stomach, proximal duodenum, liver, gallbladder, spleen, pancreas).
+> The celiac trunk is the **first unpaired visceral branch of the abdominal [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md)**, arising at T12 just below the diaphragm and supplying the **foregut** (stomach, proximal duodenum, liver, gallbladder, spleen, pancreas).
 
 ## 🔗 Key Connections
-- Arises from: [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) (at T12)
+- Arises from: [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) (at T12)
 - Supplies: foregut derivatives
 
 ## 🗂️ Three Main Branches
@@ -31,4 +31,4 @@ The gastroduodenal artery (branch of common hepatic) passes **posterior to the f
 - **Hepatic artery in surgery** — must be identified in Pringle's manoeuvre (hepatic inflow occlusion) during liver surgery
 
 ## 📍 Location in Circulatory System
-[Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Arteries → Celiac Trunk
+[Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Arteries → Celiac Trunk

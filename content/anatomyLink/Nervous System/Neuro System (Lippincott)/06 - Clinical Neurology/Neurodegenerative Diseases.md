@@ -8,17 +8,17 @@ aliases: [Neurodegenerative, Alzheimer, Parkinson, Huntington, ALS, MS]
 > **Progressive, irreversible neuronal loss defined by protein misfolding and aggregation — each disease targets a specific protein, pathway, and brain region, producing characteristic clinical syndromes.**
 
 ## 🔗 Key Connections
-- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — nigrostriatal degeneration in Parkinson's; striatal loss in Huntington's
-- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — earliest target in Alzheimer's disease
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — widespread cortical atrophy in AD, FTD, ALS-FTD
-- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — upper + lower motor neuron degeneration in ALS
-- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — dopamine (PD), acetylcholine (AD), glutamate (excitotoxicity)
-- [Glial Cells](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — demyelination in MS; reactive gliosis in all
-- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — synaptic loss = best correlate of cognitive decline in AD
-- [Sleep and Wakefulness](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Sleep and Wakefulness.md) — REM sleep behaviour disorder as prodromal marker for PD/DLB
-- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — Lewy bodies in DLB; tau in AD
-- [Epilepsy](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Epilepsy.md) — seizures occur in late AD and some genetic forms
-- [Stroke Syndromes](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Stroke Syndromes.md) — vascular dementia differential; multi-infarct
+- [Basal Ganglia](./anatomyLink/Nervous-System/Central-Nervous-System/Basal-Ganglia.md) — nigrostriatal degeneration in Parkinson's; striatal loss in Huntington's
+- [Hippocampus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hippocampus.md) — earliest target in Alzheimer's disease
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — widespread cortical atrophy in AD, FTD, ALS-FTD
+- [Motor Pathway](./anatomyLink/Nervous-System/Pathways/Motor-Pathway.md) — upper + lower motor neuron degeneration in ALS
+- [Neurotransmitters](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — dopamine (PD), acetylcholine (AD), glutamate (excitotoxicity)
+- [Glial Cells](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — demyelination in MS; reactive gliosis in all
+- [Synaptic Transmission](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — synaptic loss = best correlate of cognitive decline in AD
+- [Sleep and Wakefulness](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Sleep and Wakefulness.md) — REM sleep behaviour disorder as prodromal marker for PD/DLB
+- [Amygdala](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Amygdala.md) — Lewy bodies in DLB; tau in AD
+- [Epilepsy](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/06 - Clinical Neurology/Epilepsy.md) — seizures occur in late AD and some genetic forms
+- [Stroke Syndromes](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/06 - Clinical Neurology/Stroke Syndromes.md) — vascular dementia differential; multi-infarct
 
 ## 🗂️ Key Information
 
@@ -238,4 +238,4 @@ Neuronal/synaptic loss → cognitive decline → dementia
 | CJD | Prion (PrPSc) | Widespread cortex | Rapidly progressive dementia + myoclonus | PRNP (familial), iatrogenic, sporadic |
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 06 - Clinical Neurology → Neurodegenerative Diseases
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 06 - Clinical Neurology → Neurodegenerative Diseases

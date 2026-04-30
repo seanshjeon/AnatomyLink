@@ -7,13 +7,13 @@ aliases: [cranium, neurocranium, viscerocranium]
 > The skull is composed of **22 bones** — 8 neurocranium bones encasing the brain and 14 viscerocranium bones forming the facial skeleton.
 
 ## 🔗 Connected Structures
-- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — Occipital bone articulates with Atlas (C1) at the **atlanto-occipital joint**
-- [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) — Temporal bone articulates with the mandible at the **temporomandibular joint (TMJ)** — the only freely movable facial joint
+- [Vertebral Column](./anatomyLink/Skeletal-System/Spine/Vertebral-Column.md) — Occipital bone articulates with Atlas (C1) at the **atlanto-occipital joint**
+- [Mandible](./anatomyLink/Skeletal-System/Skull-Region/Mandible.md) — Temporal bone articulates with the mandible at the **temporomandibular joint (TMJ)** — the only freely movable facial joint
 
 ## 🔗 Associated Muscles
-- [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) — Inserts on the mandible; closes the jaw
-- [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) — Inserts on the mastoid process; flexes/rotates neck
-- [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) — Originates from the occipital bone
+- [Masseter](./anatomyLink/Muscular-System/Head-and-Neck/Masseter.md) — Inserts on the mandible; closes the jaw
+- [Sternocleidomastoid](./anatomyLink/Muscular-System/Head-and-Neck/Sternocleidomastoid.md) — Inserts on the mastoid process; flexes/rotates neck
+- [Trapezius](./anatomyLink/Muscular-System/Trunk/Trapezius.md) — Originates from the occipital bone
 
 ## 🗂️ Component Bones
 
@@ -37,7 +37,7 @@ aliases: [cranium, neurocranium, viscerocranium]
 | Palatine bone | 2 |
 | Inferior nasal concha | 2 |
 | Vomer | 1 |
-| [Mandible](./anatomyLink/Skeletal System/Skull Region/Mandible.md) | 1 |
+| [Mandible](./anatomyLink/Skeletal-System/Skull-Region/Mandible.md) | 1 |
 
 ## 📐 Major Sutures
 - **Coronal suture** — Frontal ↔ Parietal bones
@@ -48,14 +48,14 @@ aliases: [cranium, neurocranium, viscerocranium]
 ## 🔑 Key Foramina
 | Foramen | Contents |
 |---------|----------|
-| [Foramen Magnum](./anatomyLink/Skeletal System/Skull Region/Foramen Magnum.md) | Brainstem → spinal cord, vertebral arteries |
+| [Foramen Magnum](./anatomyLink/Skeletal-System/Skull-Region/Foramen-Magnum.md) | Brainstem → spinal cord, vertebral arteries |
 | Optic canal | Optic nerve (CN II) |
 | Jugular foramen | CN IX, X, XI + internal jugular vein |
 
 ## 🏥 Clinical Significance
-- **[Mastoid Process](./anatomyLink/Skeletal System/Skull Region/Mastoid Process.md)** — easily palpable behind ear; [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) insertion
-- **[Sella Turcica](./anatomyLink/Skeletal System/Skull Region/Sella Turcica.md)** — houses pituitary gland in sphenoid bone
-- **[Cribriform Plate](./anatomyLink/Skeletal System/Skull Region/Cribriform Plate.md)** — CN I olfactory filaments pass through ethmoid bone
+- **[Mastoid Process](./anatomyLink/Skeletal-System/Skull-Region/Mastoid-Process.md)** — easily palpable behind ear; [Sternocleidomastoid](./anatomyLink/Muscular-System/Head-and-Neck/Sternocleidomastoid.md) insertion
+- **[Sella Turcica](./anatomyLink/Skeletal-System/Skull-Region/Sella-Turcica.md)** — houses pituitary gland in sphenoid bone
+- **[Cribriform Plate](./anatomyLink/Skeletal-System/Skull-Region/Cribriform-Plate.md)** — CN I olfactory filaments pass through ethmoid bone
 - **Skull fractures** — Linear vs. depressed fractures
 - **Raised intracranial pressure (ICP)** — Anterior fontanelle bulges in infants before suture closure
 - **Temporomandibular disorder (TMD)** — Jaw pain, clicking
@@ -69,7 +69,7 @@ aliases: [cranium, neurocranium, viscerocranium]
 
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Skull region
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → Skull region
 
 
 ## 3D Interactive Models

@@ -5,12 +5,12 @@ aliases: [head of radius, radial head]
 
 # Radial Head
 
-> The **radial head** is the disk-shaped proximal end of the [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md), articulating with the **capitulum** of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (radiocapitellar joint) and the **radial notch** of the [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) (proximal radioulnar joint — PRUJ), allowing forearm rotation.
+> The **radial head** is the disk-shaped proximal end of the [Radius](./anatomyLink/Skeletal-System/Upper-Limb/Radius.md), articulating with the **capitulum** of the [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (radiocapitellar joint) and the **radial notch** of the [Ulna](./anatomyLink/Skeletal-System/Upper-Limb/Ulna.md) (proximal radioulnar joint — PRUJ), allowing forearm rotation.
 
 ## 🔗 Key Connections
-- [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) — proximal end
-- [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) — articulates with capitulum (radiocapitellar joint)
-- [Ulna](./anatomyLink/Skeletal System/Upper Limb/Ulna.md) — articulates with radial notch (proximal radioulnar joint)
+- [Radius](./anatomyLink/Skeletal-System/Upper-Limb/Radius.md) — proximal end
+- [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) — articulates with capitulum (radiocapitellar joint)
+- [Ulna](./anatomyLink/Skeletal-System/Upper-Limb/Ulna.md) — articulates with radial notch (proximal radioulnar joint)
 - Annular ligament — encircles the radial head; holds it against the ulna
 
 ## 🏥 Clinical Significance
@@ -20,7 +20,7 @@ aliases: [head of radius, radial head]
 - **Posterior interosseous nerve** — Deep radial nerve wraps around the radial neck just distal to the head; at risk in fractures
 
 ## 📍 Location
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) → Radial Head
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → [Radius](./anatomyLink/Skeletal-System/Upper-Limb/Radius.md) → Radial Head
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

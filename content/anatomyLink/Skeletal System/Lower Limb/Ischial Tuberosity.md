@@ -5,15 +5,15 @@ aliases: [sit bone, ischial tuberosity]
 
 # Ischial Tuberosity
 
-> The **ischial tuberosity** is the roughened posterior bony projection of the ischium (part of the [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md)) on which you sit. It is the origin of the **hamstring muscles** and the adductor magnus.
+> The **ischial tuberosity** is the roughened posterior bony projection of the ischium (part of the [Hip Bone](./anatomyLink/Skeletal-System/Lower-Limb/Hip-Bone.md)) on which you sit. It is the origin of the **hamstring muscles** and the adductor magnus.
 
 ## 🔗 Key Connections
-- [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) — posteroinferior ischium
-- [Biceps Femoris](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — long head originates here
-- [Semitendinosus](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — originates here
-- [Semimembranosus](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — originates here
-- [Adductor Magnus](./anatomyLink/Muscular System/Lower Limb/Adductor Magnus.md) — hamstring portion originates here
-- [Sacrotuberous Ligament](./anatomyLink/Skeletal System/Lower Limb/Sacrotuberous Ligament.md) — connects ischial tuberosity to sacrum
+- [Hip Bone](./anatomyLink/Skeletal-System/Lower-Limb/Hip-Bone.md) — posteroinferior ischium
+- [Biceps Femoris](./anatomyLink/Muscular-System/Lower-Limb/Hamstrings.md) — long head originates here
+- [Semitendinosus](./anatomyLink/Muscular-System/Lower-Limb/Hamstrings.md) — originates here
+- [Semimembranosus](./anatomyLink/Muscular-System/Lower-Limb/Hamstrings.md) — originates here
+- [Adductor Magnus](./anatomyLink/Muscular-System/Lower-Limb/Adductor-Magnus.md) — hamstring portion originates here
+- [Sacrotuberous Ligament](./anatomyLink/Skeletal-System/Lower-Limb/Sacrotuberous-Ligament.md) — connects ischial tuberosity to sacrum
 
 ## 🗂️ Key Facts
 | Property | Detail |
@@ -28,4 +28,4 @@ aliases: [sit bone, ischial tuberosity]
 - **Proximal hamstring tendinopathy** — Chronic pain at ischial tuberosity; common in cyclists and rowers
 
 ## 📍 Location
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) → Ischial Tuberosity
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → [Hip Bone](./anatomyLink/Skeletal-System/Lower-Limb/Hip-Bone.md) → Ischial Tuberosity

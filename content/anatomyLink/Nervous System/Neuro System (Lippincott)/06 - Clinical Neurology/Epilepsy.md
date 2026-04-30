@@ -8,15 +8,15 @@ aliases: [Seizure, Epilepsy, Status Epilepticus, AED, Antiepileptic]
 > **Epilepsy is a condition of recurrent unprovoked seizures arising from abnormal hypersynchronous neuronal discharge — classified by seizure type, EEG pattern, and underlying syndrome, with treatment targeted to specific mechanisms.**
 
 ## 🔗 Key Connections
-- [Neurotransmitters](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — GABA (inhibitory failure), glutamate (excitatory excess), T-type Ca²⁺ (absence)
-- [Synaptic Transmission](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — paroxysmal depolarization shift; NMDA/AMPA/GABA-A receptors
-- [Action Potential](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — Na⁺ channel (target of phenytoin/carbamazepine/lamotrigine)
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — seizure origin and spread; cortical hyperexcitability
-- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — temporal lobe epilepsy; hippocampal sclerosis; déjà vu
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — thalamo-cortical loop in absence epilepsy; 3 Hz spike-wave
-- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — seizures in late Alzheimer's; anti-NMDAR encephalitis
-- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — ictal/postictal amnesia; transient epileptic amnesia
-- [Glial Cells](./anatomyLink/Nervous System/Neuro System (Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — astrocyte K⁺ buffering failure; reactive gliosis in sclerosis
+- [Neurotransmitters](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Neurotransmitters.md) — GABA (inhibitory failure), glutamate (excitatory excess), T-type Ca²⁺ (absence)
+- [Synaptic Transmission](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Synaptic Transmission.md) — paroxysmal depolarization shift; NMDA/AMPA/GABA-A receptors
+- [Action Potential](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Action Potential.md) — Na⁺ channel (target of phenytoin/carbamazepine/lamotrigine)
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — seizure origin and spread; cortical hyperexcitability
+- [Hippocampus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hippocampus.md) — temporal lobe epilepsy; hippocampal sclerosis; déjà vu
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — thalamo-cortical loop in absence epilepsy; 3 Hz spike-wave
+- [Neurodegenerative Diseases](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — seizures in late Alzheimer's; anti-NMDAR encephalitis
+- [Memory Systems](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Memory Systems.md) — ictal/postictal amnesia; transient epileptic amnesia
+- [Glial Cells](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/01 - Cellular Neuroscience/Glial Cells.md) — astrocyte K⁺ buffering failure; reactive gliosis in sclerosis
 
 ## 🗂️ Key Information
 
@@ -215,4 +215,4 @@ Ethosuximide blocks T-type Ca²⁺ → breaks loop
 | Status epilepticus | >5 min or repeated without recovery | Benzodiazepine → second-line IV AED → anaesthetic infusion |
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 06 - Clinical Neurology → Epilepsy
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 06 - Clinical Neurology → Epilepsy

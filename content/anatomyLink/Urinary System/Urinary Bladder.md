@@ -5,14 +5,14 @@ aliases: [bladder, vesica urinaria]
 
 # Urinary Bladder
 
-> The urinary bladder is a **hollow, distensible muscular organ** in the lesser pelvis that stores urine (capacity ~400–600 mL) and expels it via the [Urethra](./anatomyLink/Urinary System/Urethra.md) during micturition. It is extraperitoneal in its lower portion and covered by peritoneum superiorly.
+> The urinary bladder is a **hollow, distensible muscular organ** in the lesser pelvis that stores urine (capacity ~400–600 mL) and expels it via the [Urethra](./anatomyLink/Urinary-System/Urethra.md) during micturition. It is extraperitoneal in its lower portion and covered by peritoneum superiorly.
 
 ## 🔗 Key Connections
-- [Urinary System](./anatomyLink/Urinary System/Urinary System.md)
-- Receives urine from: [Ureter](./anatomyLink/Urinary System/Ureter.md) × 2 (at trigone)
-- Empties via: [Urethra](./anatomyLink/Urinary System/Urethra.md) (internal urethral orifice)
-- Relations (male): Posterior — [Rectum and Anal Canal](./anatomyLink/Digestive System/Lower GI/Rectum and Anal Canal.md), [Seminal Vesicles](./anatomyLink/Reproductive System/Male/Seminal Vesicles.md), [Vas Deferens](./anatomyLink/Reproductive System/Male/Vas Deferens.md); Inferior — [Prostate Gland](./anatomyLink/Reproductive System/Male/Prostate Gland.md)
-- Relations (female): Posterior — [Uterus](./anatomyLink/Reproductive System/Female/Uterus.md) (vesico-uterine pouch); Inferior — [Vagina](./anatomyLink/Reproductive System/Female/Vagina.md); Lateral — levator ani
+- [Urinary System](./anatomyLink/Urinary-System/Urinary-System.md)
+- Receives urine from: [Ureter](./anatomyLink/Urinary-System/Ureter.md) × 2 (at trigone)
+- Empties via: [Urethra](./anatomyLink/Urinary-System/Urethra.md) (internal urethral orifice)
+- Relations (male): Posterior — [Rectum and Anal Canal](./anatomyLink/Digestive-System/Lower-GI/Rectum-and-Anal-Canal.md), [Seminal Vesicles](./anatomyLink/Reproductive-System/Male/Seminal-Vesicles.md), [Vas Deferens](./anatomyLink/Reproductive-System/Male/Vas-Deferens.md); Inferior — [Prostate Gland](./anatomyLink/Reproductive-System/Male/Prostate-Gland.md)
+- Relations (female): Posterior — [Uterus](./anatomyLink/Reproductive-System/Female/Uterus.md) (vesico-uterine pouch); Inferior — [Vagina](./anatomyLink/Reproductive-System/Female/Vagina.md); Lateral — levator ani
 - Blood supply: Superior + inferior vesical arteries (from internal iliac); uterine artery in females
 - Venous drainage: Vesical plexus → internal iliac veins
 - Lymphatics: External + internal iliac nodes
@@ -45,4 +45,4 @@ aliases: [bladder, vesica urinaria]
 - **Vesico-ureteric reflux** — incompetent ureteric orifice; grades I–V; reflux nephropathy
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Urinary System](./anatomyLink/Urinary System/Urinary System.md) → Urinary Bladder
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Urinary System](./anatomyLink/Urinary-System/Urinary-System.md) → Urinary Bladder

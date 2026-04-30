@@ -9,16 +9,16 @@ aliases: [CVA, Cerebrovascular Accident, Brain Infarction, Stroke]
 
 ## 🔗 Key Connections
 
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — all cerebral territories affected; understanding lobar and deep structure anatomy is prerequisite
-- [Motor Pathway](./anatomyLink/Nervous System/Pathways/Motor Pathway.md) — corticospinal tract; contralateral weakness patterns depend on lesion level
-- [Somatosensory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Somatosensory System.md) — VPL thalamus and parietal cortex; pure sensory strokes and thalamic pain syndromes
-- [Visual System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Visual System.md) — optic radiations (Meyer's loop), occipital cortex, lateral geniculate; hemianopia and quadrantanopia
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — lateral medullary (Wallenberg), lateral pontine (AICA), midbrain (top of basilar) syndromes
-- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — PICA, AICA, SCA territory infarcts; ipsilateral ataxia
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — PCA territory; Dejerine-Roussy syndrome, thalamic aphasia, memory loss
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — brainstem strokes produce crossed deficits: ipsilateral CN + contralateral body
-- [Autonomic Nervous System](./anatomyLink/Nervous System/Autonomic Nervous System/Autonomic Nervous System.md) — Horner syndrome in lateral brainstem strokes (descending sympathetic fibers)
-- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — cerebral amyloid angiopathy; vascular dementia post-stroke
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — all cerebral territories affected; understanding lobar and deep structure anatomy is prerequisite
+- [Motor Pathway](./anatomyLink/Nervous-System/Pathways/Motor-Pathway.md) — corticospinal tract; contralateral weakness patterns depend on lesion level
+- [Somatosensory System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Somatosensory System.md) — VPL thalamus and parietal cortex; pure sensory strokes and thalamic pain syndromes
+- [Visual System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/03 - Special Senses/Visual System.md) — optic radiations (Meyer's loop), occipital cortex, lateral geniculate; hemianopia and quadrantanopia
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — lateral medullary (Wallenberg), lateral pontine (AICA), midbrain (top of basilar) syndromes
+- [Cerebellum](./anatomyLink/Nervous-System/Central-Nervous-System/Cerebellum.md) — PICA, AICA, SCA territory infarcts; ipsilateral ataxia
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — PCA territory; Dejerine-Roussy syndrome, thalamic aphasia, memory loss
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — brainstem strokes produce crossed deficits: ipsilateral CN + contralateral body
+- [Autonomic Nervous System](./anatomyLink/Nervous-System/Autonomic-Nervous-System/Autonomic-Nervous-System.md) — Horner syndrome in lateral brainstem strokes (descending sympathetic fibers)
+- [Neurodegenerative Diseases](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — cerebral amyloid angiopathy; vascular dementia post-stroke
 
 ## 🗂️ Key Information
 
@@ -184,4 +184,4 @@ aliases: [CVA, Cerebrovascular Accident, Brain Infarction, Stroke]
 
 ## 📍 Location
 
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 06 - Clinical Neurology → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 06 - Clinical Neurology → This Note

@@ -17,33 +17,33 @@ aliases: [muscles, musculature]
 ## 🗂️ Muscles by Region
 
 ### Head & Neck
-- [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) — Neck flexion & rotation
-- [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) — Jaw closing (mastication)
+- [Sternocleidomastoid](./anatomyLink/Muscular-System/Head-and-Neck/Sternocleidomastoid.md) — Neck flexion & rotation
+- [Masseter](./anatomyLink/Muscular-System/Head-and-Neck/Masseter.md) — Jaw closing (mastication)
 
 ### Trunk
-- [Pectoralis Major](./anatomyLink/Muscular System/Trunk/Pectoralis Major.md) — Shoulder flexion, adduction, internal rotation
-- [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) — Scapular elevation, retraction, depression
-- [Latissimus Dorsi](./anatomyLink/Muscular System/Trunk/Latissimus Dorsi.md) — Shoulder extension, adduction, internal rotation
-- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — Spinal extension and postural support
-- [Rectus Abdominis](./anatomyLink/Muscular System/Trunk/Rectus Abdominis.md) — Trunk flexion, abdominal compression
+- [Pectoralis Major](./anatomyLink/Muscular-System/Trunk/Pectoralis-Major.md) — Shoulder flexion, adduction, internal rotation
+- [Trapezius](./anatomyLink/Muscular-System/Trunk/Trapezius.md) — Scapular elevation, retraction, depression
+- [Latissimus Dorsi](./anatomyLink/Muscular-System/Trunk/Latissimus-Dorsi.md) — Shoulder extension, adduction, internal rotation
+- [Erector Spinae](./anatomyLink/Muscular-System/Trunk/Erector-Spinae.md) — Spinal extension and postural support
+- [Rectus Abdominis](./anatomyLink/Muscular-System/Trunk/Rectus-Abdominis.md) — Trunk flexion, abdominal compression
 
 ### Upper Limb
-- [Deltoid](./anatomyLink/Muscular System/Upper Limb/Deltoid.md) — Shoulder abduction
-- [Rotator Cuff](./anatomyLink/Muscular System/Upper Limb/Rotator Cuff.md) — Shoulder stability (SITS muscles)
-- [Biceps Brachii](./anatomyLink/Muscular System/Upper Limb/Biceps Brachii.md) — Elbow flexion & forearm supination
-- [Triceps Brachii](./anatomyLink/Muscular System/Upper Limb/Triceps Brachii.md) — Elbow extension
+- [Deltoid](./anatomyLink/Muscular-System/Upper-Limb/Deltoid.md) — Shoulder abduction
+- [Rotator Cuff](./anatomyLink/Muscular-System/Upper-Limb/Rotator-Cuff.md) — Shoulder stability (SITS muscles)
+- [Biceps Brachii](./anatomyLink/Muscular-System/Upper-Limb/Biceps-Brachii.md) — Elbow flexion & forearm supination
+- [Triceps Brachii](./anatomyLink/Muscular-System/Upper-Limb/Triceps-Brachii.md) — Elbow extension
 
 ### Lower Limb
-- [Iliopsoas](./anatomyLink/Muscular System/Lower Limb/Iliopsoas.md) — Hip flexion
-- [Gluteus Maximus](./anatomyLink/Muscular System/Lower Limb/Gluteus Maximus.md) — Hip extension
-- [Gluteus Medius](./anatomyLink/Muscular System/Lower Limb/Gluteus Medius.md) — Hip abduction
-- [Quadriceps Femoris](./anatomyLink/Muscular System/Lower Limb/Quadriceps Femoris.md) — Knee extension
-- [Hamstrings](./anatomyLink/Muscular System/Lower Limb/Hamstrings.md) — Knee flexion & hip extension
-- [Gastrocnemius](./anatomyLink/Muscular System/Lower Limb/Gastrocnemius.md) — Plantarflexion & knee flexion
-- [Tibialis Anterior](./anatomyLink/Muscular System/Lower Limb/Tibialis Anterior.md) — Dorsiflexion & foot inversion
+- [Iliopsoas](./anatomyLink/Muscular-System/Lower-Limb/Iliopsoas.md) — Hip flexion
+- [Gluteus Maximus](./anatomyLink/Muscular-System/Lower-Limb/Gluteus-Maximus.md) — Hip extension
+- [Gluteus Medius](./anatomyLink/Muscular-System/Lower-Limb/Gluteus-Medius.md) — Hip abduction
+- [Quadriceps Femoris](./anatomyLink/Muscular-System/Lower-Limb/Quadriceps-Femoris.md) — Knee extension
+- [Hamstrings](./anatomyLink/Muscular-System/Lower-Limb/Hamstrings.md) — Knee flexion & hip extension
+- [Gastrocnemius](./anatomyLink/Muscular-System/Lower-Limb/Gastrocnemius.md) — Plantarflexion & knee flexion
+- [Tibialis Anterior](./anatomyLink/Muscular-System/Lower-Limb/Tibialis-Anterior.md) — Dorsiflexion & foot inversion
 
 ## 🔗 See Also
-→ [Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md)
+→ [Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md)
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

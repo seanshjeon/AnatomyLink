@@ -8,8 +8,8 @@ aliases: [platysma muscle]
 > Platysma is a **broad, thin superficial muscle** of the neck, lying in the subcutaneous fascia from the lower face to the upper thorax. It depresses the mandible and lower lip, and wrinkles the skin of the neck during strain.
 
 ## 🔗 Key Connections
-- [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
-- Lies: Superficial to [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md), strap muscles, external jugular vein ([Jugular Veins](./anatomyLink/Circulatory System/Veins/Jugular Veins.md))
+- [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md)
+- Lies: Superficial to [Sternocleidomastoid](./anatomyLink/Muscular-System/Head-and-Neck/Sternocleidomastoid.md), strap muscles, external jugular vein ([Jugular Veins](./anatomyLink/Circulatory-System/Veins/Jugular-Veins.md))
 - Nerve: **Cervical branch of facial nerve (CN VII)**
 - Blood supply: Submental + suprascapular arteries
 
@@ -28,4 +28,4 @@ aliases: [platysma muscle]
 - **CN VII cervical branch palsy** — asymmetric neck wrinkling; platysma loss after parotidectomy
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Head and Neck → Platysma
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Head and Neck → Platysma

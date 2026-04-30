@@ -8,10 +8,10 @@ aliases: [white matter tracts, fiber tracts, internal capsule, corpus callosum, 
 > **Subcortical fiber tracts** are the white matter pathways connecting cortical and subcortical regions. The most important are the **internal capsule** (motor/sensory highway) and the **corpus callosum** (interhemispheric connection).
 
 ## 🔗 Key Connections
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — cortex connects to subcortical structures via these tracts
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — corticospinal tract descends through internal capsule → brainstem → cord
-- [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) — surround the internal capsule
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — all ascending and descending tracts pass through
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — cortex connects to subcortical structures via these tracts
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — corticospinal tract descends through internal capsule → brainstem → cord
+- [Basal Ganglia](./anatomyLink/Nervous-System/Central-Nervous-System/Basal-Ganglia.md) — surround the internal capsule
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — all ascending and descending tracts pass through
 
 ## 🗂️ Major Tract Systems
 
@@ -19,7 +19,7 @@ aliases: [white matter tracts, fiber tracts, internal capsule, corpus callosum, 
 Connect cortex to deep structures; most pass through the internal capsule.
 
 #### Internal Capsule
-A compact white matter structure between the [Basal Ganglia](./anatomyLink/Nervous System/Central Nervous System/Basal Ganglia.md) (caudate/putamen medially, globus pallidus laterally) and thalamus.
+A compact white matter structure between the [Basal Ganglia](./anatomyLink/Nervous-System/Central-Nervous-System/Basal-Ganglia.md) (caudate/putamen medially, globus pallidus laterally) and thalamus.
 
 ```
          Anterior limb    Genu    Posterior limb
@@ -111,4 +111,4 @@ Connect different cortical areas within the same hemisphere.
 - [Subcortical Fibers](https://sketchfab.com/3d-models/subcortical-fibers-0033fa844e9f4e55a6b940fba3fe45d5) — UBC.MEDVID
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Pathways → Subcortical Fiber Tracts
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Pathways → Subcortical Fiber Tracts

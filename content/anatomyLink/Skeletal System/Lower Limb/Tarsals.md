@@ -8,12 +8,12 @@ aliases: [tarsal bones, ankle bones, foot bones]
 > The tarsals are **7 short bones** forming the posterior and middle foot, essential for weight bearing and locomotion.
 
 ## 🔗 Connected Structures
-- [Tibia](./anatomyLink/Skeletal System/Lower Limb/Tibia.md) & [Fibula](./anatomyLink/Skeletal System/Lower Limb/Fibula.md) — **Talocrural joint (Ankle joint)** — talus sits in the tibiofibular mortise
-- [Metatarsals](./anatomyLink/Skeletal System/Lower Limb/Metatarsals.md) — **Tarsometatarsal joints (Lisfranc joint)**
+- [Tibia](./anatomyLink/Skeletal-System/Lower-Limb/Tibia.md) & [Fibula](./anatomyLink/Skeletal-System/Lower-Limb/Fibula.md) — **Talocrural joint (Ankle joint)** — talus sits in the tibiofibular mortise
+- [Metatarsals](./anatomyLink/Skeletal-System/Lower-Limb/Metatarsals.md) — **Tarsometatarsal joints (Lisfranc joint)**
 
 ## 🔗 Associated Muscles
-- [Gastrocnemius](./anatomyLink/Muscular System/Lower Limb/Gastrocnemius.md) — Inserts via Achilles tendon onto the calcaneal tuberosity
-- [Tibialis Anterior](./anatomyLink/Muscular System/Lower Limb/Tibialis Anterior.md) — Inserts on the medial cuneiform and 1st metatarsal base
+- [Gastrocnemius](./anatomyLink/Muscular-System/Lower-Limb/Gastrocnemius.md) — Inserts via Achilles tendon onto the calcaneal tuberosity
+- [Tibialis Anterior](./anatomyLink/Muscular-System/Lower-Limb/Tibialis-Anterior.md) — Inserts on the medial cuneiform and 1st metatarsal base
 
 ## 🗂️ The 7 Tarsal Bones
 
@@ -50,7 +50,7 @@ aliases: [tarsal bones, ankle bones, foot bones]
 - [Intermediate Lower Limb](https://sketchfab.com/3d-models/intermediate-lower-limb-bad4848f44ef4b06be807fed66b8abe8) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → Lower Limb → Tarsals (Foot)
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → Lower Limb → Tarsals (Foot)
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [The Foot](https://www.clinicalanatomy.ca/lowerlimb/Foot/story.html) — UBC — Foot bones, arches & neurovascular supply

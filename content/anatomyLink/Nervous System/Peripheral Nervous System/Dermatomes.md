@@ -8,11 +8,11 @@ aliases: [dermatomes, dermatome map, spinal levels, 피부분절]
 > A **dermatome** is the area of skin innervated by a single spinal nerve root. Knowledge of dermatomal maps allows clinicians to localize the level of spinal cord injury, disc herniation, or nerve root compression from the distribution of sensory symptoms.
 
 ## 🔗 Key Connections
-- [Spinal Cord](./anatomyLink/Nervous System/Central Nervous System/Spinal Cord.md) — each spinal level has a corresponding dermatome
-- [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) — vertebral level correlates (approximately) with dermatome
-- [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) — C5–T1 roots supply the upper limb
-- [Lumbar Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Lumbar Plexus.md) — L1–L4 roots supply the anterior lower limb
-- [Sacral Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Sacral Plexus.md) — L4–S3 roots supply the posterior lower limb
+- [Spinal Cord](./anatomyLink/Nervous-System/Central-Nervous-System/Spinal-Cord.md) — each spinal level has a corresponding dermatome
+- [Vertebral Column](./anatomyLink/Skeletal-System/Spine/Vertebral-Column.md) — vertebral level correlates (approximately) with dermatome
+- [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md) — C5–T1 roots supply the upper limb
+- [Lumbar Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Lumbar-Plexus.md) — L1–L4 roots supply the anterior lower limb
+- [Sacral Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Sacral-Plexus.md) — L4–S3 roots supply the posterior lower limb
 
 ## 🗂️ Key Dermatomal Landmarks
 
@@ -87,4 +87,4 @@ aliases: [dermatomes, dermatome map, spinal levels, 피부분절]
 | Emergency? | Yes | Yes |
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Peripheral Nervous System → Dermatomes
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Peripheral Nervous System → Dermatomes

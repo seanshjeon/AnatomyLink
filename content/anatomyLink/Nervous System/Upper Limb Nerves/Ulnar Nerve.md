@@ -4,19 +4,19 @@ aliases: [musician's nerve, funny bone nerve]
 ---
 # Ulnar Nerve
 
-> The ulnar nerve (C8, T1), the terminal branch of the medial cord of the [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md), **innervates most intrinsic hand muscles and produces the classic claw hand deformity** when injured; it is the most commonly injured nerve at the elbow.
+> The ulnar nerve (C8, T1), the terminal branch of the medial cord of the [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md), **innervates most intrinsic hand muscles and produces the classic claw hand deformity** when injured; it is the most commonly injured nerve at the elbow.
 
 ## 🔗 Origin
 - **Root values**: C8, T1
-- **From plexus**: [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md)
+- **From plexus**: [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md)
 - **Cord**: Medial cord
 
 ## 🗂️ Key Information
 | Property | Detail |
 |----------|--------|
 | Root Values | C8, T1 |
-| Plexus Origin | [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) (medial cord) |
-| Course | Descends medial arm → passes posterior to medial epicondyle of [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (cubital tunnel) → enters forearm between two heads of FCU → descends with ulnar artery → gives dorsal cutaneous branch (8 cm above wrist) → enters hand through Guyon's canal (ulnar tunnel) → divides into superficial (sensory) and deep (motor) branches |
+| Plexus Origin | [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md) (medial cord) |
+| Course | Descends medial arm → passes posterior to medial epicondyle of [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (cubital tunnel) → enters forearm between two heads of FCU → descends with ulnar artery → gives dorsal cutaneous branch (8 cm above wrist) → enters hand through Guyon's canal (ulnar tunnel) → divides into superficial (sensory) and deep (motor) branches |
 | Sensory Territory | Medial 1.5 digits (palmar + dorsal), medial palm, dorsal medial hand |
 | Terminal Branches | Superficial branch (sensory to medial 1.5 digits), deep branch (motor to hypothenar + intrinsics) |
 
@@ -34,7 +34,7 @@ aliases: [musician's nerve, funny bone nerve]
 - Flexor pollicis brevis (FPB, deep head) — thumb MCP flexion
 
 ## 🦴 Key Anatomical Relationships
-- Passes behind the **medial epicondyle** of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) in the cubital tunnel — palpable and vulnerable to direct trauma ("funny bone")
+- Passes behind the **medial epicondyle** of the [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) in the cubital tunnel — palpable and vulnerable to direct trauma ("funny bone")
 - Lies between FCU and FDP in the forearm
 - Dorsal cutaneous branch given off 8 cm proximal to the wrist (travels dorsomedially — not through Guyon's canal, so preserved in Guyon's canal lesions)
 - Enters hand through **Guyon's canal** — bounded by pisiform (medially), hook of hamate (laterally), palmar carpal ligament (roof), flexor retinaculum (floor)
@@ -62,7 +62,7 @@ aliases: [musician's nerve, funny bone nerve]
 - 🎬 [UBC Neuroanatomy S3E2: The Upper Limb](https://www.youtube.com/watch?v=oSrC8Hg61TU) — UBC Medicine (11:04)
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) → Medial Cord → Ulnar Nerve
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md) → Medial Cord → Ulnar Nerve
 
 
 ## 3D Interactive Models

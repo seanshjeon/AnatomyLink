@@ -8,14 +8,14 @@ aliases: [Entorhinal Cortex, EC, Area 28, Brodmann 28]
 > **The entorhinal cortex is the primary gateway between the neocortex and the hippocampus — serving as the main input/output hub of the medial temporal lobe memory system and the first region to show neurofibrillary tangle pathology in Alzheimer's disease.**
 
 ## 🔗 Key Connections
-- [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) — receives perforant path input from EC layers II/III; EC is the main entry point to the trisynaptic circuit
-- [Limbic System](./anatomyLink/Nervous System/Central Nervous System/Limbic System.md) — core component of the medial temporal lobe memory system
-- [Memory Systems](./anatomyLink/Nervous System/Neuro System (Lippincott)/05 - Higher Functions/Memory Systems.md) — critical for encoding and retrieval of episodic and semantic memory
-- [Amygdala](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Amygdala.md) — reciprocal connections; emotional modulation of memory
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — receives highly processed multimodal sensory info from association cortices
-- [Prefrontal Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — bidirectional connections for top-down memory modulation
-- [Olfaction](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Olfaction.md) — receives direct olfactory input (piriform cortex → EC); explains smell-triggered memories
-- [Neurodegenerative Diseases](./anatomyLink/Nervous System/Neuro System (Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — Braak stage I-II: EC is the earliest site of tau pathology in AD
+- [Hippocampus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hippocampus.md) — receives perforant path input from EC layers II/III; EC is the main entry point to the trisynaptic circuit
+- [Limbic System](./anatomyLink/Nervous-System/Central-Nervous-System/Limbic-System.md) — core component of the medial temporal lobe memory system
+- [Memory Systems](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/05 - Higher Functions/Memory Systems.md) — critical for encoding and retrieval of episodic and semantic memory
+- [Amygdala](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Amygdala.md) — reciprocal connections; emotional modulation of memory
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — receives highly processed multimodal sensory info from association cortices
+- [Prefrontal Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Prefrontal Cortex.md) — bidirectional connections for top-down memory modulation
+- [Olfaction](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/03 - Special Senses/Olfaction.md) — receives direct olfactory input (piriform cortex → EC); explains smell-triggered memories
+- [Neurodegenerative Diseases](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/06 - Clinical Neurology/Neurodegenerative Diseases.md) — Braak stage I-II: EC is the earliest site of tau pathology in AD
 
 ## 🗂️ Key Information
 
@@ -79,7 +79,7 @@ Widespread neocortex (memory storage/retrieval)
 - Discovered by Moser & Moser (Nobel Prize 2014, shared with O'Keefe)
 - MEC layer II/III neurons fire at multiple spatial locations forming a **hexagonal grid pattern**
 - Provide a **metric coordinate system** for spatial navigation
-- Work in concert with [Hippocampus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Hippocampus.md) place cells (O'Keefe) and head direction cells
+- Work in concert with [Hippocampus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Hippocampus.md) place cells (O'Keefe) and head direction cells
 - Grid cell spacing and orientation are consistent within a module, vary between modules
 
 ### Perforant Path
@@ -124,7 +124,7 @@ Widespread neocortex (memory storage/retrieval)
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → Entorhinal Cortex
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 04 - Brain Regions → Entorhinal Cortex
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

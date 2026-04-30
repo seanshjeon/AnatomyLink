@@ -5,13 +5,13 @@ aliases: [hepatic vein, hepatic venous drainage]
 
 # Hepatic Veins
 
-> The hepatic veins are **3 major veins** (right, middle, left) draining venous blood from the [Liver](./anatomyLink/Digestive System/Accessory Organs/Liver.md) directly into the [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) at the level of T8. Unlike most abdominal veins, the hepatic veins drain into the IVC, not into the portal system.
+> The hepatic veins are **3 major veins** (right, middle, left) draining venous blood from the [Liver](./anatomyLink/Digestive-System/Accessory-Organs/Liver.md) directly into the [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md) at the level of T8. Unlike most abdominal veins, the hepatic veins drain into the IVC, not into the portal system.
 
 ## 🔗 Key Connections
-- [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md)
-- Drain from: [Liver](./anatomyLink/Digestive System/Accessory Organs/Liver.md) (hepatic sinusoids → central veins → hepatic veins)
-- Drain into: [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) (at T8 level, just below diaphragm)
-- Distinct from: [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md) (hepatic portal vein carries nutrient-rich blood TO liver)
+- [Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md)
+- Drain from: [Liver](./anatomyLink/Digestive-System/Accessory-Organs/Liver.md) (hepatic sinusoids → central veins → hepatic veins)
+- Drain into: [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md) (at T8 level, just below diaphragm)
+- Distinct from: [Portal System](./anatomyLink/Circulatory-System/Veins/Portal-System.md) (hepatic portal vein carries nutrient-rich blood TO liver)
 - Blood flow: Portal vein + hepatic artery → hepatic sinusoids → **hepatic veins** → IVC → heart
 
 ## 🔬 Three Major Hepatic Veins
@@ -31,7 +31,7 @@ Plus multiple short veins draining directly from caudate lobe (segment I) — im
 - **Congestive hepatopathy** — right heart failure → hepatic vein hypertension → centrilobular necrosis, nutmeg liver
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Veins → Hepatic Veins
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Veins → Hepatic Veins
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

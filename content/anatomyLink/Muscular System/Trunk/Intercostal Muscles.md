@@ -8,10 +8,10 @@ aliases: [intercostals, external intercostal, internal intercostal, innermost in
 > The intercostal muscles occupy the **11 intercostal spaces** between adjacent ribs. They assist respiration and stabilise the thoracic wall. Each space contains three layers — external, internal, and innermost — with the **neurovascular bundle** (vein–artery–nerve, VAN) running in the **costal groove** beneath each rib.
 
 ## 🔗 Key Connections
-- [Muscular System](./anatomyLink/Muscular System/Muscular System.md), [Respiratory System](./anatomyLink/Respiratory System/Respiratory System.md)
-- Contained between: [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (inferior border of upper rib to superior border of lower rib)
+- [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md), [Respiratory System](./anatomyLink/Respiratory-System/Respiratory-System.md)
+- Contained between: [Ribs](./anatomyLink/Skeletal-System/Thorax/Ribs.md) (inferior border of upper rib to superior border of lower rib)
 - Neurovascular bundle: Intercostal vein + artery + nerve (T1–T11) — in costal groove **under rib** (VAN order, superior to inferior)
-- Blood supply: Posterior intercostal arteries (from descending [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) / [Subclavian Artery](./anatomyLink/Circulatory System/Arteries/Subclavian Artery.md)); anterior intercostal arteries (from internal thoracic artery)
+- Blood supply: Posterior intercostal arteries (from descending [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) / [Subclavian Artery](./anatomyLink/Circulatory-System/Arteries/Subclavian-Artery.md)); anterior intercostal arteries (from internal thoracic artery)
 
 ## 🔬 Three Layers
 
@@ -30,4 +30,4 @@ aliases: [intercostals, external intercostal, internal intercostal, innermost in
 - **Intercostal neuralgia** — post-herpetic, traumatic; burning/shooting pain in dermatomal distribution
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Intercostal Muscles
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Trunk → Intercostal Muscles

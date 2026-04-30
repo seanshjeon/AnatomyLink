@@ -7,15 +7,15 @@ aliases: [lats, lat muscle, latissimus]
 > The latissimus dorsi is the **broadest muscle in the body**, forming the bulk of the lower back and the posterior axillary fold. It powerfully adducts, extends, and internally rotates the shoulder.
 
 ## 🔗 Bone Attachments
-- **Origin**: [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) (T7–T12 spinous processes + L1–L5 via thoracolumbar fascia) + [Sacrum](./anatomyLink/Skeletal System/Spine/Sacrum.md) (posterior) + [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) (iliac crest, posterior 1/3) + ribs 9–12
-- **Insertion**: [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (floor of intertubercular groove)
+- **Origin**: [Lumbar Vertebrae](./anatomyLink/Skeletal-System/Spine/Lumbar-Vertebrae.md) (T7–T12 spinous processes + L1–L5 via thoracolumbar fascia) + [Sacrum](./anatomyLink/Skeletal-System/Spine/Sacrum.md) (posterior) + [Hip Bone](./anatomyLink/Skeletal-System/Lower-Limb/Hip-Bone.md) (iliac crest, posterior 1/3) + ribs 9–12
+- **Insertion**: [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (floor of intertubercular groove)
 
 ## 🗂️ Key Information
 
 | Property | Detail |
 |----------|--------|
 | Origin | T7–L5 spinous processes, sacrum, posterior iliac crest |
-| Insertion | Floor of bicipital groove ([Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md)) |
+| Insertion | Floor of bicipital groove ([Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md)) |
 | Action | Shoulder **extension**, **adduction**, **internal rotation**; depresses the shoulder girdle |
 | Innervation | Thoracodorsal nerve (C6–C8) |
 | Blood Supply | Thoracodorsal artery |
@@ -30,7 +30,7 @@ Latissimus dorsi twists to insert between teres major and pectoralis major in th
 - **Tight lats** — Contribute to anterior pelvic tilt and limited shoulder flexion
 
 ## 📍 Location in Muscular System
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Latissimus Dorsi
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Trunk → Latissimus Dorsi
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Superficial back muscles & latissimus dorsi

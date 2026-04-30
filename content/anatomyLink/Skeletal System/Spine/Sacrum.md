@@ -8,13 +8,13 @@ aliases: [sacral bone, os sacrum]
 > The sacrum is a **triangular flat bone** formed by the fusion of **5 sacral vertebrae**. It sits at the base of the spine, wedged between the two hip bones to form the **posterior pelvis**.
 
 ## 🔗 Connected Structures
-- [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) — L5 articulates at the **lumbosacral joint (L5/S1)**
-- [Coccyx](./anatomyLink/Skeletal System/Spine/Coccyx.md) — Sacral apex articulates with the coccyx at the **sacrococcygeal joint**
-- [Hip Bone](./anatomyLink/Skeletal System/Lower Limb/Hip Bone.md) — Bilateral articulation at the **sacroiliac joint (SIJ)**
+- [Lumbar Vertebrae](./anatomyLink/Skeletal-System/Spine/Lumbar-Vertebrae.md) — L5 articulates at the **lumbosacral joint (L5/S1)**
+- [Coccyx](./anatomyLink/Skeletal-System/Spine/Coccyx.md) — Sacral apex articulates with the coccyx at the **sacrococcygeal joint**
+- [Hip Bone](./anatomyLink/Skeletal-System/Lower-Limb/Hip-Bone.md) — Bilateral articulation at the **sacroiliac joint (SIJ)**
 
 ## 🔗 Associated Muscles
-- [Gluteus Maximus](./anatomyLink/Muscular System/Lower Limb/Gluteus Maximus.md) — Originates from the posterior sacrum and ilium
-- [Erector Spinae](./anatomyLink/Muscular System/Trunk/Erector Spinae.md) — Attaches to the sacral crest
+- [Gluteus Maximus](./anatomyLink/Muscular-System/Lower-Limb/Gluteus-Maximus.md) — Originates from the posterior sacrum and ilium
+- [Erector Spinae](./anatomyLink/Muscular-System/Trunk/Erector-Spinae.md) — Attaches to the sacral crest
 
 ## 🗂️ Structure
 
@@ -44,7 +44,7 @@ aliases: [sacral bone, os sacrum]
 - [Human Sacrum](https://sketchfab.com/3d-models/human-sacrum-e2ae488624374074b43f624df5a6b150) — UBC.MEDVID
 
 ## 📍 Location in Skeletal System
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md) → Sacrum
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → [Vertebral Column](./anatomyLink/Skeletal-System/Spine/Vertebral-Column.md) → Sacrum
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Anatomy of the Back](https://www.clinicalanatomy.ca/back/Back/story_html5.html) — UBC — Vertebral column, curvatures, vertebrae, joints & ligaments

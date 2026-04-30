@@ -5,12 +5,12 @@ aliases: [femoral vein, common femoral vein]
 
 # Femoral Vein
 
-> The femoral vein is the **main deep vein of the thigh**, a continuation of the popliteal vein at the adductor hiatus. It receives the [Great Saphenous Vein](./anatomyLink/Circulatory System/Veins/Great Saphenous Vein.md) at the saphenofemoral junction (SFJ) and continues as the **external iliac vein** above the inguinal ligament.
+> The femoral vein is the **main deep vein of the thigh**, a continuation of the popliteal vein at the adductor hiatus. It receives the [Great Saphenous Vein](./anatomyLink/Circulatory-System/Veins/Great-Saphenous-Vein.md) at the saphenofemoral junction (SFJ) and continues as the **external iliac vein** above the inguinal ligament.
 
 ## 🔗 Key Connections
-- [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md)
+- [Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md)
 - Inferior: Popliteal vein (continuation through adductor hiatus)
-- Receives: [Great Saphenous Vein](./anatomyLink/Circulatory System/Veins/Great Saphenous Vein.md) (at SFJ, 4 cm inferolateral to pubic tubercle) + profunda femoris vein
+- Receives: [Great Saphenous Vein](./anatomyLink/Circulatory-System/Veins/Great-Saphenous-Vein.md) (at SFJ, 4 cm inferolateral to pubic tubercle) + profunda femoris vein
 - Superior: Becomes **external iliac vein** (above inguinal ligament)
 - Relations in femoral triangle: **NAVY** (lateral → medial): Femoral **N**erve → Femoral **A**rtery → Femoral **V**ein → **Y**-front (lymphatics/empty space)
 
@@ -20,7 +20,7 @@ aliases: [femoral vein, common femoral vein]
 - **Femoral hernia** — medial to femoral vein in femoral canal; more common in women; high risk of strangulation
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Circulatory System](./anatomyLink/Circulatory System/Circulatory System.md) → Veins → Femoral Vein
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Circulatory System](./anatomyLink/Circulatory-System/Circulatory-System.md) → Veins → Femoral Vein
 
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)

@@ -5,11 +5,11 @@ aliases: [QL, quadratus lumborum muscle]
 
 # Quadratus Lumborum (QL)
 
-> The **quadratus lumborum** is a deep posterior abdominal wall muscle connecting the [Iliac Crest](./anatomyLink/Skeletal System/Lower Limb/Iliac Crest.md) to the 12th rib and lumbar transverse processes. It laterally flexes the trunk and fixes the 12th rib during respiration.
+> The **quadratus lumborum** is a deep posterior abdominal wall muscle connecting the [Iliac Crest](./anatomyLink/Skeletal-System/Lower-Limb/Iliac-Crest.md) to the 12th rib and lumbar transverse processes. It laterally flexes the trunk and fixes the 12th rib during respiration.
 
 ## 🔗 Key Connections
-- **Origin** — [Iliac Crest](./anatomyLink/Skeletal System/Lower Limb/Iliac Crest.md) (posterior part)
-- **Insertion** — 12th rib + [Transverse Process](./anatomyLink/Skeletal System/Spine/Transverse Process.md) of L1–L4
+- **Origin** — [Iliac Crest](./anatomyLink/Skeletal-System/Lower-Limb/Iliac-Crest.md) (posterior part)
+- **Insertion** — 12th rib + [Transverse Process](./anatomyLink/Skeletal-System/Spine/Transverse-Process.md) of L1–L4
 - **Nerve** — Subcostal nerve + lumbar plexus (T12, L1–L4)
 - **Action** — Lateral trunk flexion; fixes 12th rib during respiration; maintains lumbar posture
 
@@ -18,7 +18,7 @@ aliases: [QL, quadratus lumborum muscle]
 - **Hip hike** — QL shortening causes ipsilateral hip elevation (apparent leg length discrepancy)
 
 ## 📍 Location
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Quadratus Lumborum
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Trunk → Quadratus Lumborum
 
 ## 🎬 3D Interactive Models (SketchFab - UBC.MEDVID)
 

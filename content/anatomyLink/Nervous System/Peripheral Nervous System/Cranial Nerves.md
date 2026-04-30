@@ -5,7 +5,7 @@ aliases: [CN, cranial nerve, CN I-XII]
 
 # Cranial Nerves
 
-> The **12 pairs of cranial nerves** arise directly from the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) (mostly brainstem) and exit through foramina of the [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md). They carry sensory (S), motor (M), or both (B) fibers.
+> The **12 pairs of cranial nerves** arise directly from the [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) (mostly brainstem) and exit through foramina of the [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md). They carry sensory (S), motor (M), or both (B) fibers.
 
 ## 🗂️ The 12 Cranial Nerves
 
@@ -21,7 +21,7 @@ aliases: [CN, cranial nerve, CN I-XII]
 | **VIII** | Vestibulocochlear | S | Hearing + balance | Rinne & Weber tests; Romberg | Deafness, vertigo, nystagmus |
 | **IX** | Glossopharyngeal | B | Taste (posterior 1/3 tongue); pharyngeal sensation; parotid gland | Gag reflex | Loss of gag reflex |
 | **X** | Vagus | B | Pharynx/larynx motor; parasympathetic to thorax/abdomen; taste | Voice quality; palate elevation | Hoarseness; palatal deviation away from lesion |
-| **XI** | Accessory | M | [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) (head turn), [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md) (shoulder shrug) | Resist head turn; shrug shoulders | Weak head turn; drooped shoulder |
+| **XI** | Accessory | M | [Sternocleidomastoid](./anatomyLink/Muscular-System/Head-and-Neck/Sternocleidomastoid.md) (head turn), [Trapezius](./anatomyLink/Muscular-System/Trunk/Trapezius.md) (shoulder shrug) | Resist head turn; shrug shoulders | Weak head turn; drooped shoulder |
 | **XII** | Hypoglossal | M | Tongue movements | Tongue protrusion | Tongue deviates toward lesion |
 
 ## 🔑 Mnemonic
@@ -29,8 +29,8 @@ aliases: [CN, cranial nerve, CN I-XII]
 Type: **Some Say Marry Money But My Brother Says Big Brains Matter More** (S/S/M/M/B/M/B/S/B/B/M/M)
 
 ## 🔑 Key Clinical Relationships
-- **CN V3** — Innervates [Masseter](./anatomyLink/Muscular System/Head and Neck/Masseter.md) and other muscles of mastication (jaw)
-- **CN XI** — Innervates [Sternocleidomastoid](./anatomyLink/Muscular System/Head and Neck/Sternocleidomastoid.md) and [Trapezius](./anatomyLink/Muscular System/Trunk/Trapezius.md)
+- **CN V3** — Innervates [Masseter](./anatomyLink/Muscular-System/Head-and-Neck/Masseter.md) and other muscles of mastication (jaw)
+- **CN XI** — Innervates [Sternocleidomastoid](./anatomyLink/Muscular-System/Head-and-Neck/Sternocleidomastoid.md) and [Trapezius](./anatomyLink/Muscular-System/Trunk/Trapezius.md)
 - **CN III** — First to be compressed in uncal herniation → fixed dilated pupil
 - **CN VII** — Bell's palsy: LMN lesion affects entire ipsilateral face (UMN spares forehead)
 - **CN X** — Vagus nerve is the primary parasympathetic nerve to thoracic + abdominal viscera
@@ -80,4 +80,4 @@ Type: **Some Say Marry Money But My Brother Says Big Brains Matter More** (S/S/M
 - [Cranial Nerves in Head](https://sketchfab.com/3d-models/cranial-nerves-in-head-00869151d1964d17a178075ca8787df9) — UBC.MEDVID
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Peripheral Nervous System → Cranial Nerves
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Peripheral Nervous System → Cranial Nerves

@@ -8,7 +8,7 @@ aliases: [renal, nephros, kidneys]
 > The kidneys are **paired retroperitoneal organs** (~11 × 6 × 3 cm; ~150 g each) lying at the T12–L3 level, flanking the vertebral column. They are the primary organs of **urine formation**, regulating fluid balance, electrolytes, acid-base status, and blood pressure.
 
 ## 🔗 Key Connections
-- [00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → Urinary System
+- [00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → Urinary System
 - Medial structure: Renal hilum → renal pelvis → ureter → urinary bladder
 - Blood supply: **Renal arteries** (from abdominal aorta at L1–L2; right is longer, crossing IVC)
 - Venous drainage: Renal veins → IVC (left renal vein crosses aorta anteriorly, receives left gonadal + left adrenal vein)
@@ -17,7 +17,7 @@ aliases: [renal, nephros, kidneys]
   - Right kidney: liver (hepatorenal space / Morison's pouch), duodenum (medially), ascending colon (inferiorly)
   - Left kidney: spleen, stomach, pancreas (tail), descending colon
 - Superior: Adrenal (suprarenal) glands
-- Skeletal relations: [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) (L1–L3), 12th [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (posteriorly), [Vertebral Column](./anatomyLink/Skeletal System/Spine/Vertebral Column.md)
+- Skeletal relations: [Lumbar Vertebrae](./anatomyLink/Skeletal-System/Spine/Lumbar-Vertebrae.md) (L1–L3), 12th [Ribs](./anatomyLink/Skeletal-System/Thorax/Ribs.md) (posteriorly), [Vertebral Column](./anatomyLink/Skeletal-System/Spine/Vertebral-Column.md)
 - Peritoneal relations: Retroperitoneal (behind the peritoneum)
 
 ## 🔬 Structure
@@ -71,4 +71,4 @@ Glomerulus → Bowman's capsule → PCT → Loop of Henle → DCT → Collecting
 | **Renal transplant** | Placed in iliac fossa (heterotopic); renal artery anastomosed to external iliac artery |
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → Urinary System → Kidney
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → Urinary System → Kidney

@@ -5,15 +5,15 @@ aliases: [pancreatic gland]
 
 # Pancreas
 
-> The pancreas is a **retroperitoneal mixed exocrine/endocrine gland**, lying posterior to the [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) at the L1–L2 level. Its exocrine function (digestive enzymes) and endocrine function (insulin, glucagon) make it essential for digestion and glucose homeostasis.
+> The pancreas is a **retroperitoneal mixed exocrine/endocrine gland**, lying posterior to the [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md) at the L1–L2 level. Its exocrine function (digestive enzymes) and endocrine function (insulin, glucagon) make it essential for digestion and glucose homeostasis.
 
 ## 🔗 Key Connections
-- Location: retroperitoneal, behind [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md), in front of [Lumbar Vertebrae](./anatomyLink/Skeletal System/Spine/Lumbar Vertebrae.md) (L1–L2)
-- Head sits in: C-loop of duodenum ([Small Intestine](./anatomyLink/Digestive System/Upper GI/Small Intestine.md))
-- Blood supply: [Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md) (splenic artery → body/tail) + SMA (inferior pancreaticoduodenal → head)
-- Venous drainage: splenic vein + SMV → [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md)
+- Location: retroperitoneal, behind [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md), in front of [Lumbar Vertebrae](./anatomyLink/Skeletal-System/Spine/Lumbar-Vertebrae.md) (L1–L2)
+- Head sits in: C-loop of duodenum ([Small Intestine](./anatomyLink/Digestive-System/Upper-GI/Small-Intestine.md))
+- Blood supply: [Celiac Trunk](./anatomyLink/Circulatory-System/Arteries/Celiac-Trunk.md) (splenic artery → body/tail) + SMA (inferior pancreaticoduodenal → head)
+- Venous drainage: splenic vein + SMV → [Portal System](./anatomyLink/Circulatory-System/Veins/Portal-System.md)
 - Duct: main pancreatic duct (Wirsung) joins common bile duct → opens at **ampulla of Vater** (sphincter of Oddi) in 2nd part of duodenum
-- Relations: [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md), [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md), portal vein (posterior to neck); spleen (tail touches)
+- Relations: [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md), [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md), portal vein (posterior to neck); spleen (tail touches)
 
 ## 🗂️ Anatomy
 
@@ -21,14 +21,14 @@ aliases: [pancreatic gland]
 |------|----------|-----------------|
 | **Head** | Within duodenal C-loop | Uncinate process wraps behind SMA; CBD runs through |
 | **Neck** | Overlies portal vein/SMA | Portal vein formed behind neck (SMV + splenic vein) |
-| **Body** | Crosses vertebral column | Anterior to [Aorta](./anatomyLink/Circulatory System/Arteries/Aorta.md) + SMA; posterior to [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) |
+| **Body** | Crosses vertebral column | Anterior to [Aorta](./anatomyLink/Circulatory-System/Arteries/Aorta.md) + SMA; posterior to [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md) |
 | **Tail** | Reaches splenic hilum | Intraperitoneal; splenorenal ligament |
 
 ## 🗂️ Exocrine vs. Endocrine
 
 | Division | Cells | Product | Function |
 |----------|-------|---------|----------|
-| **Exocrine** (80%) | Acinar cells | Digestive enzymes (amylase, lipase, proteases — trypsin/chymotrypsin) | Digestion in [Small Intestine](./anatomyLink/Digestive System/Upper GI/Small Intestine.md) |
+| **Exocrine** (80%) | Acinar cells | Digestive enzymes (amylase, lipase, proteases — trypsin/chymotrypsin) | Digestion in [Small Intestine](./anatomyLink/Digestive-System/Upper-GI/Small-Intestine.md) |
 | **Exocrine** | Ductal cells | HCO₃⁻-rich fluid (secretin-stimulated) | Neutralises gastric acid in duodenum |
 | **Endocrine** (2%) — islets of Langerhans | α cells | Glucagon | Raises blood glucose |
 | | β cells (most common) | Insulin | Lowers blood glucose; promotes storage |
@@ -47,7 +47,7 @@ Pancreatic proteases are secreted as **inactive zymogens** to prevent autodigest
 - **VIPoma (Verner-Morrison)** — watery diarrhoea + hypokalaemia + achlorhydria (WDHA syndrome)
 
 ## 📍 Location in Digestive System
-[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Accessory Organs → Pancreas
+[Digestive System](./anatomyLink/Digestive-System/Digestive-System.md) → Accessory Organs → Pancreas
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Foregut](https://www.clinicalanatomy.ca/abdomen/Foregut/story.html) — UBC — Pancreas anatomy & foregut

@@ -8,8 +8,8 @@ aliases: [serratus anterior, boxer's muscle]
 > Serratus anterior is a **large fan-shaped muscle** on the lateral thoracic wall, often called the **"boxer's muscle"** for its role in protracting the scapula. It is the primary stabiliser of the scapula against the thoracic wall.
 
 ## 🔗 Key Connections
-- [Muscular System](./anatomyLink/Muscular System/Muscular System.md)
-- Related to: [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md), [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md), [Pectoralis Minor](./anatomyLink/Muscular System/Upper Limb/Pectoralis Minor.md)
+- [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md)
+- Related to: [Scapula](./anatomyLink/Skeletal-System/Upper-Limb/Scapula.md), [Ribs](./anatomyLink/Skeletal-System/Thorax/Ribs.md), [Pectoralis Minor](./anatomyLink/Muscular-System/Upper-Limb/Pectoralis-Minor.md)
 - Nerve: **Long thoracic nerve (C5, C6, C7)** — "C5, 6, 7 — serratus is in heaven"
 - Blood supply: Lateral thoracic artery (from axillary artery)
 
@@ -18,7 +18,7 @@ aliases: [serratus anterior, boxer's muscle]
 | Feature | Detail |
 |---------|--------|
 | Origin | Outer surfaces of upper 8–9 ribs (anterior, lateral) |
-| Insertion | Anterior (costal) surface of medial border of [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) |
+| Insertion | Anterior (costal) surface of medial border of [Scapula](./anatomyLink/Skeletal-System/Upper-Limb/Scapula.md) |
 | Action | **Protracts + rotates scapula upward** (lateral rotation of glenoid); holds scapula against chest wall |
 | Nerve | Long thoracic nerve (C5–C7) |
 
@@ -27,7 +27,7 @@ aliases: [serratus anterior, boxer's muscle]
 - **Serratus anterior weakness** — impairs shoulder abduction above 90° (scapular rotation needed)
 
 ## 📍 Location
-[00 - AnatomyLink Home](./anatomyLink/00 - AnatomyLink Home.md) → [Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Trunk → Serratus Anterior
+[00 - AnatomyLink Home](./anatomyLink/00---AnatomyLink-Home.md) → [Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Trunk → Serratus Anterior
 
 ## 🎬 3D Interactive Models
 - [Deep Back](https://skfb.ly/oZArI)

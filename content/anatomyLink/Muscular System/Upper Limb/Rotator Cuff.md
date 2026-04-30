@@ -7,8 +7,8 @@ aliases: [SITS muscles, rotator cuff muscles, shoulder stabilizers]
 > The rotator cuff is a group of **4 muscles (SITS)** that stabilize the glenohumeral joint and control humeral rotation. They form a musculotendinous cuff around the humeral head, maintaining it in the glenoid cavity.
 
 ## 🔗 Bone Attachments
-- **Origin**: All 4 originate from the [Scapula](./anatomyLink/Skeletal System/Upper Limb/Scapula.md) (different fossae)
-- **Insertion**: All 4 insert on the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) (greater or lesser tubercle)
+- **Origin**: All 4 originate from the [Scapula](./anatomyLink/Skeletal-System/Upper-Limb/Scapula.md) (different fossae)
+- **Insertion**: All 4 insert on the [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) (greater or lesser tubercle)
 
 ## 🗂️ The Four SITS Muscles
 
@@ -16,7 +16,7 @@ aliases: [SITS muscles, rotator cuff muscles, shoulder stabilizers]
 |--------|------------------|---------------------|--------|-------|
 | **S**upraspinatus | Supraspinous fossa | Greater tubercle (superior) | **Abduction** (0–15°); stabilization | Suprascapular (C5,C6) |
 | **I**nfraspinatus | Infraspinous fossa | Greater tubercle (middle) | **External rotation** | Suprascapular (C5,C6) |
-| **T**eres minor | Lateral border | Greater tubercle (inferior) | **External rotation** | [Axillary Nerve](./anatomyLink/Nervous System/Upper Limb Nerves/Axillary Nerve.md) (C5,C6) |
+| **T**eres minor | Lateral border | Greater tubercle (inferior) | **External rotation** | [Axillary Nerve](./anatomyLink/Nervous-System/Upper-Limb-Nerves/Axillary-Nerve.md) (C5,C6) |
 | **S**ubscapularis | Subscapular fossa | Lesser tubercle | **Internal rotation** | Upper & lower subscapular (C5–C7) |
 
 ## 🔑 Primary Function: GH Joint Stabilization
@@ -36,7 +36,7 @@ The rotator cuff compresses the humeral head into the shallow glenoid cavity —
 - **Shoulder instability** — Rotator cuff weakness → glenohumeral instability
 
 ## 📍 Location in Muscular System
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Upper Limb → Rotator Cuff
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Upper Limb → Rotator Cuff
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Shoulder Girdle Muscles](https://www.clinicalanatomy.ca/upperlimb/ShoulderScapula/story.html) — UBC — Rotator cuff & shoulder girdle muscles

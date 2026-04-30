@@ -5,12 +5,12 @@ aliases: [limbic system, hypothalamus, amygdala, hippocampus, 변연계]
 
 # Limbic System
 
-> The **limbic system** is a set of interconnected brain structures forming the emotional and memory center of the [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md). Key structures include the **hypothalamus, hippocampus, amygdala, cingulate gyrus**, and **fornix**.
+> The **limbic system** is a set of interconnected brain structures forming the emotional and memory center of the [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md). Key structures include the **hypothalamus, hippocampus, amygdala, cingulate gyrus**, and **fornix**.
 
 ## 🔗 Key Connections
-- [Brain](./anatomyLink/Nervous System/Central Nervous System/Brain.md) — medial temporal lobe + diencephalon
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — hypothalamus controls autonomic output via brainstem
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN I (olfactory) has direct limbic projections (emotion + smell)
+- [Brain](./anatomyLink/Nervous-System/Central-Nervous-System/Brain.md) — medial temporal lobe + diencephalon
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — hypothalamus controls autonomic output via brainstem
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN I (olfactory) has direct limbic projections (emotion + smell)
 
 ## 🗂️ Key Structures
 
@@ -104,4 +104,4 @@ Hippocampus → Fornix → Mammillary bodies → Thalamus (anterior) → Cingula
 - [Limbic System](https://neuroanatomy.ca/regions/limbicsystem.html) — neuroanatomy.ca
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → Central Nervous System → Limbic System
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → Central Nervous System → Limbic System

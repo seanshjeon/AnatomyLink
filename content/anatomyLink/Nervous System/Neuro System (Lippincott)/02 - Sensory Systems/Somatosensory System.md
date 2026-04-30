@@ -8,13 +8,13 @@ aliases: [Dorsal Column Medial Lemniscal Pathway, Spinothalamic Tract, Anterolat
 > The somatosensory system comprises **ascending neural pathways that convey tactile, proprioceptive, pain, and temperature information from the body and face to the cerebral cortex**, organized into two principal systems: the **dorsal column–medial lemniscal pathway** (fine touch, vibration, proprioception) and the **spinothalamic (anterolateral) tract** (pain, temperature, crude touch).
 
 ## 🔗 Key Connections
-- [Pain Pathways](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Pain Pathways.md) — spinothalamic processing, modulation
-- [Proprioception](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Proprioception.md) — dorsal column pathway, spinocerebellar tracts
-- [Spinal Cord Circuits](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Spinal Cord Circuits.md) — laminar organization, reflex arcs
-- [Thalamus](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Thalamus.md) — VPL relay nucleus for body sensation
-- [Cerebral Cortex](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — S1 postcentral gyrus, areas 3a/3b/1/2
-- [Sensory Receptors](./anatomyLink/Nervous System/Neuro System (Lippincott)/02 - Sensory Systems/Sensory Receptors.md) — peripheral receptor types and fiber classes
-- [Sensory Pathway](./anatomyLink/Nervous System/Pathways/Sensory Pathway.md) — overview of ascending pathways
+- [Pain Pathways](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Pain Pathways.md) — spinothalamic processing, modulation
+- [Proprioception](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Proprioception.md) — dorsal column pathway, spinocerebellar tracts
+- [Spinal Cord Circuits](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Spinal Cord Circuits.md) — laminar organization, reflex arcs
+- [Thalamus](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Thalamus.md) — VPL relay nucleus for body sensation
+- [Cerebral Cortex](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Cerebral Cortex.md) — S1 postcentral gyrus, areas 3a/3b/1/2
+- [Sensory Receptors](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/02 - Sensory Systems/Sensory Receptors.md) — peripheral receptor types and fiber classes
+- [Sensory Pathway](./anatomyLink/Nervous-System/Pathways/Sensory-Pathway.md) — overview of ascending pathways
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -161,4 +161,4 @@ Located in the **postcentral gyrus** (parietal lobe). Composed of four Brodmann 
 ---
 
 ## 📍 Location
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 02 - Sensory Systems → This Note

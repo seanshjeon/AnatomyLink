@@ -8,7 +8,7 @@ aliases: [hypophyseal fossa, pituitary fossa, turkish saddle]
 > The **sella turcica** ("Turkish saddle") is a saddle-shaped depression in the **sphenoid bone** forming the hypophyseal fossa, housing the **pituitary gland (hypophysis)**.
 
 ## 🔗 Key Connections
-- [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) — located in the sphenoid bone, middle cranial fossa
+- [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md) — located in the sphenoid bone, middle cranial fossa
 - Pituitary gland — housed within the sella (endocrine master gland)
 - Optic chiasm — lies just anterior to the sella
 - Cavernous sinus — borders the sella laterally (contains CN III, IV, V1, V2, VI + ICA)
@@ -29,4 +29,4 @@ aliases: [hypophyseal fossa, pituitary fossa, turkish saddle]
 - **Transsphenoidal surgery** — Pituitary tumors accessed surgically through the sphenoid sinus via the nose
 
 ## 📍 Location
-[Skeletal System](./anatomyLink/Skeletal System/Skeletal System.md) → [Skull](./anatomyLink/Skeletal System/Skull Region/Skull.md) → Sphenoid bone → Sella Turcica
+[Skeletal System](./anatomyLink/Skeletal-System/Skeletal-System.md) → [Skull](./anatomyLink/Skeletal-System/Skull-Region/Skull.md) → Sphenoid bone → Sella Turcica

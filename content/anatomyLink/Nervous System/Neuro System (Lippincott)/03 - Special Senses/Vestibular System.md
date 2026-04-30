@@ -7,11 +7,11 @@ aliases: [Balance, Vestibular Apparatus, VOR, Vertigo, Semicircular Canals, Otol
 > The vestibular system is the **primary sensory system for detecting head motion and orientation in space**, using mechanosensory hair cells in the semicircular canals (angular acceleration) and otolith organs (linear acceleration and gravity). It drives compensatory reflexes for gaze stabilization (VOR), postural control (VST), and contributes to the perception of spatial orientation and self-motion.
 
 ## 🔗 Key Connections
-- [Auditory System](./anatomyLink/Nervous System/Neuro System (Lippincott)/03 - Special Senses/Auditory System.md) — shares CN VIII and inner ear labyrinth
-- [Brainstem](./anatomyLink/Nervous System/Central Nervous System/Brainstem.md) — vestibular nuclei (medulla/pons junction), MLF
-- [Cerebellum](./anatomyLink/Nervous System/Central Nervous System/Cerebellum.md) — flocculonodular lobe; vestibulocerebellum
-- [Cranial Nerves](./anatomyLink/Nervous System/Peripheral Nervous System/Cranial Nerves.md) — CN VIII (vestibular division), CN III/IV/VI (eye movements via VOR)
-- [Oculomotor System (via Cranial Nerves)](./anatomyLink/Nervous System/Neuro System (Lippincott)/04 - Brain Regions/Oculomotor System (via Cranial Nerves).md) — VOR drives compensatory eye movements
+- [Auditory System](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/03 - Special Senses/Auditory System.md) — shares CN VIII and inner ear labyrinth
+- [Brainstem](./anatomyLink/Nervous-System/Central-Nervous-System/Brainstem.md) — vestibular nuclei (medulla/pons junction), MLF
+- [Cerebellum](./anatomyLink/Nervous-System/Central-Nervous-System/Cerebellum.md) — flocculonodular lobe; vestibulocerebellum
+- [Cranial Nerves](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Cranial-Nerves.md) — CN VIII (vestibular division), CN III/IV/VI (eye movements via VOR)
+- [Oculomotor System (via Cranial Nerves)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/04 - Brain Regions/Oculomotor System (via Cranial Nerves).md) — VOR drives compensatory eye movements
 
 ## 🗂️ Key Information
 | Property | Detail |
@@ -183,7 +183,7 @@ Paired semicircular canals work in opposition to maximize sensitivity and cancel
 
 ## 📍 Location
 
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous System/Neuro System (Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Vestibular System
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Neuro System (Lippincott)](./anatomyLink/Nervous-System/Neuro-System-(Lippincott)/00 - Neuroscience Index.md) → 03 - Special Senses → Vestibular System
 
 
 

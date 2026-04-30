@@ -8,13 +8,13 @@ aliases: [hepar, hepatic]
 > The liver is the **largest solid organ in the body** (~1.5 kg), occupying the right upper quadrant under the diaphragm. It performs over 500 functions including bile production, detoxification, protein synthesis, glycogen storage, and cholesterol metabolism.
 
 ## 🔗 Key Connections
-- Protected by: [Ribs](./anatomyLink/Skeletal System/Thorax/Ribs.md) (under right dome of diaphragm, ribs 5–10)
-- Relations: [Stomach](./anatomyLink/Digestive System/Upper GI/Stomach.md) (left lobe), [Gallbladder](./anatomyLink/Digestive System/Accessory Organs/Gallbladder.md) (inferior), [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) (posterior groove)
+- Protected by: [Ribs](./anatomyLink/Skeletal-System/Thorax/Ribs.md) (under right dome of diaphragm, ribs 5–10)
+- Relations: [Stomach](./anatomyLink/Digestive-System/Upper-GI/Stomach.md) (left lobe), [Gallbladder](./anatomyLink/Digestive-System/Accessory-Organs/Gallbladder.md) (inferior), [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md) (posterior groove)
 - Blood supply (dual):
-  - **Portal vein** (75%) — nutrient-rich from [Portal System](./anatomyLink/Circulatory System/Veins/Portal System.md)
-  - **Hepatic artery proper** (25%) — oxygenated from [Celiac Trunk](./anatomyLink/Circulatory System/Arteries/Celiac Trunk.md)
-- Drains into: hepatic veins → [Inferior Vena Cava](./anatomyLink/Circulatory System/Veins/Inferior Vena Cava.md) → [Heart](./anatomyLink/Circulatory System/Heart/Heart.md)
-- Bile flows: bile canaliculi → hepatic ducts → common hepatic duct → [Gallbladder](./anatomyLink/Digestive System/Accessory Organs/Gallbladder.md) (via cystic duct) or [Small Intestine](./anatomyLink/Digestive System/Upper GI/Small Intestine.md) (via common bile duct)
+  - **Portal vein** (75%) — nutrient-rich from [Portal System](./anatomyLink/Circulatory-System/Veins/Portal-System.md)
+  - **Hepatic artery proper** (25%) — oxygenated from [Celiac Trunk](./anatomyLink/Circulatory-System/Arteries/Celiac-Trunk.md)
+- Drains into: hepatic veins → [Inferior Vena Cava](./anatomyLink/Circulatory-System/Veins/Inferior-Vena-Cava.md) → [Heart](./anatomyLink/Circulatory-System/Heart/Heart.md)
+- Bile flows: bile canaliculi → hepatic ducts → common hepatic duct → [Gallbladder](./anatomyLink/Digestive-System/Accessory-Organs/Gallbladder.md) (via cystic duct) or [Small Intestine](./anatomyLink/Digestive-System/Upper-GI/Small-Intestine.md) (via common bile duct)
 
 ## 🗂️ Anatomical Lobes
 
@@ -53,7 +53,7 @@ Each lobule has portal triads at corners: **portal vein + hepatic artery + bile 
 
 
 ## 📍 Location in Digestive System
-[Digestive System](./anatomyLink/Digestive System/Digestive System.md) → Accessory Organs → Liver
+[Digestive System](./anatomyLink/Digestive-System/Digestive-System.md) → Accessory Organs → Liver
 
 ## 🌐 Interactive Modules (UBC Clinical Anatomy)
 - [Foregut](https://www.clinicalanatomy.ca/abdomen/Foregut/story.html) — UBC — Liver development, anatomy & portal circulation

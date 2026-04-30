@@ -5,24 +5,24 @@ aliases: [musculospiral nerve]
 
 # Radial Nerve
 
-> The radial nerve (C5–C8, T1) is the **largest branch of the [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md)**, arising from the posterior cord and **innervating all extensor muscles of the arm and forearm**; its hallmark injury is wrist drop.
+> The radial nerve (C5–C8, T1) is the **largest branch of the [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md)**, arising from the posterior cord and **innervating all extensor muscles of the arm and forearm**; its hallmark injury is wrist drop.
 
 ## 🔗 Origin
 - **Root values**: C5–C8 (T1)
-- **From plexus**: [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md)
+- **From plexus**: [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md)
 - **Cord**: Posterior cord (largest branch)
 
 ## 🗂️ Key Information
 | Property | Detail |
 |----------|--------|
 | Root Values | C5–C8, T1 |
-| Plexus Origin | [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) (posterior cord) |
-| Course | Descends posterior to axillary artery → enters spiral (radial) groove of [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) between medial and lateral heads of [Triceps Brachii](./anatomyLink/Muscular System/Upper Limb/Triceps Brachii.md) → pierces lateral intermuscular septum → enters cubital fossa → divides into deep (posterior interosseous nerve, PIN) and superficial branches at the level of the lateral epicondyle |
+| Plexus Origin | [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md) (posterior cord) |
+| Course | Descends posterior to axillary artery → enters spiral (radial) groove of [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) between medial and lateral heads of [Triceps Brachii](./anatomyLink/Muscular-System/Upper-Limb/Triceps-Brachii.md) → pierces lateral intermuscular septum → enters cubital fossa → divides into deep (posterior interosseous nerve, PIN) and superficial branches at the level of the lateral epicondyle |
 | Sensory Territory | Posterior arm, posterior forearm, anatomical snuffbox, dorsal hand (lateral 3.5 digits — proximal phalanges only) |
 | Terminal Branches | Deep branch (PIN) — motor to posterior forearm; Superficial branch — sensory to dorsal hand |
 
 ## 💪 Muscles Innervated
-- [Triceps Brachii](./anatomyLink/Muscular System/Upper Limb/Triceps Brachii.md) — elbow extension (innervated above the spiral groove; usually spared in mid-shaft fractures)
+- [Triceps Brachii](./anatomyLink/Muscular-System/Upper-Limb/Triceps-Brachii.md) — elbow extension (innervated above the spiral groove; usually spared in mid-shaft fractures)
 - Brachioradialis — elbow flexion in mid-prone position
 - Extensor carpi radialis longus (ECRL) — wrist extension + radial deviation
 - Extensor carpi radialis brevis (ECRB) — wrist extension
@@ -36,10 +36,10 @@ aliases: [musculospiral nerve]
 - Extensor indicis — index finger extension
 
 ## 🦴 Key Anatomical Relationships
-- Winds around the spiral groove (radial groove) on the posterior aspect of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md) between the medial and lateral heads of [Triceps Brachii](./anatomyLink/Muscular System/Upper Limb/Triceps Brachii.md)
+- Winds around the spiral groove (radial groove) on the posterior aspect of the [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md) between the medial and lateral heads of [Triceps Brachii](./anatomyLink/Muscular-System/Upper-Limb/Triceps-Brachii.md)
 - Pierces the lateral intermuscular septum ~10 cm above the lateral epicondyle
-- Enters the cubital fossa anterior to the lateral epicondyle of the [Humerus](./anatomyLink/Skeletal System/Upper Limb/Humerus.md)
-- Deep branch (PIN) winds around the neck of the [Radius](./anatomyLink/Skeletal System/Upper Limb/Radius.md) through the supinator muscle (arcade of Frohse)
+- Enters the cubital fossa anterior to the lateral epicondyle of the [Humerus](./anatomyLink/Skeletal-System/Upper-Limb/Humerus.md)
+- Deep branch (PIN) winds around the neck of the [Radius](./anatomyLink/Skeletal-System/Upper-Limb/Radius.md) through the supinator muscle (arcade of Frohse)
 - Superficial branch travels under brachioradialis along the lateral forearm
 
 ## 🏥 Clinical Significance
@@ -60,4 +60,4 @@ aliases: [musculospiral nerve]
 - 🎬 [UBC Neuroanatomy S3E2: The Upper Limb](https://www.youtube.com/watch?v=oSrC8Hg61TU) — UBC Medicine (11:04)
 
 ## 📍 Location in Nervous System
-[Nervous System](./anatomyLink/Nervous System/Nervous System.md) → [Brachial Plexus](./anatomyLink/Nervous System/Peripheral Nervous System/Brachial Plexus.md) → Posterior Cord → Radial Nerve
+[Nervous System](./anatomyLink/Nervous-System/Nervous-System.md) → [Brachial Plexus](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Brachial-Plexus.md) → Posterior Cord → Radial Nerve

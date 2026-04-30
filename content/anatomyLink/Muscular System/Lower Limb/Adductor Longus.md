@@ -9,8 +9,8 @@ aliases: [adductor longus muscle]
 
 ## 🔗 Key Connections
 - **Origin** — Pubic body (below pubic crest)
-- **Insertion** — Middle third of [Linea Aspera](./anatomyLink/Skeletal System/Lower Limb/Linea Aspera.md) of [Femur](./anatomyLink/Skeletal System/Lower Limb/Femur.md)
-- **Nerve** — [Obturator Nerve](./anatomyLink/Nervous System/Peripheral Nervous System/Obturator Nerve.md) (L2–L4)
+- **Insertion** — Middle third of [Linea Aspera](./anatomyLink/Skeletal-System/Lower-Limb/Linea-Aspera.md) of [Femur](./anatomyLink/Skeletal-System/Lower-Limb/Femur.md)
+- **Nerve** — [Obturator Nerve](./anatomyLink/Nervous-System/Peripheral-Nervous-System/Obturator-Nerve.md) (L2–L4)
 - **Action** — Hip adduction + slight flexion
 
 ## 🏥 Clinical Significance
@@ -18,4 +18,4 @@ aliases: [adductor longus muscle]
 - **Femoral triangle** — Forms medial border (lateral = sartorius; superior = inguinal ligament)
 
 ## 📍 Location
-[Muscular System](./anatomyLink/Muscular System/Muscular System.md) → Lower Limb → Adductor Longus
+[Muscular System](./anatomyLink/Muscular-System/Muscular-System.md) → Lower Limb → Adductor Longus
